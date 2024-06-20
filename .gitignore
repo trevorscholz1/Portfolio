@@ -1,6 +1,9 @@
 astronomy/AstroWorld/
-daily_lockz/
+daily_lockz/daily-lockz
+daily_lockz/models/data/
 daily_stockz/
 golf/
 spotify/
 extras/
+.DS_Store
+.env

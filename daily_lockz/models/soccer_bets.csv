@@ -1,0 +1,17 @@
+sport,type,name,point,price,home_team,away_team,time,probability,+ev%
+BRAZIL CAMPEONATO,Moneyline,Criciúma,0,4.5,Atlético Goianiense,Criciúma,06:00:00PM,24,2
+BRAZIL CAMPEONATO,Moneyline,Fortaleza,0,1.87,Fortaleza,Grêmio,07:00:00PM,67,13
+BRAZIL CAMPEONATO,Moneyline,Juventude,0,2.15,Juventude,Vasco da Gama,07:00:00PM,63,16
+BRAZIL CAMPEONATO,Moneyline,Cuiabá,0,6.8,São Paulo,Cuiabá,07:00:00PM,19,4
+USA MLS,Moneyline,CF Montréal,0,3.25,CF Montréal,New York Red Bulls,07:30:00PM,37,6
+USA MLS,Moneyline,Orlando City,0,3.3,Charlotte FC,Orlando City,07:30:00PM,37,7
+USA MLS,Moneyline,Atlanta United,0,3.3,D.C. United,Atlanta United,07:30:00PM,37,7
+USA MLS,Moneyline,Inter Miami,0,2.9,Inter Miami,Columbus Crew,07:30:00PM,37,3
+USA MLS,Moneyline,Nashville SC,0,3.2,Toronto FC,Nashville SC,07:30:00PM,37,6
+USA MLS,Moneyline,Philadelphia Union,0,4.15,FC Cincinnati,Philadelphia Union,07:45:00PM,37,13
+USA MLS,Moneyline,Austin FC,0,3.35,Austin FC,Los Angeles FC,08:30:00PM,37,7
+USA MLS,Moneyline,Minnesota United,0,3.3,FC Dallas,Minnesota United,08:30:00PM,37,7
+USA MLS,Moneyline,Seattle Sounders FC,0,3.3,Houston Dynamo,Seattle Sounders FC,08:30:00PM,37,7
+USA MLS,Moneyline,Colorado Rapids,0,3.25,St. Louis City,Colorado Rapids,08:30:00PM,37,6
+USA MLS,Moneyline,New York City FC,0,3.25,LA Galaxy,New York City FC,10:30:00PM,37,6
+USA MLS,Moneyline,Portland Timbers,0,3.1,San Jose Earthquakes,Portland Timbers,10:30:00PM,37,5

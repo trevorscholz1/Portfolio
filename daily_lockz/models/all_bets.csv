@@ -1,0 +1,35 @@
+type,name,point,price,home_team,away_team,time,probability,+ev%
+Moneyline,Baltimore Orioles,0.0,1.87,Baltimore Orioles,Atlanta Braves,01:05:00PM,61,8
+Spread,Baltimore Orioles,1.5,1.53,Baltimore Orioles,Atlanta Braves,01:05:00PM,80,15
+Total,Under,9.0,1.95,Baltimore Orioles,Atlanta Braves,01:05:00PM,70,19
+Total,Under,9.5,1.8,Detroit Tigers,Washington Nationals,01:10:00PM,81,26
+Moneyline,New York Yankees,0.0,1.61,Kansas City Royals,New York Yankees,02:10:00PM,73,11
+Spread,New York Yankees,-1.5,1.87,Kansas City Royals,New York Yankees,02:10:00PM,54,0
+Total,Under,10.5,1.91,Kansas City Royals,New York Yankees,02:10:00PM,75,22
+Moneyline,St. Louis Cardinals,0.0,1.91,St. Louis Cardinals,Pittsburgh Pirates,02:15:00PM,58,5
+Spread,St. Louis Cardinals,1.5,1.53,St. Louis Cardinals,Pittsburgh Pirates,02:15:00PM,77,11
+Total,Under,8.5,1.83,St. Louis Cardinals,Pittsburgh Pirates,02:15:00PM,56,1
+Moneyline,Cuiabá,0.0,6.05,Cruzeiro,Cuiabá,06:00:00PM,33,16
+Moneyline,Cuiabá,0.0,6.05,Cruzeiro,Cuiabá,06:00:00PM,33,16
+Moneyline,Cuiabá,0.0,6.05,Cruzeiro,Cuiabá,06:00:00PM,33,16
+Moneyline,Tampa Bay Rays,0.0,1.91,Tampa Bay Rays,Chicago Cubs,06:50:00PM,60,7
+Spread,Tampa Bay Rays,1.5,1.54,Tampa Bay Rays,Chicago Cubs,06:50:00PM,79,14
+Moneyline,Draw,0.0,4.1,Athletico Paranaense,Criciúma,07:00:00PM,28,4
+Moneyline,Internacional,0.0,2.75,Internacional,São Paulo,07:00:00PM,47,10
+Moneyline,Internacional,0.0,2.75,Internacional,São Paulo,07:00:00PM,47,10
+Moneyline,Philadelphia Phillies,0.0,1.83,Boston Red Sox,Philadelphia Phillies,07:10:00PM,59,5
+Total,Under,8.5,1.87,Boston Red Sox,Philadelphia Phillies,07:10:00PM,69,15
+Moneyline,Miami Marlins,0.0,2.6,New York Mets,Miami Marlins,07:10:00PM,41,2
+Spread,Miami Marlins,1.5,1.74,New York Mets,Miami Marlins,07:10:00PM,62,4
+Total,Under,8.5,1.91,New York Mets,Miami Marlins,07:10:00PM,59,7
+Total,Under,5.5,1.83,Edmonton Oilers,Florida Panthers,08:20:00PM,55,1
+Moneyline,Palmeiras,0.0,1.36,Palmeiras,Vasco da Gama,08:30:00PM,79,5
+Moneyline,Palmeiras,0.0,1.36,Palmeiras,Vasco da Gama,08:30:00PM,79,5
+Moneyline,Palmeiras,0.0,1.36,Palmeiras,Vasco da Gama,08:30:00PM,79,5
+Moneyline,Los Angeles Angels,0.0,2.5,Arizona Diamondbacks,Los Angeles Angels,09:40:00PM,49,9
+Spread,Los Angeles Angels,1.5,1.67,Arizona Diamondbacks,Los Angeles Angels,09:40:00PM,69,9
+Moneyline,Seattle Mariners,0.0,1.56,Seattle Mariners,Chicago White Sox,09:40:00PM,78,14
+Spread,Seattle Mariners,-1.5,2.25,Seattle Mariners,Chicago White Sox,09:40:00PM,60,15
+Total,Over,6.5,1.87,Seattle Mariners,Chicago White Sox,09:40:00PM,71,18
+Spread,Texas Rangers,1.5,1.74,Los Angeles Dodgers,Texas Rangers,10:10:00PM,58,0
+Total,Under,8.5,1.91,Los Angeles Dodgers,Texas Rangers,10:10:00PM,55,2
