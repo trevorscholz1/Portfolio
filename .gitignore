@@ -2,8 +2,8 @@ astronomy/AstroWorld/
 daily_lockz/daily-lockz
 daily_lockz/models/data/
 daily_stockz/
-golf/
-spotify/
-extras/
+golf/HoleInOne
+spotify/Clusterfy
+spotify/clusters.csv
 .DS_Store
 .env
