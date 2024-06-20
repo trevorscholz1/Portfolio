@@ -5,5 +5,7 @@ daily_stockz/
 golf/HoleInOne
 spotify/Clusterfy
 spotify/clusters.csv
+spotify/data/
+.cache
 .DS_Store
 .env

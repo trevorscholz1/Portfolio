@@ -28,7 +28,7 @@ class GolfScorecard
   end
   
   # Example usage
-  scorecard = GolfScorecard.new("John Doe", "Pebble Beach Golf Links")
+  scorecard = GolfScorecard.new("Trevor Scholz", "Whitney Farms Golf Club")
   
   # Input scores for each hole
   (1..18).each do |hole|
