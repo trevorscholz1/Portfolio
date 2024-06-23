@@ -11,7 +11,7 @@ I'm a student at the University of Maryland, majoring in Computer Science with a
 
 ## 💻 Projects
 I love applying my skills to real-world problems and personal interests. 
-Mose of my projects combine my personal interests with machine learning, these include:
+Most of my projects combine my personal interests with machine learning, these include:
 - Sports betting models for profitable predictions
 - Spotify music clustering by mood
 - Poker bot for making profitable decisions
@@ -26,11 +26,11 @@ Some of my favorite and most proficient languages and techonolgies are:
 - University of Maryland
   - Major: Computer Science - Data Science
   - Minor: Astronomy
-  - President's Scholarship
+  - President's Scholarship, University Honors Program
 
 ## 🏀 Beyond Tech
 When I'm not coding or working on projects, you can find me:
-- Playing sports (basketball, soccer, golf)
+- Playing/watching sports (my favorites are basketball, soccer, and golf)
 - Listening to music, or even producing some of my own in FL Studio
 - Stargazing, and keeping up with the latest news in Astronomy. I love viewing NASA's Astronomy Picture of the Day every day
 

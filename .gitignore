@@ -14,3 +14,6 @@ extras/lego/target
 node_modules/
 package-lock.json
 package.json
+all_sims.csv
+sims.csv
+soccer_sims.csv
