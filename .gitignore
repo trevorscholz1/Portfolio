@@ -6,6 +6,7 @@ golf/HoleInOne
 spotify/Clusterfy
 spotify/clusters.csv
 spotify/data/
+extras/lego/target
 .cache
 .DS_Store
 .env
