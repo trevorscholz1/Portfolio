@@ -16,6 +16,12 @@ Mose of my projects combine my personal interests with machine learning, these i
 - Spotify music clustering by mood
 - Poker bot for making profitable decisions
 
+## ⭐️ Favorite Skills
+Some of my favorite and most proficient languages and techonolgies are:
+- Python, Java, Swift, JavaScript, C
+- Tensorflow, Scikit-Learn, Pandas, RESTful APIs, BeautifulSoup
+- React, NodeJS, SwiftUI, Jupyter Notebook
+
 ## 🎓 Education
 - University of Maryland
   - Major: Computer Science - Data Science
