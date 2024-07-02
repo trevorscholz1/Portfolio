@@ -1,14 +1,76 @@
 import java.util.*;
 
 public class App {
-    private static int evaluateHand(List<String> hand) {
+
+    // Helper function to determine the rank value
+    private static int rankValue(char rank) {
         String ranks = "23456789TJQKA";
-        Map<Character, Integer> values = new HashMap<>();
-        for (int i = 0; i < ranks.length(); i++) {
-            values.put(ranks.charAt(i), i);
+        return ranks.indexOf(rank);
+    }
+
+    // Helper function to determine if the hand contains a straight
+    private static boolean isStraight(List<Integer> values) {
+        Collections.sort(values);
+        for (int i = 1; i < values.size(); i++) {
+            if (values.get(i) != values.get(i - 1) + 1) {
+                return false;
+            }
         }
-        hand.sort((a, b) -> values.get(b.charAt(0)) - values.get(a.charAt(0)));
-        return values.get(hand.get(0).charAt(0));
+        return true;
+    }
+
+    // Helper function to determine if the hand contains a flush
+    private static boolean isFlush(List<String> hand) {
+        char suit = hand.get(0).charAt(1);
+        for (String card : hand) {
+            if (card.charAt(1) != suit) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    // Helper function to determine the highest rank in the hand
+    private static int highestRank(List<Integer> values) {
+        Collections.sort(values);
+        return values.get(values.size() - 1);
+    }
+
+    // Function to evaluate the hand strength
+    private static int evaluateHand(List<String> hand) {
+        // Create a map to count the occurrences of each rank
+        Map<Character, Integer> rankCount = new HashMap<>();
+        List<Integer> values = new ArrayList<>();
+        for (String card : hand) {
+            char rank = card.charAt(0);
+            rankCount.put(rank, rankCount.getOrDefault(rank, 0) + 1);
+            values.add(rankValue(rank));
+        }
+
+        boolean flush = isFlush(hand);
+        boolean straight = isStraight(values);
+
+        // Determine hand strength based on occurrences of ranks
+        int pairs = 0;
+        int threeOfAKind = 0;
+        int fourOfAKind = 0;
+
+        for (int count : rankCount.values()) {
+            if (count == 2) pairs++;
+            if (count == 3) threeOfAKind++;
+            if (count == 4) fourOfAKind++;
+        }
+
+        if (straight && flush && highestRank(values) == rankValue('A')) return 9; // Royal flush
+        if (straight && flush) return 8; // Straight flush
+        if (fourOfAKind > 0) return 7; // Four of a kind
+        if (threeOfAKind > 0 && pairs > 0) return 6; // Full house
+        if (flush) return 5; // Flush
+        if (straight) return 4; // Straight
+        if (threeOfAKind > 0) return 3; // Three of a kind
+        if (pairs > 1) return 2; // Two pair
+        if (pairs > 0) return 1; // One pair
+        return 0; // High card
     }
 
     private static double monteCarloSimulation(List<String> holeCards, List<String> communityCards, int numSimulations) {
@@ -63,13 +125,17 @@ public class App {
     }
 
     public static void main(String[] args) {
-        List<String> holeCards = Arrays.asList("AH", "KS");
-        List<String> communityCards = Arrays.asList("2D", "3C", "7H");
+        List<String> holeCards = Arrays.asList("AH", "KH");
+        List<String> communityCards = Arrays.asList("2H", "3H", "9H");
         int currentBet = 50;
         int potSize = 150;
         int numPlayers = 3;
 
-        String decision = makeDecision(holeCards, communityCards, currentBet, potSize, numPlayers);
-        System.out.println("Decision: " + decision);
+        try {
+            String decision = makeDecision(holeCards, communityCards, currentBet, potSize, numPlayers);
+            System.out.println("Decision: " + decision);
+        } catch (IllegalArgumentException e) {
+            System.out.println(e.getMessage());
+        }
     }
 }
