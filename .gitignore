@@ -1,10 +1,8 @@
 astronomy/AstroWorld/
 daily_lockz/daily-lockz
 daily_lockz/models/data/
-daily_stockz/
 golf/HoleInOne
-spotify/Clusterfy
-spotify/clusters.csv
+spotify/ClusterJam
 spotify/data/
 extras/lego/target
 .cache
