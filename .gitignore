@@ -1,10 +1,14 @@
 astronomy/AstroWorld/
 daily_lockz/daily-lockz
+daily_lockz/DailyLockz
 daily_lockz/models/data/
+daily_stockz/daily-stockz
+daily_stockz/DailyStockz
 golf/HoleInOne
 spotify/ClusterJam
 spotify/data/
-extras/lego/target
+extras/lego/lego/target
+extras/lego/brickswipe
 .cache
 .DS_Store
 .env
