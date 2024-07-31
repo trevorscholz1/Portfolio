@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 try:
-    os.remove('./trevorscholz1/daily_lockz/daily-lockz/public/all_sims.csv')
+    os.remove('./trevorAppsWebsites/daily-lockz/public/all_sims.csv')
 except FileNotFoundError:
     pass
 
@@ -31,5 +31,5 @@ all_sims.loc[dl_indices, 'is_dl'] = True
 
 all_sims = all_sims.drop(columns=['datetime'])
 
-all_sims.to_csv('./trevorscholz1/daily_lockz/daily-lockz/public/all_sims.csv', index=False, header=True)
+all_sims.to_csv('./trevorAppsWebsites/daily-lockz/public/all_sims.csv', index=False, header=True)
 print('DONE')
