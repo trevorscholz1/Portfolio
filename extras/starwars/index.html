@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random YouTube Video</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .error {
+            color: red;
+            margin: 10px 0;
+        }
+        .form-group {
+            margin: 20px 0;
+        }
+        input[type="text"] {
+            padding: 8px;
+            width: 300px;
+            font-size: 16px;
+        }
+        button {
+            padding: 8px 16px;
+            font-size: 16px;
+            background-color: #ff0000;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #cc0000;
+        }
+        .video-container {
+            margin-top: 20px;
+        }
+        .video-title {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        .video-link {
+            display: inline-block;
+            margin-top: 10px;
+            color: #ff0000;
+            text-decoration: none;
+        }
+        .video-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Random YouTube Video Generator</h1>
+    
+    {{if .Error}}
+        <div class="error">{{.Error}}</div>
+    {{end}}
+
+    <form action="/random" method="post">
+        <div class="form-group">
+            <input type="text" name="channel_id" placeholder="Enter YouTube Channel ID" value="{{.ChannelID}}" required>
+        </div>
+        <button type="submit">Get Random Video</button>
+    </form>
+
+    {{if .Title}}
+        <div class="video-container">
+            <div class="video-title">{{.Title}}</div>
+            <iframe id="ytplayer" type="text/html" width="640" height="360"
+                src="https://www.youtube.com/embed/{{.VideoID}}?autoplay=1"
+                frameborder="0" allowfullscreen></iframe>
+        </div>
+    {{end}}
+</body>
+</html>

@@ -25,7 +25,7 @@ async fn main() -> Result<(), Error> {
     dotenv().ok();
 
     let api_key = env::var("API_KEY").expect("API_KEY must be set");
-    let url = format!("https://rebrickable.com/api/v3/lego/sets/?page_size=100&key={}", api_key);
+    let url = format!("https://rebrickable.com/api/v3/lego/sets/?page_size=1000&key={}", api_key);
 
     let response = reqwest::get(&url).await?;
     let sets_response: LegoSetsResponse = response.json().await?;

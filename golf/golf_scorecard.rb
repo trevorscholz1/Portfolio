@@ -5,7 +5,7 @@ class GolfScorecard
     def initialize(player_name, course_name)
       @player_name = player_name
       @course_name = course_name
-      @holes = Array.new(18, 0) # Initialize 18 holes with scores of 0
+      @holes = Array.new(18, 0)
     end
   
     def input_score(hole_number, score)
@@ -26,11 +26,9 @@ class GolfScorecard
       puts "Total Score: #{total_score}"
     end
   end
-  
-  # Example usage
+
   scorecard = GolfScorecard.new("Trevor Scholz", "Whitney Farms Golf Club")
-  
-  # Input scores for each hole
+
   (1..18).each do |hole|
     print "Enter score for hole #{hole}: "
     score = gets.chomp.to_i
