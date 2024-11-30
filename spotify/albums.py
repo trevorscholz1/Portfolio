@@ -13,11 +13,11 @@ from spotipy.oauth2 import SpotifyClientCredentials
 script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
 
-try:
-    os.remove('./data/charts/listeners.html')
-    print('Deleted current listeners')
-except:
-    pass
+# try:
+#     os.remove('./data/charts/listeners.html')
+#     print('Deleted current listeners')
+# except:
+#     pass
 
 DATA_DIR = 'data'
 CHARTS = os.path.join(DATA_DIR, 'charts')
@@ -105,8 +105,8 @@ def get_album_tracks(album_id):
     return album_name, album_release_date, album_image_url, track_names, track_urls, track_uris, features
 
 #############################
-artist_ids = artists[0:50]
-print('0-50')
+artist_ids = artists[150:200]
+print('150-200')
 #############################
 
 for i, artist_id in enumerate(artist_ids):

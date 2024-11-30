@@ -13,6 +13,10 @@ try:
     os.remove('./trevorAppsWebsites/daily-lockz/public/all_sims.csv')
 except FileNotFoundError:
     pass
+try:
+    os.remove('./trevorAppsWebsites/DailyLockz/all_sims.csv')
+except FileNotFoundError:
+    pass
 
 sims = pd.read_csv('./trevorscholz1/daily_lockz/models/sims.csv')
 soccer_sims = pd.read_csv('./trevorscholz1/daily_lockz/models/soccer_sims.csv')
@@ -48,4 +52,5 @@ all_sims = all_sims.drop(columns=['datetime'])
 
 print(f"GAMES AVAILABLE: {len(all_sims[all_sims['is_dl'] == True])}")
 all_sims.to_csv('./trevorAppsWebsites/daily-lockz/public/all_sims.csv', index=False, header=True)
+all_sims.to_csv('./trevorAppsWebsites/DailyLockz/all_sims.csv', index=False, header=True)
 print('DONE')
