@@ -9,7 +9,6 @@ team_codes = {
     'Duke Blue':'Duke',
     'Kent State Golden':'Kent State',
     'Penn State Nittany':'Penn State',
-    'UMass':'Massachusetts',
     'Miami':'Miami (FL)',
     'North Dakota Fighting':'North Dakota',
     'California Golden':'California',
@@ -137,6 +136,7 @@ team_codes = {
     'Oregon St':'Oregon State',
     'Murray St':'Murray State',
     'East Tennessee St':'ETSU',
+    'Arizona State Sun':'Arizona State',
     
 }
 
@@ -277,7 +277,6 @@ soccer_codes = {
     'Chesterfield FC':'Chesterfield',
     'Harrogate Town':'Harrogate',
     'Wrexham AFC':'Wrexham',
-    'Nacional de Montevideo':'Nacional26ebba72',
     'Flamengo-RJ':'Flamengo',
     'Club Bolívar':'Bolívar',
     'Athletic Bilbao':'Athletic Club',
@@ -291,7 +290,6 @@ soccer_codes = {
     'Leuven':'OH Leuven',
     'Cercle Brugge KSV':'Cercle Brugge',
     'KV Kortrijk':'Kortrijk',
-    'Everton de Viña del Mar':'Everton81a74688',
     'Union La Calera':'La Calera',
     'Silkeborg IF':'Silkeborg',
     'Randers FC':'Randers',
@@ -300,7 +298,6 @@ soccer_codes = {
     'AGF Aarhus':'AGF',
     'RC Lens':'Lens',
     'Aris Thessaloniki':'Aris',
-    'Universidad Católica (CHI)':'Universidad Católica3e3fbf36',
     'SC Bastia':'Bastia',
     'FC Martigues':'Martigues',
     'AS Roma':'Roma',
@@ -454,6 +451,10 @@ soccer_codes = {
     'Brackley Town FC':'Brackley Town',
     'Walsall Wood FC':'Walsall',
     'Notts County FC':'Notts County',
-    'Dagenham and Redbridge FC':'Dagenham and Redbridge',
+    'Dagenham and Redbridge FC':'Dagenham & Redbridge',
+    'Kettering Town FC':'Kettering Town',
+    'Tamworth FC':'Tamworth',
+    'Harborough Town FC':'Harborough',
+    'Solihull Moors FC':'Solihull Moors',
     
 }

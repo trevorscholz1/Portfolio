@@ -53,4 +53,29 @@ all_sims = all_sims.drop(columns=['datetime'])
 print(f"GAMES AVAILABLE: {len(all_sims[all_sims['is_dl'] == True])}")
 all_sims.to_csv('./trevorAppsWebsites/daily-lockz/public/all_sims.csv', index=False, header=True)
 all_sims.to_csv('./trevorAppsWebsites/DailyLockz/all_sims.csv', index=False, header=True)
+
+os.chdir('trevorAppsWebsites/daily-lockz')
+os.system('git add .')
+os.system("git commit -m 'daily'")
+os.system('git push')
+os.chdir('../../trevorscholz1/daily_lockz/models')
+os.system('node uploadBlogPosts.js')
 print('DONE')
+
+bets = all_sims[all_sims['is_dl'] == True].copy()
+bets['spread'] = all_sims['h_score'] - all_sims['a_score']
+bets['total_score'] = all_sims['h_score'] + all_sims['a_score']
+print(bets[['sport','home_team','away_team','h_score','a_score','implied_odds','spread','total_score','time']])
+
+bets.sort_values(by='sport', inplace=True)
+for index, row in bets.iterrows():
+    if row['sport'] == 'NBA' or row['sport'] == 'NCAAB' or row['sport'] == 'NCAAF' or row['sport'] == 'NFL':
+        if row['h_score'] >= row['a_score']:
+            print(f"{row['home_team']} by {abs(row['spread'])} points ||| {row['total_score']}")
+        else:
+            print(f"{row['away_team']} by {abs(row['spread'])} points ||| {row['total_score']}")
+    else:
+        if row['h_score'] >= row['a_score']:
+            print(f"{row['home_team']} at {row['implied_odds']} ||| {row['total_score']}")
+        else:
+            print(f"{row['away_team']} at {row['implied_odds']} ||| {row['total_score']}")
