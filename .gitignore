@@ -1,6 +1,7 @@
 daily_lockz/models/data/
 spotify/data/
 extras/lego/target
+daily_lockz/models/node_modules/
 .cache
 .DS_Store
 .env
