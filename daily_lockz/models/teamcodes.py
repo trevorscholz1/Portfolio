@@ -66,7 +66,6 @@ team_codes = {
     'Oklahoma St':'Oklahoma State',
     'Colorado St':'Colorado State',
     'Canisius Golden':'Canisius',
-    'Sam Houston St':'Sam Houston',
     'San José St':'San Jose State',
     'UC Riverside':'UC-Riverside',
     'Washington St':'Washington State',

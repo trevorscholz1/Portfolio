@@ -79,3 +79,4 @@ for index, row in bets.iterrows():
             print(f"{row['home_team']} at {row['implied_odds']} ||| {row['total_score']}")
         else:
             print(f"{row['away_team']} at {row['implied_odds']} ||| {row['total_score']}")
+    print('--------------------------------------------------')
