@@ -40,7 +40,7 @@ async def scrape_charts():
     url = "https://kworb.net/spotify/listeners.html"
     save_path = os.path.join(CHARTS, url.split('/')[-1])
     if not os.path.exists(save_path):
-        html = await get_html(url, '.addpos')
+        html = await get_html(url, '.container')
         with open(save_path, 'w+') as f:
             f.write(html)
 
@@ -60,4 +60,6 @@ if __name__ == "__main__":
 
 filepath = os.path.join(CHARTS, 'listeners.html')
 artists = scrape_artist(filepath)
+artists = pd.DataFrame(artists)
+artists.to_csv
 print(artists)
