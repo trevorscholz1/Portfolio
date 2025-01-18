@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"html/template"
 	"log"
-	"math/rand/v2"
+	"math/rand"
 	"net/http"
 	"os"
 
@@ -23,6 +23,11 @@ type VideoData struct {
 	VideoID   string
 	Error     string
 	ChannelID string
+}
+
+type SearchResult struct {
+	ChannelTitle string
+	ChannelID    string
 }
 
 var (
@@ -44,12 +49,13 @@ func main() {
 		log.Fatal(err)
 	}
 
-	templates, err = template.ParseFiles("index.html")
+	templates, err = template.ParseFiles("index.html", "results.html")
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	http.HandleFunc("/", handleHome)
+	http.HandleFunc("/search", handleSearch)
 	http.HandleFunc("/random", handleRandomVideo)
 
 	log.Println("Server starting on http://localhost:8080")
@@ -59,37 +65,50 @@ func main() {
 }
 
 func handleHome(w http.ResponseWriter, r *http.Request) {
-	data := VideoData{}
-	templates.Execute(w, data)
+	templates.ExecuteTemplate(w, "index.html", nil)
 }
 
-func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
+func handleSearch(w http.ResponseWriter, r *http.Request) {
 	if r.Method != http.MethodPost {
 		http.Redirect(w, r, "/", http.StatusSeeOther)
 		return
 	}
 
-	channelID := r.FormValue("channel_id")
+	query := r.FormValue("query")
+	if query == "" {
+		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Please enter a search query"})
+		return
+	}
+
+	results, err := searchChannels(youtubeService, query)
+	if err != nil {
+		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error searching for channels: " + err.Error()})
+		return
+	}
+
+	templates.ExecuteTemplate(w, "results.html", results)
+}
+
+func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
+	channelID := r.URL.Query().Get("channel_id")
 	if channelID == "" {
-		data := VideoData{Error: "Please enter a channel ID"}
-		templates.Execute(w, data)
+		http.Redirect(w, r, "/", http.StatusSeeOther)
 		return
 	}
 
 	videos, err := getAllVideos(youtubeService, channelID)
 	if err != nil {
-		data := VideoData{Error: "Error fetching videos: " + err.Error(), ChannelID: channelID}
-		templates.Execute(w, data)
+		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching videos: " + err.Error()})
 		return
 	}
 
 	if len(videos) == 0 {
-		data := VideoData{Error: "No videos found for this channel", ChannelID: channelID}
-		templates.Execute(w, data)
+		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "No videos found for this channel"})
 		return
 	}
 
-	index := rand.N(len(videos))
+	// Select a random video
+	index := rand.Intn(len(videos))
 	video := videos[index]
 
 	data := VideoData{
@@ -98,23 +117,25 @@ func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
 		ChannelID: channelID,
 	}
 
-	if err := templates.Execute(w, data); err != nil {
-		http.Error(w, "Error rendering template: "+err.Error(), http.StatusInternalServerError)
-		return
-	}
+	templates.ExecuteTemplate(w, "index.html", data)
 }
 
-func loadConfig(filename string) (*Config, error) {
-	data, err := os.ReadFile(filename)
+func searchChannels(service *youtube.Service, query string) ([]SearchResult, error) {
+	call := service.Search.List([]string{"snippet"}).Q(query).Type("channel").MaxResults(10)
+	response, err := call.Do()
 	if err != nil {
 		return nil, err
 	}
-	var config Config
-	err = json.Unmarshal(data, &config)
-	if err != nil {
-		return nil, err
+
+	var results []SearchResult
+	for _, item := range response.Items {
+		results = append(results, SearchResult{
+			ChannelTitle: item.Snippet.ChannelTitle,
+			ChannelID:    item.Snippet.ChannelId,
+		})
 	}
-	return &config, nil
+
+	return results, nil
 }
 
 func getAllVideos(service *youtube.Service, channelID string) ([]*youtube.PlaylistItem, error) {
@@ -141,4 +162,17 @@ func getAllVideos(service *youtube.Service, channelID string) ([]*youtube.Playli
 		playlistItemsRequest = playlistItemsRequest.PageToken(playlistItemsResponse.NextPageToken)
 	}
 	return videos, nil
+}
+
+func loadConfig(filename string) (*Config, error) {
+	data, err := os.ReadFile(filename)
+	if err != nil {
+		return nil, err
+	}
+	var config Config
+	err = json.Unmarshal(data, &config)
+	if err != nil {
+		return nil, err
+	}
+	return &config, nil
 }

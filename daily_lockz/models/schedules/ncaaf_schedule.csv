@@ -1,940 +1,799 @@
-,Rk,Wk,Date,Time,Day,Winner,Pts,Unnamed: 7,Loser,Pts.1,Notes
-0,1,1,"Aug 24, 2024",12:00 PM,Sat,Georgia Tech,24,N,(10) Florida State,21,
-1,2,1,"Aug 24, 2024",4:00 PM,Sat,Montana State,35,@,New Mexico,31,
-2,3,1,"Aug 24, 2024",8:00 PM,Sat,Southern Methodist,29,@,Nevada,24,
-3,4,1,"Aug 25, 2024",12:00 AM,Sun,Hawaii,35,,Delaware State,14,
-4,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-5,5,2,"Aug 29, 2024",8:00 PM,Thu,Alabama-Birmingham,41,,Alcorn State,3,
-6,6,2,"Aug 29, 2024",7:30 PM,Thu,Arkansas,70,,Arkansas-Pine Bluff,0,
-7,7,2,"Aug 29, 2024",7:00 PM,Thu,Bowling Green,41,,Fordham,17,
-8,8,2,"Aug 29, 2024",7:00 PM,Thu,Buffalo,30,,Lafayette,13,
-9,9,2,"Aug 29, 2024",7:00 PM,Thu,Central Florida,57,,New Hampshire,3,
-10,10,2,"Aug 29, 2024",7:00 PM,Thu,Central Michigan,66,,Central Connecticut State,10,
-11,11,2,"Aug 29, 2024",8:00 PM,Thu,Coastal Carolina,55,@,Jacksonville State,27,
-12,12,2,"Aug 29, 2024",8:00 PM,Thu,Colorado,31,,North Dakota State,26,
-13,13,2,"Aug 29, 2024",9:00 PM,Thu,Illinois,45,,Eastern Illinois,0,
-14,14,2,"Aug 29, 2024",8:00 PM,Thu,(22) Kansas,48,,Lindenwood,3,
-15,15,2,"Aug 29, 2024",7:00 PM,Thu,Louisiana-Monroe,30,,Jackson State,14,
-16,16,2,"Aug 29, 2024",8:00 PM,Thu,(11) Missouri,51,,Murray State,0,
-17,17,2,"Aug 29, 2024",9:00 PM,Thu,North Carolina,19,@,Minnesota,17,
-18,18,2,"Aug 29, 2024",7:00 PM,Thu,(24) North Carolina State,38,,Western Carolina,21,
-19,19,2,"Aug 29, 2024",6:00 PM,Thu,Rutgers,44,,Howard,7,
-20,20,2,"Aug 29, 2024",10:00 PM,Thu,San Jose State,42,,Sacramento State,24,
-21,21,2,"Aug 29, 2024",7:30 PM,Thu,Toledo,49,,Duquesne,10,
-22,22,2,"Aug 29, 2024",8:00 PM,Thu,Tulane,52,,Southeastern Louisiana,0,
-23,23,2,"Aug 29, 2024",8:00 PM,Thu,Tulsa,62,,Northwestern State,28,
-24,24,2,"Aug 29, 2024",9:00 PM,Thu,(12) Utah,49,,Southern Utah,0,
-25,25,2,"Aug 29, 2024",7:00 PM,Thu,Wake Forest,45,,North Carolina A&T,13,
-26,26,2,"Aug 30, 2024",6:00 PM,Fri,Army,42,,Lehigh,7,
-27,27,2,"Aug 30, 2024",7:30 PM,Fri,Duke,26,,Elon,3,
-28,28,2,"Aug 30, 2024",7:00 PM,Fri,Michigan State,16,,Florida Atlantic,10,
-29,29,2,"Aug 30, 2024",7:00 PM,Fri,(16) Oklahoma,51,,Temple,3,
-30,30,2,"Aug 30, 2024",10:30 PM,Fri,Texas Christian,34,@,Stanford,27,
-31,31,2,"Aug 30, 2024",9:00 PM,Fri,Wisconsin,28,,Western Michigan,14,
-32,32,2,"Aug 31, 2024",3:30 PM,Sat,Air Force,21,,Merrimack,6,
-33,33,2,"Aug 31, 2024",7:00 PM,Sat,(5) Alabama,63,,Western Kentucky,0,
-34,34,2,"Aug 31, 2024",3:30 PM,Sat,Appalachian State,38,,East Tennessee State,10,
-35,35,2,"Aug 31, 2024",10:30 PM,Sat,(21) Arizona,61,,New Mexico,39,
-36,36,2,"Aug 31, 2024",10:30 PM,Sat,Arizona State,48,,Wyoming,7,
-37,37,2,"Aug 31, 2024",7:00 PM,Sat,Arkansas State,34,,Central Arkansas,31,
-38,38,2,"Aug 31, 2024",7:30 PM,Sat,Auburn,73,,Alabama A&M,3,
-39,39,2,"Aug 31, 2024",7:00 PM,Sat,Baylor,45,,Tarleton State,3,
-40,40,2,"Aug 31, 2024",4:00 PM,Sat,Boise State,56,@,Georgia Southern,45,
-41,41,2,"Aug 31, 2024",8:00 PM,Sat,Brigham Young,41,,Southern Illinois,13,
-42,42,2,"Aug 31, 2024",5:00 PM,Sat,California,31,,California-Davis,13,
-43,43,2,"Aug 31, 2024",2:30 PM,Sat,Cincinnati,38,,Towson,20,
-44,44,2,"Aug 31, 2024",6:00 PM,Sat,East Carolina,42,,Norfolk State,3,
-45,45,2,"Aug 31, 2024",3:30 PM,Sat,Eastern Michigan,28,@,Massachusetts,14,
-46,46,2,"Aug 31, 2024",12:00 PM,Sat,(1) Georgia,34,N,(14) Clemson,3,
-47,47,2,"Aug 31, 2024",8:00 PM,Sat,Georgia Tech,35,,Georgia State,12,
-48,48,2,"Aug 31, 2024",3:30 PM,Sat,Indiana,31,,Florida International,7,
-49,49,2,"Aug 31, 2024",12:00 PM,Sat,(25) Iowa,40,,Illinois State,0,
-50,50,2,"Aug 31, 2024",3:30 PM,Sat,Iowa State,21,,North Dakota,3,
-51,51,2,"Aug 31, 2024",8:00 PM,Sat,James Madison,30,@,Charlotte,7,
-52,52,2,"Aug 31, 2024",7:00 PM,Sat,(18) Kansas State,41,,Tennessee-Martin,6,
-53,53,2,"Aug 31, 2024",7:45 PM,Sat,Kentucky,31,,Southern Mississippi,0,
-54,54,2,"Aug 31, 2024",6:00 PM,Sat,Liberty,41,,Campbell,24,
-55,55,2,"Aug 31, 2024",8:00 PM,Sat,Louisiana,40,,Grambling State,10,
-56,56,2,"Aug 31, 2024",8:00 PM,Sat,Louisiana Tech,25,,Nicholls State,17,
-57,57,2,"Aug 31, 2024",12:00 PM,Sat,Louisville,62,,Austin Peay,0,
-58,58,2,"Aug 31, 2024",5:00 PM,Sat,Marshall,45,,Stony Brook,3,
-59,59,2,"Aug 31, 2024",12:00 PM,Sat,Maryland,50,,Connecticut,7,
-60,60,2,"Aug 31, 2024",7:00 PM,Sat,Memphis,40,,North Alabama,0,
-61,61,2,"Aug 31, 2024",3:30 PM,Sat,(19) Miami (FL),41,@,Florida,17,
-62,62,2,"Aug 31, 2024",7:30 PM,Sat,(9) Michigan,30,,Fresno State,10,
-63,63,2,"Aug 31, 2024",7:00 PM,Sat,Middle Tennessee State,32,,Tennessee Tech,25,
-64,64,2,"Aug 31, 2024",7:00 PM,Sat,(6) Mississippi,76,,Furman,0,
-65,65,2,"Aug 31, 2024",6:00 PM,Sat,Mississippi State,56,,Eastern Kentucky,7,
-66,66,2,"Aug 31, 2024",12:00 PM,Sat,Navy,49,,Bucknell,21,
-67,67,2,"Aug 31, 2024",3:30 PM,Sat,Nebraska,40,,Texas-El Paso,7,
-68,68,2,"Aug 31, 2024",7:00 PM,Sat,Nevada,28,@,Troy,26,
-69,69,2,"Aug 31, 2024",7:00 PM,Sat,Nevada-Las Vegas,27,@,Houston,7,
-70,70,2,"Aug 31, 2024",9:00 PM,Sat,New Mexico State,23,,Southeast Missouri State,16,
-71,71,2,"Aug 31, 2024",5:00 PM,Sat,North Texas,52,@,South Alabama,38,
-72,72,2,"Aug 31, 2024",3:30 PM,Sat,Northern Illinois,54,,Western Illinois,15,
-73,73,2,"Aug 31, 2024",3:30 PM,Sat,Northwestern,13,,Miami (OH),6,
-74,74,2,"Aug 31, 2024",7:30 PM,Sat,(7) Notre Dame,23,@,(20) Texas A&M,13,
-75,75,2,"Aug 31, 2024",3:30 PM,Sat,(2) Ohio State,52,,Akron,6,
-76,76,2,"Aug 31, 2024",2:00 PM,Sat,(17) Oklahoma State,44,,South Dakota State,20,
-77,77,2,"Aug 31, 2024",7:30 PM,Sat,(3) Oregon,24,,Idaho,14,
-78,78,2,"Aug 31, 2024",6:30 PM,Sat,Oregon State,38,,Idaho State,15,
-79,79,2,"Aug 31, 2024",12:00 PM,Sat,(8) Penn State,34,@,West Virginia,12,
-80,80,2,"Aug 31, 2024",12:00 PM,Sat,Pittsburgh,55,,Kent State,24,
-81,81,2,"Aug 31, 2024",12:00 PM,Sat,Purdue,49,,Indiana State,0,
-82,82,2,"Aug 31, 2024",7:00 PM,Sat,Sam Houston,34,@,Rice,14,
-83,83,2,"Aug 31, 2024",8:00 PM,Sat,San Diego State,45,,Texas A&M-Commerce,14,
-84,84,2,"Aug 31, 2024",4:15 PM,Sat,South Carolina,23,,Old Dominion,19,
-85,85,2,"Aug 31, 2024",7:00 PM,Sat,South Florida,48,,Bethune-Cookman,3,
-86,86,2,"Aug 31, 2024",8:00 PM,Sat,Southern Methodist,59,,Houston Baptist,7,
-87,87,2,"Aug 31, 2024",3:30 PM,Sat,Syracuse,38,,Ohio,22,
-88,88,2,"Aug 31, 2024",12:45 PM,Sat,(15) Tennessee,69,,Chattanooga,3,
-89,89,2,"Aug 31, 2024",3:30 PM,Sat,(4) Texas,52,,Colorado State,0,
-90,90,2,"Aug 31, 2024",8:00 PM,Sat,Texas State,34,,Lamar,27,
-91,91,2,"Aug 31, 2024",7:30 PM,Sat,Texas Tech,52,,Abilene Christian,51,
-92,92,2,"Aug 31, 2024",3:30 PM,Sat,Texas-San Antonio,28,,Kennesaw State,16,
-93,93,2,"Aug 31, 2024",7:30 PM,Sat,UCLA,16,@,Hawaii,13,
-94,94,2,"Aug 31, 2024",8:00 PM,Sat,Utah State,36,,Robert Morris,14,
-95,95,2,"Aug 31, 2024",12:00 PM,Sat,Vanderbilt,34,,Virginia Tech,27,
-96,96,2,"Aug 31, 2024",6:00 PM,Sat,Virginia,34,,Richmond,13,
-97,97,2,"Aug 31, 2024",11:00 PM,Sat,Washington,35,,Weber State,3,
-98,98,2,"Aug 31, 2024",3:00 PM,Sat,Washington State,70,,Portland State,30,
-99,99,2,"Sep 1, 2024",7:30 PM,Sun,(23) Southern California,27,N,(13) Louisiana State,20,
-100,100,2,"Sep 2, 2024",7:30 PM,Mon,Boston College,28,@,(10) Florida State,13,
-101,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-102,101,3,"Sep 6, 2024",7:00 PM,Fri,Brigham Young,18,@,Southern Methodist,15,
-103,102,3,"Sep 6, 2024",9:00 PM,Fri,Duke,26,@,Northwestern,20,
-104,103,3,"Sep 6, 2024",7:00 PM,Fri,Indiana,77,,Western Illinois,3,
-105,104,3,"Sep 7, 2024",7:00 PM,Sat,(4) Alabama,42,,South Florida,16,
-106,105,3,"Sep 7, 2024",10:00 PM,Sat,(20) Arizona,22,,Northern Arizona,10,
-107,106,3,"Sep 7, 2024",10:30 PM,Sat,Arizona State,30,,Mississippi State,23,
-108,107,3,"Sep 7, 2024",7:00 PM,Sat,Arkansas State,28,,Tulsa,24,
-109,108,3,"Sep 7, 2024",12:00 PM,Sat,Army,24,@,Florida Atlantic,7,
-110,109,3,"Sep 7, 2024",2:00 PM,Sat,Ball State,42,,Missouri State,34,
-111,110,3,"Sep 7, 2024",3:30 PM,Sat,Boston College,56,,Duquesne,0,
-112,111,3,"Sep 7, 2024",3:30 PM,Sat,California,21,@,Auburn,14,
-113,112,3,"Sep 7, 2024",6:30 PM,Sat,Central Florida,45,,Sam Houston,14,
-114,113,3,"Sep 7, 2024",8:00 PM,Sat,(25) Clemson,66,,Appalachian State,20,
-115,114,3,"Sep 7, 2024",7:00 PM,Sat,Coastal Carolina,40,,William & Mary,21,
-116,115,3,"Sep 7, 2024",7:00 PM,Sat,Colorado State,38,,Northern Colorado,17,
-117,116,3,"Sep 7, 2024",12:00 PM,Sat,Connecticut,63,,Merrimack,17,
-118,117,3,"Sep 7, 2024",6:00 PM,Sat,East Carolina,20,@,Old Dominion,14,
-119,118,3,"Sep 7, 2024",7:00 PM,Sat,Florida,45,,Samford,7,
-120,119,3,"Sep 7, 2024",6:00 PM,Sat,Florida International,52,,Central Michigan,16,
-121,120,3,"Sep 7, 2024",10:00 PM,Sat,Fresno State,46,,Sacramento State,30,
-122,121,3,"Sep 7, 2024",2:00 PM,Sat,(1) Georgia,48,,Tennessee Tech,3,
-123,122,3,"Sep 7, 2024",7:00 PM,Sat,Georgia Southern,20,@,Nevada,17,
-124,123,3,"Sep 7, 2024",7:00 PM,Sat,Georgia State,24,,Chattanooga,21,
-125,124,3,"Sep 7, 2024",3:30 PM,Sat,Idaho,17,@,Wyoming,13,
-126,125,3,"Sep 7, 2024",7:00 PM,Sat,Illinois,23,,(19) Kansas,17,
-127,126,3,"Sep 7, 2024",3:30 PM,Sat,Iowa State,20,@,(21) Iowa,19,
-128,127,3,"Sep 7, 2024",6:00 PM,Sat,James Madison,13,,Gardner-Webb,6,
-129,128,3,"Sep 7, 2024",12:00 PM,Sat,(17) Kansas State,34,@,Tulane,27,
-130,129,3,"Sep 7, 2024",10:15 PM,Sat,Liberty,30,@,New Mexico State,24,
-131,130,3,"Sep 7, 2024",7:00 PM,Sat,Louisiana,34,@,Kennesaw State,10,
-132,131,3,"Sep 7, 2024",7:30 PM,Sat,(18) Louisiana State,44,,Nicholls State,21,
-133,132,3,"Sep 7, 2024",7:00 PM,Sat,Louisiana-Monroe,32,,Alabama-Birmingham,6,
-134,133,3,"Sep 7, 2024",3:30 PM,Sat,(22) Louisville,49,,Jacksonville State,14,
-135,134,3,"Sep 7, 2024",12:00 PM,Sat,Memphis,38,,Troy,17,
-136,135,3,"Sep 7, 2024",6:00 PM,Sat,(12) Miami (FL),56,,Florida A&M,9,
-137,136,3,"Sep 7, 2024",3:30 PM,Sat,Michigan State,27,@,Maryland,24,
-138,137,3,"Sep 7, 2024",12:00 PM,Sat,Minnesota,48,,Rhode Island,0,
-139,138,3,"Sep 7, 2024",4:15 PM,Sat,(6) Mississippi,52,,Middle Tennessee State,3,
-140,139,3,"Sep 7, 2024",7:00 PM,Sat,(9) Missouri,38,,Buffalo,0,
-141,140,3,"Sep 7, 2024",3:30 PM,Sat,Navy,38,,Temple,11,
-142,141,3,"Sep 7, 2024",7:30 PM,Sat,Nebraska,28,,Colorado,10,
-143,142,3,"Sep 7, 2024",3:00 PM,Sat,Nevada-Las Vegas,72,,Utah Tech,14,
-144,143,3,"Sep 7, 2024",3:30 PM,Sat,North Carolina,38,,Charlotte,20,
-145,144,3,"Sep 7, 2024",7:30 PM,Sat,North Texas,35,,Stephen F. Austin,20,
-146,145,3,"Sep 7, 2024",3:30 PM,Sat,Northern Illinois,16,@,(5) Notre Dame,14,
-147,146,3,"Sep 7, 2024",6:00 PM,Sat,Ohio,27,,South Alabama,20,
-148,147,3,"Sep 7, 2024",7:30 PM,Sat,(2) Ohio State,56,,Western Michigan,0,
-149,148,3,"Sep 7, 2024",7:45 PM,Sat,(15) Oklahoma,16,,Houston,12,
-150,149,3,"Sep 7, 2024",12:00 PM,Sat,(16) Oklahoma State,39,,Arkansas,31,
-151,150,3,"Sep 7, 2024",10:00 PM,Sat,(7) Oregon,37,,Boise State,34,
-152,151,3,"Sep 7, 2024",10:30 PM,Sat,Oregon State,21,@,San Diego State,0,
-153,152,3,"Sep 7, 2024",12:00 PM,Sat,(8) Penn State,34,,Bowling Green,27,
-154,153,3,"Sep 7, 2024",12:00 PM,Sat,Pittsburgh,28,@,Cincinnati,27,
-155,154,3,"Sep 7, 2024",7:00 PM,Sat,Rice,69,,Texas Southern,7,
-156,155,3,"Sep 7, 2024",12:00 PM,Sat,Rutgers,49,,Akron,17,
-157,156,3,"Sep 7, 2024",7:00 PM,Sat,San Jose State,17,@,Air Force,7,
-158,157,3,"Sep 7, 2024",3:30 PM,Sat,South Carolina,31,@,Kentucky,6,
-159,158,3,"Sep 7, 2024",11:00 PM,Sat,(13) Southern California,48,,Utah State,0,
-160,159,3,"Sep 7, 2024",7:00 PM,Sat,Southern Mississippi,35,,Southeastern Louisiana,10,
-161,160,3,"Sep 7, 2024",9:00 PM,Sat,Southern Utah,27,@,Texas-El Paso,24,
-162,161,3,"Sep 7, 2024",2:30 PM,Sat,St. Francis (PA),23,@,Kent State,17,
-163,162,3,"Sep 7, 2024",7:00 PM,Sat,Stanford,41,,Cal Poly,7,
-164,163,3,"Sep 7, 2024",12:00 PM,Sat,Syracuse,31,,(23) Georgia Tech,28,
-165,164,3,"Sep 7, 2024",7:30 PM,Sat,(14) Tennessee,51,N,(24) North Carolina State,10,
-166,165,3,"Sep 7, 2024",12:00 PM,Sat,(3) Texas,31,@,(10) Michigan,12,
-167,166,3,"Sep 7, 2024",12:45 PM,Sat,Texas A&M,52,,McNeese State,10,
-168,167,3,"Sep 7, 2024",8:00 PM,Sat,Texas Christian,45,,Long Island,0,
-169,168,3,"Sep 7, 2024",4:00 PM,Sat,Texas State,49,,Texas-San Antonio,10,
-170,169,3,"Sep 7, 2024",3:30 PM,Sat,Toledo,38,,Massachusetts,23,
-171,170,3,"Sep 7, 2024",3:30 PM,Sat,(11) Utah,23,,Baylor,12,
-172,171,3,"Sep 7, 2024",7:30 PM,Sat,Vanderbilt,55,,Alcorn State,0,
-173,172,3,"Sep 7, 2024",7:00 PM,Sat,Virginia,31,@,Wake Forest,30,
-174,173,3,"Sep 7, 2024",4:30 PM,Sat,Virginia Tech,31,,Marshall,14,
-175,174,3,"Sep 7, 2024",3:30 PM,Sat,Washington,30,,Eastern Michigan,9,
-176,175,3,"Sep 7, 2024",10:00 PM,Sat,Washington State,37,,Texas Tech,16,
-177,176,3,"Sep 7, 2024",6:00 PM,Sat,West Virginia,49,,Albany,14,
-178,177,3,"Sep 7, 2024",7:00 PM,Sat,Western Kentucky,31,,Eastern Kentucky,0,
-179,178,3,"Sep 7, 2024",3:30 PM,Sat,Wisconsin,27,,South Dakota,13,
-180,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-181,179,4,"Sep 12, 2024",7:30 PM,Thu,Arizona State,31,@,Texas State,28,
-182,180,4,"Sep 12, 2024",7:30 PM,Thu,South Alabama,87,,Northwestern State,10,
-183,181,4,"Sep 13, 2024",8:00 PM,Fri,(14) Kansas State,31,,(20) Arizona,7,
-184,182,4,"Sep 13, 2024",7:00 PM,Fri,Nevada-Las Vegas,23,@,Kansas,20,
-185,183,4,"Sep 14, 2024",6:00 PM,Sat,Akron,31,,Colgate,20,
-186,184,4,"Sep 14, 2024",12:00 PM,Sat,(4) Alabama,42,@,Wisconsin,10,
-187,185,4,"Sep 14, 2024",4:00 PM,Sat,Appalachian State,21,@,East Carolina,19,
-188,186,4,"Sep 14, 2024",4:15 PM,Sat,Arkansas,37,,Alabama-Birmingham,27,
-189,187,4,"Sep 14, 2024",7:30 PM,Sat,Auburn,45,,New Mexico,19,
-190,188,4,"Sep 14, 2024",7:30 PM,Sat,Baylor,31,,Air Force,3,
-191,189,4,"Sep 14, 2024",9:00 PM,Sat,Brigham Young,34,@,Wyoming,14,
-192,190,4,"Sep 14, 2024",1:00 PM,Sat,Buffalo,34,,Massachusetts,3,
-193,191,4,"Sep 14, 2024",10:30 PM,Sat,California,31,,San Diego State,10,
-194,192,4,"Sep 14, 2024",7:30 PM,Sat,Central Florida,35,@,Texas Christian,34,
-195,193,4,"Sep 14, 2024",6:00 PM,Sat,Charlotte,27,,Gardner-Webb,26,
-196,194,4,"Sep 14, 2024",12:00 PM,Sat,Cincinnati,27,@,Miami (OH),16,
-197,195,4,"Sep 14, 2024",2:00 PM,Sat,Coastal Carolina,28,@,Temple,20,
-198,196,4,"Sep 14, 2024",7:30 PM,Sat,Colorado,28,@,Colorado State,9,
-199,197,4,"Sep 14, 2024",6:00 PM,Sat,Duke,26,,Connecticut,21,
-200,198,4,"Sep 14, 2024",7:00 PM,Sat,Eastern Michigan,37,,Jacksonville State,34,
-201,199,4,"Sep 14, 2024",6:00 PM,Sat,Florida Atlantic,38,,Florida International,20,
-202,200,4,"Sep 14, 2024",10:30 PM,Sat,Fresno State,48,,New Mexico State,0,
-203,201,4,"Sep 14, 2024",7:30 PM,Sat,(1) Georgia,13,@,Kentucky,12,
-204,202,4,"Sep 14, 2024",6:00 PM,Sat,Georgia Southern,42,,South Carolina State,14,
-205,203,4,"Sep 14, 2024",7:00 PM,Sat,Georgia State,36,,Vanderbilt,32,
-206,204,4,"Sep 14, 2024",3:30 PM,Sat,Georgia Tech,59,,Virginia Military Institute,7,
-207,205,4,"Sep 14, 2024",8:00 PM,Sat,Houston,33,,Rice,7,
-208,206,4,"Sep 14, 2024",12:00 PM,Sat,Illinois,30,,Central Michigan,9,
-209,207,4,"Sep 14, 2024",7:30 PM,Sat,Indiana,42,@,UCLA,13,
-210,208,4,"Sep 14, 2024",4:00 PM,Sat,Iowa,38,,Troy,21,
-211,209,4,"Sep 14, 2024",6:00 PM,Sat,Liberty,28,,Texas-El Paso,10,
-212,210,4,"Sep 14, 2024",12:00 PM,Sat,(16) Louisiana State,36,@,South Carolina,33,
-213,211,4,"Sep 14, 2024",8:00 PM,Sat,Maryland,27,@,Virginia,13,
-214,212,4,"Sep 14, 2024",12:00 PM,Sat,Memphis,20,@,Florida State,12,
-215,213,4,"Sep 14, 2024",3:30 PM,Sat,(10) Miami (FL),62,,Ball State,0,
-216,214,4,"Sep 14, 2024",12:00 PM,Sat,(17) Michigan,28,,Arkansas State,18,
-217,215,4,"Sep 14, 2024",3:30 PM,Sat,Michigan State,40,,Prairie View A&M,0,
-218,216,4,"Sep 14, 2024",3:30 PM,Sat,Minnesota,27,,Nevada,0,
-219,217,4,"Sep 14, 2024",6:30 PM,Sat,(5) Mississippi,40,@,Wake Forest,6,
-220,218,4,"Sep 14, 2024",12:45 PM,Sat,(6) Missouri,27,,(24) Boston College,21,
-221,219,4,"Sep 14, 2024",7:30 PM,Sat,(23) Nebraska,34,,Northern Iowa,3,
-222,220,4,"Sep 14, 2024",6:00 PM,Sat,North Carolina,45,,North Carolina Central,10,
-223,221,4,"Sep 14, 2024",12:00 PM,Sat,North Carolina State,30,,Louisiana Tech,20,
-224,222,4,"Sep 14, 2024",7:30 PM,Sat,Northwestern,31,,Eastern Illinois,7,
-225,223,4,"Sep 14, 2024",3:30 PM,Sat,(18) Notre Dame,66,@,Purdue,7,
-226,224,4,"Sep 14, 2024",3:30 PM,Sat,Ohio,21,,Morgan State,6,
-227,225,4,"Sep 14, 2024",3:30 PM,Sat,(15) Oklahoma,34,,Tulane,19,
-228,226,4,"Sep 14, 2024",12:00 PM,Sat,(13) Oklahoma State,45,@,Tulsa,10,
-229,227,4,"Sep 14, 2024",3:30 PM,Sat,(9) Oregon,49,@,Oregon State,14,
-230,228,4,"Sep 14, 2024",3:30 PM,Sat,Pittsburgh,38,,West Virginia,34,
-231,229,4,"Sep 14, 2024",7:00 PM,Sat,Sam Houston,31,,Hawaii,13,
-232,230,4,"Sep 14, 2024",7:00 PM,Sat,San Jose State,31,,Kennesaw State,10,
-233,231,4,"Sep 14, 2024",7:00 PM,Sat,South Florida,49,@,Southern Mississippi,24,
-234,232,4,"Sep 14, 2024",7:45 PM,Sat,(7) Tennessee,71,,Kent State,0,
-235,233,4,"Sep 14, 2024",7:00 PM,Sat,(2) Texas,56,,Texas-San Antonio,7,
-236,234,4,"Sep 14, 2024",3:30 PM,Sat,Texas A&M,33,@,Florida,20,
-237,235,4,"Sep 14, 2024",12:00 PM,Sat,Texas Tech,66,,North Texas,21,
-238,236,4,"Sep 14, 2024",7:30 PM,Sat,Toledo,41,@,Mississippi State,17,
-239,237,4,"Sep 14, 2024",4:30 PM,Sat,(12) Utah,38,@,Utah State,21,
-240,238,4,"Sep 14, 2024",6:00 PM,Sat,Virginia Tech,37,@,Old Dominion,17,
-241,239,4,"Sep 14, 2024",3:30 PM,Sat,Washington State,24,N,Washington,19,
-242,240,4,"Sep 14, 2024",7:00 PM,Sat,Western Kentucky,49,@,Middle Tennessee State,21,
-243,241,4,"Sep 14, 2024",6:30 PM,Sat,Western Michigan,59,,Bethune-Cookman,31,
-244,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-245,242,5,"Sep 19, 2024",7:30 PM,Thu,South Alabama,48,@,Appalachian State,14,
-246,243,5,"Sep 20, 2024",8:00 PM,Fri,(24) Illinois,31,@,(22) Nebraska,24,
-247,244,5,"Sep 20, 2024",7:30 PM,Fri,Stanford,26,@,Syracuse,24,
-248,245,5,"Sep 20, 2024",10:00 PM,Fri,Washington State,54,,San Jose State,52,
-249,246,5,"Sep 21, 2024",3:30 PM,Sat,Arkansas,24,@,Auburn,14,
-250,247,5,"Sep 21, 2024",12:00 PM,Sat,Army,37,,Rice,14,
-251,248,5,"Sep 21, 2024",9:45 PM,Sat,Boise State,56,,Portland State,14,
-252,249,5,"Sep 21, 2024",8:00 PM,Sat,Boston College,23,,Michigan State,19,
-253,250,5,"Sep 21, 2024",10:30 PM,Sat,Brigham Young,38,,(13) Kansas State,9,
-254,251,5,"Sep 21, 2024",3:30 PM,Sat,Buffalo,23,@,(23) Northern Illinois,20,
-255,252,5,"Sep 21, 2024",1:00 PM,Sat,Central Michigan,37,,Ball State,34,
-256,253,5,"Sep 21, 2024",12:00 PM,Sat,Cincinnati,34,,Houston,0,
-257,254,5,"Sep 21, 2024",12:00 PM,Sat,(21) Clemson,59,,North Carolina State,35,
-258,255,5,"Sep 21, 2024",8:00 PM,Sat,Colorado,38,,Baylor,31,
-259,256,5,"Sep 21, 2024",5:00 PM,Sat,Colorado State,27,,Texas-El Paso,17,
-260,257,5,"Sep 21, 2024",7:00 PM,Sat,Connecticut,48,,Florida Atlantic,14,
-261,258,5,"Sep 21, 2024",4:00 PM,Sat,Duke,45,@,Middle Tennessee State,17,
-262,259,5,"Sep 21, 2024",2:00 PM,Sat,Eastern Michigan,36,,St. Francis (PA),0,
-263,260,5,"Sep 21, 2024",12:00 PM,Sat,Florida,45,@,Mississippi State,28,
-264,261,5,"Sep 21, 2024",7:00 PM,Sat,Florida State,14,,California,9,
-265,262,5,"Sep 21, 2024",8:30 PM,Sat,Fresno State,38,@,New Mexico,21,
-266,263,5,"Sep 21, 2024",12:00 PM,Sat,Indiana,52,,Charlotte,14,
-267,264,5,"Sep 21, 2024",7:30 PM,Sat,Iowa,31,@,Minnesota,14,
-268,265,5,"Sep 21, 2024",2:00 PM,Sat,(20) Iowa State,52,,Arkansas State,7,
-269,266,5,"Sep 21, 2024",3:00 PM,Sat,Jacksonville State,44,,Southern Mississippi,7,
-270,267,5,"Sep 21, 2024",12:00 PM,Sat,James Madison,70,@,North Carolina,50,
-271,268,5,"Sep 21, 2024",12:45 PM,Sat,Kentucky,41,,Ohio,6,
-272,269,5,"Sep 21, 2024",6:00 PM,Sat,Liberty,35,,East Carolina,24,
-273,270,5,"Sep 21, 2024",3:45 PM,Sat,(16) Louisiana State,34,,UCLA,17,
-274,271,5,"Sep 21, 2024",3:30 PM,Sat,(19) Louisville,31,,Georgia Tech,19,
-275,272,5,"Sep 21, 2024",12:00 PM,Sat,Maryland,38,,Villanova,20,
-276,273,5,"Sep 21, 2024",3:30 PM,Sat,Massachusetts,35,,Central Connecticut State,31,
-277,274,5,"Sep 21, 2024",7:00 PM,Sat,(8) Miami (FL),50,@,South Florida,15,
-278,275,5,"Sep 21, 2024",3:30 PM,Sat,(18) Michigan,27,,(11) Southern California,24,
-279,276,5,"Sep 21, 2024",7:45 PM,Sat,(5) Mississippi,52,,Georgia Southern,13,
-280,277,5,"Sep 21, 2024",4:15 PM,Sat,(7) Missouri,30,,Vanderbilt,27,
-281,278,5,"Sep 21, 2024",6:00 PM,Sat,Monmouth,45,@,Florida International,42,
-282,279,5,"Sep 21, 2024",3:30 PM,Sat,Navy,56,,Memphis,44,
-283,280,5,"Sep 21, 2024",3:00 PM,Sat,Nevada,49,,Eastern Washington,16,
-284,281,5,"Sep 21, 2024",7:00 PM,Sat,North Texas,44,,Wyoming,17,
-285,282,5,"Sep 21, 2024",3:30 PM,Sat,(17) Notre Dame,28,,Miami (OH),3,
-286,283,5,"Sep 21, 2024",12:00 PM,Sat,(3) Ohio State,49,,Marshall,14,
-287,284,5,"Sep 21, 2024",8:30 PM,Sat,Oregon State,38,,Purdue,21,
-288,285,5,"Sep 21, 2024",3:30 PM,Sat,(10) Penn State,56,,Kent State,0,
-289,286,5,"Sep 21, 2024",3:30 PM,Sat,Pittsburgh,73,,Youngstown State,17,
-290,287,5,"Sep 21, 2024",3:30 PM,Sat,Rutgers,26,@,Virginia Tech,23,
-291,288,5,"Sep 21, 2024",7:00 PM,Sat,Sam Houston,31,,New Mexico State,11,
-292,289,5,"Sep 21, 2024",7:30 PM,Sat,South Carolina,50,,Akron,7,
-293,290,5,"Sep 21, 2024",5:00 PM,Sat,Southern Methodist,66,,Texas Christian,42,
-294,291,5,"Sep 21, 2024",2:00 PM,Sat,Temple,45,,Utah State,29,
-295,292,5,"Sep 21, 2024",7:30 PM,Sat,(6) Tennessee,25,@,(15) Oklahoma,15,
-296,293,5,"Sep 21, 2024",8:00 PM,Sat,(1) Texas,51,,Louisiana-Monroe,3,
-297,294,5,"Sep 21, 2024",7:30 PM,Sat,(25) Texas A&M,26,,Bowling Green,20,
-298,295,5,"Sep 21, 2024",3:30 PM,Sat,Texas Tech,30,,Arizona State,22,
-299,296,5,"Sep 21, 2024",3:30 PM,Sat,Texas-San Antonio,45,,Houston Baptist,7,
-300,297,5,"Sep 21, 2024",7:00 PM,Sat,Troy,34,,Florida A&M,12,
-301,298,5,"Sep 21, 2024",12:00 PM,Sat,Tulane,41,@,Louisiana,33,
-302,299,5,"Sep 21, 2024",7:00 PM,Sat,Tulsa,23,@,Louisiana Tech,20,
-303,300,5,"Sep 21, 2024",4:00 PM,Sat,(12) Utah,22,@,(14) Oklahoma State,19,
-304,301,5,"Sep 21, 2024",2:00 PM,Sat,Virginia,43,@,Coastal Carolina,24,
-305,302,5,"Sep 21, 2024",7:00 PM,Sat,Washington,24,,Northwestern,5,
-306,303,5,"Sep 21, 2024",12:00 PM,Sat,West Virginia,32,,Kansas,28,
-307,304,5,"Sep 21, 2024",7:00 PM,Sat,Western Kentucky,26,,Toledo,21,
-308,305,5,"Sep 22, 2024",12:00 AM,Sun,Hawaii,36,,Northern Iowa,7,
-309,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-310,306,6,"Sep 26, 2024",7:30 PM,Thu,Army,42,@,Temple,14,
-311,307,6,"Sep 27, 2024",7:30 PM,Fri,(7) Miami (FL),38,,Virginia Tech,34,
-312,308,6,"Sep 27, 2024",8:00 PM,Fri,Rutgers,21,,Washington,18,
-313,309,6,"Sep 28, 2024",7:30 PM,Sat,(4) Alabama,41,,(2) Georgia,34,
-314,310,6,"Sep 28, 2024",10:15 PM,Sat,Arizona,23,@,(10) Utah,10,
-315,311,6,"Sep 28, 2024",10:00 PM,Sat,(25) Boise State,45,,Washington State,24,
-316,312,6,"Sep 28, 2024",12:00 PM,Sat,Boston College,21,,Western Kentucky,20,
-317,313,6,"Sep 28, 2024",12:00 PM,Sat,(22) Brigham Young,34,@,Baylor,28,
-318,314,6,"Sep 28, 2024",3:30 PM,Sat,Central Michigan,22,,San Diego State,21,
-319,315,6,"Sep 28, 2024",7:00 PM,Sat,Charlotte,21,@,Rice,20,
-320,316,6,"Sep 28, 2024",7:00 PM,Sat,(17) Clemson,40,,Stanford,14,
-321,317,6,"Sep 28, 2024",3:30 PM,Sat,Colorado,48,@,Central Florida,21,
-322,318,6,"Sep 28, 2024",12:00 PM,Sat,Connecticut,47,,Buffalo,3,
-323,319,6,"Sep 28, 2024",4:00 PM,Sat,Duke,21,,North Carolina,20,
-324,320,6,"Sep 28, 2024",4:00 PM,Sat,East Carolina,30,,Texas-San Antonio,20,
-325,321,6,"Sep 28, 2024",3:30 PM,Sat,Eastern Michigan,52,@,Kent State,33,
-326,322,6,"Sep 28, 2024",6:00 PM,Sat,Florida Atlantic,41,,Wagner,10,
-327,323,6,"Sep 28, 2024",6:00 PM,Sat,Florida International,17,,Louisiana Tech,10,
-328,324,6,"Sep 28, 2024",3:30 PM,Sat,Georgia Southern,38,@,Georgia State,21,
-329,325,6,"Sep 28, 2024",12:00 PM,Sat,Indiana,42,,Maryland,28,
-330,326,6,"Sep 28, 2024",7:00 PM,Sat,(18) Iowa State,20,@,Houston,0,
-331,327,6,"Sep 28, 2024",1:30 PM,Sat,James Madison,63,,Ball State,7,
-332,328,6,"Sep 28, 2024",12:00 PM,Sat,(23) Kansas State,42,,(20) Oklahoma State,20,
-333,329,6,"Sep 28, 2024",12:00 PM,Sat,Kentucky,20,@,(6) Mississippi,17,
-334,330,6,"Sep 28, 2024",3:30 PM,Sat,Louisiana,41,@,Wake Forest,38,
-335,331,6,"Sep 28, 2024",7:45 PM,Sat,(14) Louisiana State,42,,South Alabama,10,
-336,332,6,"Sep 28, 2024",7:00 PM,Sat,Louisiana-Monroe,13,@,Troy,9,
-337,333,6,"Sep 28, 2024",3:30 PM,Sat,Marshall,27,,Western Michigan,20,
-338,334,6,"Sep 28, 2024",7:30 PM,Sat,Memphis,24,,Middle Tennessee State,7,
-339,335,6,"Sep 28, 2024",3:30 PM,Sat,Miami (OH),23,,Massachusetts,20,
-340,336,6,"Sep 28, 2024",12:00 PM,Sat,(12) Michigan,27,,Minnesota,24,
-341,337,6,"Sep 28, 2024",12:00 PM,Sat,Navy,41,@,Alabama-Birmingham,18,
-342,338,6,"Sep 28, 2024",12:00 PM,Sat,Nebraska,28,@,Purdue,10,
-343,339,6,"Sep 28, 2024",3:30 PM,Sat,Nevada-Las Vegas,59,,Fresno State,14,
-344,340,6,"Sep 28, 2024",8:00 PM,Sat,New Mexico,50,@,New Mexico State,40,
-345,341,6,"Sep 28, 2024",12:00 PM,Sat,North Carolina State,24,,Northern Illinois,17,
-346,342,6,"Sep 28, 2024",7:00 PM,Sat,North Texas,52,,Tulsa,20,
-347,343,6,"Sep 28, 2024",3:30 PM,Sat,(16) Notre Dame,31,,(15) Louisville,24,
-348,344,6,"Sep 28, 2024",3:30 PM,Sat,Ohio,30,,Akron,10,
-349,345,6,"Sep 28, 2024",7:00 PM,Sat,(3) Ohio State,38,@,Michigan State,7,
-350,346,6,"Sep 28, 2024",3:40 PM,Sat,(21) Oklahoma,27,@,Auburn,21,
-351,347,6,"Sep 28, 2024",5:00 PM,Sat,Old Dominion,30,@,Bowling Green,27,
-352,348,6,"Sep 28, 2024",11:00 PM,Sat,(8) Oregon,34,@,UCLA,13,
-353,349,6,"Sep 28, 2024",7:30 PM,Sat,(9) Penn State,21,,(19) Illinois,7,
-354,350,6,"Sep 28, 2024",3:00 PM,Sat,Sam Houston,40,N,Texas State,39,
-355,351,6,"Sep 28, 2024",3:30 PM,Sat,(13) Southern California,38,,Wisconsin,21,
-356,352,6,"Sep 28, 2024",8:00 PM,Sat,Southern Methodist,42,,Florida State,16,
-357,353,6,"Sep 28, 2024",12:00 PM,Sat,Syracuse,42,,Holy Cross,14,
-358,354,6,"Sep 28, 2024",6:00 PM,Sat,Tennessee-Martin,24,@,Kennesaw State,13,
-359,355,6,"Sep 28, 2024",4:15 PM,Sat,(1) Texas,35,,Mississippi State,13,
-360,356,6,"Sep 28, 2024",3:30 PM,Sat,(24) Texas A&M,21,N,Arkansas,17,
-361,357,6,"Sep 28, 2024",3:30 PM,Sat,Texas Christian,38,@,Kansas,27,
-362,358,6,"Sep 28, 2024",8:00 PM,Sat,Texas Tech,44,,Cincinnati,41,
-363,359,6,"Sep 28, 2024",12:00 PM,Sat,Tulane,45,,South Florida,10,
-364,360,6,"Sep 28, 2024",8:00 PM,Sat,Wyoming,31,,Air Force,19,
-365,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-366,361,7,"Oct 3, 2024",9:00 PM,Thu,Sam Houston,41,@,Texas-El Paso,21,
-367,362,7,"Oct 3, 2024",7:00 PM,Thu,Texas State,38,@,Troy,17,
-368,363,7,"Oct 4, 2024",7:30 PM,Fri,Houston,30,@,Texas Christian,19,
-369,364,7,"Oct 4, 2024",7:00 PM,Fri,Jacksonville State,63,@,Kennesaw State,24,
-370,365,7,"Oct 4, 2024",9:00 PM,Fri,(6) Oregon,31,,Michigan State,10,
-371,366,7,"Oct 4, 2024",9:00 PM,Fri,Syracuse,44,@,(25) Nevada-Las Vegas,41,
-372,367,7,"Oct 5, 2024",8:00 PM,Sat,Arizona State,35,,Kansas,31,
-373,368,7,"Oct 5, 2024",7:30 PM,Sat,Arkansas,19,,(4) Tennessee,14,
-374,369,7,"Oct 5, 2024",7:00 PM,Sat,Arkansas State,18,,South Alabama,16,
-375,370,7,"Oct 5, 2024",12:00 PM,Sat,Army,49,@,Tulsa,7,
-376,371,7,"Oct 5, 2024",7:00 PM,Sat,(21) Boise State,62,,Utah State,30,
-377,372,7,"Oct 5, 2024",3:30 PM,Sat,Bowling Green,27,@,Akron,20,
-378,373,7,"Oct 5, 2024",3:30 PM,Sat,Charlotte,55,,East Carolina,24,
-379,374,7,"Oct 5, 2024",7:00 PM,Sat,(15) Clemson,29,@,Florida State,13,
-380,375,7,"Oct 5, 2024",7:00 PM,Sat,Coastal Carolina,45,,Old Dominion,37,
-381,376,7,"Oct 5, 2024",3:30 PM,Sat,Connecticut,29,,Temple,20,
-382,377,7,"Oct 5, 2024",7:45 PM,Sat,Florida,24,,Central Florida,13,
-383,378,7,"Oct 5, 2024",3:30 PM,Sat,(5) Georgia,31,,Auburn,13,
-384,379,7,"Oct 5, 2024",8:00 PM,Sat,Georgia Tech,24,,Duke,14,
-385,380,7,"Oct 5, 2024",3:30 PM,Sat,(23) Indiana,41,@,Northwestern,24,
-386,381,7,"Oct 5, 2024",7:30 PM,Sat,(16) Iowa State,43,,Baylor,21,
-387,382,7,"Oct 5, 2024",7:00 PM,Sat,Louisiana,23,@,Southern Mississippi,13,
-388,383,7,"Oct 5, 2024",7:00 PM,Sat,Louisiana-Monroe,21,,James Madison,19,
-389,384,7,"Oct 5, 2024",3:30 PM,Sat,Marshall,52,,Appalachian State,37,
-390,385,7,"Oct 5, 2024",10:30 PM,Sat,(8) Miami (FL),39,@,California,38,
-391,386,7,"Oct 5, 2024",7:30 PM,Sat,Minnesota,24,,(11) Southern California,17,
-392,387,7,"Oct 5, 2024",3:30 PM,Sat,(12) Mississippi,27,@,South Carolina,3,
-393,388,7,"Oct 5, 2024",12:00 PM,Sat,Navy,34,@,Air Force,7,
-394,389,7,"Oct 5, 2024",4:00 PM,Sat,Nebraska,14,,Rutgers,7,
-395,390,7,"Oct 5, 2024",12:00 PM,Sat,Northern Illinois,34,,Massachusetts,20,
-396,391,7,"Oct 5, 2024",3:30 PM,Sat,(3) Ohio State,35,,Iowa,7,
-397,392,7,"Oct 5, 2024",6:30 PM,Sat,Oregon State,39,,Colorado State,31,
-398,393,7,"Oct 5, 2024",12:00 PM,Sat,(7) Penn State,27,,UCLA,11,
-399,394,7,"Oct 5, 2024",12:00 PM,Sat,Pittsburgh,34,@,North Carolina,24,
-400,395,7,"Oct 5, 2024",8:00 PM,Sat,San Diego State,27,,Hawaii,24,
-401,396,7,"Oct 5, 2024",7:30 PM,Sat,San Jose State,35,,Nevada,31,
-402,397,7,"Oct 5, 2024",12:00 PM,Sat,Southern Methodist,34,@,(22) Louisville,27,
-403,398,7,"Oct 5, 2024",12:00 PM,Sat,(25) Texas A&M,41,,(9) Missouri,10,
-404,399,7,"Oct 5, 2024",11:00 PM,Sat,Texas Tech,28,@,Arizona,22,
-405,400,7,"Oct 5, 2024",3:30 PM,Sat,Toledo,30,,Miami (OH),20,
-406,401,7,"Oct 5, 2024",1:00 PM,Sat,Tulane,71,@,Alabama-Birmingham,20,
-407,402,7,"Oct 5, 2024",4:15 PM,Sat,Vanderbilt,40,,(1) Alabama,35,
-408,403,7,"Oct 5, 2024",12:00 PM,Sat,Virginia,24,,Boston College,14,
-409,404,7,"Oct 5, 2024",3:30 PM,Sat,Virginia Tech,31,@,Stanford,7,
-410,405,7,"Oct 5, 2024",12:00 PM,Sat,Wake Forest,34,@,North Carolina State,30,
-411,406,7,"Oct 5, 2024",7:30 PM,Sat,Washington,27,,(10) Michigan,17,
-412,407,7,"Oct 5, 2024",4:00 PM,Sat,West Virginia,38,@,Oklahoma State,14,
-413,408,7,"Oct 5, 2024",2:00 PM,Sat,Western Michigan,45,@,Ball State,42,
-414,409,7,"Oct 5, 2024",12:00 PM,Sat,Wisconsin,52,,Purdue,6,
-415,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-416,410,8,"Oct 8, 2024",7:00 PM,Tue,Liberty,31,,Florida International,24,
-417,411,8,"Oct 9, 2024",7:30 PM,Wed,Jacksonville State,54,,New Mexico State,13,
-418,412,8,"Oct 10, 2024",7:30 PM,Thu,James Madison,39,,Coastal Carolina,7,
-419,413,8,"Oct 10, 2024",8:00 PM,Thu,Louisiana Tech,48,,Middle Tennessee State,21,
-420,414,8,"Oct 10, 2024",8:00 PM,Thu,Western Kentucky,44,,Texas-El Paso,17,
-421,415,8,"Oct 11, 2024",10:30 PM,Fri,Arizona State,27,,(16) Utah,19,
-422,416,8,"Oct 11, 2024",9:00 PM,Fri,Nevada-Las Vegas,50,@,Utah State,34,
-423,417,8,"Oct 11, 2024",8:00 PM,Fri,Northwestern,37,@,Maryland,10,
-424,418,8,"Oct 12, 2024",12:00 PM,Sat,(7) Alabama,27,,South Carolina,25,
-425,419,8,"Oct 12, 2024",12:00 PM,Sat,Army,44,,Alabama-Birmingham,10,
-426,420,8,"Oct 12, 2024",12:00 PM,Sat,Ball State,37,@,Kent State,35,
-427,421,8,"Oct 12, 2024",11:00 PM,Sat,(17) Boise State,28,@,Hawaii,7,
-428,422,8,"Oct 12, 2024",4:00 PM,Sat,(14) Brigham Young,41,,Arizona,19,
-429,423,8,"Oct 12, 2024",12:00 PM,Sat,Buffalo,30,,Toledo,15,
-430,424,8,"Oct 12, 2024",3:30 PM,Sat,Cincinnati,19,@,Central Florida,13,
-431,425,8,"Oct 12, 2024",12:00 PM,Sat,(10) Clemson,49,@,Wake Forest,14,
-432,426,8,"Oct 12, 2024",3:30 PM,Sat,Colorado State,31,,San Jose State,24,
-433,427,8,"Oct 12, 2024",4:15 PM,Sat,(5) Georgia,41,,Mississippi State,31,
-434,428,8,"Oct 12, 2024",8:00 PM,Sat,Georgia Southern,24,,Marshall,23,
-435,429,8,"Oct 12, 2024",12:00 PM,Sat,Georgia Tech,41,@,North Carolina,34,
-436,430,8,"Oct 12, 2024",3:30 PM,Sat,(23) Illinois,50,,Purdue,49,
-437,431,8,"Oct 12, 2024",12:00 PM,Sat,Iowa,40,,Washington,16,
-438,432,8,"Oct 12, 2024",8:00 PM,Sat,(11) Iowa State,28,@,West Virginia,16,
-439,433,8,"Oct 12, 2024",10:15 PM,Sat,(18) Kansas State,31,@,Colorado,28,
-440,434,8,"Oct 12, 2024",7:30 PM,Sat,Louisiana,34,,Appalachian State,24,
-441,435,8,"Oct 12, 2024",7:30 PM,Sat,(13) Louisiana State,29,,(9) Mississippi,26,
-442,436,8,"Oct 12, 2024",5:00 PM,Sat,Louisiana-Monroe,38,,Southern Mississippi,21,
-443,437,8,"Oct 12, 2024",3:30 PM,Sat,Louisville,24,@,Virginia,20,
-444,438,8,"Oct 12, 2024",3:30 PM,Sat,Memphis,21,N,South Florida,3,
-445,439,8,"Oct 12, 2024",2:00 PM,Sat,Miami (OH),38,@,Eastern Michigan,14,
-446,440,8,"Oct 12, 2024",9:00 PM,Sat,Minnesota,21,@,UCLA,17,
-447,441,8,"Oct 12, 2024",12:00 PM,Sat,(21) Missouri,45,@,Massachusetts,3,
-448,442,8,"Oct 12, 2024",7:30 PM,Sat,Nevada,42,,Oregon State,37,
-449,443,8,"Oct 12, 2024",7:00 PM,Sat,New Mexico,52,,Air Force,37,
-450,444,8,"Oct 12, 2024",7:00 PM,Sat,North Texas,41,@,Florida Atlantic,37,
-451,445,8,"Oct 12, 2024",3:30 PM,Sat,Northern Illinois,17,@,Bowling Green,7,
-452,446,8,"Oct 12, 2024",3:30 PM,Sat,(11) Notre Dame,49,,Stanford,7,
-453,447,8,"Oct 12, 2024",4:00 PM,Sat,Ohio,27,@,Central Michigan,25,
-454,448,8,"Oct 12, 2024",3:30 PM,Sat,Old Dominion,21,@,Georgia State,14,
-455,449,8,"Oct 12, 2024",7:30 PM,Sat,(3) Oregon,32,,(2) Ohio State,31,
-456,450,8,"Oct 12, 2024",3:30 PM,Sat,(4) Penn State,33,@,Southern California,30,
-457,451,8,"Oct 12, 2024",3:30 PM,Sat,(22) Pittsburgh,17,,California,15,
-458,452,8,"Oct 12, 2024",7:00 PM,Sat,Rice,29,,Texas-San Antonio,27,
-459,453,8,"Oct 12, 2024",3:30 PM,Sat,San Diego State,27,@,Wyoming,24,
-460,454,8,"Oct 12, 2024",8:00 PM,Sat,Syracuse,24,@,North Carolina State,17,
-461,455,8,"Oct 12, 2024",7:00 PM,Sat,(8) Tennessee,23,,Florida,17,
-462,456,8,"Oct 12, 2024",3:30 PM,Sat,(1) Texas,34,N,(18) Oklahoma,3,
-463,457,8,"Oct 12, 2024",7:00 PM,Sat,Texas State,41,,Arkansas State,9,
-464,458,8,"Oct 12, 2024",7:45 PM,Sat,Vanderbilt,20,@,Kentucky,13,
-465,459,8,"Oct 12, 2024",7:00 PM,Sat,Washington State,25,@,Fresno State,17,
-466,460,8,"Oct 12, 2024",3:30 PM,Sat,Western Michigan,34,,Akron,24,
-467,461,8,"Oct 12, 2024",12:00 PM,Sat,Wisconsin,42,@,Rutgers,7,
-468,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-469,462,9,"Oct 15, 2024",8:00 PM,Tue,Middle Tennessee State,14,,Kennesaw State,5,
-470,463,9,"Oct 15, 2024",9:00 PM,Tue,New Mexico State,33,,Louisiana Tech,30,
-471,464,9,"Oct 15, 2024",7:30 PM,Tue,South Alabama,25,,Troy,9,
-472,465,9,"Oct 16, 2024",9:00 PM,Wed,Texas-El Paso,30,,Florida International,21,
-473,466,9,"Oct 16, 2024",7:00 PM,Wed,Western Kentucky,31,@,Sam Houston,14,
-474,467,9,"Oct 17, 2024",7:00 PM,Thu,Marshall,35,,Georgia State,20,
-475,468,9,"Oct 17, 2024",7:30 PM,Thu,Virginia Tech,42,,Boston College,21,
-476,469,9,"Oct 18, 2024",10:15 PM,Fri,(13) Brigham Young,38,,Oklahoma State,35,
-477,470,9,"Oct 18, 2024",7:00 PM,Fri,Duke,23,,Florida State,16,
-478,471,9,"Oct 18, 2024",10:30 PM,Fri,Fresno State,24,@,Nevada,21,
-479,472,9,"Oct 18, 2024",8:00 PM,Fri,(2) Oregon,35,@,Purdue,0,
-480,473,9,"Oct 19, 2024",7:00 PM,Sat,Arkansas State,44,@,Southern Mississippi,28,
-481,474,9,"Oct 19, 2024",12:00 PM,Sat,(23) Army,45,,East Carolina,28,
-482,475,9,"Oct 19, 2024",4:00 PM,Sat,Baylor,59,@,Texas Tech,35,
-483,476,9,"Oct 19, 2024",3:30 PM,Sat,Bowling Green,27,,Kent State,6,
-484,477,9,"Oct 19, 2024",12:00 PM,Sat,Cincinnati,24,,Arizona State,14,
-485,478,9,"Oct 19, 2024",12:00 PM,Sat,(10) Clemson,48,,Virginia,31,
-486,479,9,"Oct 19, 2024",4:00 PM,Sat,Colorado,34,@,Arizona,7,
-487,480,9,"Oct 19, 2024",8:00 PM,Sat,Colorado State,21,@,Air Force,13,
-488,481,9,"Oct 19, 2024",2:00 PM,Sat,Eastern Michigan,38,,Central Michigan,34,
-489,482,9,"Oct 19, 2024",7:45 PM,Sat,Florida,48,,Kentucky,20,
-490,483,9,"Oct 19, 2024",7:30 PM,Sat,(5) Georgia,30,@,(1) Texas,15,
-491,484,9,"Oct 19, 2024",4:00 PM,Sat,Georgia Southern,28,,James Madison,14,
-492,485,9,"Oct 19, 2024",3:30 PM,Sat,(22) Illinois,21,,(24) Michigan,7,
-493,486,9,"Oct 19, 2024",12:00 PM,Sat,(16) Indiana,56,,Nebraska,7,
-494,487,9,"Oct 19, 2024",7:30 PM,Sat,(9) Iowa State,38,,Central Florida,35,
-495,488,9,"Oct 19, 2024",3:30 PM,Sat,Kansas,42,,Houston,14,
-496,489,9,"Oct 19, 2024",7:30 PM,Sat,(17) Kansas State,45,@,West Virginia,18,
-497,490,9,"Oct 19, 2024",12:00 PM,Sat,Louisiana,34,@,Coastal Carolina,24,
-498,491,9,"Oct 19, 2024",7:00 PM,Sat,(8) Louisiana State,34,@,Arkansas,10,
-499,492,9,"Oct 19, 2024",4:00 PM,Sat,Maryland,29,,Southern California,28,
-500,493,9,"Oct 19, 2024",7:30 PM,Sat,Memphis,52,,North Texas,44,
-501,494,9,"Oct 19, 2024",12:00 PM,Sat,(6) Miami (FL),52,@,Louisville,45,
-502,495,9,"Oct 19, 2024",3:30 PM,Sat,Miami (OH),30,,Ohio,20,
-503,496,9,"Oct 19, 2024",7:30 PM,Sat,Michigan State,32,,Iowa,20,
-504,497,9,"Oct 19, 2024",12:00 PM,Sat,(19) Missouri,21,,Auburn,17,
-505,498,9,"Oct 19, 2024",3:30 PM,Sat,(25) Navy,51,,Charlotte,17,
-506,499,9,"Oct 19, 2024",10:00 PM,Sat,Nevada-Las Vegas,33,@,Oregon State,25,
-507,500,9,"Oct 19, 2024",4:00 PM,Sat,New Mexico,50,@,Utah State,45,
-508,501,9,"Oct 19, 2024",3:30 PM,Sat,North Carolina State,24,@,California,23,
-509,502,9,"Oct 19, 2024",3:30 PM,Sat,(12) Notre Dame,31,N,Georgia Tech,13,
-510,503,9,"Oct 19, 2024",3:30 PM,Sat,Old Dominion,24,,Texas State,14,
-511,504,9,"Oct 19, 2024",4:00 PM,Sat,San Jose State,24,,Wyoming,14,
-512,505,9,"Oct 19, 2024",12:45 PM,Sat,South Carolina,35,@,Oklahoma,9,
-513,506,9,"Oct 19, 2024",3:30 PM,Sat,South Florida,35,,Alabama-Birmingham,25,
-514,507,9,"Oct 19, 2024",8:00 PM,Sat,(21) Southern Methodist,40,@,Stanford,10,
-515,508,9,"Oct 19, 2024",2:00 PM,Sat,Temple,20,,Tulsa,10,
-516,509,9,"Oct 19, 2024",3:30 PM,Sat,(11) Tennessee,24,,(7) Alabama,17,
-517,510,9,"Oct 19, 2024",4:15 PM,Sat,(14) Texas A&M,34,@,Mississippi State,24,
-518,511,9,"Oct 19, 2024",10:30 PM,Sat,Texas Christian,13,@,Utah,7,
-519,512,9,"Oct 19, 2024",3:30 PM,Sat,Texas-San Antonio,38,,Florida Atlantic,24,
-520,513,9,"Oct 19, 2024",3:30 PM,Sat,Toledo,13,@,Northern Illinois,6,
-521,514,9,"Oct 19, 2024",3:30 PM,Sat,Tulane,24,,Rice,10,
-522,515,9,"Oct 19, 2024",12:00 PM,Sat,UCLA,35,@,Rutgers,32,
-523,516,9,"Oct 19, 2024",7:00 PM,Sat,Vanderbilt,24,,Ball State,14,
-524,517,9,"Oct 19, 2024",12:00 PM,Sat,Wake Forest,23,@,Connecticut,20,
-525,518,9,"Oct 19, 2024",3:30 PM,Sat,Washington State,42,,Hawaii,10,
-526,519,9,"Oct 19, 2024",3:30 PM,Sat,Western Michigan,48,@,Buffalo,41,
-527,520,9,"Oct 19, 2024",12:00 PM,Sat,Wisconsin,23,@,Northwestern,3,
-528,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-529,521,10,"Oct 22, 2024",8:00 PM,Tue,Louisiana Tech,14,,Texas-El Paso,10,
-530,522,10,"Oct 22, 2024",7:30 PM,Tue,Sam Houston,10,@,Florida International,7,
-531,523,10,"Oct 23, 2024",7:30 PM,Wed,Jacksonville State,42,,Middle Tennessee State,20,
-532,524,10,"Oct 23, 2024",7:00 PM,Wed,Kennesaw State,27,,Liberty,24,
-533,525,10,"Oct 24, 2024",7:00 PM,Thu,Old Dominion,47,,Georgia Southern,19,
-534,526,10,"Oct 24, 2024",7:30 PM,Thu,(19) Pittsburgh,41,,Syracuse,13,
-535,527,10,"Oct 25, 2024",10:30 PM,Fri,(17) Boise State,29,@,Nevada-Las Vegas,24,
-536,528,10,"Oct 25, 2024",7:30 PM,Fri,Louisville,31,@,Boston College,27,
-537,529,10,"Oct 25, 2024",11:00 PM,Fri,Southern California,42,,Rutgers,20,
-538,530,10,"Oct 26, 2024",3:30 PM,Sat,Akron,25,,Eastern Michigan,21,
-539,531,10,"Oct 26, 2024",3:30 PM,Sat,(15) Alabama,34,,(21) Missouri,0,
-540,532,10,"Oct 26, 2024",1:00 PM,Sat,Appalachian State,33,,Georgia State,26,
-541,533,10,"Oct 26, 2024",12:45 PM,Sat,Arkansas,58,@,Mississippi State,25,
-542,534,10,"Oct 26, 2024",7:00 PM,Sat,Arkansas State,34,,Troy,31,
-543,535,10,"Oct 26, 2024",7:45 PM,Sat,Auburn,24,@,Kentucky,10,
-544,536,10,"Oct 26, 2024",3:30 PM,Sat,Ball State,25,,Northern Illinois,23,
-545,537,10,"Oct 26, 2024",3:30 PM,Sat,Baylor,38,,Oklahoma State,28,
-546,538,10,"Oct 26, 2024",3:30 PM,Sat,Bowling Green,41,@,Toledo,26,
-547,539,10,"Oct 26, 2024",3:30 PM,Sat,(11) Brigham Young,37,@,Central Florida,24,
-548,540,10,"Oct 26, 2024",4:00 PM,Sat,California,44,,Oregon State,7,
-549,541,10,"Oct 26, 2024",10:15 PM,Sat,Colorado,34,,Cincinnati,23,
-550,542,10,"Oct 26, 2024",5:00 PM,Sat,Colorado State,17,,New Mexico,6,
-551,543,10,"Oct 26, 2024",3:30 PM,Sat,Connecticut,17,,Rice,10,
-552,544,10,"Oct 26, 2024",2:00 PM,Sat,East Carolina,56,,Temple,34,
-553,545,10,"Oct 26, 2024",8:00 PM,Sat,Fresno State,33,,San Jose State,10,
-554,546,10,"Oct 26, 2024",7:00 PM,Sat,Houston,17,,Utah,14,
-555,547,10,"Oct 26, 2024",12:00 PM,Sat,(13) Indiana,31,,Washington,17,
-556,548,10,"Oct 26, 2024",3:30 PM,Sat,Iowa,40,,Northwestern,14,
-557,549,10,"Oct 26, 2024",3:30 PM,Sat,James Madison,32,,Southern Mississippi,15,
-558,550,10,"Oct 26, 2024",8:00 PM,Sat,(16) Kansas State,29,,Kansas,27,
-559,551,10,"Oct 26, 2024",3:30 PM,Sat,Massachusetts,35,,Wagner,7,
-560,552,10,"Oct 26, 2024",12:00 PM,Sat,Memphis,33,,Charlotte,28,
-561,553,10,"Oct 26, 2024",7:00 PM,Sat,(6) Miami (FL),36,,Florida State,14,
-562,554,10,"Oct 26, 2024",2:00 PM,Sat,Miami (OH),46,,Central Michigan,7,
-563,555,10,"Oct 26, 2024",7:30 PM,Sat,Michigan,24,,Michigan State,17,
-564,556,10,"Oct 26, 2024",3:30 PM,Sat,Minnesota,48,,Maryland,23,
-565,557,10,"Oct 26, 2024",12:00 PM,Sat,(18) Mississippi,26,,Oklahoma,14,
-566,558,10,"Oct 26, 2024",12:00 PM,Sat,North Carolina,41,@,Virginia,14,
-567,559,10,"Oct 26, 2024",12:00 PM,Sat,(12) Notre Dame,51,N,(24) Navy,14,
-568,560,10,"Oct 26, 2024",12:00 PM,Sat,Ohio,47,,Buffalo,16,
-569,561,10,"Oct 26, 2024",12:00 PM,Sat,(4) Ohio State,21,,Nebraska,17,
-570,562,10,"Oct 26, 2024",3:30 PM,Sat,(1) Oregon,38,,(20) Illinois,9,
-571,563,10,"Oct 26, 2024",7:30 PM,Sat,(3) Penn State,28,@,Wisconsin,13,
-572,564,10,"Oct 26, 2024",5:00 PM,Sat,South Alabama,46,,Louisiana-Monroe,17,
-573,565,10,"Oct 26, 2024",8:00 PM,Sat,(22) Southern Methodist,28,@,Duke,27,
-574,566,10,"Oct 26, 2024",4:15 PM,Sat,(5) Texas,27,@,(25) Vanderbilt,24,
-575,567,10,"Oct 26, 2024",7:30 PM,Sat,(14) Texas A&M,38,,(8) Louisiana State,23,
-576,568,10,"Oct 26, 2024",3:30 PM,Sat,Texas Christian,35,,Texas Tech,34,
-577,569,10,"Oct 26, 2024",12:00 PM,Sat,Tulane,45,@,North Texas,37,
-578,570,10,"Oct 26, 2024",3:30 PM,Sat,Tulsa,46,,Texas-San Antonio,45,
-579,571,10,"Oct 26, 2024",7:00 PM,Sat,Utah State,27,@,Wyoming,25,
-580,572,10,"Oct 26, 2024",12:00 PM,Sat,Virginia Tech,21,,Georgia Tech,6,
-581,573,10,"Oct 26, 2024",3:30 PM,Sat,Wake Forest,27,@,Stanford,24,
-582,574,10,"Oct 26, 2024",10:30 PM,Sat,Washington State,29,@,San Diego State,26,
-583,575,10,"Oct 26, 2024",7:00 PM,Sat,West Virginia,31,@,Arizona,26,
-584,576,10,"Oct 26, 2024",3:30 PM,Sat,Western Michigan,52,,Kent State,21,
-585,577,10,"Oct 27, 2024",12:00 AM,Sun,Hawaii,34,,Nevada,13,
-586,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-587,578,11,"Oct 29, 2024",7:00 PM,Tue,Florida International,34,,New Mexico State,13,
-588,579,11,"Oct 29, 2024",7:30 PM,Tue,Louisiana,23,@,Texas State,17,
-589,580,11,"Oct 29, 2024",8:00 PM,Tue,Sam Houston,9,,Louisiana Tech,3,
-590,581,11,"Oct 30, 2024",7:00 PM,Wed,Jacksonville State,31,@,Liberty,21,
-591,582,11,"Oct 30, 2024",7:30 PM,Wed,Western Kentucky,31,,Kennesaw State,14,
-592,583,11,"Oct 31, 2024",7:30 PM,Thu,Tulane,34,@,Charlotte,3,
-593,584,11,"Nov 1, 2024",8:00 PM,Fri,(15) Boise State,56,,San Diego State,24,
-594,585,11,"Nov 1, 2024",7:00 PM,Fri,Connecticut,34,,Georgia State,27,
-595,586,11,"Nov 1, 2024",7:30 PM,Fri,South Florida,44,@,Florida Atlantic,21,
-596,587,11,"Nov 2, 2024",2:30 PM,Sat,Alabama-Birmingham,59,,Tulsa,21,
-597,588,11,"Nov 2, 2024",2:30 PM,Sat,Appalachian State,28,,Old Dominion,20,
-598,589,11,"Nov 2, 2024",3:30 PM,Sat,Arizona State,42,@,Oklahoma State,21,
-599,590,11,"Nov 2, 2024",12:00 PM,Sat,(21) Army,20,,Air Force,3,
-600,591,11,"Nov 2, 2024",8:00 PM,Sat,Baylor,37,,Texas Christian,34,
-601,592,11,"Nov 2, 2024",12:00 PM,Sat,Buffalo,41,@,Akron,30,
-602,593,11,"Nov 2, 2024",3:30 PM,Sat,Central Florida,56,,Arizona,12,
-603,594,11,"Nov 2, 2024",8:00 PM,Sat,Colorado State,38,@,Nevada,21,
-604,595,11,"Nov 2, 2024",3:30 PM,Sat,(2) Georgia,34,N,Florida,20,
-605,596,11,"Nov 2, 2024",7:30 PM,Sat,Georgia Southern,34,@,South Alabama,30,
-606,597,11,"Nov 2, 2024",7:00 PM,Sat,Hawaii,21,@,Fresno State,20,
-607,598,11,"Nov 2, 2024",3:30 PM,Sat,Houston,24,,(17) Kansas State,19,
-608,599,11,"Nov 2, 2024",3:30 PM,Sat,(13) Indiana,47,@,Michigan State,10,
-609,600,11,"Nov 2, 2024",7:30 PM,Sat,Iowa,42,,Wisconsin,10,
-610,601,11,"Nov 2, 2024",7:30 PM,Sat,Louisville,33,@,(11) Clemson,21,
-611,602,11,"Nov 2, 2024",3:30 PM,Sat,Marshall,28,,Louisiana-Monroe,23,
-612,603,11,"Nov 2, 2024",12:00 PM,Sat,(5) Miami (FL),53,,Duke,31,
-613,604,11,"Nov 2, 2024",3:30 PM,Sat,Middle Tennessee State,20,@,Texas-El Paso,13,
-614,605,11,"Nov 2, 2024",12:00 PM,Sat,Minnesota,25,@,(24) Illinois,17,
-615,606,11,"Nov 2, 2024",12:00 PM,Sat,(19) Mississippi,63,@,Arkansas,31,
-616,607,11,"Nov 2, 2024",4:15 PM,Sat,Mississippi State,45,,Massachusetts,20,
-617,608,11,"Nov 2, 2024",2:30 PM,Sat,North Carolina,35,@,Florida State,11,
-618,609,11,"Nov 2, 2024",12:00 PM,Sat,North Carolina State,59,,Stanford,28,
-619,610,11,"Nov 2, 2024",12:00 PM,Sat,Northwestern,26,@,Purdue,20,
-620,611,11,"Nov 2, 2024",12:00 PM,Sat,(4) Ohio State,20,@,(3) Penn State,13,
-621,612,11,"Nov 2, 2024",1:00 PM,Sat,Oklahoma,59,,Maine,14,
-622,613,11,"Nov 2, 2024",3:30 PM,Sat,(1) Oregon,38,@,Michigan,17,
-623,614,11,"Nov 2, 2024",4:00 PM,Sat,Rice,24,,Navy,10,
-624,615,11,"Nov 2, 2024",7:30 PM,Sat,South Carolina,44,,(10) Texas A&M,20,
-625,616,11,"Nov 2, 2024",8:00 PM,Sat,(20) Southern Methodist,48,,(18) Pittsburgh,25,
-626,617,11,"Nov 2, 2024",12:00 PM,Sat,Syracuse,38,,Virginia Tech,31,
-627,618,11,"Nov 2, 2024",7:45 PM,Sat,(7) Tennessee,28,,Kentucky,18,
-628,619,11,"Nov 2, 2024",3:30 PM,Sat,Texas Tech,23,@,(11) Iowa State,22,
-629,620,11,"Nov 2, 2024",12:00 PM,Sat,Texas-San Antonio,44,,Memphis,36,
-630,621,11,"Nov 2, 2024",12:00 PM,Sat,Toledo,29,@,Eastern Michigan,28,
-631,622,11,"Nov 2, 2024",4:00 PM,Sat,Troy,38,,Coastal Carolina,24,
-632,623,11,"Nov 2, 2024",3:30 PM,Sat,UCLA,27,@,Nebraska,20,
-633,624,11,"Nov 2, 2024",12:45 PM,Sat,Vanderbilt,17,@,Auburn,7,
-634,625,11,"Nov 2, 2024",7:30 PM,Sat,Washington,26,,Southern California,21,
-635,626,11,"Nov 2, 2024",4:00 PM,Sat,Wyoming,49,@,New Mexico,45,
-636,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-637,627,12,"Nov 5, 2024",7:30 PM,Tue,Bowling Green,23,@,Central Michigan,13,
-638,628,12,"Nov 5, 2024",8:00 PM,Tue,Miami (OH),27,@,Ball State,21,
-639,629,12,"Nov 6, 2024",7:00 PM,Wed,Northern Illinois,42,@,Western Michigan,28,
-640,630,12,"Nov 6, 2024",7:00 PM,Wed,Ohio,41,@,Kent State,0,
-641,631,12,"Nov 7, 2024",8:00 PM,Thu,Coastal Carolina,38,,Appalachian State,24,
-642,632,12,"Nov 7, 2024",8:00 PM,Thu,East Carolina,49,,Florida Atlantic,14,
-643,633,12,"Nov 8, 2024",8:00 PM,Fri,California,46,@,Wake Forest,36,
-644,634,12,"Nov 8, 2024",9:00 PM,Fri,Memphis,27,,Rice,20,
-645,635,12,"Nov 8, 2024",10:30 PM,Fri,New Mexico,21,@,San Diego State,16,
-646,636,12,"Nov 8, 2024",9:00 PM,Fri,UCLA,20,,Iowa,17,
-647,637,12,"Nov 9, 2024",9:45 PM,Sat,Air Force,36,,Fresno State,28,
-648,638,12,"Nov 9, 2024",7:30 PM,Sat,(11) Alabama,42,@,(14) Louisiana State,13,
-649,639,12,"Nov 9, 2024",7:00 PM,Sat,Arizona State,35,,Central Florida,31,
-650,640,12,"Nov 9, 2024",3:30 PM,Sat,(18) Army,14,@,North Texas,3,
-651,641,12,"Nov 9, 2024",8:00 PM,Sat,(12) Boise State,28,,Nevada,21,
-652,642,12,"Nov 9, 2024",12:00 PM,Sat,Boston College,37,,Syracuse,31,
-653,643,12,"Nov 9, 2024",10:15 PM,Sat,(9) Brigham Young,22,@,Utah,21,
-654,644,12,"Nov 9, 2024",3:30 PM,Sat,(19) Clemson,24,@,Virginia Tech,14,
-655,645,12,"Nov 9, 2024",4:00 PM,Sat,(21) Colorado,41,@,Texas Tech,27,
-656,646,12,"Nov 9, 2024",2:30 PM,Sat,Connecticut,31,@,Alabama-Birmingham,23,
-657,647,12,"Nov 9, 2024",3:30 PM,Sat,Duke,29,@,North Carolina State,19,
-658,648,12,"Nov 9, 2024",12:00 PM,Sat,Georgia Tech,28,,(4) Miami (FL),23,
-659,649,12,"Nov 9, 2024",3:30 PM,Sat,(8) Indiana,20,,Michigan,15,
-660,650,12,"Nov 9, 2024",4:30 PM,Sat,Jacksonville State,44,@,Louisiana Tech,37,
-661,651,12,"Nov 9, 2024",3:30 PM,Sat,James Madison,38,,Georgia State,7,
-662,652,12,"Nov 9, 2024",3:30 PM,Sat,Kansas,45,,(17) Iowa State,36,
-663,653,12,"Nov 9, 2024",1:00 PM,Sat,Liberty,37,@,Middle Tennessee State,17,
-664,654,12,"Nov 9, 2024",5:00 PM,Sat,Louisiana,55,,Arkansas State,19,
-665,655,12,"Nov 9, 2024",3:00 PM,Sat,Marshall,37,@,Southern Mississippi,3,
-666,656,12,"Nov 9, 2024",3:30 PM,Sat,(16) Mississippi,28,,(2) Georgia,10,
-667,657,12,"Nov 9, 2024",7:45 PM,Sat,Missouri,30,,Oklahoma,23,
-668,658,12,"Nov 9, 2024",12:00 PM,Sat,Navy,28,@,South Florida,7,
-669,659,12,"Nov 9, 2024",9:00 PM,Sat,Nevada-Las Vegas,29,@,Hawaii,27,
-670,660,12,"Nov 9, 2024",7:30 PM,Sat,(10) Notre Dame,52,,Florida State,3,
-671,661,12,"Nov 9, 2024",12:00 PM,Sat,(3) Ohio State,45,,Purdue,0,
-672,662,12,"Nov 9, 2024",7:00 PM,Sat,(1) Oregon,39,,Maryland,18,
-673,663,12,"Nov 9, 2024",8:00 PM,Sat,(6) Penn State,35,,Washington,6,
-674,664,12,"Nov 9, 2024",12:00 PM,Sat,Rutgers,26,,Minnesota,19,
-675,665,12,"Nov 9, 2024",3:30 PM,Sat,San Jose State,24,@,Oregon State,13,
-676,666,12,"Nov 9, 2024",4:15 PM,Sat,South Carolina,28,@,(24) Vanderbilt,7,
-677,667,12,"Nov 9, 2024",7:00 PM,Sat,(7) Tennessee,33,,Mississippi State,14,
-678,668,12,"Nov 9, 2024",12:00 PM,Sat,(5) Texas,49,,Florida,17,
-679,669,12,"Nov 9, 2024",7:00 PM,Sat,Texas Christian,38,,Oklahoma State,13,
-680,670,12,"Nov 9, 2024",12:00 PM,Sat,Texas State,38,@,Louisiana-Monroe,17,
-681,671,12,"Nov 9, 2024",4:00 PM,Sat,Texas-El Paso,43,,Kennesaw State,35,
-682,672,12,"Nov 9, 2024",4:00 PM,Sat,Tulane,52,,Temple,6,
-683,673,12,"Nov 9, 2024",8:00 PM,Sat,Virginia,24,@,(23) Pittsburgh,19,
-684,674,12,"Nov 9, 2024",10:30 PM,Sat,(20) Washington State,49,,Utah State,28,
-685,675,12,"Nov 9, 2024",12:00 PM,Sat,West Virginia,31,@,Cincinnati,24,
-686,676,12,"Nov 9, 2024",6:00 PM,Sat,Western Kentucky,41,@,New Mexico State,28,
-687,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-688,677,13,"Nov 12, 2024",7:00 PM,Tue,Bowling Green,31,,Western Michigan,13,
-689,678,13,"Nov 12, 2024",7:00 PM,Tue,Buffalo,51,,Ball State,48,
-690,679,13,"Nov 12, 2024",7:00 PM,Tue,Toledo,37,,Central Michigan,10,
-691,680,13,"Nov 13, 2024",7:00 PM,Wed,Miami (OH),34,,Kent State,7,
-692,681,13,"Nov 13, 2024",7:00 PM,Wed,Northern Illinois,29,,Akron,16,
-693,682,13,"Nov 13, 2024",7:00 PM,Wed,Ohio,35,,Eastern Michigan,10,
-694,683,13,"Nov 14, 2024",7:30 PM,Thu,East Carolina,38,@,Tulsa,31,
-695,684,13,"Nov 15, 2024",10:15 PM,Fri,Arizona,27,,Houston,3,
-696,685,13,"Nov 15, 2024",8:00 PM,Fri,Colorado State,24,,Wyoming,10,
-697,686,13,"Nov 15, 2024",9:00 PM,Fri,Texas-San Antonio,48,,North Texas,27,
-698,687,13,"Nov 15, 2024",9:00 PM,Fri,Washington,31,,UCLA,19,
-699,688,13,"Nov 16, 2024",3:30 PM,Sat,Air Force,28,,Oregon State,0,
-700,689,13,"Nov 16, 2024",2:00 PM,Sat,(9) Alabama,52,,Mercer,7,
-701,690,13,"Nov 16, 2024",7:00 PM,Sat,Arizona State,24,@,(20) Kansas State,14,
-702,691,13,"Nov 16, 2024",5:00 PM,Sat,Arkansas State,27,@,Georgia State,20,
-703,692,13,"Nov 16, 2024",12:45 PM,Sat,Auburn,48,,Louisiana-Monroe,14,
-704,693,13,"Nov 16, 2024",4:00 PM,Sat,Baylor,49,@,West Virginia,35,
-705,694,13,"Nov 16, 2024",7:00 PM,Sat,(13) Boise State,42,@,San Jose State,21,
-706,695,13,"Nov 16, 2024",12:00 PM,Sat,(17) Clemson,24,@,Pittsburgh,20,
-707,696,13,"Nov 16, 2024",12:00 PM,Sat,(18) Colorado,49,,Utah,24,
-708,697,13,"Nov 16, 2024",3:30 PM,Sat,Florida,27,,(21) Louisiana State,16,
-709,698,13,"Nov 16, 2024",7:30 PM,Sat,(11) Georgia,31,,(6) Tennessee,17,
-710,699,13,"Nov 16, 2024",2:30 PM,Sat,Illinois,38,,Michigan State,16,
-711,700,13,"Nov 16, 2024",8:00 PM,Sat,Iowa State,34,,Cincinnati,17,
-712,701,13,"Nov 16, 2024",2:00 PM,Sat,Jacksonville State,34,,Florida International,31,
-713,702,13,"Nov 16, 2024",4:00 PM,Sat,James Madison,35,@,Old Dominion,32,
-714,703,13,"Nov 16, 2024",10:15 PM,Sat,Kansas,17,@,(7) Brigham Young,13,
-715,704,13,"Nov 16, 2024",1:30 PM,Sat,Kentucky,48,,Murray State,6,
-716,705,13,"Nov 16, 2024",12:00 PM,Sat,Liberty,35,@,Massachusetts,34,
-717,706,13,"Nov 16, 2024",12:00 PM,Sat,Louisiana Tech,12,@,Western Kentucky,7,
-718,707,13,"Nov 16, 2024",1:00 PM,Sat,Marshall,31,,Coastal Carolina,19,
-719,708,13,"Nov 16, 2024",8:00 PM,Sat,Memphis,53,,Alabama-Birmingham,18,
-720,709,13,"Nov 16, 2024",10:30 PM,Sat,Nevada-Las Vegas,41,,San Diego State,20,
-721,710,13,"Nov 16, 2024",9:30 PM,Sat,New Mexico,38,,(19) Washington State,35,
-722,711,13,"Nov 16, 2024",8:00 PM,Sat,North Carolina,31,,Wake Forest,24,
-723,712,13,"Nov 16, 2024",3:30 PM,Sat,(8) Notre Dame,35,,Virginia,14,
-724,713,13,"Nov 16, 2024",12:00 PM,Sat,(2) Ohio State,31,@,Northwestern,7,
-725,714,13,"Nov 16, 2024",7:30 PM,Sat,(1) Oregon,16,@,Wisconsin,13,
-726,715,13,"Nov 16, 2024",3:30 PM,Sat,(4) Penn State,49,@,Purdue,10,
-727,716,13,"Nov 16, 2024",6:00 PM,Sat,Rutgers,31,@,Maryland,17,
-728,717,13,"Nov 16, 2024",3:00 PM,Sat,Sam Houston,23,@,Kennesaw State,17,
-729,718,13,"Nov 16, 2024",7:00 PM,Sat,South Alabama,24,@,Louisiana,22,
-730,719,13,"Nov 16, 2024",4:15 PM,Sat,(23) South Carolina,34,,(24) Missouri,30,
-731,720,13,"Nov 16, 2024",3:30 PM,Sat,South Florida,59,@,Charlotte,24,
-732,721,13,"Nov 16, 2024",7:00 PM,Sat,Southern California,28,,Nebraska,20,
-733,722,13,"Nov 16, 2024",3:30 PM,Sat,(14) Southern Methodist,38,,Boston College,28,
-734,723,13,"Nov 16, 2024",3:30 PM,Sat,Stanford,38,,(22) Louisville,35,
-735,724,13,"Nov 16, 2024",3:00 PM,Sat,Syracuse,33,@,California,25,
-736,725,13,"Nov 16, 2024",2:00 PM,Sat,Temple,18,,Florida Atlantic,15,
-737,726,13,"Nov 16, 2024",12:00 PM,Sat,(3) Texas,20,@,Arkansas,10,
-738,727,13,"Nov 16, 2024",7:45 PM,Sat,(15) Texas A&M,38,,New Mexico State,3,
-739,728,13,"Nov 16, 2024",7:00 PM,Sat,Texas State,58,,Southern Mississippi,3,
-740,729,13,"Nov 16, 2024",4:00 PM,Sat,Troy,28,@,Georgia Southern,20,
-741,730,13,"Nov 16, 2024",12:00 PM,Sat,(25) Tulane,35,@,Navy,0,
-742,731,13,"Nov 16, 2024",3:00 PM,Sat,Utah State,55,,Hawaii,10,
-743,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-744,732,14,"Nov 19, 2024",7:00 PM,Tue,Akron,38,@,Kent State,17,
-745,733,14,"Nov 19, 2024",7:30 PM,Tue,Central Michigan,16,,Western Michigan,14,
-746,734,14,"Nov 19, 2024",8:00 PM,Tue,Miami (OH),20,,Northern Illinois,9,
-747,735,14,"Nov 20, 2024",7:00 PM,Wed,Buffalo,37,@,Eastern Michigan,20,
-748,736,14,"Nov 20, 2024",7:00 PM,Wed,Ohio,24,@,Toledo,7,
-749,737,14,"Nov 21, 2024",7:30 PM,Thu,Georgia Tech,30,,North Carolina State,29,
-750,738,14,"Nov 22, 2024",8:00 PM,Fri,Michigan State,24,,Purdue,17,
-751,739,14,"Nov 22, 2024",10:00 PM,Fri,(23) Nevada-Las Vegas,27,@,San Jose State,16,
-752,740,14,"Nov 22, 2024",7:00 PM,Fri,Texas-San Antonio,51,,Temple,27,
-753,741,14,"Nov 23, 2024",10:30 PM,Sat,Air Force,22,@,Nevada,19,
-754,742,14,"Nov 23, 2024",2:00 PM,Sat,Alabama-Birmingham,40,,Rice,14,
-755,743,14,"Nov 23, 2024",2:30 PM,Sat,Appalachian State,34,,James Madison,20,
-756,744,14,"Nov 23, 2024",3:30 PM,Sat,(21) Arizona State,28,,(14) Brigham Young,23,
-757,745,14,"Nov 23, 2024",4:00 PM,Sat,Arkansas,35,,Louisiana Tech,14,
-758,746,14,"Nov 23, 2024",3:00 PM,Sat,Arkansas State,28,,Louisiana-Monroe,21,
-759,747,14,"Nov 23, 2024",8:30 PM,Sat,Auburn,43,,(15) Texas A&M,41,
-760,748,14,"Nov 23, 2024",7:00 PM,Sat,Baylor,20,@,Houston,10,
-761,749,14,"Nov 23, 2024",7:00 PM,Sat,(12) Boise State,17,@,Wyoming,13,
-762,750,14,"Nov 23, 2024",12:00 PM,Sat,Boston College,41,,North Carolina,21,
-763,751,14,"Nov 23, 2024",2:00 PM,Sat,Bowling Green,38,@,Ball State,13,
-764,752,14,"Nov 23, 2024",3:30 PM,Sat,California,24,,Stanford,21,
-765,753,14,"Nov 23, 2024",3:00 PM,Sat,Charlotte,39,@,Florida Atlantic,27,
-766,754,14,"Nov 23, 2024",3:30 PM,Sat,(17) Clemson,51,,Citadel,14,
-767,755,14,"Nov 23, 2024",8:00 PM,Sat,Duke,31,,Virginia Tech,28,
-768,756,14,"Nov 23, 2024",3:30 PM,Sat,East Carolina,40,@,North Texas,28,
-769,757,14,"Nov 23, 2024",12:00 PM,Sat,Florida,24,,(9) Mississippi,17,
-770,758,14,"Nov 23, 2024",1:30 PM,Sat,Florida State,41,,Charleston Southern,7,
-771,759,14,"Nov 23, 2024",10:30 PM,Sat,Fresno State,28,,Colorado State,22,
-772,760,14,"Nov 23, 2024",12:45 PM,Sat,(8) Georgia,59,,Massachusetts,21,
-773,761,14,"Nov 23, 2024",3:30 PM,Sat,Georgia Southern,26,@,Coastal Carolina,6,
-774,762,14,"Nov 23, 2024",7:00 PM,Sat,Georgia State,52,@,Texas State,44,
-775,763,14,"Nov 23, 2024",12:00 PM,Sat,(24) Illinois,38,@,Rutgers,31,
-776,764,14,"Nov 23, 2024",12:00 PM,Sat,Iowa,29,@,Maryland,13,
-777,765,14,"Nov 23, 2024",7:30 PM,Sat,(22) Iowa State,31,@,Utah,28,
-778,766,14,"Nov 23, 2024",12:00 PM,Sat,Jacksonville State,21,,Sam Houston,11,
-779,767,14,"Nov 23, 2024",3:30 PM,Sat,Kansas,37,,(16) Colorado,21,
-780,768,14,"Nov 23, 2024",8:00 PM,Sat,Kansas State,41,,Cincinnati,15,
-781,769,14,"Nov 23, 2024",3:00 PM,Sat,Kennesaw State,27,,Florida International,26,
-782,770,14,"Nov 23, 2024",1:00 PM,Sat,Liberty,38,,Western Kentucky,21,
-783,771,14,"Nov 23, 2024",5:00 PM,Sat,Louisiana,51,,Troy,30,
-784,772,14,"Nov 23, 2024",7:45 PM,Sat,Louisiana State,24,,Vanderbilt,17,
-785,773,14,"Nov 23, 2024",4:00 PM,Sat,Louisville,37,,Pittsburgh,9,
-786,774,14,"Nov 23, 2024",7:30 PM,Sat,Marshall,42,@,Old Dominion,35,
-787,775,14,"Nov 23, 2024",12:00 PM,Sat,(11) Miami (FL),42,,Wake Forest,14,
-788,776,14,"Nov 23, 2024",3:30 PM,Sat,Michigan,50,,Northwestern,6,
-789,777,14,"Nov 23, 2024",4:15 PM,Sat,Missouri,39,@,Mississippi State,20,
-790,778,14,"Nov 23, 2024",3:30 PM,Sat,Nebraska,44,,Wisconsin,25,
-791,779,14,"Nov 23, 2024",2:30 PM,Sat,New Mexico State,36,@,Middle Tennessee State,21,
-792,780,14,"Nov 23, 2024",7:00 PM,Sat,(6) Notre Dame,49,N,(18) Army,14,
-793,781,14,"Nov 23, 2024",12:00 PM,Sat,(2) Ohio State,38,,(5) Indiana,15,
-794,782,14,"Nov 23, 2024",7:30 PM,Sat,Oklahoma,24,,(7) Alabama,3,
-795,783,14,"Nov 23, 2024",6:30 PM,Sat,Oregon State,41,,(25) Washington State,38,
-796,784,14,"Nov 23, 2024",3:30 PM,Sat,(4) Penn State,26,@,Minnesota,25,
-797,785,14,"Nov 23, 2024",3:00 PM,Sat,South Alabama,35,@,Southern Mississippi,14,
-798,786,14,"Nov 23, 2024",4:00 PM,Sat,(19) South Carolina,56,,Wofford,12,
-799,787,14,"Nov 23, 2024",3:30 PM,Sat,South Florida,63,,Tulsa,30,
-800,788,14,"Nov 23, 2024",10:30 PM,Sat,Southern California,19,@,UCLA,13,
-801,789,14,"Nov 23, 2024",12:00 PM,Sat,(13) Southern Methodist,33,@,Virginia,7,
-802,790,14,"Nov 23, 2024",12:00 PM,Sat,Syracuse,31,,Connecticut,24,
-803,791,14,"Nov 23, 2024",1:00 PM,Sat,(10) Tennessee,56,,Texas-El Paso,0,
-804,792,14,"Nov 23, 2024",3:30 PM,Sat,(3) Texas,31,,Kentucky,14,
-805,793,14,"Nov 23, 2024",3:00 PM,Sat,Texas Christian,49,,Arizona,28,
-806,794,14,"Nov 23, 2024",3:30 PM,Sat,Texas Tech,56,@,Oklahoma State,48,
-807,795,14,"Nov 23, 2024",3:30 PM,Sat,Utah State,41,,San Diego State,20,
-808,796,14,"Nov 23, 2024",3:30 PM,Sat,West Virginia,31,,Central Florida,21,
-809,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-810,797,15,"Nov 26, 2024",7:00 PM,Tue,Akron,21,,Toledo,14,
-811,798,15,"Nov 26, 2024",7:00 PM,Tue,Buffalo,43,,Kent State,7,
-812,799,15,"Nov 28, 2024",7:30 PM,Thu,Memphis,34,@,(18) Tulane,24,
-813,800,15,"Nov 29, 2024",12:00 PM,Fri,(11) Boise State,34,,Oregon State,18,
-814,801,15,"Nov 29, 2024",12:00 PM,Fri,(23) Colorado,52,,Oklahoma State,0,
-815,802,15,"Nov 29, 2024",3:30 PM,Fri,Colorado State,42,,Utah State,37,
-816,803,15,"Nov 29, 2024",7:30 PM,Fri,(6) Georgia,44,,Georgia Tech,42,
-817,804,15,"Nov 29, 2024",7:30 PM,Fri,Iowa,13,,Nebraska,10,
-818,805,15,"Nov 29, 2024",12:00 PM,Fri,Miami (OH),28,@,Bowling Green,12,
-819,806,15,"Nov 29, 2024",12:00 PM,Fri,Minnesota,24,@,Wisconsin,7,
-820,807,15,"Nov 29, 2024",3:30 PM,Fri,(15) Mississippi,26,,Mississippi State,14,
-821,808,15,"Nov 29, 2024",12:00 PM,Fri,Navy,34,@,East Carolina,20,
-822,809,15,"Nov 29, 2024",12:00 PM,Fri,Ohio,42,,Ball State,21,
-823,810,15,"Nov 29, 2024",3:30 PM,Fri,Sam Houston,20,,Liberty,18,
-824,811,15,"Nov 29, 2024",4:00 PM,Fri,San Jose State,34,,Stanford,31,
-825,812,15,"Nov 29, 2024",3:30 PM,Fri,Texas State,45,@,South Alabama,38,
-826,813,15,"Nov 29, 2024",8:00 PM,Fri,Utah,28,@,Central Florida,14,
-827,814,15,"Nov 30, 2024",10:30 PM,Sat,Air Force,31,@,San Diego State,20,
-828,815,15,"Nov 30, 2024",3:30 PM,Sat,(13) Alabama,28,,Auburn,14,
-829,816,15,"Nov 30, 2024",3:30 PM,Sat,(14) Arizona State,49,@,Arizona,7,
-830,817,15,"Nov 30, 2024",12:00 PM,Sat,(25) Army,29,,Texas-San Antonio,24,
-831,818,15,"Nov 30, 2024",12:00 PM,Sat,Baylor,45,,Kansas,17,
-832,819,15,"Nov 30, 2024",3:00 PM,Sat,Boston College,34,,Pittsburgh,23,
-833,820,15,"Nov 30, 2024",10:15 PM,Sat,(19) Brigham Young,30,,Houston,18,
-834,821,15,"Nov 30, 2024",3:30 PM,Sat,Charlotte,29,,Alabama-Birmingham,27,
-835,822,15,"Nov 30, 2024",2:00 PM,Sat,Coastal Carolina,48,@,Georgia State,27,
-836,823,15,"Nov 30, 2024",12:00 PM,Sat,Connecticut,47,@,Massachusetts,42,
-837,824,15,"Nov 30, 2024",12:00 PM,Sat,Duke,23,@,Wake Forest,17,
-838,825,15,"Nov 30, 2024",7:00 PM,Sat,Florida,31,@,Florida State,11,
-839,826,15,"Nov 30, 2024",3:30 PM,Sat,Florida Atlantic,63,@,Tulsa,16,
-840,827,15,"Nov 30, 2024",2:00 PM,Sat,Florida International,35,,Middle Tennessee State,24,
-841,828,15,"Nov 30, 2024",6:00 PM,Sat,Georgia Southern,29,,Appalachian State,20,
-842,829,15,"Nov 30, 2024",11:00 PM,Sat,Hawaii,38,,New Mexico,30,
-843,830,15,"Nov 30, 2024",12:00 PM,Sat,(22) Illinois,38,@,Northwestern,28,
-844,831,15,"Nov 30, 2024",7:00 PM,Sat,(10) Indiana,66,,Purdue,0,
-845,832,15,"Nov 30, 2024",7:30 PM,Sat,(17) Iowa State,29,,Kansas State,21,
-846,833,15,"Nov 30, 2024",12:00 PM,Sat,Louisiana,37,@,Louisiana-Monroe,23,
-847,834,15,"Nov 30, 2024",7:00 PM,Sat,Louisiana State,37,,Oklahoma,17,
-848,835,15,"Nov 30, 2024",3:00 PM,Sat,Louisiana Tech,33,,Kennesaw State,0,
-849,836,15,"Nov 30, 2024",12:00 PM,Sat,Louisville,41,@,Kentucky,14,
-850,837,15,"Nov 30, 2024",8:00 PM,Sat,Marshall,35,@,James Madison,33,
-851,838,15,"Nov 30, 2024",12:00 PM,Sat,Michigan,13,@,(2) Ohio State,10,
-852,839,15,"Nov 30, 2024",3:30 PM,Sat,(24) Missouri,28,,Arkansas,21,
-853,840,15,"Nov 30, 2024",8:00 PM,Sat,(21) Nevada-Las Vegas,38,,Nevada,14,
-854,841,15,"Nov 30, 2024",3:30 PM,Sat,North Carolina State,35,@,North Carolina,30,
-855,842,15,"Nov 30, 2024",12:00 PM,Sat,North Texas,24,@,Temple,17,
-856,843,15,"Nov 30, 2024",3:30 PM,Sat,Northern Illinois,24,,Central Michigan,16,
-857,844,15,"Nov 30, 2024",3:30 PM,Sat,(5) Notre Dame,49,@,Southern California,35,
-858,845,15,"Nov 30, 2024",3:00 PM,Sat,Old Dominion,40,@,Arkansas State,32,
-859,846,15,"Nov 30, 2024",7:30 PM,Sat,(1) Oregon,49,,Washington,21,
-860,847,15,"Nov 30, 2024",3:30 PM,Sat,(4) Penn State,44,,Maryland,7,
-861,848,15,"Nov 30, 2024",2:00 PM,Sat,Rice,35,,South Florida,28,
-862,849,15,"Nov 30, 2024",3:30 PM,Sat,Rutgers,41,@,Michigan State,14,
-863,850,15,"Nov 30, 2024",12:00 PM,Sat,(16) South Carolina,17,@,(12) Clemson,14,
-864,851,15,"Nov 30, 2024",3:30 PM,Sat,(9) Southern Methodist,38,,California,6,
-865,852,15,"Nov 30, 2024",3:30 PM,Sat,Syracuse,42,,(8) Miami (FL),38,
-866,853,15,"Nov 30, 2024",12:00 PM,Sat,(7) Tennessee,36,@,Vanderbilt,23,
-867,854,15,"Nov 30, 2024",7:30 PM,Sat,(3) Texas,17,@,(20) Texas A&M,7,
-868,855,15,"Nov 30, 2024",6:00 PM,Sat,Texas Christian,20,@,Cincinnati,13,
-869,856,15,"Nov 30, 2024",12:00 PM,Sat,Texas Tech,52,,West Virginia,15,
-870,857,15,"Nov 30, 2024",4:00 PM,Sat,Texas-El Paso,42,@,New Mexico State,35,
-871,858,15,"Nov 30, 2024",2:00 PM,Sat,Troy,52,,Southern Mississippi,20,
-872,859,15,"Nov 30, 2024",3:30 PM,Sat,UCLA,20,,Fresno State,13,
-873,860,15,"Nov 30, 2024",8:00 PM,Sat,Virginia Tech,37,,Virginia,17,
-874,861,15,"Nov 30, 2024",3:30 PM,Sat,Western Kentucky,19,,Jacksonville State,17,
-875,862,15,"Nov 30, 2024",1:30 PM,Sat,Western Michigan,26,,Eastern Michigan,18,
-876,863,15,"Nov 30, 2024",6:30 PM,Sat,Wyoming,15,@,Washington State,14,
-877,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-878,864,16,"Dec 6, 2024",8:00 PM,Fri,(24) Army,35,,Tulane,14,
-879,865,16,"Dec 6, 2024",8:00 PM,Fri,(10) Boise State,21,,(19) Nevada-Las Vegas,7,
-880,866,16,"Dec 6, 2024",7:00 PM,Fri,Jacksonville State,52,,Western Kentucky,12,
-881,867,16,"Dec 7, 2024",12:00 PM,Sat,(12) Arizona State,45,N,(16) Iowa State,19,
-882,868,16,"Dec 7, 2024",8:00 PM,Sat,(18) Clemson,34,N,(8) Southern Methodist,31,
-883,869,16,"Dec 7, 2024",4:00 PM,Sat,(5) Georgia,22,N,(2) Texas,19,
-884,870,16,"Dec 7, 2024",7:30 PM,Sat,Marshall,31,@,Louisiana,3,
-885,871,16,"Dec 7, 2024",12:00 PM,Sat,Ohio,38,N,Miami (OH),3,
-886,872,16,"Dec 7, 2024",8:00 PM,Sat,(1) Oregon,45,N,(3) Penn State,37,
-887,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-888,873,17,"Dec 14, 2024",3:00 PM,Sat,Navy,31,N,(19) Army,13,
-889,874,17,"Dec 14, 2024",9:00 PM,Sat,South Alabama,30,N,Western Michigan,23,
-890,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-891,875,18,"Dec 17, 2024",9:00 PM,Tue,(25) Memphis,42,N,West Virginia,37,
-892,876,18,"Dec 18, 2024",5:30 PM,Wed,James Madison,27,N,Western Kentucky,17,
-893,877,18,"Dec 18, 2024",9:00 PM,Wed,(24) Nevada-Las Vegas,24,N,California,13,
-894,878,18,"Dec 19, 2024",7:00 PM,Thu,Sam Houston,31,N,Georgia Southern,26,
-895,879,18,"Dec 20, 2024",3:30 PM,Fri,Florida,33,N,Tulane,8,
-896,880,18,"Dec 20, 2024",8:00 PM,Fri,(3) Notre Dame,27,,(9) Indiana,17,College Football Playoff - First Round
-897,881,18,"Dec 20, 2024",12:00 PM,Fri,Ohio,30,N,Jacksonville State,27,
-898,882,18,"Dec 21, 2024",8:00 PM,Sat,(6) Ohio State,42,,(7) Tennessee,17,College Football Playoff - First Round
-899,883,18,"Dec 21, 2024",12:00 PM,Sat,(5) Penn State,38,,(12) Southern Methodist,10,College Football Playoff - First Round
-900,884,18,"Dec 21, 2024",4:00 PM,Sat,(4) Texas,38,,(13) Clemson,24,College Football Playoff - First Round
-901,885,18,"Dec 23, 2024",2:30 PM,Mon,Northern Illinois,28,N,Fresno State,20,
-902,886,18,"Dec 23, 2024",11:00 AM,Mon,Texas-San Antonio,44,@,Coastal Carolina,15,
-903,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-904,887,19,"Dec 24, 2024",8:00 PM,Tue,South Florida,41,N,San Jose State,39,
-905,888,19,"Dec 26, 2024",9:00 PM,Thu,Arkansas State,38,N,Bowling Green,31,
-906,889,19,"Dec 26, 2024",5:30 PM,Thu,Kansas State,44,N,Rutgers,41,
-907,890,19,"Dec 26, 2024",2:00 PM,Thu,Toledo,48,N,Pittsburgh,46,
-908,891,19,"Dec 27, 2024",7:00 PM,Fri,Arkansas,39,N,Texas Tech,26,
-909,892,19,"Dec 27, 2024",12:00 PM,Fri,Navy,21,N,Oklahoma,20,
-910,893,19,"Dec 27, 2024",10:30 PM,Fri,Southern California,35,N,Texas A&M,31,
-911,894,19,"Dec 27, 2024",8:00 PM,Fri,(22) Syracuse,52,N,Washington State,35,
-912,895,19,"Dec 27, 2024",3:30 PM,Fri,Vanderbilt,35,N,Georgia Tech,27,
-913,896,19,"Dec 28, 2024",9:15 PM,Sat,(19) Army,27,N,Louisiana Tech,6,
-914,897,19,"Dec 28, 2024",7:30 PM,Sat,(17) Brigham Young,36,N,(20) Colorado,14,
-915,898,19,"Dec 28, 2024",11:00 AM,Sat,Connecticut,27,N,North Carolina,14,
-916,899,19,"Dec 28, 2024",5:45 PM,Sat,East Carolina,26,N,North Carolina State,21,
-917,900,19,"Dec 28, 2024",3:30 PM,Sat,(18) Iowa State,42,N,(15) Miami (FL),41,
-918,901,19,"Dec 28, 2024",4:30 PM,Sat,Miami (OH),43,N,Colorado State,17,
-919,902,19,"Dec 28, 2024",12:00 PM,Sat,Nebraska,20,N,Boston College,15,
-920,903,19,"Dec 28, 2024",2:15 PM,Sat,Texas Christian,34,N,Louisiana,3,
-921,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-922,904,20,"Dec 30, 2024",2:30 PM,Mon,(23) Missouri,27,N,Iowa,24,
-923,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-924,905,21,"Dec 31, 2024",3:00 PM,Tue,(21) Illinois,21,N,(14) South Carolina,17,
-925,906,21,"Dec 31, 2024",3:30 PM,Tue,Louisiana State,44,N,Baylor,31,
-926,907,21,"Dec 31, 2024",2:00 PM,Tue,Louisville,35,N,Washington,34,
-927,908,21,"Dec 31, 2024",12:00 PM,Tue,Michigan,19,N,(11) Alabama,13,
-928,909,21,"Dec 31, 2024",7:30 PM,Tue,(5) Penn State,31,N,(8) Boise State,14,Fiesta Bowl
-929,910,21,"Jan 1, 2025",5:00 PM,Wed,(6) Ohio State,41,N,(1) Oregon,21,Rose Bowl
-930,911,21,"Jan 1, 2025",1:00 PM,Wed,(4) Texas,39,N,(10) Arizona State,31,Peach Bowl
-931,912,21,"Jan 2, 2025",8:00 PM,Thu,(16) Mississippi,52,N,Duke,20,
-932,913,21,"Jan 2, 2025",4:00 PM,Thu,(3) Notre Dame,23,N,(2) Georgia,10,Sugar Bowl
-933,914,21,"Jan 3, 2025",7:30 PM,Fri,Minnesota,24,N,Virginia Tech,10,
-934,915,21,"Jan 3, 2025",4:00 PM,Fri,Texas State,30,N,North Texas,28,
-935,916,21,"Jan 4, 2025",11:00 AM,Sat,Buffalo,26,N,Liberty,7,
-936,Rk,Wk,Date,Time,Day,Winner,Pts,,Loser,Pts,Notes
-937,917,22,"Jan 9, 2025",7:30 PM,Thu,(3) Notre Dame,,N,(5) Penn State,,Orange Bowl
-938,918,22,"Jan 10, 2025",7:30 PM,Fri,(6) Ohio State,,N,(4) Texas,,Cotton Bowl
+,Date,time,home_team,away_team
+2,2024-08-24,08:00PM,nevada:Nevada,southern-methodist:Southern Methodist
+0,2024-08-24,12:00PM,florida-state:(10) Florida State,georgia-tech:Georgia Tech
+11,2024-08-29,08:00PM,jacksonville-state:Jacksonville State,coastal-carolina:Coastal Carolina
+17,2024-08-29,09:00PM,minnesota:Minnesota,north-carolina:North Carolina
+28,2024-08-30,07:00PM,florida-atlantic:Florida Atlantic,michigan-state:Michigan State
+29,2024-08-30,07:00PM,temple:Temple,oklahoma:(16) Oklahoma
+31,2024-08-30,09:00PM,western-michigan:Western Michigan,wisconsin:Wisconsin
+30,2024-08-30,10:30PM,stanford:Stanford,texas-christian:Texas Christian
+75,2024-08-31,03:30PM,akron:Akron,ohio-state:(2) Ohio State
+89,2024-08-31,03:30PM,colorado-state:Colorado State,texas:(4) Texas
+48,2024-08-31,03:30PM,florida-international:Florida International,indiana:Indiana
+61,2024-08-31,03:30PM,florida:Florida,miami-fl:(19) Miami (FL)
+92,2024-08-31,03:30PM,kennesaw-state:Kennesaw State,texas-san-antonio:Texas-San Antonio
+45,2024-08-31,03:30PM,massachusetts:Massachusetts,eastern-michigan:Eastern Michigan
+73,2024-08-31,03:30PM,miami-oh:Miami (OH),northwestern:Northwestern
+87,2024-08-31,03:30PM,ohio:Ohio,syracuse:Syracuse
+67,2024-08-31,03:30PM,texas-el-paso:Texas-El Paso,nebraska:Nebraska
+40,2024-08-31,04:00PM,georgia-southern:Georgia Southern,boise-state:Boise State
+84,2024-08-31,04:15PM,old-dominion:Old Dominion,south-carolina:South Carolina
+71,2024-08-31,05:00PM,south-alabama:South Alabama,north-texas:North Texas
+69,2024-08-31,07:00PM,houston:Houston,nevada-las-vegas:Nevada-Las Vegas
+82,2024-08-31,07:00PM,rice:Rice,sam-houston-state:Sam Houston
+68,2024-08-31,07:00PM,troy:Troy,nevada:Nevada
+33,2024-08-31,07:00PM,western-kentucky:Western Kentucky,alabama:(5) Alabama
+62,2024-08-31,07:30PM,fresno-state:Fresno State,michigan:(9) Michigan
+93,2024-08-31,07:30PM,hawaii:Hawaii,ucla:UCLA
+74,2024-08-31,07:30PM,texas-am:(20) Texas A&M,notre-dame:(7) Notre Dame
+53,2024-08-31,07:45PM,southern-mississippi:Southern Mississippi,kentucky:Kentucky
+51,2024-08-31,08:00PM,charlotte:Charlotte,james-madison:James Madison
+47,2024-08-31,08:00PM,georgia-state:Georgia State,georgia-tech:Georgia Tech
+35,2024-08-31,10:30PM,new-mexico:New Mexico,arizona:(21) Arizona
+36,2024-08-31,10:30PM,wyoming:Wyoming,arizona-state:Arizona State
+46,2024-08-31,12:00PM,clemson:(14) Clemson,georgia:(1) Georgia
+59,2024-08-31,12:00PM,connecticut:Connecticut,maryland:Maryland
+80,2024-08-31,12:00PM,kent-state:Kent State,pittsburgh:Pittsburgh
+95,2024-08-31,12:00PM,virginia-tech:Virginia Tech,vanderbilt:Vanderbilt
+79,2024-08-31,12:00PM,west-virginia:West Virginia,penn-state:(8) Penn State
+99,2024-09-01,07:30PM,louisiana-state:(13) Louisiana State,southern-california:(23) Southern California
+100,2024-09-02,07:30PM,florida-state:(10) Florida State,boston-college:Boston College
+102,2024-09-06,07:00PM,southern-methodist:Southern Methodist,brigham-young:Brigham Young
+103,2024-09-06,09:00PM,northwestern:Northwestern,duke:Duke
+112,2024-09-07,03:30PM,auburn:Auburn,california:California
+171,2024-09-07,03:30PM,baylor:Baylor,utah:(11) Utah
+144,2024-09-07,03:30PM,charlotte:Charlotte,north-carolina:North Carolina
+175,2024-09-07,03:30PM,eastern-michigan:Eastern Michigan,washington:Washington
+127,2024-09-07,03:30PM,iowa:(21) Iowa,iowa-state:Iowa State
+134,2024-09-07,03:30PM,jacksonville-state:Jacksonville State,louisville:(22) Louisville
+158,2024-09-07,03:30PM,kentucky:Kentucky,south-carolina:South Carolina
+137,2024-09-07,03:30PM,maryland:Maryland,michigan-state:Michigan State
+170,2024-09-07,03:30PM,massachusetts:Massachusetts,toledo:Toledo
+146,2024-09-07,03:30PM,notre-dame:(5) Notre Dame,northern-illinois:Northern Illinois
+141,2024-09-07,03:30PM,temple:Temple,navy:Navy
+169,2024-09-07,04:00PM,texas-san-antonio:Texas-San Antonio,texas-state:Texas State
+139,2024-09-07,04:15PM,middle-tennessee-state:Middle Tennessee State,mississippi:(6) Mississippi
+174,2024-09-07,04:30PM,marshall:Marshall,virginia-tech:Virginia Tech
+120,2024-09-07,06:00PM,central-michigan:Central Michigan,florida-international:Florida International
+118,2024-09-07,06:00PM,old-dominion:Old Dominion,east-carolina:East Carolina
+147,2024-09-07,06:00PM,south-alabama:South Alabama,ohio:Ohio
+113,2024-09-07,06:30PM,sam-houston-state:Sam Houston,central-florida:Central Florida
+157,2024-09-07,07:00PM,air-force:Air Force,san-jose-state:San Jose State
+133,2024-09-07,07:00PM,alabama-birmingham:Alabama-Birmingham,louisiana-monroe:Louisiana-Monroe
+140,2024-09-07,07:00PM,buffalo:Buffalo,missouri:(9) Missouri
+126,2024-09-07,07:00PM,kansas:(19) Kansas,illinois:Illinois
+131,2024-09-07,07:00PM,kennesaw-state:Kennesaw State,louisiana-lafayette:Louisiana
+123,2024-09-07,07:00PM,nevada:Nevada,georgia-southern:Georgia Southern
+105,2024-09-07,07:00PM,south-florida:South Florida,alabama:(4) Alabama
+108,2024-09-07,07:00PM,tulsa:Tulsa,arkansas-state:Arkansas State
+173,2024-09-07,07:00PM,wake-forest:Wake Forest,virginia:Virginia
+142,2024-09-07,07:30PM,colorado:Colorado,nebraska:Nebraska
+165,2024-09-07,07:30PM,north-carolina-state:(24) North Carolina State,tennessee:(14) Tennessee
+148,2024-09-07,07:30PM,western-michigan:Western Michigan,ohio-state:(2) Ohio State
+149,2024-09-07,07:45PM,houston:Houston,oklahoma:(15) Oklahoma
+114,2024-09-07,08:00PM,appalachian-state:Appalachian State,clemson:(25) Clemson
+151,2024-09-07,10:00PM,boise-state:Boise State,oregon:(7) Oregon
+176,2024-09-07,10:00PM,texas-tech:Texas Tech,washington-state:Washington State
+130,2024-09-07,10:15PM,new-mexico-state:New Mexico State,liberty:Liberty
+107,2024-09-07,10:30PM,mississippi-state:Mississippi State,arizona-state:Arizona State
+152,2024-09-07,10:30PM,san-diego-state:San Diego State,oregon-state:Oregon State
+159,2024-09-07,11:00PM,utah-state:Utah State,southern-california:(13) Southern California
+156,2024-09-07,12:00PM,akron:Akron,rutgers:Rutgers
+150,2024-09-07,12:00PM,arkansas:Arkansas,oklahoma-state:(16) Oklahoma State
+153,2024-09-07,12:00PM,bowling-green-state:Bowling Green,penn-state:(8) Penn State
+154,2024-09-07,12:00PM,cincinnati:Cincinnati,pittsburgh:Pittsburgh
+109,2024-09-07,12:00PM,florida-atlantic:Florida Atlantic,army:Army
+164,2024-09-07,12:00PM,georgia-tech:(23) Georgia Tech,syracuse:Syracuse
+166,2024-09-07,12:00PM,michigan:(10) Michigan,texas:(3) Texas
+135,2024-09-07,12:00PM,troy:Troy,memphis:Memphis
+129,2024-09-07,12:00PM,tulane:Tulane,kansas-state:(17) Kansas State
+181,2024-09-12,07:30PM,texas-state:Texas State,arizona-state:Arizona State
+184,2024-09-13,07:00PM,kansas:Kansas,nevada-las-vegas:Nevada-Las Vegas
+183,2024-09-13,08:00PM,arizona:(20) Arizona,kansas-state:(14) Kansas State
+192,2024-09-14,01:00PM,massachusetts:Massachusetts,buffalo:Buffalo
+197,2024-09-14,02:00PM,temple:Temple,coastal-carolina:Coastal Carolina
+215,2024-09-14,03:30PM,ball-state:Ball State,miami-fl:(10) Miami (FL)
+236,2024-09-14,03:30PM,florida:Florida,texas-am:Texas A&M
+218,2024-09-14,03:30PM,nevada:Nevada,minnesota:Minnesota
+229,2024-09-14,03:30PM,oregon-state:Oregon State,oregon:(9) Oregon
+225,2024-09-14,03:30PM,purdue:Purdue,notre-dame:(18) Notre Dame
+227,2024-09-14,03:30PM,tulane:Tulane,oklahoma:(15) Oklahoma
+241,2024-09-14,03:30PM,washington:Washington,washington-state:Washington State
+230,2024-09-14,03:30PM,west-virginia:West Virginia,pittsburgh:Pittsburgh
+187,2024-09-14,04:00PM,east-carolina:East Carolina,appalachian-state:Appalachian State
+210,2024-09-14,04:00PM,troy:Troy,iowa:Iowa
+188,2024-09-14,04:15PM,alabama-birmingham:Alabama-Birmingham,arkansas:Arkansas
+239,2024-09-14,04:30PM,utah-state:Utah State,utah:(12) Utah
+199,2024-09-14,06:00PM,connecticut:Connecticut,duke:Duke
+201,2024-09-14,06:00PM,florida-international:Florida International,florida-atlantic:Florida Atlantic
+240,2024-09-14,06:00PM,old-dominion:Old Dominion,virginia-tech:Virginia Tech
+211,2024-09-14,06:00PM,texas-el-paso:Texas-El Paso,liberty:Liberty
+219,2024-09-14,06:30PM,wake-forest:Wake Forest,mississippi:(5) Mississippi
+231,2024-09-14,07:00PM,hawaii:Hawaii,sam-houston-state:Sam Houston
+200,2024-09-14,07:00PM,jacksonville-state:Jacksonville State,eastern-michigan:Eastern Michigan
+232,2024-09-14,07:00PM,kennesaw-state:Kennesaw State,san-jose-state:San Jose State
+242,2024-09-14,07:00PM,middle-tennessee-state:Middle Tennessee State,western-kentucky:Western Kentucky
+233,2024-09-14,07:00PM,southern-mississippi:Southern Mississippi,south-florida:South Florida
+235,2024-09-14,07:00PM,texas-san-antonio:Texas-San Antonio,texas:(2) Texas
+205,2024-09-14,07:00PM,vanderbilt:Vanderbilt,georgia-state:Georgia State
+190,2024-09-14,07:30PM,air-force:Air Force,baylor:Baylor
+198,2024-09-14,07:30PM,colorado-state:Colorado State,colorado:Colorado
+203,2024-09-14,07:30PM,kentucky:Kentucky,georgia:(1) Georgia
+238,2024-09-14,07:30PM,mississippi-state:Mississippi State,toledo:Toledo
+189,2024-09-14,07:30PM,new-mexico:New Mexico,auburn:Auburn
+194,2024-09-14,07:30PM,texas-christian:Texas Christian,central-florida:Central Florida
+209,2024-09-14,07:30PM,ucla:UCLA,indiana:Indiana
+234,2024-09-14,07:45PM,kent-state:Kent State,tennessee:(7) Tennessee
+207,2024-09-14,08:00PM,rice:Rice,houston:Houston
+213,2024-09-14,08:00PM,virginia:Virginia,maryland:Maryland
+191,2024-09-14,09:00PM,wyoming:Wyoming,brigham-young:Brigham Young
+202,2024-09-14,10:30PM,new-mexico-state:New Mexico State,fresno-state:Fresno State
+193,2024-09-14,10:30PM,san-diego-state:San Diego State,california:California
+216,2024-09-14,12:00PM,arkansas-state:Arkansas State,michigan:(17) Michigan
+208,2024-09-14,12:00PM,central-michigan:Central Michigan,illinois:Illinois
+214,2024-09-14,12:00PM,florida-state:Florida State,memphis:Memphis
+223,2024-09-14,12:00PM,louisiana-tech:Louisiana Tech,north-carolina-state:North Carolina State
+196,2024-09-14,12:00PM,miami-oh:Miami (OH),cincinnati:Cincinnati
+237,2024-09-14,12:00PM,north-texas:North Texas,texas-tech:Texas Tech
+212,2024-09-14,12:00PM,south-carolina:South Carolina,louisiana-state:(16) Louisiana State
+228,2024-09-14,12:00PM,tulsa:Tulsa,oklahoma-state:(13) Oklahoma State
+186,2024-09-14,12:00PM,wisconsin:Wisconsin,alabama:(4) Alabama
+220,2024-09-14,12:45PM,boston-college:(24) Boston College,missouri:(6) Missouri
+245,2024-09-19,07:30PM,appalachian-state:Appalachian State,south-alabama:South Alabama
+247,2024-09-20,07:30PM,syracuse:Syracuse,stanford:Stanford
+246,2024-09-20,08:00PM,nebraska:(22) Nebraska,illinois:(24) Illinois
+248,2024-09-20,10:00PM,san-jose-state:San Jose State,washington-state:Washington State
+255,2024-09-21,01:00PM,ball-state:Ball State,central-michigan:Central Michigan
+268,2024-09-21,02:00PM,arkansas-state:Arkansas State,iowa-state:(20) Iowa State
+304,2024-09-21,02:00PM,coastal-carolina:Coastal Carolina,virginia:Virginia
+294,2024-09-21,02:00PM,utah-state:Utah State,temple:Temple
+269,2024-09-21,03:00PM,southern-mississippi:Southern Mississippi,jacksonville-state:Jacksonville State
+298,2024-09-21,03:30PM,arizona-state:Arizona State,texas-tech:Texas Tech
+249,2024-09-21,03:30PM,auburn:Auburn,arkansas:Arkansas
+274,2024-09-21,03:30PM,georgia-tech:Georgia Tech,louisville:(19) Louisville
+288,2024-09-21,03:30PM,kent-state:Kent State,penn-state:(10) Penn State
+282,2024-09-21,03:30PM,memphis:Memphis,navy:Navy
+285,2024-09-21,03:30PM,miami-oh:Miami (OH),notre-dame:(17) Notre Dame
+254,2024-09-21,03:30PM,northern-illinois:(23) Northern Illinois,buffalo:Buffalo
+278,2024-09-21,03:30PM,southern-california:(11) Southern California,michigan:(18) Michigan
+290,2024-09-21,03:30PM,virginia-tech:Virginia Tech,rutgers:Rutgers
+273,2024-09-21,03:45PM,ucla:UCLA,louisiana-state:(16) Louisiana State
+261,2024-09-21,04:00PM,middle-tennessee-state:Middle Tennessee State,duke:Duke
+303,2024-09-21,04:00PM,oklahoma-state:(14) Oklahoma State,utah:(12) Utah
+280,2024-09-21,04:15PM,vanderbilt:Vanderbilt,missouri:(7) Missouri
+293,2024-09-21,05:00PM,texas-christian:Texas Christian,southern-methodist:Southern Methodist
+259,2024-09-21,05:00PM,texas-el-paso:Texas-El Paso,colorado-state:Colorado State
+272,2024-09-21,06:00PM,east-carolina:East Carolina,liberty:Liberty
+264,2024-09-21,07:00PM,california:California,florida-state:Florida State
+260,2024-09-21,07:00PM,florida-atlantic:Florida Atlantic,connecticut:Connecticut
+302,2024-09-21,07:00PM,louisiana-tech:Louisiana Tech,tulsa:Tulsa
+291,2024-09-21,07:00PM,new-mexico-state:New Mexico State,sam-houston-state:Sam Houston
+305,2024-09-21,07:00PM,northwestern:Northwestern,washington:Washington
+277,2024-09-21,07:00PM,south-florida:South Florida,miami-fl:(8) Miami (FL)
+307,2024-09-21,07:00PM,toledo:Toledo,western-kentucky:Western Kentucky
+284,2024-09-21,07:00PM,wyoming:Wyoming,north-texas:North Texas
+292,2024-09-21,07:30PM,akron:Akron,south-carolina:South Carolina
+297,2024-09-21,07:30PM,bowling-green-state:Bowling Green,texas-am:(25) Texas A&M
+267,2024-09-21,07:30PM,minnesota:Minnesota,iowa:Iowa
+295,2024-09-21,07:30PM,oklahoma:(15) Oklahoma,tennessee:(6) Tennessee
+279,2024-09-21,07:45PM,georgia-southern:Georgia Southern,mississippi:(5) Mississippi
+258,2024-09-21,08:00PM,baylor:Baylor,colorado:Colorado
+296,2024-09-21,08:00PM,louisiana-monroe:Louisiana-Monroe,texas:(1) Texas
+252,2024-09-21,08:00PM,michigan-state:Michigan State,boston-college:Boston College
+265,2024-09-21,08:30PM,new-mexico:New Mexico,fresno-state:Fresno State
+287,2024-09-21,08:30PM,purdue:Purdue,oregon-state:Oregon State
+253,2024-09-21,10:30PM,kansas-state:(13) Kansas State,brigham-young:Brigham Young
+266,2024-09-21,12:00PM,charlotte:Charlotte,indiana:Indiana
+256,2024-09-21,12:00PM,houston:Houston,cincinnati:Cincinnati
+306,2024-09-21,12:00PM,kansas:Kansas,west-virginia:West Virginia
+301,2024-09-21,12:00PM,louisiana-lafayette:Louisiana,tulane:Tulane
+286,2024-09-21,12:00PM,marshall:Marshall,ohio-state:(3) Ohio State
+263,2024-09-21,12:00PM,mississippi-state:Mississippi State,florida:Florida
+257,2024-09-21,12:00PM,north-carolina-state:North Carolina State,clemson:(21) Clemson
+270,2024-09-21,12:00PM,north-carolina:North Carolina,james-madison:James Madison
+250,2024-09-21,12:00PM,rice:Rice,army:Army
+271,2024-09-21,12:45PM,ohio:Ohio,kentucky:Kentucky
+310,2024-09-26,07:30PM,temple:Temple,army:Army
+311,2024-09-27,07:30PM,virginia-tech:Virginia Tech,miami-fl:(7) Miami (FL)
+312,2024-09-27,08:00PM,washington:Washington,rutgers:Rutgers
+331,2024-09-28,01:30PM,ball-state:Ball State,james-madison:James Madison
+354,2024-09-28,03:00PM,texas-state:Texas State,sam-houston-state:Sam Houston
+348,2024-09-28,03:30PM,akron:Akron,ohio:Ohio
+360,2024-09-28,03:30PM,arkansas:Arkansas,texas-am:(24) Texas A&M
+321,2024-09-28,03:30PM,central-florida:Central Florida,colorado:Colorado
+343,2024-09-28,03:30PM,fresno-state:Fresno State,nevada-las-vegas:Nevada-Las Vegas
+328,2024-09-28,03:30PM,georgia-state:Georgia State,georgia-southern:Georgia Southern
+361,2024-09-28,03:30PM,kansas:Kansas,texas-christian:Texas Christian
+325,2024-09-28,03:30PM,kent-state:Kent State,eastern-michigan:Eastern Michigan
+347,2024-09-28,03:30PM,louisville:(15) Louisville,notre-dame:(16) Notre Dame
+339,2024-09-28,03:30PM,massachusetts:Massachusetts,miami-oh:Miami (OH)
+318,2024-09-28,03:30PM,san-diego-state:San Diego State,central-michigan:Central Michigan
+334,2024-09-28,03:30PM,wake-forest:Wake Forest,louisiana-lafayette:Louisiana
+337,2024-09-28,03:30PM,western-michigan:Western Michigan,marshall:Marshall
+355,2024-09-28,03:30PM,wisconsin:Wisconsin,southern-california:(13) Southern California
+350,2024-09-28,03:40PM,auburn:Auburn,oklahoma:(21) Oklahoma
+323,2024-09-28,04:00PM,north-carolina:North Carolina,duke:Duke
+324,2024-09-28,04:00PM,texas-san-antonio:Texas-San Antonio,east-carolina:East Carolina
+359,2024-09-28,04:15PM,mississippi-state:Mississippi State,texas:(1) Texas
+351,2024-09-28,05:00PM,bowling-green-state:Bowling Green,old-dominion:Old Dominion
+327,2024-09-28,06:00PM,louisiana-tech:Louisiana Tech,florida-international:Florida International
+330,2024-09-28,07:00PM,houston:Houston,iowa-state:(18) Iowa State
+349,2024-09-28,07:00PM,michigan-state:Michigan State,ohio-state:(3) Ohio State
+319,2024-09-28,07:00PM,rice:Rice,charlotte:Charlotte
+320,2024-09-28,07:00PM,stanford:Stanford,clemson:(17) Clemson
+336,2024-09-28,07:00PM,troy:Troy,louisiana-monroe:Louisiana-Monroe
+346,2024-09-28,07:00PM,tulsa:Tulsa,north-texas:North Texas
+313,2024-09-28,07:30PM,georgia:(2) Georgia,alabama:(4) Alabama
+353,2024-09-28,07:30PM,illinois:(19) Illinois,penn-state:(9) Penn State
+338,2024-09-28,07:30PM,middle-tennessee-state:Middle Tennessee State,memphis:Memphis
+335,2024-09-28,07:45PM,south-alabama:South Alabama,louisiana-state:(14) Louisiana State
+364,2024-09-28,08:00PM,air-force:Air Force,wyoming:Wyoming
+362,2024-09-28,08:00PM,cincinnati:Cincinnati,texas-tech:Texas Tech
+356,2024-09-28,08:00PM,florida-state:Florida State,southern-methodist:Southern Methodist
+344,2024-09-28,08:00PM,new-mexico-state:New Mexico State,new-mexico:New Mexico
+315,2024-09-28,10:00PM,washington-state:Washington State,boise-state:(25) Boise State
+314,2024-09-28,10:15PM,utah:(10) Utah,arizona:Arizona
+352,2024-09-28,11:00PM,ucla:UCLA,oregon:(8) Oregon
+341,2024-09-28,12:00PM,alabama-birmingham:Alabama-Birmingham,navy:Navy
+317,2024-09-28,12:00PM,baylor:Baylor,brigham-young:(22) Brigham Young
+322,2024-09-28,12:00PM,buffalo:Buffalo,connecticut:Connecticut
+329,2024-09-28,12:00PM,maryland:Maryland,indiana:Indiana
+340,2024-09-28,12:00PM,minnesota:Minnesota,michigan:(12) Michigan
+333,2024-09-28,12:00PM,mississippi:(6) Mississippi,kentucky:Kentucky
+345,2024-09-28,12:00PM,northern-illinois:Northern Illinois,north-carolina-state:North Carolina State
+332,2024-09-28,12:00PM,oklahoma-state:(20) Oklahoma State,kansas-state:(23) Kansas State
+342,2024-09-28,12:00PM,purdue:Purdue,nebraska:Nebraska
+363,2024-09-28,12:00PM,south-florida:South Florida,tulane:Tulane
+316,2024-09-28,12:00PM,western-kentucky:Western Kentucky,boston-college:Boston College
+367,2024-10-03,07:00PM,troy:Troy,texas-state:Texas State
+366,2024-10-03,09:00PM,texas-el-paso:Texas-El Paso,sam-houston-state:Sam Houston
+369,2024-10-04,07:00PM,kennesaw-state:Kennesaw State,jacksonville-state:Jacksonville State
+368,2024-10-04,07:30PM,texas-christian:Texas Christian,houston:Houston
+370,2024-10-04,09:00PM,michigan-state:Michigan State,oregon:(6) Oregon
+371,2024-10-04,09:00PM,nevada-las-vegas:(25) Nevada-Las Vegas,syracuse:Syracuse
+406,2024-10-05,01:00PM,alabama-birmingham:Alabama-Birmingham,tulane:Tulane
+413,2024-10-05,02:00PM,ball-state:Ball State,western-michigan:Western Michigan
+377,2024-10-05,03:30PM,akron:Akron,bowling-green-state:Bowling Green
+389,2024-10-05,03:30PM,appalachian-state:Appalachian State,marshall:Marshall
+383,2024-10-05,03:30PM,auburn:Auburn,georgia:(5) Georgia
+378,2024-10-05,03:30PM,east-carolina:East Carolina,charlotte:Charlotte
+396,2024-10-05,03:30PM,iowa:Iowa,ohio-state:(3) Ohio State
+405,2024-10-05,03:30PM,miami-oh:Miami (OH),toledo:Toledo
+385,2024-10-05,03:30PM,northwestern:Northwestern,indiana:(23) Indiana
+392,2024-10-05,03:30PM,south-carolina:South Carolina,mississippi:(12) Mississippi
+409,2024-10-05,03:30PM,stanford:Stanford,virginia-tech:Virginia Tech
+381,2024-10-05,03:30PM,temple:Temple,connecticut:Connecticut
+412,2024-10-05,04:00PM,oklahoma-state:Oklahoma State,west-virginia:West Virginia
+394,2024-10-05,04:00PM,rutgers:Rutgers,nebraska:Nebraska
+407,2024-10-05,04:15PM,alabama:(1) Alabama,vanderbilt:Vanderbilt
+397,2024-10-05,06:30PM,colorado-state:Colorado State,oregon-state:Oregon State
+379,2024-10-05,07:00PM,florida-state:Florida State,clemson:(15) Clemson
+388,2024-10-05,07:00PM,james-madison:James Madison,louisiana-monroe:Louisiana-Monroe
+380,2024-10-05,07:00PM,old-dominion:Old Dominion,coastal-carolina:Coastal Carolina
+374,2024-10-05,07:00PM,south-alabama:South Alabama,arkansas-state:Arkansas State
+387,2024-10-05,07:00PM,southern-mississippi:Southern Mississippi,louisiana-lafayette:Louisiana
+376,2024-10-05,07:00PM,utah-state:Utah State,boise-state:(21) Boise State
+386,2024-10-05,07:30PM,baylor:Baylor,iowa-state:(16) Iowa State
+411,2024-10-05,07:30PM,michigan:(10) Michigan,washington:Washington
+401,2024-10-05,07:30PM,nevada:Nevada,san-jose-state:San Jose State
+391,2024-10-05,07:30PM,southern-california:(11) Southern California,minnesota:Minnesota
+373,2024-10-05,07:30PM,tennessee:(4) Tennessee,arkansas:Arkansas
+382,2024-10-05,07:45PM,central-florida:Central Florida,florida:Florida
+384,2024-10-05,08:00PM,duke:Duke,georgia-tech:Georgia Tech
+400,2024-10-05,08:00PM,hawaii:Hawaii,san-diego-state:San Diego State
+372,2024-10-05,08:00PM,kansas:Kansas,arizona-state:Arizona State
+390,2024-10-05,10:30PM,california:California,miami-fl:(8) Miami (FL)
+404,2024-10-05,11:00PM,arizona:Arizona,texas-tech:Texas Tech
+393,2024-10-05,12:00PM,air-force:Air Force,navy:Navy
+408,2024-10-05,12:00PM,boston-college:Boston College,virginia:Virginia
+402,2024-10-05,12:00PM,louisville:(22) Louisville,southern-methodist:Southern Methodist
+395,2024-10-05,12:00PM,massachusetts:Massachusetts,northern-illinois:Northern Illinois
+403,2024-10-05,12:00PM,missouri:(9) Missouri,texas-am:(25) Texas A&M
+410,2024-10-05,12:00PM,north-carolina-state:North Carolina State,wake-forest:Wake Forest
+399,2024-10-05,12:00PM,north-carolina:North Carolina,pittsburgh:Pittsburgh
+414,2024-10-05,12:00PM,purdue:Purdue,wisconsin:Wisconsin
+375,2024-10-05,12:00PM,tulsa:Tulsa,army:Army
+398,2024-10-05,12:00PM,ucla:UCLA,penn-state:(7) Penn State
+416,2024-10-08,07:00PM,florida-international:Florida International,liberty:Liberty
+417,2024-10-09,07:30PM,new-mexico-state:New Mexico State,jacksonville-state:Jacksonville State
+418,2024-10-10,07:30PM,coastal-carolina:Coastal Carolina,james-madison:James Madison
+419,2024-10-10,08:00PM,middle-tennessee-state:Middle Tennessee State,louisiana-tech:Louisiana Tech
+420,2024-10-10,08:00PM,texas-el-paso:Texas-El Paso,western-kentucky:Western Kentucky
+423,2024-10-11,08:00PM,maryland:Maryland,northwestern:Northwestern
+422,2024-10-11,09:00PM,utah-state:Utah State,nevada-las-vegas:Nevada-Las Vegas
+421,2024-10-11,10:30PM,utah:(16) Utah,arizona-state:Arizona State
+445,2024-10-12,02:00PM,eastern-michigan:Eastern Michigan,miami-oh:Miami (OH)
+466,2024-10-12,03:30PM,akron:Akron,western-michigan:Western Michigan
+451,2024-10-12,03:30PM,bowling-green-state:Bowling Green,northern-illinois:Northern Illinois
+457,2024-10-12,03:30PM,california:California,pittsburgh:(22) Pittsburgh
+430,2024-10-12,03:30PM,central-florida:Central Florida,cincinnati:Cincinnati
+454,2024-10-12,03:30PM,georgia-state:Georgia State,old-dominion:Old Dominion
+462,2024-10-12,03:30PM,oklahoma:(18) Oklahoma,texas:(1) Texas
+436,2024-10-12,03:30PM,purdue:Purdue,illinois:(23) Illinois
+432,2024-10-12,03:30PM,san-jose-state:San Jose State,colorado-state:Colorado State
+444,2024-10-12,03:30PM,south-florida:South Florida,memphis:Memphis
+456,2024-10-12,03:30PM,southern-california:Southern California,penn-state:(4) Penn State
+452,2024-10-12,03:30PM,stanford:Stanford,notre-dame:(11) Notre Dame
+443,2024-10-12,03:30PM,virginia:Virginia,louisville:Louisville
+459,2024-10-12,03:30PM,wyoming:Wyoming,san-diego-state:San Diego State
+428,2024-10-12,04:00PM,arizona:Arizona,brigham-young:(14) Brigham Young
+453,2024-10-12,04:00PM,central-michigan:Central Michigan,ohio:Ohio
+433,2024-10-12,04:15PM,mississippi-state:Mississippi State,georgia:(5) Georgia
+442,2024-10-12,05:00PM,southern-mississippi:Southern Mississippi,louisiana-monroe:Louisiana-Monroe
+449,2024-10-12,07:00PM,air-force:Air Force,new-mexico:New Mexico
+463,2024-10-12,07:00PM,arkansas-state:Arkansas State,texas-state:Texas State
+450,2024-10-12,07:00PM,florida-atlantic:Florida Atlantic,north-texas:North Texas
+461,2024-10-12,07:00PM,florida:Florida,tennessee:(8) Tennessee
+465,2024-10-12,07:00PM,fresno-state:Fresno State,washington-state:Washington State
+458,2024-10-12,07:00PM,texas-san-antonio:Texas-San Antonio,rice:Rice
+440,2024-10-12,07:30PM,appalachian-state:Appalachian State,louisiana-lafayette:Louisiana
+441,2024-10-12,07:30PM,mississippi:(9) Mississippi,louisiana-state:(13) Louisiana State
+455,2024-10-12,07:30PM,ohio-state:(2) Ohio State,oregon:(3) Oregon
+448,2024-10-12,07:30PM,oregon-state:Oregon State,nevada:Nevada
+464,2024-10-12,07:45PM,kentucky:Kentucky,vanderbilt:Vanderbilt
+434,2024-10-12,08:00PM,marshall:Marshall,georgia-southern:Georgia Southern
+460,2024-10-12,08:00PM,north-carolina-state:North Carolina State,syracuse:Syracuse
+438,2024-10-12,08:00PM,west-virginia:West Virginia,iowa-state:(11) Iowa State
+446,2024-10-12,09:00PM,ucla:UCLA,minnesota:Minnesota
+439,2024-10-12,10:15PM,colorado:Colorado,kansas-state:(18) Kansas State
+427,2024-10-12,11:00PM,hawaii:Hawaii,boise-state:(17) Boise State
+425,2024-10-12,12:00PM,alabama-birmingham:Alabama-Birmingham,army:Army
+426,2024-10-12,12:00PM,kent-state:Kent State,ball-state:Ball State
+447,2024-10-12,12:00PM,massachusetts:Massachusetts,missouri:(21) Missouri
+435,2024-10-12,12:00PM,north-carolina:North Carolina,georgia-tech:Georgia Tech
+467,2024-10-12,12:00PM,rutgers:Rutgers,wisconsin:Wisconsin
+424,2024-10-12,12:00PM,south-carolina:South Carolina,alabama:(7) Alabama
+429,2024-10-12,12:00PM,toledo:Toledo,buffalo:Buffalo
+431,2024-10-12,12:00PM,wake-forest:Wake Forest,clemson:(10) Clemson
+437,2024-10-12,12:00PM,washington:Washington,iowa:Iowa
+471,2024-10-15,07:30PM,troy:Troy,south-alabama:South Alabama
+469,2024-10-15,08:00PM,kennesaw-state:Kennesaw State,middle-tennessee-state:Middle Tennessee State
+470,2024-10-15,09:00PM,louisiana-tech:Louisiana Tech,new-mexico-state:New Mexico State
+473,2024-10-16,07:00PM,sam-houston-state:Sam Houston,western-kentucky:Western Kentucky
+472,2024-10-16,09:00PM,florida-international:Florida International,texas-el-paso:Texas-El Paso
+474,2024-10-17,07:00PM,georgia-state:Georgia State,marshall:Marshall
+475,2024-10-17,07:30PM,boston-college:Boston College,virginia-tech:Virginia Tech
+477,2024-10-18,07:00PM,florida-state:Florida State,duke:Duke
+479,2024-10-18,08:00PM,purdue:Purdue,oregon:(2) Oregon
+476,2024-10-18,10:15PM,oklahoma-state:Oklahoma State,brigham-young:(13) Brigham Young
+478,2024-10-18,10:30PM,nevada:Nevada,fresno-state:Fresno State
+488,2024-10-19,02:00PM,central-michigan:Central Michigan,eastern-michigan:Eastern Michigan
+515,2024-10-19,02:00PM,tulsa:Tulsa,temple:Temple
+513,2024-10-19,03:30PM,alabama-birmingham:Alabama-Birmingham,south-florida:South Florida
+516,2024-10-19,03:30PM,alabama:(7) Alabama,tennessee:(11) Tennessee
+526,2024-10-19,03:30PM,buffalo:Buffalo,western-michigan:Western Michigan
+508,2024-10-19,03:30PM,california:California,north-carolina-state:North Carolina State
+505,2024-10-19,03:30PM,charlotte:Charlotte,navy:(25) Navy
+519,2024-10-19,03:30PM,florida-atlantic:Florida Atlantic,texas-san-antonio:Texas-San Antonio
+509,2024-10-19,03:30PM,georgia-tech:Georgia Tech,notre-dame:(12) Notre Dame
+525,2024-10-19,03:30PM,hawaii:Hawaii,washington-state:Washington State
+495,2024-10-19,03:30PM,houston:Houston,kansas:Kansas
+483,2024-10-19,03:30PM,kent-state:Kent State,bowling-green-state:Bowling Green
+492,2024-10-19,03:30PM,michigan:(24) Michigan,illinois:(22) Illinois
+520,2024-10-19,03:30PM,northern-illinois:Northern Illinois,toledo:Toledo
+502,2024-10-19,03:30PM,ohio:Ohio,miami-oh:Miami (OH)
+521,2024-10-19,03:30PM,rice:Rice,tulane:Tulane
+510,2024-10-19,03:30PM,texas-state:Texas State,old-dominion:Old Dominion
+486,2024-10-19,04:00PM,arizona:Arizona,colorado:Colorado
+491,2024-10-19,04:00PM,james-madison:James Madison,georgia-southern:Georgia Southern
+499,2024-10-19,04:00PM,southern-california:Southern California,maryland:Maryland
+482,2024-10-19,04:00PM,texas-tech:Texas Tech,baylor:Baylor
+507,2024-10-19,04:00PM,utah-state:Utah State,new-mexico:New Mexico
+511,2024-10-19,04:00PM,wyoming:Wyoming,san-jose-state:San Jose State
+517,2024-10-19,04:15PM,mississippi-state:Mississippi State,texas-am:(14) Texas A&M
+498,2024-10-19,07:00PM,arkansas:Arkansas,louisiana-state:(8) Louisiana State
+523,2024-10-19,07:00PM,ball-state:Ball State,vanderbilt:Vanderbilt
+480,2024-10-19,07:00PM,southern-mississippi:Southern Mississippi,arkansas-state:Arkansas State
+494,2024-10-19,07:30PM,central-florida:Central Florida,iowa-state:(9) Iowa State
+503,2024-10-19,07:30PM,iowa:Iowa,michigan-state:Michigan State
+500,2024-10-19,07:30PM,north-texas:North Texas,memphis:Memphis
+490,2024-10-19,07:30PM,texas:(1) Texas,georgia:(5) Georgia
+496,2024-10-19,07:30PM,west-virginia:West Virginia,kansas-state:(17) Kansas State
+489,2024-10-19,07:45PM,kentucky:Kentucky,florida:Florida
+487,2024-10-19,08:00PM,air-force:Air Force,colorado-state:Colorado State
+514,2024-10-19,08:00PM,stanford:Stanford,southern-methodist:(21) Southern Methodist
+506,2024-10-19,10:00PM,oregon-state:Oregon State,nevada-las-vegas:Nevada-Las Vegas
+518,2024-10-19,10:30PM,utah:Utah,texas-christian:Texas Christian
+484,2024-10-19,12:00PM,arizona-state:Arizona State,cincinnati:Cincinnati
+504,2024-10-19,12:00PM,auburn:Auburn,missouri:(19) Missouri
+497,2024-10-19,12:00PM,coastal-carolina:Coastal Carolina,louisiana-lafayette:Louisiana
+524,2024-10-19,12:00PM,connecticut:Connecticut,wake-forest:Wake Forest
+481,2024-10-19,12:00PM,east-carolina:East Carolina,army:(23) Army
+501,2024-10-19,12:00PM,louisville:Louisville,miami-fl:(6) Miami (FL)
+493,2024-10-19,12:00PM,nebraska:Nebraska,indiana:(16) Indiana
+527,2024-10-19,12:00PM,northwestern:Northwestern,wisconsin:Wisconsin
+522,2024-10-19,12:00PM,rutgers:Rutgers,ucla:UCLA
+485,2024-10-19,12:00PM,virginia:Virginia,clemson:(10) Clemson
+512,2024-10-19,12:45PM,oklahoma:Oklahoma,south-carolina:South Carolina
+530,2024-10-22,07:30PM,florida-international:Florida International,sam-houston-state:Sam Houston
+529,2024-10-22,08:00PM,texas-el-paso:Texas-El Paso,louisiana-tech:Louisiana Tech
+532,2024-10-23,07:00PM,liberty:Liberty,kennesaw-state:Kennesaw State
+531,2024-10-23,07:30PM,middle-tennessee-state:Middle Tennessee State,jacksonville-state:Jacksonville State
+533,2024-10-24,07:00PM,georgia-southern:Georgia Southern,old-dominion:Old Dominion
+534,2024-10-24,07:30PM,syracuse:Syracuse,pittsburgh:(19) Pittsburgh
+536,2024-10-25,07:30PM,boston-college:Boston College,louisville:Louisville
+535,2024-10-25,10:30PM,nevada-las-vegas:Nevada-Las Vegas,boise-state:(17) Boise State
+537,2024-10-25,11:00PM,rutgers:Rutgers,southern-california:Southern California
+540,2024-10-26,01:00PM,georgia-state:Georgia State,appalachian-state:Appalachian State
+562,2024-10-26,02:00PM,central-michigan:Central Michigan,miami-oh:Miami (OH)
+552,2024-10-26,02:00PM,temple:Temple,east-carolina:East Carolina
+547,2024-10-26,03:30PM,central-florida:Central Florida,brigham-young:(11) Brigham Young
+538,2024-10-26,03:30PM,eastern-michigan:Eastern Michigan,akron:Akron
+570,2024-10-26,03:30PM,illinois:(20) Illinois,oregon:(1) Oregon
+584,2024-10-26,03:30PM,kent-state:Kent State,western-michigan:Western Michigan
+564,2024-10-26,03:30PM,maryland:Maryland,minnesota:Minnesota
+539,2024-10-26,03:30PM,missouri:(21) Missouri,alabama:(15) Alabama
+544,2024-10-26,03:30PM,northern-illinois:Northern Illinois,ball-state:Ball State
+556,2024-10-26,03:30PM,northwestern:Northwestern,iowa:Iowa
+545,2024-10-26,03:30PM,oklahoma-state:Oklahoma State,baylor:Baylor
+551,2024-10-26,03:30PM,rice:Rice,connecticut:Connecticut
+557,2024-10-26,03:30PM,southern-mississippi:Southern Mississippi,james-madison:James Madison
+581,2024-10-26,03:30PM,stanford:Stanford,wake-forest:Wake Forest
+578,2024-10-26,03:30PM,texas-san-antonio:Texas-San Antonio,tulsa:Tulsa
+576,2024-10-26,03:30PM,texas-tech:Texas Tech,texas-christian:Texas Christian
+546,2024-10-26,03:30PM,toledo:Toledo,bowling-green-state:Bowling Green
+548,2024-10-26,04:00PM,oregon-state:Oregon State,california:California
+574,2024-10-26,04:15PM,vanderbilt:(25) Vanderbilt,texas:(5) Texas
+572,2024-10-26,05:00PM,louisiana-monroe:Louisiana-Monroe,south-alabama:South Alabama
+550,2024-10-26,05:00PM,new-mexico:New Mexico,colorado-state:Colorado State
+583,2024-10-26,07:00PM,arizona:Arizona,west-virginia:West Virginia
+561,2024-10-26,07:00PM,florida-state:Florida State,miami-fl:(6) Miami (FL)
+542,2024-10-26,07:00PM,troy:Troy,arkansas-state:Arkansas State
+554,2024-10-26,07:00PM,utah:Utah,houston:Houston
+579,2024-10-26,07:00PM,wyoming:Wyoming,utah-state:Utah State
+575,2024-10-26,07:30PM,louisiana-state:(8) Louisiana State,texas-am:(14) Texas A&M
+563,2024-10-26,07:30PM,michigan-state:Michigan State,michigan:Michigan
+571,2024-10-26,07:30PM,wisconsin:Wisconsin,penn-state:(3) Penn State
+543,2024-10-26,07:45PM,kentucky:Kentucky,auburn:Auburn
+573,2024-10-26,08:00PM,duke:Duke,southern-methodist:(22) Southern Methodist
+558,2024-10-26,08:00PM,kansas:Kansas,kansas-state:(16) Kansas State
+553,2024-10-26,08:00PM,san-jose-state:San Jose State,fresno-state:Fresno State
+549,2024-10-26,10:15PM,cincinnati:Cincinnati,colorado:Colorado
+582,2024-10-26,10:30PM,san-diego-state:San Diego State,washington-state:Washington State
+568,2024-10-26,12:00PM,buffalo:Buffalo,ohio:Ohio
+560,2024-10-26,12:00PM,charlotte:Charlotte,memphis:Memphis
+580,2024-10-26,12:00PM,georgia-tech:Georgia Tech,virginia-tech:Virginia Tech
+567,2024-10-26,12:00PM,navy:(24) Navy,notre-dame:(12) Notre Dame
+569,2024-10-26,12:00PM,nebraska:Nebraska,ohio-state:(4) Ohio State
+577,2024-10-26,12:00PM,north-texas:North Texas,tulane:Tulane
+565,2024-10-26,12:00PM,oklahoma:Oklahoma,mississippi:(18) Mississippi
+566,2024-10-26,12:00PM,virginia:Virginia,north-carolina:North Carolina
+555,2024-10-26,12:00PM,washington:Washington,indiana:(13) Indiana
+541,2024-10-26,12:45PM,mississippi-state:Mississippi State,arkansas:Arkansas
+585,2024-10-27,12:00AM,nevada:Nevada,hawaii:Hawaii
+587,2024-10-29,07:00PM,new-mexico-state:New Mexico State,florida-international:Florida International
+588,2024-10-29,07:30PM,texas-state:Texas State,louisiana-lafayette:Louisiana
+589,2024-10-29,08:00PM,louisiana-tech:Louisiana Tech,sam-houston-state:Sam Houston
+590,2024-10-30,07:00PM,liberty:Liberty,jacksonville-state:Jacksonville State
+591,2024-10-30,07:30PM,kennesaw-state:Kennesaw State,western-kentucky:Western Kentucky
+592,2024-10-31,07:30PM,charlotte:Charlotte,tulane:Tulane
+594,2024-11-01,07:00PM,georgia-state:Georgia State,connecticut:Connecticut
+595,2024-11-01,07:30PM,florida-atlantic:Florida Atlantic,south-florida:South Florida
+593,2024-11-01,08:00PM,san-diego-state:San Diego State,boise-state:(15) Boise State
+617,2024-11-02,02:30PM,florida-state:Florida State,north-carolina:North Carolina
+597,2024-11-02,02:30PM,old-dominion:Old Dominion,appalachian-state:Appalachian State
+596,2024-11-02,02:30PM,tulsa:Tulsa,alabama-birmingham:Alabama-Birmingham
+602,2024-11-02,03:30PM,arizona:Arizona,central-florida:Central Florida
+604,2024-11-02,03:30PM,florida:Florida,georgia:(2) Georgia
+628,2024-11-02,03:30PM,iowa-state:(11) Iowa State,texas-tech:Texas Tech
+607,2024-11-02,03:30PM,kansas-state:(17) Kansas State,houston:Houston
+611,2024-11-02,03:30PM,louisiana-monroe:Louisiana-Monroe,marshall:Marshall
+608,2024-11-02,03:30PM,michigan-state:Michigan State,indiana:(13) Indiana
+622,2024-11-02,03:30PM,michigan:Michigan,oregon:(1) Oregon
+632,2024-11-02,03:30PM,nebraska:Nebraska,ucla:UCLA
+598,2024-11-02,03:30PM,oklahoma-state:Oklahoma State,arizona-state:Arizona State
+613,2024-11-02,03:30PM,texas-el-paso:Texas-El Paso,middle-tennessee-state:Middle Tennessee State
+631,2024-11-02,04:00PM,coastal-carolina:Coastal Carolina,troy:Troy
+623,2024-11-02,04:00PM,navy:Navy,rice:Rice
+635,2024-11-02,04:00PM,new-mexico:New Mexico,wyoming:Wyoming
+616,2024-11-02,04:15PM,massachusetts:Massachusetts,mississippi-state:Mississippi State
+606,2024-11-02,07:00PM,fresno-state:Fresno State,hawaii:Hawaii
+610,2024-11-02,07:30PM,clemson:(11) Clemson,louisville:Louisville
+605,2024-11-02,07:30PM,south-alabama:South Alabama,georgia-southern:Georgia Southern
+634,2024-11-02,07:30PM,southern-california:Southern California,washington:Washington
+624,2024-11-02,07:30PM,texas-am:(10) Texas A&M,south-carolina:South Carolina
+609,2024-11-02,07:30PM,wisconsin:Wisconsin,iowa:Iowa
+627,2024-11-02,07:45PM,kentucky:Kentucky,tennessee:(7) Tennessee
+603,2024-11-02,08:00PM,nevada:Nevada,colorado-state:Colorado State
+625,2024-11-02,08:00PM,pittsburgh:(18) Pittsburgh,southern-methodist:(20) Southern Methodist
+600,2024-11-02,08:00PM,texas-christian:Texas Christian,baylor:Baylor
+599,2024-11-02,12:00PM,air-force:Air Force,army:(21) Army
+601,2024-11-02,12:00PM,akron:Akron,buffalo:Buffalo
+615,2024-11-02,12:00PM,arkansas:Arkansas,mississippi:(19) Mississippi
+612,2024-11-02,12:00PM,duke:Duke,miami-fl:(5) Miami (FL)
+630,2024-11-02,12:00PM,eastern-michigan:Eastern Michigan,toledo:Toledo
+614,2024-11-02,12:00PM,illinois:(24) Illinois,minnesota:Minnesota
+629,2024-11-02,12:00PM,memphis:Memphis,texas-san-antonio:Texas-San Antonio
+620,2024-11-02,12:00PM,penn-state:(3) Penn State,ohio-state:(4) Ohio State
+619,2024-11-02,12:00PM,purdue:Purdue,northwestern:Northwestern
+618,2024-11-02,12:00PM,stanford:Stanford,north-carolina-state:North Carolina State
+626,2024-11-02,12:00PM,virginia-tech:Virginia Tech,syracuse:Syracuse
+633,2024-11-02,12:45PM,auburn:Auburn,vanderbilt:Vanderbilt
+637,2024-11-05,07:30PM,central-michigan:Central Michigan,bowling-green-state:Bowling Green
+638,2024-11-05,08:00PM,ball-state:Ball State,miami-oh:Miami (OH)
+640,2024-11-06,07:00PM,kent-state:Kent State,ohio:Ohio
+639,2024-11-06,07:00PM,western-michigan:Western Michigan,northern-illinois:Northern Illinois
+641,2024-11-07,08:00PM,appalachian-state:Appalachian State,coastal-carolina:Coastal Carolina
+642,2024-11-07,08:00PM,florida-atlantic:Florida Atlantic,east-carolina:East Carolina
+643,2024-11-08,08:00PM,wake-forest:Wake Forest,california:California
+646,2024-11-08,09:00PM,iowa:Iowa,ucla:UCLA
+644,2024-11-08,09:00PM,rice:Rice,memphis:Memphis
+645,2024-11-08,10:30PM,san-diego-state:San Diego State,new-mexico:New Mexico
+663,2024-11-09,01:00PM,middle-tennessee-state:Middle Tennessee State,liberty:Liberty
+656,2024-11-09,02:30PM,alabama-birmingham:Alabama-Birmingham,connecticut:Connecticut
+665,2024-11-09,03:00PM,southern-mississippi:Southern Mississippi,marshall:Marshall
+661,2024-11-09,03:30PM,georgia-state:Georgia State,james-madison:James Madison
+666,2024-11-09,03:30PM,georgia:(2) Georgia,mississippi:(16) Mississippi
+662,2024-11-09,03:30PM,iowa-state:(17) Iowa State,kansas:Kansas
+659,2024-11-09,03:30PM,michigan:Michigan,indiana:(8) Indiana
+657,2024-11-09,03:30PM,north-carolina-state:North Carolina State,duke:Duke
+650,2024-11-09,03:30PM,north-texas:North Texas,army:(18) Army
+675,2024-11-09,03:30PM,oregon-state:Oregon State,san-jose-state:San Jose State
+654,2024-11-09,03:30PM,virginia-tech:Virginia Tech,clemson:(19) Clemson
+681,2024-11-09,04:00PM,kennesaw-state:Kennesaw State,texas-el-paso:Texas-El Paso
+682,2024-11-09,04:00PM,temple:Temple,tulane:Tulane
+655,2024-11-09,04:00PM,texas-tech:Texas Tech,colorado:(21) Colorado
+676,2024-11-09,04:15PM,vanderbilt:(24) Vanderbilt,south-carolina:South Carolina
+660,2024-11-09,04:30PM,louisiana-tech:Louisiana Tech,jacksonville-state:Jacksonville State
+664,2024-11-09,05:00PM,arkansas-state:Arkansas State,louisiana-lafayette:Louisiana
+686,2024-11-09,06:00PM,new-mexico-state:New Mexico State,western-kentucky:Western Kentucky
+649,2024-11-09,07:00PM,central-florida:Central Florida,arizona-state:Arizona State
+672,2024-11-09,07:00PM,maryland:Maryland,oregon:(1) Oregon
+677,2024-11-09,07:00PM,mississippi-state:Mississippi State,tennessee:(7) Tennessee
+679,2024-11-09,07:00PM,oklahoma-state:Oklahoma State,texas-christian:Texas Christian
+670,2024-11-09,07:30PM,florida-state:Florida State,notre-dame:(10) Notre Dame
+648,2024-11-09,07:30PM,louisiana-state:(14) Louisiana State,alabama:(11) Alabama
+667,2024-11-09,07:45PM,oklahoma:Oklahoma,missouri:Missouri
+651,2024-11-09,08:00PM,nevada:Nevada,boise-state:(12) Boise State
+683,2024-11-09,08:00PM,pittsburgh:(23) Pittsburgh,virginia:Virginia
+673,2024-11-09,08:00PM,washington:Washington,penn-state:(6) Penn State
+669,2024-11-09,09:00PM,hawaii:Hawaii,nevada-las-vegas:Nevada-Las Vegas
+647,2024-11-09,09:45PM,fresno-state:Fresno State,air-force:Air Force
+653,2024-11-09,10:15PM,utah:Utah,brigham-young:(9) Brigham Young
+684,2024-11-09,10:30PM,utah-state:Utah State,washington-state:(20) Washington State
+685,2024-11-09,12:00PM,cincinnati:Cincinnati,west-virginia:West Virginia
+678,2024-11-09,12:00PM,florida:Florida,texas:(5) Texas
+680,2024-11-09,12:00PM,louisiana-monroe:Louisiana-Monroe,texas-state:Texas State
+658,2024-11-09,12:00PM,miami-fl:(4) Miami (FL),georgia-tech:Georgia Tech
+674,2024-11-09,12:00PM,minnesota:Minnesota,rutgers:Rutgers
+671,2024-11-09,12:00PM,purdue:Purdue,ohio-state:(3) Ohio State
+668,2024-11-09,12:00PM,south-florida:South Florida,navy:Navy
+652,2024-11-09,12:00PM,syracuse:Syracuse,boston-college:Boston College
+689,2024-11-12,07:00PM,ball-state:Ball State,buffalo:Buffalo
+690,2024-11-12,07:00PM,central-michigan:Central Michigan,toledo:Toledo
+688,2024-11-12,07:00PM,western-michigan:Western Michigan,bowling-green-state:Bowling Green
+692,2024-11-13,07:00PM,akron:Akron,northern-illinois:Northern Illinois
+693,2024-11-13,07:00PM,eastern-michigan:Eastern Michigan,ohio:Ohio
+691,2024-11-13,07:00PM,kent-state:Kent State,miami-oh:Miami (OH)
+694,2024-11-14,07:30PM,tulsa:Tulsa,east-carolina:East Carolina
+696,2024-11-15,08:00PM,wyoming:Wyoming,colorado-state:Colorado State
+697,2024-11-15,09:00PM,north-texas:North Texas,texas-san-antonio:Texas-San Antonio
+698,2024-11-15,09:00PM,ucla:UCLA,washington:Washington
+695,2024-11-15,10:15PM,houston:Houston,arizona:Arizona
+718,2024-11-16,01:00PM,coastal-carolina:Coastal Carolina,marshall:Marshall
+736,2024-11-16,02:00PM,florida-atlantic:Florida Atlantic,temple:Temple
+712,2024-11-16,02:00PM,florida-international:Florida International,jacksonville-state:Jacksonville State
+710,2024-11-16,02:30PM,michigan-state:Michigan State,illinois:Illinois
+735,2024-11-16,03:00PM,california:California,syracuse:Syracuse
+742,2024-11-16,03:00PM,hawaii:Hawaii,utah-state:Utah State
+728,2024-11-16,03:00PM,kennesaw-state:Kennesaw State,sam-houston-state:Sam Houston
+733,2024-11-16,03:30PM,boston-college:Boston College,southern-methodist:(14) Southern Methodist
+731,2024-11-16,03:30PM,charlotte:Charlotte,south-florida:South Florida
+708,2024-11-16,03:30PM,louisiana-state:(21) Louisiana State,florida:Florida
+734,2024-11-16,03:30PM,louisville:(22) Louisville,stanford:Stanford
+699,2024-11-16,03:30PM,oregon-state:Oregon State,air-force:Air Force
+726,2024-11-16,03:30PM,purdue:Purdue,penn-state:(4) Penn State
+723,2024-11-16,03:30PM,virginia:Virginia,notre-dame:(8) Notre Dame
+740,2024-11-16,04:00PM,georgia-southern:Georgia Southern,troy:Troy
+713,2024-11-16,04:00PM,old-dominion:Old Dominion,james-madison:James Madison
+704,2024-11-16,04:00PM,west-virginia:West Virginia,baylor:Baylor
+730,2024-11-16,04:15PM,missouri:(24) Missouri,south-carolina:(23) South Carolina
+702,2024-11-16,05:00PM,georgia-state:Georgia State,arkansas-state:Arkansas State
+727,2024-11-16,06:00PM,maryland:Maryland,rutgers:Rutgers
+701,2024-11-16,07:00PM,kansas-state:(20) Kansas State,arizona-state:Arizona State
+729,2024-11-16,07:00PM,louisiana-lafayette:Louisiana,south-alabama:South Alabama
+732,2024-11-16,07:00PM,nebraska:Nebraska,southern-california:Southern California
+705,2024-11-16,07:00PM,san-jose-state:San Jose State,boise-state:(13) Boise State
+739,2024-11-16,07:00PM,southern-mississippi:Southern Mississippi,texas-state:Texas State
+709,2024-11-16,07:30PM,tennessee:(6) Tennessee,georgia:(11) Georgia
+725,2024-11-16,07:30PM,wisconsin:Wisconsin,oregon:(1) Oregon
+738,2024-11-16,07:45PM,new-mexico-state:New Mexico State,texas-am:(15) Texas A&M
+719,2024-11-16,08:00PM,alabama-birmingham:Alabama-Birmingham,memphis:Memphis
+711,2024-11-16,08:00PM,cincinnati:Cincinnati,iowa-state:Iowa State
+722,2024-11-16,08:00PM,wake-forest:Wake Forest,north-carolina:North Carolina
+721,2024-11-16,09:30PM,washington-state:(19) Washington State,new-mexico:New Mexico
+714,2024-11-16,10:15PM,brigham-young:(7) Brigham Young,kansas:Kansas
+720,2024-11-16,10:30PM,san-diego-state:San Diego State,nevada-las-vegas:Nevada-Las Vegas
+737,2024-11-16,12:00PM,arkansas:Arkansas,texas:(3) Texas
+716,2024-11-16,12:00PM,massachusetts:Massachusetts,liberty:Liberty
+741,2024-11-16,12:00PM,navy:Navy,tulane:(25) Tulane
+724,2024-11-16,12:00PM,northwestern:Northwestern,ohio-state:(2) Ohio State
+706,2024-11-16,12:00PM,pittsburgh:Pittsburgh,clemson:(17) Clemson
+707,2024-11-16,12:00PM,utah:Utah,colorado:(18) Colorado
+717,2024-11-16,12:00PM,western-kentucky:Western Kentucky,louisiana-tech:Louisiana Tech
+703,2024-11-16,12:45PM,louisiana-monroe:Louisiana-Monroe,auburn:Auburn
+744,2024-11-19,07:00PM,kent-state:Kent State,akron:Akron
+745,2024-11-19,07:30PM,western-michigan:Western Michigan,central-michigan:Central Michigan
+746,2024-11-19,08:00PM,northern-illinois:Northern Illinois,miami-oh:Miami (OH)
+747,2024-11-20,07:00PM,eastern-michigan:Eastern Michigan,buffalo:Buffalo
+748,2024-11-20,07:00PM,toledo:Toledo,ohio:Ohio
+749,2024-11-21,07:30PM,north-carolina-state:North Carolina State,georgia-tech:Georgia Tech
+752,2024-11-22,07:00PM,temple:Temple,texas-san-antonio:Texas-San Antonio
+750,2024-11-22,08:00PM,purdue:Purdue,michigan-state:Michigan State
+751,2024-11-22,10:00PM,san-jose-state:San Jose State,nevada-las-vegas:(23) Nevada-Las Vegas
+803,2024-11-23,01:00PM,texas-el-paso:Texas-El Paso,tennessee:(10) Tennessee
+782,2024-11-23,01:00PM,western-kentucky:Western Kentucky,liberty:Liberty
+763,2024-11-23,02:00PM,ball-state:Ball State,bowling-green-state:Bowling Green
+754,2024-11-23,02:00PM,rice:Rice,alabama-birmingham:Alabama-Birmingham
+755,2024-11-23,02:30PM,james-madison:James Madison,appalachian-state:Appalachian State
+791,2024-11-23,02:30PM,middle-tennessee-state:Middle Tennessee State,new-mexico-state:New Mexico State
+805,2024-11-23,03:00PM,arizona:Arizona,texas-christian:Texas Christian
+765,2024-11-23,03:00PM,florida-atlantic:Florida Atlantic,charlotte:Charlotte
+781,2024-11-23,03:00PM,florida-international:Florida International,kennesaw-state:Kennesaw State
+758,2024-11-23,03:00PM,louisiana-monroe:Louisiana-Monroe,arkansas-state:Arkansas State
+797,2024-11-23,03:00PM,southern-mississippi:Southern Mississippi,south-alabama:South Alabama
+756,2024-11-23,03:30PM,brigham-young:(14) Brigham Young,arizona-state:(21) Arizona State
+808,2024-11-23,03:30PM,central-florida:Central Florida,west-virginia:West Virginia
+773,2024-11-23,03:30PM,coastal-carolina:Coastal Carolina,georgia-southern:Georgia Southern
+779,2024-11-23,03:30PM,colorado:(16) Colorado,kansas:Kansas
+804,2024-11-23,03:30PM,kentucky:Kentucky,texas:(3) Texas
+796,2024-11-23,03:30PM,minnesota:Minnesota,penn-state:(4) Penn State
+768,2024-11-23,03:30PM,north-texas:North Texas,east-carolina:East Carolina
+788,2024-11-23,03:30PM,northwestern:Northwestern,michigan:Michigan
+806,2024-11-23,03:30PM,oklahoma-state:Oklahoma State,texas-tech:Texas Tech
+807,2024-11-23,03:30PM,san-diego-state:San Diego State,utah-state:Utah State
+764,2024-11-23,03:30PM,stanford:Stanford,california:California
+799,2024-11-23,03:30PM,tulsa:Tulsa,south-florida:South Florida
+790,2024-11-23,03:30PM,wisconsin:Wisconsin,nebraska:Nebraska
+757,2024-11-23,04:00PM,louisiana-tech:Louisiana Tech,arkansas:Arkansas
+785,2024-11-23,04:00PM,pittsburgh:Pittsburgh,louisville:Louisville
+789,2024-11-23,04:15PM,mississippi-state:Mississippi State,missouri:Missouri
+783,2024-11-23,05:00PM,troy:Troy,louisiana-lafayette:Louisiana
+795,2024-11-23,06:30PM,washington-state:(25) Washington State,oregon-state:Oregon State
+792,2024-11-23,07:00PM,army:(18) Army,notre-dame:(6) Notre Dame
+760,2024-11-23,07:00PM,houston:Houston,baylor:Baylor
+774,2024-11-23,07:00PM,texas-state:Texas State,georgia-state:Georgia State
+761,2024-11-23,07:00PM,wyoming:Wyoming,boise-state:(12) Boise State
+794,2024-11-23,07:30PM,alabama:(7) Alabama,oklahoma:Oklahoma
+786,2024-11-23,07:30PM,old-dominion:Old Dominion,marshall:Marshall
+777,2024-11-23,07:30PM,utah:Utah,iowa-state:(22) Iowa State
+784,2024-11-23,07:45PM,vanderbilt:Vanderbilt,louisiana-state:Louisiana State
+780,2024-11-23,08:00PM,cincinnati:Cincinnati,kansas-state:Kansas State
+767,2024-11-23,08:00PM,virginia-tech:Virginia Tech,duke:Duke
+759,2024-11-23,08:30PM,texas-am:(15) Texas A&M,auburn:Auburn
+771,2024-11-23,10:30PM,colorado-state:Colorado State,fresno-state:Fresno State
+753,2024-11-23,10:30PM,nevada:Nevada,air-force:Air Force
+800,2024-11-23,10:30PM,ucla:UCLA,southern-california:Southern California
+802,2024-11-23,12:00PM,connecticut:Connecticut,syracuse:Syracuse
+793,2024-11-23,12:00PM,indiana:(5) Indiana,ohio-state:(2) Ohio State
+776,2024-11-23,12:00PM,maryland:Maryland,iowa:Iowa
+769,2024-11-23,12:00PM,mississippi:(9) Mississippi,florida:Florida
+762,2024-11-23,12:00PM,north-carolina:North Carolina,boston-college:Boston College
+775,2024-11-23,12:00PM,rutgers:Rutgers,illinois:(24) Illinois
+778,2024-11-23,12:00PM,sam-houston-state:Sam Houston,jacksonville-state:Jacksonville State
+801,2024-11-23,12:00PM,virginia:Virginia,southern-methodist:(13) Southern Methodist
+787,2024-11-23,12:00PM,wake-forest:Wake Forest,miami-fl:(11) Miami (FL)
+772,2024-11-23,12:45PM,massachusetts:Massachusetts,georgia:(8) Georgia
+811,2024-11-26,07:00PM,kent-state:Kent State,buffalo:Buffalo
+810,2024-11-26,07:00PM,toledo:Toledo,akron:Akron
+812,2024-11-28,07:30PM,tulane:(18) Tulane,memphis:Memphis
+823,2024-11-29,03:30PM,liberty:Liberty,sam-houston-state:Sam Houston
+820,2024-11-29,03:30PM,mississippi-state:Mississippi State,mississippi:(15) Mississippi
+825,2024-11-29,03:30PM,south-alabama:South Alabama,texas-state:Texas State
+815,2024-11-29,03:30PM,utah-state:Utah State,colorado-state:Colorado State
+824,2024-11-29,04:00PM,stanford:Stanford,san-jose-state:San Jose State
+816,2024-11-29,07:30PM,georgia-tech:Georgia Tech,georgia:(6) Georgia
+817,2024-11-29,07:30PM,nebraska:Nebraska,iowa:Iowa
+826,2024-11-29,08:00PM,central-florida:Central Florida,utah:Utah
+822,2024-11-29,12:00PM,ball-state:Ball State,ohio:Ohio
+818,2024-11-29,12:00PM,bowling-green-state:Bowling Green,miami-oh:Miami (OH)
+821,2024-11-29,12:00PM,east-carolina:East Carolina,navy:Navy
+814,2024-11-29,12:00PM,oklahoma-state:Oklahoma State,colorado:(23) Colorado
+813,2024-11-29,12:00PM,oregon-state:Oregon State,boise-state:(11) Boise State
+819,2024-11-29,12:00PM,wisconsin:Wisconsin,minnesota:Minnesota
+875,2024-11-30,01:30PM,eastern-michigan:Eastern Michigan,western-michigan:Western Michigan
+835,2024-11-30,02:00PM,georgia-state:Georgia State,coastal-carolina:Coastal Carolina
+840,2024-11-30,02:00PM,middle-tennessee-state:Middle Tennessee State,florida-international:Florida International
+861,2024-11-30,02:00PM,south-florida:South Florida,rice:Rice
+871,2024-11-30,02:00PM,southern-mississippi:Southern Mississippi,troy:Troy
+858,2024-11-30,03:00PM,arkansas-state:Arkansas State,old-dominion:Old Dominion
+848,2024-11-30,03:00PM,kennesaw-state:Kennesaw State,louisiana-tech:Louisiana Tech
+832,2024-11-30,03:00PM,pittsburgh:Pittsburgh,boston-college:Boston College
+834,2024-11-30,03:30PM,alabama-birmingham:Alabama-Birmingham,charlotte:Charlotte
+829,2024-11-30,03:30PM,arizona:Arizona,arizona-state:(14) Arizona State
+852,2024-11-30,03:30PM,arkansas:Arkansas,missouri:(24) Missouri
+828,2024-11-30,03:30PM,auburn:Auburn,alabama:(13) Alabama
+864,2024-11-30,03:30PM,california:California,southern-methodist:(9) Southern Methodist
+856,2024-11-30,03:30PM,central-michigan:Central Michigan,northern-illinois:Northern Illinois
+872,2024-11-30,03:30PM,fresno-state:Fresno State,ucla:UCLA
+874,2024-11-30,03:30PM,jacksonville-state:Jacksonville State,western-kentucky:Western Kentucky
+860,2024-11-30,03:30PM,maryland:Maryland,penn-state:(4) Penn State
+865,2024-11-30,03:30PM,miami-fl:(8) Miami (FL),syracuse:Syracuse
+862,2024-11-30,03:30PM,michigan-state:Michigan State,rutgers:Rutgers
+854,2024-11-30,03:30PM,north-carolina:North Carolina,north-carolina-state:North Carolina State
+857,2024-11-30,03:30PM,southern-california:Southern California,notre-dame:(5) Notre Dame
+839,2024-11-30,03:30PM,tulsa:Tulsa,florida-atlantic:Florida Atlantic
+870,2024-11-30,04:00PM,new-mexico-state:New Mexico State,texas-el-paso:Texas-El Paso
+841,2024-11-30,06:00PM,appalachian-state:Appalachian State,georgia-southern:Georgia Southern
+868,2024-11-30,06:00PM,cincinnati:Cincinnati,texas-christian:Texas Christian
+876,2024-11-30,06:30PM,washington-state:Washington State,wyoming:Wyoming
+838,2024-11-30,07:00PM,florida-state:Florida State,florida:Florida
+847,2024-11-30,07:00PM,oklahoma:Oklahoma,louisiana-state:Louisiana State
+844,2024-11-30,07:00PM,purdue:Purdue,indiana:(10) Indiana
+845,2024-11-30,07:30PM,kansas-state:Kansas State,iowa-state:(17) Iowa State
+867,2024-11-30,07:30PM,texas-am:(20) Texas A&M,texas:(3) Texas
+859,2024-11-30,07:30PM,washington:Washington,oregon:(1) Oregon
+850,2024-11-30,08:00PM,james-madison:James Madison,marshall:Marshall
+853,2024-11-30,08:00PM,nevada:Nevada,nevada-las-vegas:(21) Nevada-Las Vegas
+873,2024-11-30,08:00PM,virginia:Virginia,virginia-tech:Virginia Tech
+833,2024-11-30,10:15PM,houston:Houston,brigham-young:(19) Brigham Young
+827,2024-11-30,10:30PM,san-diego-state:San Diego State,air-force:Air Force
+842,2024-11-30,11:00PM,new-mexico:New Mexico,hawaii:Hawaii
+863,2024-11-30,12:00PM,clemson:(12) Clemson,south-carolina:(16) South Carolina
+831,2024-11-30,12:00PM,kansas:Kansas,baylor:Baylor
+849,2024-11-30,12:00PM,kentucky:Kentucky,louisville:Louisville
+846,2024-11-30,12:00PM,louisiana-monroe:Louisiana-Monroe,louisiana-lafayette:Louisiana
+836,2024-11-30,12:00PM,massachusetts:Massachusetts,connecticut:Connecticut
+843,2024-11-30,12:00PM,northwestern:Northwestern,illinois:(22) Illinois
+851,2024-11-30,12:00PM,ohio-state:(2) Ohio State,michigan:Michigan
+855,2024-11-30,12:00PM,temple:Temple,north-texas:North Texas
+830,2024-11-30,12:00PM,texas-san-antonio:Texas-San Antonio,army:(25) Army
+866,2024-11-30,12:00PM,vanderbilt:Vanderbilt,tennessee:(7) Tennessee
+837,2024-11-30,12:00PM,wake-forest:Wake Forest,duke:Duke
+869,2024-11-30,12:00PM,west-virginia:West Virginia,texas-tech:Texas Tech
+880,2024-12-06,07:00PM,western-kentucky:Western Kentucky,jacksonville-state:Jacksonville State
+879,2024-12-06,08:00PM,nevada-las-vegas:(19) Nevada-Las Vegas,boise-state:(10) Boise State
+878,2024-12-06,08:00PM,tulane:Tulane,army:(24) Army
+883,2024-12-07,04:00PM,texas:(2) Texas,georgia:(5) Georgia
+884,2024-12-07,07:30PM,louisiana-lafayette:Louisiana,marshall:Marshall
+886,2024-12-07,08:00PM,penn-state:(3) Penn State,oregon:(1) Oregon
+882,2024-12-07,08:00PM,southern-methodist:(8) Southern Methodist,clemson:(18) Clemson
+881,2024-12-07,12:00PM,iowa-state:(16) Iowa State,arizona-state:(12) Arizona State
+885,2024-12-07,12:00PM,miami-oh:Miami (OH),ohio:Ohio
+888,2024-12-14,03:00PM,army:(19) Army,navy:Navy
+889,2024-12-14,09:00PM,western-michigan:Western Michigan,south-alabama:South Alabama
+891,2024-12-17,09:00PM,west-virginia:West Virginia,memphis:(25) Memphis
+892,2024-12-18,05:30PM,western-kentucky:Western Kentucky,james-madison:James Madison
+893,2024-12-18,09:00PM,california:California,nevada-las-vegas:(24) Nevada-Las Vegas
+894,2024-12-19,07:00PM,georgia-southern:Georgia Southern,sam-houston-state:Sam Houston
+895,2024-12-20,03:30PM,tulane:Tulane,florida:Florida
+896,2024-12-20,08:00PM,indiana:(9) Indiana,notre-dame:(3) Notre Dame
+897,2024-12-20,12:00PM,jacksonville-state:Jacksonville State,ohio:Ohio
+900,2024-12-21,04:00PM,clemson:(13) Clemson,texas:(4) Texas
+898,2024-12-21,08:00PM,tennessee:(7) Tennessee,ohio-state:(6) Ohio State
+899,2024-12-21,12:00PM,southern-methodist:(12) Southern Methodist,penn-state:(5) Penn State
+901,2024-12-23,02:30PM,fresno-state:Fresno State,northern-illinois:Northern Illinois
+902,2024-12-23,11:00AM,coastal-carolina:Coastal Carolina,texas-san-antonio:Texas-San Antonio
+904,2024-12-24,08:00PM,san-jose-state:San Jose State,south-florida:South Florida
+907,2024-12-26,02:00PM,pittsburgh:Pittsburgh,toledo:Toledo
+906,2024-12-26,05:30PM,rutgers:Rutgers,kansas-state:Kansas State
+905,2024-12-26,09:00PM,bowling-green-state:Bowling Green,arkansas-state:Arkansas State
+912,2024-12-27,03:30PM,georgia-tech:Georgia Tech,vanderbilt:Vanderbilt
+908,2024-12-27,07:00PM,texas-tech:Texas Tech,arkansas:Arkansas
+911,2024-12-27,08:00PM,washington-state:Washington State,syracuse:(22) Syracuse
+910,2024-12-27,10:30PM,texas-am:Texas A&M,southern-california:Southern California
+909,2024-12-27,12:00PM,oklahoma:Oklahoma,navy:Navy
+920,2024-12-28,02:15PM,louisiana-lafayette:Louisiana,texas-christian:Texas Christian
+917,2024-12-28,03:30PM,miami-fl:(15) Miami (FL),iowa-state:(18) Iowa State
+918,2024-12-28,04:30PM,colorado-state:Colorado State,miami-oh:Miami (OH)
+916,2024-12-28,05:45PM,north-carolina-state:North Carolina State,east-carolina:East Carolina
+914,2024-12-28,07:30PM,colorado:(20) Colorado,brigham-young:(17) Brigham Young
+913,2024-12-28,09:15PM,louisiana-tech:Louisiana Tech,army:(19) Army
+915,2024-12-28,11:00AM,north-carolina:North Carolina,connecticut:Connecticut
+919,2024-12-28,12:00PM,boston-college:Boston College,nebraska:Nebraska
+922,2024-12-30,02:30PM,iowa:Iowa,missouri:(23) Missouri
+926,2024-12-31,02:00PM,washington:Washington,louisville:Louisville
+924,2024-12-31,03:00PM,south-carolina:(14) South Carolina,illinois:(21) Illinois
+925,2024-12-31,03:30PM,baylor:Baylor,louisiana-state:Louisiana State
+928,2024-12-31,07:30PM,boise-state:(8) Boise State,penn-state:(5) Penn State
+927,2024-12-31,12:00PM,alabama:(11) Alabama,michigan:Michigan
+930,2025-01-01,01:00PM,arizona-state:(10) Arizona State,texas:(4) Texas
+929,2025-01-01,05:00PM,oregon:(1) Oregon,ohio-state:(6) Ohio State
+932,2025-01-02,04:00PM,georgia:(2) Georgia,notre-dame:(3) Notre Dame
+931,2025-01-02,08:00PM,duke:Duke,mississippi:(16) Mississippi
+934,2025-01-03,04:00PM,north-texas:North Texas,texas-state:Texas State
+933,2025-01-03,07:30PM,virginia-tech:Virginia Tech,minnesota:Minnesota
+935,2025-01-04,11:00AM,liberty:Liberty,buffalo:Buffalo
+937,2025-01-09,07:30PM,penn-state:(5) Penn State,notre-dame:(3) Notre Dame
+938,2025-01-10,07:30PM,texas:(4) Texas,ohio-state:(6) Ohio State
+940,2025-01-20,07:30PM,notre-dame:(3) Notre Dame,ohio-state:(6) Ohio State
