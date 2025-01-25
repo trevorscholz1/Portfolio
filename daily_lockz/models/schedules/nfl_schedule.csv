@@ -277,7 +277,9 @@
 293,2025-01-12,04:30PM,gnb:Green Bay Packers,phi:Philadelphia Eagles
 294,2025-01-12,08:00PM,tam:Tampa Bay Buccaneers,was:Washington Commanders
 295,2025-01-13,08:00PM,min:Minnesota Vikings,ram:Los Angeles Rams
-296,2025-01-18,04:30PM,kan:Kansas City Chiefs,htx:Houston Texans
+296,2025-01-18,04:30PM,htx:Houston Texans,kan:Kansas City Chiefs
 297,2025-01-18,08:00PM,det:Detroit Lions,was:Washington Commanders
-298,2025-01-19,03:00PM,phi:Philadelphia Eagles,ram:Los Angeles Rams
-299,2025-01-19,06:30PM,buf:Buffalo Bills,rav:Baltimore Ravens
+298,2025-01-19,03:00PM,ram:Los Angeles Rams,phi:Philadelphia Eagles
+299,2025-01-19,06:30PM,rav:Baltimore Ravens,buf:Buffalo Bills
+300,2025-01-26,03:00PM,phi:Philadelphia Eagles,was:Washington Commanders
+301,2025-01-26,06:30PM,kan:Kansas City Chiefs,buf:Buffalo Bills

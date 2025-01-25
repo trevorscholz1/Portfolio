@@ -1,5 +1,5 @@
 	.section	__TEXT,__text,regular,pure_instructions
-	.build_version macos, 15, 0	sdk_version 15, 0
+	.build_version macos, 15, 0	sdk_version 15, 2
 	.globl	_remove_file                    ; -- Begin function remove_file
 	.p2align	2
 _remove_file:                           ; @remove_file

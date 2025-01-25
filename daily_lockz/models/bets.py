@@ -34,7 +34,7 @@ os.system('git add .')
 os.system("git commit -m 'daily'")
 os.system('git push')
 os.chdir('../../trevorscholz1/daily_lockz/models')
-os.system('node uploadBlogPosts.js')
+# os.system('node uploadBlogPosts.js')
 print('DONE')
 
 bets = all_sims[all_sims['is_dl'] == True].copy()
@@ -54,8 +54,6 @@ for index, row in bets.iterrows():
         assignment = np.random.choice(['Spread','Total'])
     elif len(assignments[row['sport']]) == 1:
         assignment = 'Spread' if assignments[row['sport']][0] == 'Total' else 'Total'
-    else:
-        continue
 
     if row['h_score'] >= row['a_score']:
         winteam = row['home_team']

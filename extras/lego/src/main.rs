@@ -1,11 +1,10 @@
 use reqwest::Error;
-use serde::Deserialize;
-use rand::seq::SliceRandom;
+use serde::{Deserialize, Serialize};
 use tokio;
 use dotenv::dotenv;
-use std::env;
+use std::{env, fs::File, io::Write};
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize, Serialize, Debug)]
 struct LegoSet {
     set_num: String,
     name: String,
@@ -17,31 +16,53 @@ struct LegoSet {
 
 #[derive(Deserialize, Debug)]
 struct LegoSetsResponse {
+    next: Option<String>,
     results: Vec<LegoSet>,
 }
 
 #[tokio::main]
 async fn main() -> Result<(), Error> {
     dotenv().ok();
-
     let api_key = env::var("API_KEY").expect("API_KEY must be set");
-    let url = format!("https://rebrickable.com/api/v3/lego/sets/?page_size=1000&key={}", api_key);
+    let mut all_sets = Vec::new();
+    let mut next_url = Some(format!(
+        "https://rebrickable.com/api/v3/lego/sets/?page_size=1000&key={}",
+        api_key
+    ));
 
-    let response = reqwest::get(&url).await?;
-    let sets_response: LegoSetsResponse = response.json().await?;
+    while let Some(url) = next_url {
+        println!("Fetching page...");
+        let response = reqwest::get(&url).await?;
+        let sets_response: LegoSetsResponse = response.json().await?;
+        
+        all_sets.extend(sets_response.results);
+        next_url = sets_response.next;
+        tokio::time::sleep(tokio::time::Duration::from_millis(30)).await;
+    }
 
-    if let Some(random_set) = sets_response.results.choose(&mut rand::thread_rng()) {
-        println!("Random LEGO Set:");
-        println!("Set Number: {}", random_set.set_num);
-        println!("Name: {}", random_set.name);
-        println!("Year: {}", random_set.year);
-        println!("Theme ID: {}", random_set.theme_id);
-        println!("Number of Parts: {}", random_set.num_parts);
-        if let Some(img_url) = &random_set.set_img_url {
-            println!("Image URL: {}", img_url);
+    println!("Total sets collected: {}", all_sets.len());
+
+    let file_path = "lego_sets.json";
+    let file = File::create(file_path);
+    match file {
+        Ok(mut file) => {
+            let json_data = serde_json::to_string_pretty(&all_sets);
+            match json_data {
+                Ok(data) => {
+                    if let Err(e) = write!(file, "{}", data) {
+                        eprintln!("Failed to write to file: {} {}", file_path, e);
+                    } else {
+                        println!("Successfully wrote data to {}", file_path);
+                    }
+                }
+                Err(e) => {
+                    eprintln!("Failed to serialize LEGO sets: {}", e);
+                }
+            }
         }
-    } else {
-        println!("No LEGO sets found.");
+        Err(e) => {
+            eprintln!("Failed to create file: {}", e);
+        }
     }
 
     Ok(())

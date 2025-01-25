@@ -1145,10 +1145,9 @@
 45,atlantic-10,2025-01-21,12:00AM,st-bonaventure:St. Bonaventure,george-mason:George Mason
 50,big-12,2025-01-21,12:00AM,cincinnati:Cincinnati,texas-tech:Texas Tech
 51,big-12,2025-01-21,12:00AM,colorado:Colorado,brigham-young:Brigham Young
-52,big-12,2025-01-21,12:00AM,houston:Houston,utah:Utah
-53,big-12,2025-01-21,12:00AM,iowa-state:Iowa State,central-florida:UCF
-54,big-12,2025-01-21,12:00AM,oklahoma-state:Oklahoma State,arizona:Arizona
-55,big-12,2025-01-21,12:00AM,west-virginia:West Virginia,arizona-state:Arizona State
+52,big-12,2025-01-21,12:00AM,iowa-state:Iowa State,central-florida:UCF
+53,big-12,2025-01-21,12:00AM,oklahoma-state:Oklahoma State,arizona:Arizona
+54,big-12,2025-01-21,12:00AM,west-virginia:West Virginia,arizona-state:Arizona State
 44,big-east,2025-01-21,12:00AM,connecticut:Connecticut,butler:Butler
 45,big-east,2025-01-21,12:00AM,depaul:DePaul,creighton:Creighton
 46,big-east,2025-01-21,12:00AM,seton-hall:Seton Hall,marquette:Marquette
@@ -1179,7 +1178,8 @@
 46,atlantic-10,2025-01-22,12:00AM,loyola-il:Loyola (IL),fordham:Fordham
 47,atlantic-10,2025-01-22,12:00AM,massachusetts:Massachusetts,george-washington:George Washington
 48,atlantic-10,2025-01-22,12:00AM,saint-louis:Saint Louis,la-salle:La Salle
-56,big-12,2025-01-22,12:00AM,baylor:Baylor,kansas-state:Kansas State
+55,big-12,2025-01-22,12:00AM,baylor:Baylor,kansas-state:Kansas State
+56,big-12,2025-01-22,12:00AM,houston:Houston,utah:Utah
 57,big-12,2025-01-22,12:00AM,texas-christian:TCU,kansas:Kansas
 47,big-east,2025-01-22,12:00AM,st-johns-ny:St. John's (NY),xavier:Xavier
 25,big-south,2025-01-22,12:00AM,gardner-webb:Gardner-Webb,north-carolina-asheville:UNC Asheville
@@ -1206,15 +1206,11 @@
 45,sec,2025-01-22,12:00AM,arkansas:Arkansas,georgia:Georgia
 46,sec,2025-01-22,12:00AM,mississippi:Mississippi,texas-am:Texas A&M
 47,sec,2025-01-22,12:00AM,south-carolina:South Carolina,florida:Florida
-31,southern,2025-01-22,12:00AM,chattanooga:Chattanooga,samford:Samford
-32,southern,2025-01-22,12:00AM,east-tennessee-state:East Tennessee State,western-carolina:Western Carolina
-33,southern,2025-01-22,12:00AM,north-carolina-greensboro:UNC Greensboro,mercer:Mercer
-34,southern,2025-01-22,12:00AM,virginia-military-institute:Virginia Military Institute,furman:Furman
-35,southern,2025-01-22,12:00AM,wofford:Wofford,citadel:The Citadel
-51,sun-belt,2025-01-22,12:00AM,georgia-southern:Georgia Southern,coastal-carolina:Coastal Carolina
-52,sun-belt,2025-01-22,12:00AM,louisiana-lafayette:Louisiana,texas-state:Texas State
-53,sun-belt,2025-01-22,12:00AM,old-dominion:Old Dominion,james-madison:James Madison
-39,wcc,2025-01-22,12:00AM,pacific:Pacific,loyola-marymount:Loyola Marymount
+31,southern,2025-01-22,12:00AM,east-tennessee-state:East Tennessee State,western-carolina:Western Carolina
+32,southern,2025-01-22,12:00AM,north-carolina-greensboro:UNC Greensboro,mercer:Mercer
+33,southern,2025-01-22,12:00AM,virginia-military-institute:Virginia Military Institute,furman:Furman
+34,southern,2025-01-22,12:00AM,wofford:Wofford,citadel:The Citadel
+51,sun-belt,2025-01-22,12:00AM,old-dominion:Old Dominion,james-madison:James Madison
 40,aac,2025-01-23,12:00AM,memphis:Memphis,wichita-state:Wichita State
 21,america-east,2025-01-23,12:00AM,albany-ny:Albany (NY),maryland-baltimore-county:Maryland-Baltimore County
 22,america-east,2025-01-23,12:00AM,massachusetts-lowell:Massachusetts-Lowell,maine:Maine
@@ -1258,19 +1254,21 @@
 48,ovc,2025-01-23,12:00AM,southern-illinois-edwardsville:Southern Illinois-Edwardsville,southern-indiana:Southern Indiana
 49,ovc,2025-01-23,12:00AM,tennessee-state:Tennessee State,tennessee-tech:Tennessee Tech
 50,ovc,2025-01-23,12:00AM,western-illinois:Western Illinois,arkansas-little-rock:Little Rock
+35,southern,2025-01-23,12:00AM,chattanooga:Chattanooga,samford:Samford
 25,summit,2025-01-23,12:00AM,missouri-kansas-city:Kansas City,south-dakota-state:South Dakota State
 27,summit,2025-01-23,12:00AM,nebraska-omaha:Omaha,st-thomas-mn:St. Thomas
 26,summit,2025-01-23,12:00AM,north-dakota:North Dakota,south-dakota:South Dakota
 28,summit,2025-01-23,12:00AM,oral-roberts:Oral Roberts,denver:Denver
-54,sun-belt,2025-01-23,12:00AM,arkansas-state:Arkansas State,appalachian-state:Appalachian State
-55,sun-belt,2025-01-23,12:00AM,georgia-state:Georgia State,marshall:Marshall
-56,sun-belt,2025-01-23,12:00AM,louisiana-monroe:Louisiana-Monroe,south-alabama:South Alabama
-57,sun-belt,2025-01-23,12:00AM,troy:Troy,southern-mississippi:Southern Mississippi
+52,sun-belt,2025-01-23,12:00AM,arkansas-state:Arkansas State,appalachian-state:Appalachian State
+53,sun-belt,2025-01-23,12:00AM,georgia-southern:Georgia Southern,coastal-carolina:Coastal Carolina
+54,sun-belt,2025-01-23,12:00AM,georgia-state:Georgia State,marshall:Marshall
+55,sun-belt,2025-01-23,12:00AM,louisiana-lafayette:Louisiana,texas-state:Texas State
 19,wac,2025-01-23,12:00AM,abilene-christian:Abilene Christian,tarleton-state:Tarleton State
 21,wac,2025-01-23,12:00AM,california-baptist:California Baptist,utah-valley:Utah Valley
 22,wac,2025-01-23,12:00AM,southern-utah:Southern Utah,grand-canyon:Grand Canyon
 23,wac,2025-01-23,12:00AM,texas-arlington:UT Arlington,seattle:Seattle
-40,wcc,2025-01-23,12:00AM,oregon-state:Oregon State,pepperdine:Pepperdine
+39,wcc,2025-01-23,12:00AM,oregon-state:Oregon State,pepperdine:Pepperdine
+40,wcc,2025-01-23,12:00AM,pacific:Pacific,loyola-marymount:Loyola Marymount
 42,wcc,2025-01-23,12:00AM,portland:Portland,san-diego:San Diego
 43,wcc,2025-01-23,12:00AM,saint-marys-ca:Saint Mary's (CA),san-francisco:San Francisco
 44,wcc,2025-01-23,12:00AM,santa-clara:Santa Clara,washington-state:Washington State
@@ -1388,8 +1386,9 @@
 54,ovc,2025-01-25,12:00AM,tennessee-martin:Tennessee-Martin,tennessee-tech:Tennessee Tech
 55,ovc,2025-01-25,12:00AM,western-illinois:Western Illinois,southeast-missouri-state:Southeast Missouri State
 36,patriot,2025-01-25,12:00AM,american:American,colgate:Colgate
-37,patriot,2025-01-25,12:00AM,lehigh:Lehigh,lafayette:Lafayette
-38,patriot,2025-01-25,12:00AM,loyola-md:Loyola (MD),holy-cross:Holy Cross
+37,patriot,2025-01-25,12:00AM,boston-university:Boston University,bucknell:Bucknell
+38,patriot,2025-01-25,12:00AM,lehigh:Lehigh,lafayette:Lafayette
+39,patriot,2025-01-25,12:00AM,loyola-md:Loyola (MD),holy-cross:Holy Cross
 48,sec,2025-01-25,12:00AM,alabama:Alabama,louisiana-state:Louisiana State
 49,sec,2025-01-25,12:00AM,arkansas:Arkansas,oklahoma:Oklahoma
 50,sec,2025-01-25,12:00AM,auburn:Auburn,tennessee:Tennessee
@@ -1413,13 +1412,13 @@
 30,summit,2025-01-25,12:00AM,north-dakota-state:North Dakota State,north-dakota:North Dakota
 31,summit,2025-01-25,12:00AM,oral-roberts:Oral Roberts,nebraska-omaha:Omaha
 32,summit,2025-01-25,12:00AM,south-dakota-state:South Dakota State,south-dakota:South Dakota
-58,sun-belt,2025-01-25,12:00AM,arkansas-state:Arkansas State,texas-state:Texas State
-59,sun-belt,2025-01-25,12:00AM,georgia-southern:Georgia Southern,marshall:Marshall
-60,sun-belt,2025-01-25,12:00AM,georgia-state:Georgia State,james-madison:James Madison
-61,sun-belt,2025-01-25,12:00AM,louisiana-lafayette:Louisiana,southern-mississippi:Southern Mississippi
-63,sun-belt,2025-01-25,12:00AM,louisiana-monroe:Louisiana-Monroe,appalachian-state:Appalachian State
-64,sun-belt,2025-01-25,12:00AM,old-dominion:Old Dominion,coastal-carolina:Coastal Carolina
-65,sun-belt,2025-01-25,12:00AM,troy:Troy,south-alabama:South Alabama
+56,sun-belt,2025-01-25,12:00AM,arkansas-state:Arkansas State,texas-state:Texas State
+57,sun-belt,2025-01-25,12:00AM,georgia-southern:Georgia Southern,marshall:Marshall
+58,sun-belt,2025-01-25,12:00AM,georgia-state:Georgia State,james-madison:James Madison
+59,sun-belt,2025-01-25,12:00AM,louisiana-lafayette:Louisiana,southern-mississippi:Southern Mississippi
+60,sun-belt,2025-01-25,12:00AM,louisiana-monroe:Louisiana-Monroe,appalachian-state:Appalachian State
+61,sun-belt,2025-01-25,12:00AM,old-dominion:Old Dominion,coastal-carolina:Coastal Carolina
+63,sun-belt,2025-01-25,12:00AM,troy:Troy,south-alabama:South Alabama
 32,swac,2025-01-25,12:00AM,alabama-am:Alabama A&M,texas-southern:Texas Southern
 33,swac,2025-01-25,12:00AM,alabama-state:Alabama State,prairie-view:Prairie View
 34,swac,2025-01-25,12:00AM,alcorn-state:Alcorn State,florida-am:Florida A&M
@@ -1447,7 +1446,7 @@
 30,northeast,2025-01-26,12:00AM,mercyhurst:Mercyhurst,long-island-university:Long Island University
 31,northeast,2025-01-26,12:00AM,saint-francis-pa:Saint Francis (PA),wagner:Wagner
 32,northeast,2025-01-26,12:00AM,stonehill:Stonehill,fairleigh-dickinson:FDU
-39,patriot,2025-01-26,12:00AM,army:Army,navy:Navy
+40,patriot,2025-01-26,12:00AM,army:Army,navy:Navy
 84,acc,2025-01-27,12:00AM,duke:Duke,north-carolina-state:NC State
 67,big-12,2025-01-27,12:00AM,arizona:Arizona,iowa-state:Iowa State
 85,big-ten,2025-01-27,12:00AM,michigan:Michigan,penn-state:Penn State
@@ -1455,13 +1454,15 @@
 87,big-ten,2025-01-27,12:00AM,southern-california:Southern California,ucla:UCLA
 58,coastal,2025-01-27,12:00AM,northeastern:Northeastern,towson:Towson
 56,ovc,2025-01-27,12:00AM,arkansas-little-rock:Little Rock,eastern-illinois:Eastern Illinois
-40,patriot,2025-01-27,12:00AM,boston-university:Boston University,holy-cross:Holy Cross
+42,patriot,2025-01-27,12:00AM,boston-university:Boston University,holy-cross:Holy Cross
 56,southland,2025-01-27,12:00AM,lamar:Lamar,northwestern-state:Northwestern State
 57,southland,2025-01-27,12:00AM,new-orleans:New Orleans,incarnate-word:Incarnate Word
 58,southland,2025-01-27,12:00AM,southeastern-louisiana:Southeastern Louisiana,houston-baptist:Houston Christian
 59,southland,2025-01-27,12:00AM,stephen-f-austin:Stephen F. Austin,texas-am-commerce:East Texas A&M
 60,southland,2025-01-27,12:00AM,texas-am-corpus-christi:Texas A&M-Corpus Christi,mcneese-state:McNeese State
 61,southland,2025-01-27,12:00AM,texas-pan-american:Texas-Rio Grande Valley,nicholls-state:Nicholls State
+64,sun-belt,2025-01-27,12:00AM,louisiana-monroe:Louisiana-Monroe,south-alabama:South Alabama
+65,sun-belt,2025-01-27,12:00AM,troy:Troy,southern-mississippi:Southern Mississippi
 38,swac,2025-01-27,12:00AM,alabama-am:Alabama A&M,prairie-view:Prairie View
 39,swac,2025-01-27,12:00AM,alabama-state:Alabama State,texas-southern:Texas Southern
 40,swac,2025-01-27,12:00AM,alcorn-state:Alcorn State,bethune-cookman:Bethune-Cookman
@@ -1531,10 +1532,10 @@
 68,mvc,2025-01-29,12:00AM,indiana-state:Indiana State,missouri-state:Missouri State
 56,mwc,2025-01-29,12:00AM,boise-state:Boise State,nevada:Nevada
 57,mwc,2025-01-29,12:00AM,utah-state:Utah State,nevada-las-vegas:Nevada-Las Vegas
-42,patriot,2025-01-29,12:00AM,army:Army,colgate:Colgate
-43,patriot,2025-01-29,12:00AM,bucknell:Bucknell,loyola-md:Loyola (MD)
-44,patriot,2025-01-29,12:00AM,lafayette:Lafayette,american:American
-45,patriot,2025-01-29,12:00AM,lehigh:Lehigh,navy:Navy
+43,patriot,2025-01-29,12:00AM,army:Army,colgate:Colgate
+44,patriot,2025-01-29,12:00AM,bucknell:Bucknell,loyola-md:Loyola (MD)
+45,patriot,2025-01-29,12:00AM,lafayette:Lafayette,american:American
+46,patriot,2025-01-29,12:00AM,lehigh:Lehigh,navy:Navy
 59,sec,2025-01-29,12:00AM,louisiana-state:Louisiana State,auburn:Auburn
 61,sec,2025-01-29,12:00AM,mississippi-state:Mississippi State,alabama:Alabama
 60,sec,2025-01-29,12:00AM,mississippi:Mississippi,texas:Texas
@@ -1719,11 +1720,11 @@
 66,ovc,2025-02-01,12:00AM,southeast-missouri-state:Southeast Missouri State,tennessee-state:Tennessee State
 67,ovc,2025-02-01,12:00AM,southern-indiana:Southern Indiana,tennessee-tech:Tennessee Tech
 68,ovc,2025-02-01,12:00AM,western-illinois:Western Illinois,southern-illinois-edwardsville:Southern Illinois-Edwardsville
-46,patriot,2025-02-01,12:00AM,american:American,army:Army
-47,patriot,2025-02-01,12:00AM,colgate:Colgate,lafayette:Lafayette
-48,patriot,2025-02-01,12:00AM,holy-cross:Holy Cross,lehigh:Lehigh
-49,patriot,2025-02-01,12:00AM,loyola-md:Loyola (MD),boston-university:Boston University
-50,patriot,2025-02-01,12:00AM,navy:Navy,bucknell:Bucknell
+47,patriot,2025-02-01,12:00AM,american:American,army:Army
+48,patriot,2025-02-01,12:00AM,colgate:Colgate,lafayette:Lafayette
+49,patriot,2025-02-01,12:00AM,holy-cross:Holy Cross,lehigh:Lehigh
+50,patriot,2025-02-01,12:00AM,loyola-md:Loyola (MD),boston-university:Boston University
+51,patriot,2025-02-01,12:00AM,navy:Navy,bucknell:Bucknell
 63,sec,2025-02-01,12:00AM,alabama:Alabama,georgia:Georgia
 64,sec,2025-02-01,12:00AM,kentucky:Kentucky,arkansas:Arkansas
 65,sec,2025-02-01,12:00AM,louisiana-state:Louisiana State,texas:Texas
@@ -1795,7 +1796,7 @@
 24,meac,2025-02-03,12:00AM,howard:Howard,south-carolina-state:South Carolina State
 25,meac,2025-02-03,12:00AM,maryland-eastern-shore:Maryland-Eastern Shore,coppin-state:Coppin State
 26,meac,2025-02-03,12:00AM,norfolk-state:Norfolk State,north-carolina-central:North Carolina Central
-51,patriot,2025-02-03,12:00AM,lehigh:Lehigh,colgate:Colgate
+52,patriot,2025-02-03,12:00AM,lehigh:Lehigh,colgate:Colgate
 70,southland,2025-02-03,12:00AM,mcneese-state:McNeese State,incarnate-word:Incarnate Word
 71,southland,2025-02-03,12:00AM,new-orleans:New Orleans,stephen-f-austin:Stephen F. Austin
 72,southland,2025-02-03,12:00AM,nicholls-state:Nicholls State,houston-baptist:Houston Christian
@@ -1877,10 +1878,10 @@
 79,mvc,2025-02-05,12:00AM,indiana-state:Indiana State,valparaiso:Valparaiso
 80,mvc,2025-02-05,12:00AM,missouri-state:Missouri State,northern-iowa:Northern Iowa
 68,mwc,2025-02-05,12:00AM,new-mexico:New Mexico,colorado-state:Colorado State
-52,patriot,2025-02-05,12:00AM,army:Army,holy-cross:Holy Cross
-53,patriot,2025-02-05,12:00AM,boston-university:Boston University,navy:Navy
-54,patriot,2025-02-05,12:00AM,bucknell:Bucknell,american:American
-55,patriot,2025-02-05,12:00AM,lafayette:Lafayette,loyola-md:Loyola (MD)
+53,patriot,2025-02-05,12:00AM,army:Army,holy-cross:Holy Cross
+54,patriot,2025-02-05,12:00AM,boston-university:Boston University,navy:Navy
+55,patriot,2025-02-05,12:00AM,bucknell:Bucknell,american:American
+56,patriot,2025-02-05,12:00AM,lafayette:Lafayette,loyola-md:Loyola (MD)
 74,sec,2025-02-05,12:00AM,georgia:Georgia,louisiana-state:Louisiana State
 75,sec,2025-02-05,12:00AM,tennessee:Tennessee,missouri:Missouri
 76,sec,2025-02-05,12:00AM,texas:Texas,arkansas:Arkansas
@@ -2061,11 +2062,11 @@
 79,ovc,2025-02-08,12:00AM,tennessee-martin:Tennessee-Martin,western-illinois:Western Illinois
 77,ovc,2025-02-08,12:00AM,tennessee-state:Tennessee State,lindenwood:Lindenwood
 78,ovc,2025-02-08,12:00AM,tennessee-tech:Tennessee Tech,eastern-illinois:Eastern Illinois
-56,patriot,2025-02-08,12:00AM,army:Army,bucknell:Bucknell
-57,patriot,2025-02-08,12:00AM,colgate:Colgate,loyola-md:Loyola (MD)
-58,patriot,2025-02-08,12:00AM,holy-cross:Holy Cross,boston-university:Boston University
-59,patriot,2025-02-08,12:00AM,lafayette:Lafayette,navy:Navy
-60,patriot,2025-02-08,12:00AM,lehigh:Lehigh,american:American
+57,patriot,2025-02-08,12:00AM,army:Army,bucknell:Bucknell
+58,patriot,2025-02-08,12:00AM,colgate:Colgate,loyola-md:Loyola (MD)
+59,patriot,2025-02-08,12:00AM,holy-cross:Holy Cross,boston-university:Boston University
+60,patriot,2025-02-08,12:00AM,lafayette:Lafayette,navy:Navy
+61,patriot,2025-02-08,12:00AM,lehigh:Lehigh,american:American
 77,sec,2025-02-08,12:00AM,arkansas:Arkansas,alabama:Alabama
 78,sec,2025-02-08,12:00AM,auburn:Auburn,florida:Florida
 79,sec,2025-02-08,12:00AM,georgia:Georgia,mississippi-state:Mississippi State
@@ -2116,7 +2117,7 @@
 118,acc,2025-02-10,12:00AM,louisville:Louisville,miami-fl:Miami (FL)
 100,big-12,2025-02-10,12:00AM,houston:Houston,baylor:Baylor
 28,meac,2025-02-10,12:00AM,maryland-eastern-shore:Maryland-Eastern Shore,howard:Howard
-61,patriot,2025-02-10,12:00AM,american:American,lafayette:Lafayette
+63,patriot,2025-02-10,12:00AM,american:American,lafayette:Lafayette
 81,southland,2025-02-10,12:00AM,houston-baptist:Houston Christian,southeastern-louisiana:Southeastern Louisiana
 82,southland,2025-02-10,12:00AM,incarnate-word:Incarnate Word,new-orleans:New Orleans
 84,southland,2025-02-10,12:00AM,lamar:Lamar,texas-am-corpus-christi:Texas A&M-Corpus Christi
@@ -2198,10 +2199,10 @@
 92,mvc,2025-02-12,12:00AM,missouri-state:Missouri State,evansville:Evansville
 93,mvc,2025-02-12,12:00AM,valparaiso:Valparaiso,belmont:Belmont
 78,mwc,2025-02-12,12:00AM,new-mexico:New Mexico,wyoming:Wyoming
-63,patriot,2025-02-12,12:00AM,bucknell:Bucknell,boston-university:Boston University
-64,patriot,2025-02-12,12:00AM,holy-cross:Holy Cross,colgate:Colgate
-65,patriot,2025-02-12,12:00AM,loyola-md:Loyola (MD),army:Army
-66,patriot,2025-02-12,12:00AM,navy:Navy,lehigh:Lehigh
+64,patriot,2025-02-12,12:00AM,bucknell:Bucknell,boston-university:Boston University
+65,patriot,2025-02-12,12:00AM,holy-cross:Holy Cross,colgate:Colgate
+66,patriot,2025-02-12,12:00AM,loyola-md:Loyola (MD),army:Army
+67,patriot,2025-02-12,12:00AM,navy:Navy,lehigh:Lehigh
 91,sec,2025-02-12,12:00AM,arkansas:Arkansas,louisiana-state:Louisiana State
 92,sec,2025-02-12,12:00AM,missouri:Missouri,oklahoma:Oklahoma
 93,sec,2025-02-12,12:00AM,south-carolina:South Carolina,mississippi:Mississippi
@@ -2382,11 +2383,11 @@
 89,ovc,2025-02-15,12:00AM,southeast-missouri-state:Southeast Missouri State,tennessee-tech:Tennessee Tech
 90,ovc,2025-02-15,12:00AM,southern-illinois-edwardsville:Southern Illinois-Edwardsville,tennessee-state:Tennessee State
 91,ovc,2025-02-15,12:00AM,western-illinois:Western Illinois,morehead-state:Morehead State
-67,patriot,2025-02-15,12:00AM,american:American,loyola-md:Loyola (MD)
-68,patriot,2025-02-15,12:00AM,boston-university:Boston University,colgate:Colgate
-69,patriot,2025-02-15,12:00AM,lafayette:Lafayette,bucknell:Bucknell
-70,patriot,2025-02-15,12:00AM,lehigh:Lehigh,holy-cross:Holy Cross
-71,patriot,2025-02-15,12:00AM,navy:Navy,army:Army
+68,patriot,2025-02-15,12:00AM,american:American,loyola-md:Loyola (MD)
+69,patriot,2025-02-15,12:00AM,boston-university:Boston University,colgate:Colgate
+70,patriot,2025-02-15,12:00AM,lafayette:Lafayette,bucknell:Bucknell
+71,patriot,2025-02-15,12:00AM,lehigh:Lehigh,holy-cross:Holy Cross
+72,patriot,2025-02-15,12:00AM,navy:Navy,army:Army
 94,sec,2025-02-15,12:00AM,alabama:Alabama,auburn:Auburn
 95,sec,2025-02-15,12:00AM,florida:Florida,south-carolina:South Carolina
 96,sec,2025-02-15,12:00AM,georgia:Georgia,missouri:Missouri
@@ -2464,7 +2465,7 @@
 34,meac,2025-02-17,12:00AM,norfolk-state:Norfolk State,delaware-state:Delaware State
 35,meac,2025-02-17,12:00AM,north-carolina-central:North Carolina Central,morgan-state:Morgan State
 36,meac,2025-02-17,12:00AM,south-carolina-state:South Carolina State,coppin-state:Coppin State
-72,patriot,2025-02-17,12:00AM,bucknell:Bucknell,lehigh:Lehigh
+73,patriot,2025-02-17,12:00AM,bucknell:Bucknell,lehigh:Lehigh
 95,southland,2025-02-17,12:00AM,new-orleans:New Orleans,nicholls-state:Nicholls State
 96,southland,2025-02-17,12:00AM,northwestern-state:Northwestern State,lamar:Lamar
 97,southland,2025-02-17,12:00AM,southeastern-louisiana:Southeastern Louisiana,mcneese-state:McNeese State
@@ -2541,10 +2542,10 @@
 106,mvc,2025-02-19,12:00AM,valparaiso:Valparaiso,missouri-state:Missouri State
 88,mwc,2025-02-19,12:00AM,boise-state:Boise State,new-mexico:New Mexico
 89,mwc,2025-02-19,12:00AM,utah-state:Utah State,san-jose-state:San Jose State
-73,patriot,2025-02-19,12:00AM,army:Army,american:American
-74,patriot,2025-02-19,12:00AM,boston-university:Boston University,loyola-md:Loyola (MD)
-75,patriot,2025-02-19,12:00AM,colgate:Colgate,navy:Navy
-76,patriot,2025-02-19,12:00AM,holy-cross:Holy Cross,lafayette:Lafayette
+74,patriot,2025-02-19,12:00AM,army:Army,american:American
+75,patriot,2025-02-19,12:00AM,boston-university:Boston University,loyola-md:Loyola (MD)
+76,patriot,2025-02-19,12:00AM,colgate:Colgate,navy:Navy
+77,patriot,2025-02-19,12:00AM,holy-cross:Holy Cross,lafayette:Lafayette
 106,sec,2025-02-19,12:00AM,auburn:Auburn,arkansas:Arkansas
 107,sec,2025-02-19,12:00AM,kentucky:Kentucky,vanderbilt:Vanderbilt
 108,sec,2025-02-19,12:00AM,missouri:Missouri,alabama:Alabama
@@ -2719,9 +2720,9 @@
 100,ovc,2025-02-22,12:00AM,southeast-missouri-state:Southeast Missouri State,lindenwood:Lindenwood
 101,ovc,2025-02-22,12:00AM,southern-indiana:Southern Indiana,southern-illinois-edwardsville:Southern Illinois-Edwardsville
 102,ovc,2025-02-22,12:00AM,tennessee-tech:Tennessee Tech,tennessee-state:Tennessee State
-77,patriot,2025-02-22,12:00AM,american:American,boston-university:Boston University
-78,patriot,2025-02-22,12:00AM,lafayette:Lafayette,lehigh:Lehigh
-79,patriot,2025-02-22,12:00AM,loyola-md:Loyola (MD),colgate:Colgate
+78,patriot,2025-02-22,12:00AM,american:American,boston-university:Boston University
+79,patriot,2025-02-22,12:00AM,lafayette:Lafayette,lehigh:Lehigh
+80,patriot,2025-02-22,12:00AM,loyola-md:Loyola (MD),colgate:Colgate
 109,sec,2025-02-22,12:00AM,alabama:Alabama,kentucky:Kentucky
 110,sec,2025-02-22,12:00AM,arkansas:Arkansas,missouri:Missouri
 111,sec,2025-02-22,12:00AM,auburn:Auburn,georgia:Georgia
@@ -2790,8 +2791,8 @@
 109,maac,2025-02-23,12:00AM,saint-peters:Saint Peter's,sacred-heart:Sacred Heart
 110,maac,2025-02-23,12:00AM,siena:Siena,canisius:Canisius
 112,mvc,2025-02-23,12:00AM,northern-iowa:Northern Iowa,drake:Drake
-80,patriot,2025-02-23,12:00AM,bucknell:Bucknell,army:Army
-81,patriot,2025-02-23,12:00AM,navy:Navy,holy-cross:Holy Cross
+81,patriot,2025-02-23,12:00AM,bucknell:Bucknell,army:Army
+82,patriot,2025-02-23,12:00AM,navy:Navy,holy-cross:Holy Cross
 66,summit,2025-02-23,12:00AM,south-dakota-state:South Dakota State,missouri-kansas-city:Kansas City
 151,acc,2025-02-24,12:00AM,florida-state:Florida State,north-carolina:North Carolina
 100,atlantic-sun,2025-02-24,12:00AM,austin-peay:Austin Peay,lipscomb:Lipscomb
@@ -2842,7 +2843,7 @@
 97,mwc,2025-02-25,12:00AM,san-diego-state:San Diego State,new-mexico:New Mexico
 98,mwc,2025-02-25,12:00AM,san-jose-state:San Jose State,nevada-las-vegas:Nevada-Las Vegas
 103,ovc,2025-02-25,12:00AM,western-illinois:Western Illinois,lindenwood:Lindenwood
-82,patriot,2025-02-25,12:00AM,lafayette:Lafayette,army:Army
+84,patriot,2025-02-25,12:00AM,lafayette:Lafayette,army:Army
 117,sec,2025-02-25,12:00AM,alabama:Alabama,mississippi-state:Mississippi State
 118,sec,2025-02-25,12:00AM,georgia:Georgia,florida:Florida
 119,sec,2025-02-25,12:00AM,louisiana-state:Louisiana State,tennessee:Tennessee
@@ -2889,10 +2890,10 @@
 117,mvc,2025-02-26,12:00AM,northern-iowa:Northern Iowa,illinois-chicago:Illinois-Chicago
 118,mvc,2025-02-26,12:00AM,valparaiso:Valparaiso,bradley:Bradley
 99,mwc,2025-02-26,12:00AM,boise-state:Boise State,utah-state:Utah State
-84,patriot,2025-02-26,12:00AM,american:American,navy:Navy
-85,patriot,2025-02-26,12:00AM,colgate:Colgate,holy-cross:Holy Cross
-86,patriot,2025-02-26,12:00AM,lehigh:Lehigh,boston-university:Boston University
-87,patriot,2025-02-26,12:00AM,loyola-md:Loyola (MD),bucknell:Bucknell
+85,patriot,2025-02-26,12:00AM,american:American,navy:Navy
+86,patriot,2025-02-26,12:00AM,colgate:Colgate,holy-cross:Holy Cross
+87,patriot,2025-02-26,12:00AM,lehigh:Lehigh,boston-university:Boston University
+88,patriot,2025-02-26,12:00AM,loyola-md:Loyola (MD),bucknell:Bucknell
 121,sec,2025-02-26,12:00AM,arkansas:Arkansas,texas:Texas
 122,sec,2025-02-26,12:00AM,auburn:Auburn,mississippi:Mississippi
 123,sec,2025-02-26,12:00AM,oklahoma:Oklahoma,kentucky:Kentucky
@@ -3072,11 +3073,11 @@
 114,ovc,2025-03-01,12:00AM,tennessee-martin:Tennessee-Martin,morehead-state:Morehead State
 112,ovc,2025-03-01,12:00AM,tennessee-state:Tennessee State,southern-indiana:Southern Indiana
 113,ovc,2025-03-01,12:00AM,tennessee-tech:Tennessee Tech,lindenwood:Lindenwood
-88,patriot,2025-03-01,12:00AM,army:Army,lehigh:Lehigh
-89,patriot,2025-03-01,12:00AM,boston-university:Boston University,lafayette:Lafayette
-90,patriot,2025-03-01,12:00AM,colgate:Colgate,american:American
-91,patriot,2025-03-01,12:00AM,holy-cross:Holy Cross,bucknell:Bucknell
-92,patriot,2025-03-01,12:00AM,navy:Navy,loyola-md:Loyola (MD)
+89,patriot,2025-03-01,12:00AM,army:Army,lehigh:Lehigh
+90,patriot,2025-03-01,12:00AM,boston-university:Boston University,lafayette:Lafayette
+91,patriot,2025-03-01,12:00AM,colgate:Colgate,american:American
+92,patriot,2025-03-01,12:00AM,holy-cross:Holy Cross,bucknell:Bucknell
+93,patriot,2025-03-01,12:00AM,navy:Navy,loyola-md:Loyola (MD)
 126,sec,2025-03-01,12:00AM,florida:Florida,texas-am:Texas A&M
 127,sec,2025-03-01,12:00AM,kentucky:Kentucky,auburn:Auburn
 129,sec,2025-03-01,12:00AM,mississippi-state:Mississippi State,louisiana-state:Louisiana State
