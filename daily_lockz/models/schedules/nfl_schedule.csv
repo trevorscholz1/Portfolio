@@ -281,5 +281,6 @@
 297,2025-01-18,08:00PM,det:Detroit Lions,was:Washington Commanders
 298,2025-01-19,03:00PM,ram:Los Angeles Rams,phi:Philadelphia Eagles
 299,2025-01-19,06:30PM,rav:Baltimore Ravens,buf:Buffalo Bills
-300,2025-01-26,03:00PM,phi:Philadelphia Eagles,was:Washington Commanders
-301,2025-01-26,06:30PM,kan:Kansas City Chiefs,buf:Buffalo Bills
+300,2025-01-26,03:00PM,was:Washington Commanders,phi:Philadelphia Eagles
+301,2025-01-26,06:30PM,buf:Buffalo Bills,kan:Kansas City Chiefs
+302,2025-02-09,06:30PM,phi:Philadelphia Eagles,kan:Kansas City Chiefs

@@ -47,6 +47,9 @@ assignments = {}
 bets.sort_values(by='sport', inplace=True)
 for index, row in bets.iterrows():
     np.random.seed(i*DATESEED)
+    
+    if 'NCAAB' in row['sport']:
+        row['sport'] = 'NCAAB'
     if row['sport'] not in assignments:
         assignments[row['sport']] = []
 

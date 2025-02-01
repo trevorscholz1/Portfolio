@@ -1470,8 +1470,9 @@
 43,swac,2025-01-27,12:00AM,jackson-state:Jackson State,florida-am:Florida A&M
 44,swac,2025-01-27,12:00AM,mississippi-valley-state:Mississippi Valley State,southern:Southern
 48,aac,2025-01-28,12:00AM,south-florida:South Florida,rice:Rice
-85,acc,2025-01-28,12:00AM,notre-dame:Notre Dame,georgia-tech:Georgia Tech
-86,acc,2025-01-28,12:00AM,pittsburgh:Pittsburgh,north-carolina:North Carolina
+85,acc,2025-01-28,12:00AM,louisville:Louisville,wake-forest:Wake Forest
+86,acc,2025-01-28,12:00AM,notre-dame:Notre Dame,georgia-tech:Georgia Tech
+87,acc,2025-01-28,12:00AM,pittsburgh:Pittsburgh,north-carolina:North Carolina
 55,atlantic-10,2025-01-28,12:00AM,saint-louis:Saint Louis,virginia-commonwealth:Virginia Commonwealth
 56,atlantic-10,2025-01-28,12:00AM,st-bonaventure:St. Bonaventure,dayton:Dayton
 68,big-12,2025-01-28,12:00AM,brigham-young:Brigham Young,baylor:Baylor
@@ -1501,10 +1502,10 @@
 50,aac,2025-01-29,12:00AM,temple:Temple,charlotte:Charlotte
 51,aac,2025-01-29,12:00AM,tulsa:Tulsa,alabama-birmingham:UAB
 52,aac,2025-01-29,12:00AM,wichita-state:Wichita State,north-texas:North Texas
-87,acc,2025-01-29,12:00AM,florida-state:Florida State,virginia-tech:Virginia Tech
-88,acc,2025-01-29,12:00AM,miami-fl:Miami (FL),virginia:Virginia
-89,acc,2025-01-29,12:00AM,southern-methodist:Southern Methodist,california:California
-90,acc,2025-01-29,12:00AM,stanford:Stanford,syracuse:Syracuse
+88,acc,2025-01-29,12:00AM,florida-state:Florida State,virginia-tech:Virginia Tech
+89,acc,2025-01-29,12:00AM,miami-fl:Miami (FL),virginia:Virginia
+90,acc,2025-01-29,12:00AM,southern-methodist:Southern Methodist,california:California
+91,acc,2025-01-29,12:00AM,stanford:Stanford,syracuse:Syracuse
 57,atlantic-10,2025-01-29,12:00AM,george-mason:George Mason,loyola-il:Loyola (IL)
 58,atlantic-10,2025-01-29,12:00AM,george-washington:George Washington,richmond:Richmond
 59,atlantic-10,2025-01-29,12:00AM,la-salle:La Salle,fordham:Fordham
@@ -1550,7 +1551,6 @@
 67,sun-belt,2025-01-29,12:00AM,southern-mississippi:Southern Mississippi,arkansas-state:Arkansas State
 51,wcc,2025-01-29,12:00AM,santa-clara:Santa Clara,saint-marys-ca:Saint Mary's (CA)
 53,aac,2025-01-30,12:00AM,tulane:Tulane,memphis:Memphis
-91,acc,2025-01-30,12:00AM,louisville:Louisville,wake-forest:Wake Forest
 29,america-east,2025-01-30,12:00AM,binghamton:Binghamton,vermont:Vermont
 30,america-east,2025-01-30,12:00AM,maine:Maine,new-hampshire:New Hampshire
 31,america-east,2025-01-30,12:00AM,maryland-baltimore-county:Maryland-Baltimore County,bryant:Bryant
@@ -1681,7 +1681,6 @@
 69,coastal,2025-02-01,12:00AM,monmouth:Monmouth,delaware:Delaware
 71,coastal,2025-02-01,12:00AM,north-carolina-wilmington:UNC Wilmington,stony-brook:Stony Brook
 70,coastal,2025-02-01,12:00AM,towson:Towson,drexel:Drexel
-72,coastal,2025-02-01,12:00AM,william-mary:William & Mary,college-of-charleston:College of Charleston
 42,cusa,2025-02-01,12:00AM,jacksonville-state:Jacksonville State,liberty:Liberty
 43,cusa,2025-02-01,12:00AM,kennesaw-state:Kennesaw State,florida-international:Florida International
 44,cusa,2025-02-01,12:00AM,louisiana-tech:Louisiana Tech,sam-houston-state:Sam Houston
@@ -1734,10 +1733,9 @@
 69,sec,2025-02-01,12:00AM,south-carolina:South Carolina,texas-am:Texas A&M
 70,sec,2025-02-01,12:00AM,tennessee:Tennessee,florida:Florida
 47,southern,2025-02-01,12:00AM,chattanooga:Chattanooga,mercer:Mercer
-49,southern,2025-02-01,12:00AM,citadel:The Citadel,samford:Samford
-48,southern,2025-02-01,12:00AM,east-tennessee-state:East Tennessee State,furman:Furman
-50,southern,2025-02-01,12:00AM,north-carolina-greensboro:UNC Greensboro,wofford:Wofford
-51,southern,2025-02-01,12:00AM,western-carolina:Western Carolina,virginia-military-institute:Virginia Military Institute
+48,southern,2025-02-01,12:00AM,citadel:The Citadel,samford:Samford
+49,southern,2025-02-01,12:00AM,north-carolina-greensboro:UNC Greensboro,wofford:Wofford
+50,southern,2025-02-01,12:00AM,western-carolina:Western Carolina,virginia-military-institute:Virginia Military Institute
 64,southland,2025-02-01,12:00AM,incarnate-word:Incarnate Word,houston-baptist:Houston Christian
 65,southland,2025-02-01,12:00AM,nicholls-state:Nicholls State,mcneese-state:McNeese State
 66,southland,2025-02-01,12:00AM,southeastern-louisiana:Southeastern Louisiana,new-orleans:New Orleans
@@ -1747,7 +1745,6 @@
 38,summit,2025-02-01,12:00AM,nebraska-omaha:Omaha,denver:Denver
 37,summit,2025-02-01,12:00AM,north-dakota:North Dakota,south-dakota-state:South Dakota State
 39,summit,2025-02-01,12:00AM,oral-roberts:Oral Roberts,missouri-kansas-city:Kansas City
-40,summit,2025-02-01,12:00AM,st-thomas-mn:St. Thomas,north-dakota-state:North Dakota State
 73,sun-belt,2025-02-01,12:00AM,appalachian-state:Appalachian State,georgia-state:Georgia State
 74,sun-belt,2025-02-01,12:00AM,james-madison:James Madison,old-dominion:Old Dominion
 75,sun-belt,2025-02-01,12:00AM,louisiana-lafayette:Louisiana,south-alabama:South Alabama
@@ -1787,11 +1784,14 @@
 71,maac,2025-02-02,12:00AM,siena:Siena,quinnipiac:Quinnipiac
 73,mvc,2025-02-02,12:00AM,belmont:Belmont,evansville:Evansville
 74,mvc,2025-02-02,12:00AM,northern-iowa:Northern Iowa,bradley:Bradley
+51,southern,2025-02-02,12:00AM,east-tennessee-state:East Tennessee State,furman:Furman
+40,summit,2025-02-02,12:00AM,st-thomas-mn:St. Thomas,north-dakota-state:North Dakota State
 60,aac,2025-02-03,12:00AM,alabama-birmingham:UAB,north-texas:North Texas
 101,acc,2025-02-03,12:00AM,pittsburgh:Pittsburgh,virginia:Virginia
 84,big-12,2025-02-03,12:00AM,kansas:Kansas,iowa-state:Iowa State
 49,big-sky,2025-02-03,12:00AM,idaho-state:Idaho State,northern-colorado:Northern Colorado
 50,big-sky,2025-02-03,12:00AM,weber-state:Weber State,northern-arizona:Northern Arizona
+72,coastal,2025-02-03,12:00AM,william-mary:William & Mary,college-of-charleston:College of Charleston
 23,meac,2025-02-03,12:00AM,delaware-state:Delaware State,morgan-state:Morgan State
 24,meac,2025-02-03,12:00AM,howard:Howard,south-carolina-state:South Carolina State
 25,meac,2025-02-03,12:00AM,maryland-eastern-shore:Maryland-Eastern Shore,coppin-state:Coppin State
@@ -1862,7 +1862,6 @@
 67,big-east,2025-02-05,12:00AM,providence:Providence,creighton:Creighton
 68,big-east,2025-02-05,12:00AM,seton-hall:Seton Hall,butler:Butler
 42,big-south,2025-02-05,12:00AM,charleston-southern:Charleston Southern,winthrop:Winthrop
-45,big-south,2025-02-05,12:00AM,north-carolina-asheville:UNC Asheville,gardner-webb:Gardner-Webb
 43,big-south,2025-02-05,12:00AM,presbyterian:Presbyterian,south-carolina-upstate:South Carolina Upstate
 44,big-south,2025-02-05,12:00AM,radford:Radford,high-point:High Point
 107,big-ten,2025-02-05,12:00AM,michigan:Michigan,oregon:Oregon
@@ -1909,6 +1908,7 @@
 52,big-sky,2025-02-06,12:00AM,idaho:Idaho,portland-state:Portland State
 53,big-sky,2025-02-06,12:00AM,northern-arizona:Northern Arizona,montana-state:Montana State
 54,big-sky,2025-02-06,12:00AM,northern-colorado:Northern Colorado,montana:Montana
+45,big-south,2025-02-06,12:00AM,north-carolina-asheville:UNC Asheville,gardner-webb:Gardner-Webb
 110,big-ten,2025-02-06,12:00AM,ohio-state:Ohio State,maryland:Maryland
 63,big-west,2025-02-06,12:00AM,cal-poly:Cal Poly,hawaii:Hawaii
 64,big-west,2025-02-06,12:00AM,cal-state-bakersfield:Cal State Bakersfield,california-santa-barbara:UC Santa Barbara
@@ -1968,11 +1968,12 @@
 69,aac,2025-02-08,12:00AM,tulsa:Tulsa,florida-atlantic:Florida Atlantic
 110,acc,2025-02-08,12:00AM,california:California,wake-forest:Wake Forest
 111,acc,2025-02-08,12:00AM,clemson:Clemson,duke:Duke
-112,acc,2025-02-08,12:00AM,north-carolina:North Carolina,pittsburgh:Pittsburgh
-113,acc,2025-02-08,12:00AM,notre-dame:Notre Dame,virginia-tech:Virginia Tech
-114,acc,2025-02-08,12:00AM,stanford:Stanford,north-carolina-state:NC State
-115,acc,2025-02-08,12:00AM,syracuse:Syracuse,boston-college:Boston College
-116,acc,2025-02-08,12:00AM,virginia:Virginia,georgia-tech:Georgia Tech
+112,acc,2025-02-08,12:00AM,louisville:Louisville,miami-fl:Miami (FL)
+113,acc,2025-02-08,12:00AM,north-carolina:North Carolina,pittsburgh:Pittsburgh
+114,acc,2025-02-08,12:00AM,notre-dame:Notre Dame,virginia-tech:Virginia Tech
+115,acc,2025-02-08,12:00AM,stanford:Stanford,north-carolina-state:NC State
+116,acc,2025-02-08,12:00AM,syracuse:Syracuse,boston-college:Boston College
+117,acc,2025-02-08,12:00AM,virginia:Virginia,georgia-tech:Georgia Tech
 42,america-east,2025-02-08,12:00AM,albany-ny:Albany (NY),vermont:Vermont
 43,america-east,2025-02-08,12:00AM,binghamton:Binghamton,bryant:Bryant
 44,america-east,2025-02-08,12:00AM,maine:Maine,maryland-baltimore-county:Maryland-Baltimore County
@@ -2009,9 +2010,8 @@
 113,big-ten,2025-02-08,12:00AM,iowa:Iowa,wisconsin:Wisconsin
 114,big-ten,2025-02-08,12:00AM,michigan-state:Michigan State,oregon:Oregon
 115,big-ten,2025-02-08,12:00AM,minnesota:Minnesota,illinois:Illinois
-116,big-ten,2025-02-08,12:00AM,nebraska:Nebraska,ohio-state:Ohio State
-117,big-ten,2025-02-08,12:00AM,ucla:UCLA,penn-state:Penn State
-118,big-ten,2025-02-08,12:00AM,washington:Washington,northwestern:Northwestern
+116,big-ten,2025-02-08,12:00AM,ucla:UCLA,penn-state:Penn State
+117,big-ten,2025-02-08,12:00AM,washington:Washington,northwestern:Northwestern
 68,big-west,2025-02-08,12:00AM,cal-state-fullerton:Cal State Fullerton,california-davis:UC Davis
 70,big-west,2025-02-08,12:00AM,california-irvine:UC Irvine,california-san-diego:UC San Diego
 71,big-west,2025-02-08,12:00AM,california-riverside:UC Riverside,cal-state-bakersfield:Cal State Bakersfield
@@ -2111,10 +2111,10 @@
 84,atlantic-10,2025-02-09,12:00AM,st-bonaventure:St. Bonaventure,george-washington:George Washington
 99,big-12,2025-02-09,12:00AM,oklahoma-state:Oklahoma State,arizona-state:Arizona State
 73,big-east,2025-02-09,12:00AM,villanova:Villanova,xavier:Xavier
-119,big-ten,2025-02-09,12:00AM,maryland:Maryland,rutgers:Rutgers
+118,big-ten,2025-02-09,12:00AM,maryland:Maryland,rutgers:Rutgers
+119,big-ten,2025-02-09,12:00AM,nebraska:Nebraska,ohio-state:Ohio State
 73,aac,2025-02-10,12:00AM,florida-atlantic:Florida Atlantic,charlotte:Charlotte
-117,acc,2025-02-10,12:00AM,clemson:Clemson,north-carolina:North Carolina
-118,acc,2025-02-10,12:00AM,louisville:Louisville,miami-fl:Miami (FL)
+118,acc,2025-02-10,12:00AM,clemson:Clemson,north-carolina:North Carolina
 100,big-12,2025-02-10,12:00AM,houston:Houston,baylor:Baylor
 28,meac,2025-02-10,12:00AM,maryland-eastern-shore:Maryland-Eastern Shore,howard:Howard
 63,patriot,2025-02-10,12:00AM,american:American,lafayette:Lafayette
@@ -3176,9 +3176,8 @@
 153,big-12,2025-03-04,12:00AM,iowa-state:Iowa State,brigham-young:Brigham Young
 154,big-12,2025-03-04,12:00AM,texas-christian:TCU,baylor:Baylor
 155,big-12,2025-03-04,12:00AM,utah:Utah,west-virginia:West Virginia
-105,big-east,2025-03-04,12:00AM,connecticut:Connecticut,marquette:Marquette
-106,big-east,2025-03-04,12:00AM,georgetown:Georgetown,villanova:Villanova
-107,big-east,2025-03-04,12:00AM,seton-hall:Seton Hall,creighton:Creighton
+105,big-east,2025-03-04,12:00AM,georgetown:Georgetown,villanova:Villanova
+106,big-east,2025-03-04,12:00AM,seton-hall:Seton Hall,creighton:Creighton
 172,big-ten,2025-03-04,12:00AM,ohio-state:Ohio State,nebraska:Nebraska
 173,big-ten,2025-03-04,12:00AM,oregon:Oregon,indiana:Indiana
 174,big-ten,2025-03-04,12:00AM,purdue:Purdue,rutgers:Rutgers
@@ -3210,7 +3209,8 @@
 158,big-12,2025-03-05,12:00AM,central-florida:UCF,oklahoma-state:Oklahoma State
 156,big-12,2025-03-05,12:00AM,cincinnati:Cincinnati,kansas-state:Kansas State
 157,big-12,2025-03-05,12:00AM,texas-tech:Texas Tech,colorado:Colorado
-108,big-east,2025-03-05,12:00AM,butler:Butler,xavier:Xavier
+107,big-east,2025-03-05,12:00AM,butler:Butler,xavier:Xavier
+108,big-east,2025-03-05,12:00AM,connecticut:Connecticut,marquette:Marquette
 109,big-east,2025-03-05,12:00AM,providence:Providence,depaul:DePaul
 175,big-ten,2025-03-05,12:00AM,michigan:Michigan,maryland:Maryland
 176,big-ten,2025-03-05,12:00AM,minnesota:Minnesota,wisconsin:Wisconsin
@@ -3251,7 +3251,6 @@
 69,wac,2025-03-06,12:00AM,grand-canyon:Grand Canyon,dixie-state:Utah Tech
 70,wac,2025-03-06,12:00AM,southern-utah:Southern Utah,seattle:Seattle
 116,aac,2025-03-07,12:00AM,memphis:Memphis,south-florida:South Florida
-179,acc,2025-03-07,12:00AM,florida-state:Florida State,southern-methodist:Southern Methodist
 134,atlantic-10,2025-03-07,12:00AM,virginia-commonwealth:Virginia Commonwealth,dayton:Dayton
 179,big-ten,2025-03-07,12:00AM,illinois:Illinois,purdue:Purdue
 107,mac,2025-03-07,12:00AM,akron:Akron,buffalo:Buffalo
@@ -3262,7 +3261,8 @@
 112,mac,2025-03-07,12:00AM,toledo:Toledo,ohio:Ohio
 111,mwc,2025-03-07,12:00AM,boise-state:Boise State,colorado-state:Colorado State
 112,mwc,2025-03-07,12:00AM,new-mexico:New Mexico,nevada-las-vegas:Nevada-Las Vegas
-180,acc,2025-03-08,12:00AM,clemson:Clemson,virginia-tech:Virginia Tech
+179,acc,2025-03-08,12:00AM,clemson:Clemson,virginia-tech:Virginia Tech
+180,acc,2025-03-08,12:00AM,florida-state:Florida State,southern-methodist:Southern Methodist
 181,acc,2025-03-08,12:00AM,louisville:Louisville,stanford:Stanford
 182,acc,2025-03-08,12:00AM,miami-fl:Miami (FL),north-carolina-state:NC State
 183,acc,2025-03-08,12:00AM,north-carolina:North Carolina,duke:Duke
