@@ -4,34 +4,39 @@
     <title>YouTube Random Video</title>
     <style>
       body {
-        font-family: "Press Start 2P", "Arial", sans-serif;
-        background: linear-gradient(120deg, #ffffff, #e0f7fa);
+        font-family: "Roboto", "Arial", sans-serif;
+        background: linear-gradient(120deg, #ffffff, #f1f8e9);
         color: #202124;
         text-align: center;
         margin: 0;
         padding: 0;
       }
+
       h1 {
         font-size: 2.5em;
         margin: 20px;
-        color: #ff5252;
+        color: #e53935;
         text-shadow: 2px 2px #000;
+        font-family: "Press Start 2P", cursive;
       }
+
       form {
         display: inline-block;
         padding: 20px;
         border: 3px solid #dadce0;
         border-radius: 15px;
-        background: #f1f3f4;
+        background: #ffffff;
         box-shadow: 4px 4px 0 #202124;
         margin-top: 20px;
       }
+
       label {
         font-size: 1.2em;
         color: #3c4043;
       }
+
       input[type="text"] {
-        font-family: "Press Start 2P", "Arial", sans-serif;
+        font-family: "Roboto", "Arial", sans-serif;
         width: 80%;
         padding: 10px;
         font-size: 1em;
@@ -41,67 +46,126 @@
         color: #202124;
         margin: 10px 0;
       }
+
       button {
-        font-family: "Press Start 2P", "Arial", sans-serif;
+        font-family: "Press Start 2P", cursive;
         padding: 10px 20px;
         font-size: 1em;
         color: #ffffff;
-        background: linear-gradient(90deg, #ff5252, #ff4081);
+        background: linear-gradient(90deg, #e53935, #d32f2f);
         border: none;
         border-radius: 8px;
         cursor: pointer;
         box-shadow: 4px 4px 0 #202124;
         transition: transform 0.2s ease;
       }
+
       button:hover {
-        background: linear-gradient(90deg, #ff4081, #ff5252);
+        background: linear-gradient(90deg, #d32f2f, #e53935);
         transform: scale(1.05);
       }
+
       p {
         font-size: 1.1em;
-        color: #d43f3f;
+        color: #e53935;
       }
+
       iframe {
         border: 8px solid #202124;
         margin: 20px 0;
         border-radius: 10px;
         box-shadow: 8px 8px 0 #202124;
       }
+
       .next-button {
         margin-top: 10px;
         display: inline-block;
       }
+
+      .pokeball {
+        width: 50px;
+        height: 50px;
+        background: linear-gradient(180deg, #e53935 50%, #ffffff 50%);
+        border: 3px solid #202124;
+        border-radius: 50%;
+        position: relative;
+        margin: 20px auto;
+        box-shadow: 4px 4px 0 #202124;
+      }
+
+      .pokeball::before {
+        content: "";
+        width: 20px;
+        height: 20px;
+        background: #ffffff;
+        border: 3px solid #202124;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      .pokeball::after {
+        content: "";
+        width: 10px;
+        height: 10px;
+        background: #202124;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      .pokemon-theme {
+        background: linear-gradient(120deg, #ffcdd2, #c8e6c9);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 6px 6px 0 #202124;
+        margin: 20px auto;
+        width: 80%;
+      }
     </style>
     <link
-      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap"
       rel="stylesheet"
     />
   </head>
   <body>
-    <h1>YouTube Random Video</h1>
-    <form action="/search" method="post">
-      <label for="query">Search for a channel:</label><br />
-      <input type="text" id="query" name="query" required />
-      <br />
-      <button type="submit">Search</button>
-    </form>
+    <div class="pokemon-theme">
+      <h1>YouTube Random Video</h1>
+      <div class="pokeball"></div>
+      <form action="/search" method="post">
+        <label for="query">Search for a channel:</label><br />
+        <input type="text" id="query" name="query" required />
+        <br />
+        <button type="submit">Search</button>
+      </form>
 
-    {{if .Error}}
-    <p>{{.Error}}</p>
-    {{end}} {{if .Title}}
-    <h2>Random Video:</h2>
-    <p>{{.Title}}</p>
-    <iframe
-      width="560"
-      height="315"
-      src="https://www.youtube.com/embed/{{.VideoID}}"
-      frameborder="0"
-      allowfullscreen
-    ></iframe>
-    <form action="/random" method="get" class="next-button">
-      <input type="hidden" name="channel_id" value="{{.ChannelID}}" />
-      <button type="submit">Next Video</button>
-    </form>
-    {{end}}
+      {{if .Error}}
+      <p>{{.Error}}</p>
+      {{end}} {{if .Title}}
+      <h2>Random Video:</h2>
+      <p>{{.Title}}</p>
+      <div>
+        <h2>{{.Title}}</h2>
+        {{if .Interval}}
+        <p>Watch from: {{.Interval}}</p>
+        {{end}}
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/{{.VideoID}}"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <form action="/random" method="get" class="next-button">
+        <input type="hidden" name="channel_id" value="{{.ChannelID}}" />
+        <button type="submit">Next Video</button>
+      </form>
+      {{end}}
+    </div>
   </body>
 </html>

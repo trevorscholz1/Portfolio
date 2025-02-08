@@ -4,19 +4,22 @@
     <title>Search Results</title>
     <style>
       body {
-        font-family: "Press Start 2P", "Arial", sans-serif;
-        background: linear-gradient(120deg, #fafafa, #e8f5e9);
+        font-family: "Roboto", "Arial", sans-serif;
+        background: linear-gradient(120deg, #ffffff, #f1f8e9);
         color: #202124;
         text-align: center;
         margin: 0;
         padding: 0;
       }
+
       h1 {
         font-size: 2.5em;
         margin: 20px;
-        color: #fdd835;
+        color: #e53935;
         text-shadow: 2px 2px #000;
+        font-family: "Press Start 2P", cursive;
       }
+
       ul {
         list-style: none;
         padding: 0;
@@ -27,12 +30,15 @@
         box-shadow: 6px 6px 0 #202124;
         padding: 20px;
         width: 60%;
+        margin: 20px auto;
       }
+
       li {
         margin: 15px 0;
         font-size: 1.1em;
         color: #202124;
       }
+
       a {
         color: #1e88e5;
         text-decoration: none;
@@ -42,25 +48,76 @@
         background: #e3f2fd;
         display: inline-block;
         transition: transform 0.2s ease;
+        font-family: "Press Start 2P", cursive;
       }
+
       a:hover {
         background: #90caf9;
         transform: scale(1.05);
+        box-shadow: 4px 4px 0 #202124;
+      }
+
+      .pokeball {
+        width: 50px;
+        height: 50px;
+        background: linear-gradient(180deg, #e53935 50%, #ffffff 50%);
+        border: 3px solid #202124;
+        border-radius: 50%;
+        position: relative;
+        margin: 20px auto;
+        box-shadow: 4px 4px 0 #202124;
+      }
+
+      .pokeball::before {
+        content: "";
+        width: 20px;
+        height: 20px;
+        background: #ffffff;
+        border: 3px solid #202124;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      .pokeball::after {
+        content: "";
+        width: 10px;
+        height: 10px;
+        background: #202124;
+        border-radius: 50%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      .pokemon-theme {
+        background: linear-gradient(120deg, #ffcdd2, #c8e6c9);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 6px 6px 0 #202124;
+        margin: 20px auto;
+        width: 80%;
       }
     </style>
     <link
-      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap"
       rel="stylesheet"
     />
   </head>
   <body>
-    <h1>Search Results</h1>
-    <ul>
-      {{range .}}
-      <li>
-        <a href="/random?channel_id={{.ChannelID}}">{{.ChannelTitle}}</a>
-      </li>
-      {{end}}
-    </ul>
+    <div class="pokemon-theme">
+      <h1>Search Results</h1>
+      <div class="pokeball"></div>
+      <ul>
+        {{range .}}
+        <li>
+          <a href="/random?channel_id={{.ChannelID}}">{{.ChannelTitle}}</a>
+        </li>
+        {{end}}
+      </ul>
+    </div>
   </body>
 </html>

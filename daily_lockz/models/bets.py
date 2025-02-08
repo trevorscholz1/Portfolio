@@ -3,7 +3,7 @@ import numpy as np
 import os
 import pandas as pd
 
-TEST = 0
+TEST = 1
 DATE = date.today() + timedelta(days=TEST)
 DATESEED = int(str(DATE).replace('-', ''))
 print(DATESEED)
@@ -48,7 +48,9 @@ bets.sort_values(by='sport', inplace=True)
 for index, row in bets.iterrows():
     np.random.seed(i*DATESEED)
     
+    conference = ''
     if 'NCAAB' in row['sport']:
+        conference = row['sport'].split('NCAAB')[-1]
         row['sport'] = 'NCAAB'
     if row['sport'] not in assignments:
         assignments[row['sport']] = []
@@ -66,9 +68,9 @@ for index, row in bets.iterrows():
     assignments[row['sport']].append(assignment)
     if row['sport'] in ['NBA','NCAAB','NCAAF','NFL']:
         if assignment == 'Spread':
-            print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {winteam} by {abs(row['spread'])}")
+            print(f"{row['sport'] + conference} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {winteam} by {abs(row['spread'])}")
         else:
-            print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
+            print(f"{row['sport'] + conference} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
     elif row['sport'] in ['MLB','NHL']:
         if assignment == 'Spread':
             print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {winteam} at {row['implied_odds']}")

@@ -1,8 +1,8 @@
+use dotenv::dotenv;
 use reqwest::Error;
 use serde::{Deserialize, Serialize};
-use tokio;
-use dotenv::dotenv;
 use std::{env, fs::File, io::Write};
+use tokio;
 
 #[derive(Deserialize, Serialize, Debug)]
 struct LegoSet {
@@ -34,7 +34,7 @@ async fn main() -> Result<(), Error> {
         println!("Fetching page...");
         let response = reqwest::get(&url).await?;
         let sets_response: LegoSetsResponse = response.json().await?;
-        
+
         all_sets.extend(sets_response.results);
         next_url = sets_response.next;
         tokio::time::sleep(tokio::time::Duration::from_millis(30)).await;
@@ -64,6 +64,6 @@ async fn main() -> Result<(), Error> {
             eprintln!("Failed to create file: {}", e);
         }
     }
-
+    
     Ok(())
 }

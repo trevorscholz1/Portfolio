@@ -9,20 +9,22 @@ import (
 	"math/rand"
 	"net/http"
 	"os"
+	"regexp"
+	"strconv"
+	"time"
 
 	"google.golang.org/api/option"
 	"google.golang.org/api/youtube/v3"
 )
 
+var (
+	youtubeService *youtube.Service
+	config         *Config
+	templates      *template.Template
+)
+
 type Config struct {
 	APIKey string `json:"api_key"`
-}
-
-type VideoData struct {
-	Title     string
-	VideoID   string
-	Error     string
-	ChannelID string
 }
 
 type SearchResult struct {
@@ -30,11 +32,13 @@ type SearchResult struct {
 	ChannelID    string
 }
 
-var (
-	youtubeService *youtube.Service
-	config         *Config
-	templates      *template.Template
-)
+type VideoData struct {
+	Title     string
+	VideoID   string
+	Error     string
+	ChannelID string
+	Interval  string
+}
 
 func main() {
 	var err error
@@ -89,37 +93,6 @@ func handleSearch(w http.ResponseWriter, r *http.Request) {
 	templates.ExecuteTemplate(w, "results.html", results)
 }
 
-func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
-	channelID := r.URL.Query().Get("channel_id")
-	if channelID == "" {
-		http.Redirect(w, r, "/", http.StatusSeeOther)
-		return
-	}
-
-	videos, err := getAllVideos(youtubeService, channelID)
-	if err != nil {
-		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching videos: " + err.Error()})
-		return
-	}
-
-	if len(videos) == 0 {
-		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "No videos found for this channel"})
-		return
-	}
-
-	// Select a random video
-	index := rand.Intn(len(videos))
-	video := videos[index]
-
-	data := VideoData{
-		Title:     video.Snippet.Title,
-		VideoID:   video.Snippet.ResourceId.VideoId,
-		ChannelID: channelID,
-	}
-
-	templates.ExecuteTemplate(w, "index.html", data)
-}
-
 func searchChannels(service *youtube.Service, query string) ([]SearchResult, error) {
 	call := service.Search.List([]string{"snippet"}).Q(query).Type("channel").MaxResults(10)
 	response, err := call.Do()
@@ -149,7 +122,7 @@ func getAllVideos(service *youtube.Service, channelID string) ([]*youtube.Playli
 	uploadsPlaylistID := channelsResponse.Items[0].ContentDetails.RelatedPlaylists.Uploads
 
 	var videos []*youtube.PlaylistItem
-	playlistItemsRequest := service.PlaylistItems.List([]string{"snippet"}).PlaylistId(uploadsPlaylistID)
+	playlistItemsRequest := service.PlaylistItems.List([]string{"snippet", "contentDetails"}).PlaylistId(uploadsPlaylistID)
 	for {
 		playlistItemsResponse, err := playlistItemsRequest.Do()
 		if err != nil {
@@ -162,6 +135,87 @@ func getAllVideos(service *youtube.Service, channelID string) ([]*youtube.Playli
 		playlistItemsRequest = playlistItemsRequest.PageToken(playlistItemsResponse.NextPageToken)
 	}
 	return videos, nil
+}
+
+func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
+	channelID := r.URL.Query().Get("channel_id")
+	if channelID == "" {
+		http.Redirect(w, r, "/", http.StatusSeeOther)
+		return
+	}
+
+	videos, err := getAllVideos(youtubeService, channelID)
+	if err != nil {
+		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching videos: " + err.Error()})
+		return
+	}
+
+	if len(videos) == 0 {
+		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "No videos found for this channel"})
+		return
+	}
+
+	index := rand.Intn(len(videos))
+	video := videos[index]
+
+	duration, err := getVideoDuration(youtubeService, video.Snippet.ResourceId.VideoId)
+	if err != nil {
+		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching video duration: " + err.Error()})
+		return
+	}
+
+	start, end := getRandomInterval(duration)
+	data := VideoData{
+		Title:     video.Snippet.Title,
+		VideoID:   video.Snippet.ResourceId.VideoId,
+		ChannelID: channelID,
+		Interval:  fmt.Sprintf("%s - %s", start, end),
+	}
+
+	templates.ExecuteTemplate(w, "index.html", data)
+}
+
+func getVideoDuration(service *youtube.Service, videoID string) (time.Duration, error) {
+	call := service.Videos.List([]string{"contentDetails"}).Id(videoID)
+	response, err := call.Do()
+	if err != nil {
+		return 0, err
+	}
+	if len(response.Items) == 0 {
+		return 0, fmt.Errorf("video not found")
+	}
+	duration, err := parseDuration(response.Items[0].ContentDetails.Duration)
+	if err != nil {
+		return 0, err
+	}
+	return duration, nil
+}
+
+func parseDuration(duration string) (time.Duration, error) {
+	re := regexp.MustCompile(`PT(\d+H)?(\d+M)?(\d+S)?`)
+	matches := re.FindStringSubmatch(duration)
+	var hours, minutes, seconds int64
+	if matches[1] != "" {
+		hours, _ = strconv.ParseInt(matches[1][:len(matches[1])-1], 10, 64)
+	}
+	if matches[2] != "" {
+		minutes, _ = strconv.ParseInt(matches[2][:len(matches[2])-1], 10, 64)
+	}
+	if matches[3] != "" {
+		seconds, _ = strconv.ParseInt(matches[3][:len(matches[3])-1], 10, 64)
+	}
+	return time.Duration(hours)*time.Hour + time.Duration(minutes)*time.Minute + time.Duration(seconds)*time.Second, nil
+}
+
+func getRandomInterval(duration time.Duration) (string, string) {
+	if duration <= 30*time.Minute {
+		return "", ""
+	}
+	maxStart := duration - 30*time.Minute
+	start := time.Duration(rand.Int63n(int64(maxStart)))
+	end := start + 30*time.Minute
+	return fmt.Sprintf("%02d:%02d", int(start.Minutes()), int(start.Seconds())%60),
+		fmt.Sprintf("%02d:%02d", int(end.Minutes()), int(end.Seconds())%60)
 }
 
 func loadConfig(filename string) (*Config, error) {
