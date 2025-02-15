@@ -1,0 +1,597 @@
+,League,Date,time,home_team,away_team
+0,England FA-Cup,2024-11-01,15:45,3b27de1f:Notts County,0ec6c3db:Alfreton Town
+1,England FA-Cup,2024-11-01,15:45,6711b681:Tamworth,f5922ca5:Huddersfield
+2,England FA-Cup,2024-11-02,11:00,5f01284a:Gillingham,7cbf5cb4:Blackpool
+3,England FA-Cup,2024-11-02,11:00,9e85547f:Solihull Moors,5bb68ee3:Maidstone Utd
+4,England FA-Cup,2024-11-02,11:00,05791fbc:Exeter City,2e91bf26:Barnet
+5,England FA-Cup,2024-11-02,11:00,c6ce4b54:Stockport,f1eb9593:FG Rovers
+6,England FA-Cup,2024-11-02,11:00,50b284c9:Tonbridge,3b47a2b5:Harborough
+7,England FA-Cup,2024-11-02,11:00,c30e88bc:Woking,41da1cf3:Cambridge Utd
+8,England FA-Cup,2024-11-02,11:00,ce786972:Chesterfield,c7f9816b:Horsham
+9,England FA-Cup,2024-11-02,11:00,22327064:Tranmere Rovers,4a04a02b:Oldham Athletic
+10,England FA-Cup,2024-11-02,11:00,9d313acf:Rushall,9172ba36:Acc'ton Stanley
+11,England FA-Cup,2024-11-02,11:00,375d66f1:Rotherham Utd,7c4744f7:Cheltenham
+12,England FA-Cup,2024-11-02,11:00,8efa4cdf:Barrow,03d10d77:Doncaster
+13,England FA-Cup,2024-11-02,11:00,51e48db2:Rochdale,6a9477ca:Bromley
+14,England FA-Cup,2024-11-02,11:00,b0ac61ff:Reading,d6a369a2:Fleetwood Town
+15,England FA-Cup,2024-11-02,11:00,654f3ca6:Bristol Rovers,5b0b2bd7:Weston
+16,England FA-Cup,2024-11-02,11:00,1b295b25:Swindon Town,b17b8146:Colchester Utd
+17,England FA-Cup,2024-11-02,11:00,6c15d7e1:Newport County,d6e6321c:P'borough Utd
+18,England FA-Cup,2024-11-02,11:00,2b9f86b0:Southend United,7a8db6d4:Charlton Ath
+19,England FA-Cup,2024-11-02,11:00,7cf2360b:Maidenhead Utd,0cd8eef2:Crawley Town
+20,England FA-Cup,2024-11-02,11:00,aca0450a:Stevenage,430d5511:Guiseley
+21,England FA-Cup,2024-11-02,11:00,f13a527f:Crewe Alexandra,4db00b00:Dag & Red
+22,England FA-Cup,2024-11-02,11:00,2dd4700c:Hednesford,521d0055:Gainsborough
+23,England FA-Cup,2024-11-02,11:00,43c2583e:Wycombe,e272e7a8:York City
+25,England FA-Cup,2024-11-02,11:00,443f55b6:Brackley Town,6cbef56e:Braintree Town
+26,England FA-Cup,2024-11-02,11:00,a18a87d7:Grimsby Town,6598bf6b:Wealdstone
+27,England FA-Cup,2024-11-02,11:00,cc9afa4b:Worthing,6ca73159:Morecambe
+28,England FA-Cup,2024-11-02,11:00,4cefb8c7:Salford City,b435dbf5:Shrewsbury
+29,England FA-Cup,2024-11-02,11:00,b09787c5:Burton Albion,238e263d:Scarborough
+30,England FA-Cup,2024-11-02,11:00,62657aa0:Port Vale,293cb36b:Barnsley
+31,England FA-Cup,2024-11-02,11:00,120cfbbd:Carlisle United,e59ddc76:Wigan Athletic
+32,England FA-Cup,2024-11-02,11:00,3148d79f:Bradford City,a8290768:Aldershot Town
+33,England FA-Cup,2024-11-02,11:00,d96bbc04:Walsall,445d3104:Bolton
+34,England FA-Cup,2024-11-02,13:30,986a26c1:Northampton,31a305e0:Kettering Town
+35,England FA-Cup,2024-11-03,07:30,7ef53dcf:Sutton United,ec79b7c2:Birmingham City
+36,England FA-Cup,2024-11-03,07:30,fcf5b1e1:MK Dons,8b9bf22a:AFC Wimbledon
+37,England FA-Cup,2024-11-03,09:00,8550eb99:Boreham Wood,590e9120:Leyton Orient
+38,England FA-Cup,2024-11-03,09:00,890ca1be:Curzon Ashton,13cb8449:Mansfield Town
+39,England FA-Cup,2024-11-03,10:30,802d1b47:Harrogate,dad7970b:Wrexham
+40,England FA-Cup,2024-11-04,14:15,ec724f18:Chesham United,d76b7bed:Lincoln City
+41,England FA-Cup,2024-11-29,14:45,802d1b47:Harrogate,521d0055:Gainsborough
+42,England FA-Cup,2024-11-30,06:30,6598bf6b:Wealdstone,43c2583e:Wycombe
+43,England FA-Cup,2024-11-30,10:00,6ca73159:Morecambe,3148d79f:Bradford City
+44,England FA-Cup,2024-11-30,10:00,aca0450a:Stevenage,13cb8449:Mansfield Town
+45,England FA-Cup,2024-11-30,10:00,41da1cf3:Cambridge Utd,e59ddc76:Wigan Athletic
+46,England FA-Cup,2024-11-30,10:00,c6ce4b54:Stockport,443f55b6:Brackley Town
+47,England FA-Cup,2024-11-30,10:00,293cb36b:Barnsley,654f3ca6:Bristol Rovers
+48,England FA-Cup,2024-11-30,10:00,d6e6321c:P'borough Utd,3b27de1f:Notts County
+49,England FA-Cup,2024-11-30,10:00,9172ba36:Acc'ton Stanley,1b295b25:Swindon Town
+51,England FA-Cup,2024-11-30,10:00,0cd8eef2:Crawley Town,d76b7bed:Lincoln City
+52,England FA-Cup,2024-11-30,10:00,05791fbc:Exeter City,ce786972:Chesterfield
+53,England FA-Cup,2024-11-30,10:00,4cefb8c7:Salford City,7c4744f7:Cheltenham
+54,England FA-Cup,2024-11-30,10:00,d96bbc04:Walsall,7a8db6d4:Charlton Ath
+55,England FA-Cup,2024-11-30,10:00,590e9120:Leyton Orient,4a04a02b:Oldham Athletic
+56,England FA-Cup,2024-11-30,14:15,8b9bf22a:AFC Wimbledon,4db00b00:Dag & Red
+57,England FA-Cup,2024-12-01,07:00,31a305e0:Kettering Town,03d10d77:Doncaster
+58,England FA-Cup,2024-12-01,08:00,7cbf5cb4:Blackpool,ec79b7c2:Birmingham City
+59,England FA-Cup,2024-12-01,09:00,b09787c5:Burton Albion,6711b681:Tamworth
+60,England FA-Cup,2024-12-01,09:00,b0ac61ff:Reading,3b47a2b5:Harborough
+61,England FA-Cup,2024-12-01,10:15,9e85547f:Solihull Moors,6a9477ca:Bromley
+62,England FA-Cup,2025-01-09,14:00,1df6b87e:Sheffield Utd,75fae011:Cardiff City
+63,England FA-Cup,2025-01-09,14:45,fd962109:Fulham,2abfe087:Watford
+64,England FA-Cup,2025-01-09,14:45,d3fd31cc:Everton,d6e6321c:P'borough Utd
+65,England FA-Cup,2025-01-10,14:45,43c2583e:Wycombe,76ffc013:Portsmouth
+66,England FA-Cup,2025-01-10,15:00,8602292d:Aston Villa,7c21e445:West Ham
+67,England FA-Cup,2025-01-11,07:00,93493607:Bristol City,8cec06e1:Wolves
+68,England FA-Cup,2025-01-11,07:00,7f59c601:Middlesbrough,e090f40b:Blackburn
+69,England FA-Cup,2025-01-11,07:00,ec79b7c2:Birmingham City,d76b7bed:Lincoln City
+70,England FA-Cup,2025-01-11,07:15,822bd0ba:Liverpool,9172ba36:Acc'ton Stanley
+71,England FA-Cup,2025-01-11,09:00,a2d435b3:Leicester City,a757999c:QPR
+72,England FA-Cup,2025-01-11,10:00,1c781004:Norwich City,d07537b9:Brighton
+73,England FA-Cup,2025-01-11,10:00,cff3d9bb:Chelsea,6ca73159:Morecambe
+74,England FA-Cup,2025-01-11,10:00,05791fbc:Exeter City,604617a2:Oxford United
+75,England FA-Cup,2025-01-11,10:00,8ef52968:Sunderland,17892952:Stoke City
+77,England FA-Cup,2025-01-11,10:00,4ba7cbea:Bournemouth,60c6b05f:West Brom
+78,England FA-Cup,2025-01-11,10:00,cd051869:Brentford,32a1480e:Plymouth Argyle
+79,England FA-Cup,2025-01-11,10:00,e4a775cb:Nott'ham Forest,e297cd13:Luton Town
+80,England FA-Cup,2025-01-11,10:00,b0ac61ff:Reading,943e8050:Burnley
+81,England FA-Cup,2025-01-11,12:45,5bfb9659:Leeds United,802d1b47:Harrogate
+82,England FA-Cup,2025-01-11,12:45,b8fd03ef:Manchester City,4cefb8c7:Salford City
+83,England FA-Cup,2025-01-11,13:00,f7e3dfe9:Coventry City,bba7d733:Sheffield Weds
+84,England FA-Cup,2025-01-12,07:00,bd8769d1:Hull City,03d10d77:Doncaster
+85,England FA-Cup,2025-01-12,07:30,6711b681:Tamworth,361ca564:Tottenham
+86,England FA-Cup,2025-01-12,10:00,47c64c55:Crystal Palace,c6ce4b54:Stockport
+87,England FA-Cup,2025-01-12,10:00,b2b47a98:Newcastle Utd,6a9477ca:Bromley
+88,England FA-Cup,2025-01-12,10:00,18bb7c10:Arsenal,19538871:Manchester Utd
+89,England FA-Cup,2025-01-12,10:00,b74092de:Ipswich Town,654f3ca6:Bristol Rovers
+90,England FA-Cup,2025-01-12,11:30,33c895d4:Southampton,fb10988f:Swansea City
+91,England FA-Cup,2025-01-13,14:30,e3c537a1:Millwall,4db00b00:Dag & Red
+92,England FA-Cup,2025-01-14,14:45,13cb8449:Mansfield Town,e59ddc76:Wigan Athletic
+93,England FA-Cup,2025-01-14,14:45,590e9120:Leyton Orient,26ab47ee:Derby County
+94,England FA-Cup,2025-01-14,14:45,22df8478:Preston,7a8db6d4:Charlton Ath
+95,England FA-Cup,2025-02-07,15:00,19538871:Manchester Utd,a2d435b3:Leicester City
+96,England FA-Cup,2025-02-08,07:15,5bfb9659:Leeds United,e3c537a1:Millwall
+97,England FA-Cup,2025-02-08,07:15,590e9120:Leyton Orient,b8fd03ef:Manchester City
+98,England FA-Cup,2025-02-08,10:00,d3fd31cc:Everton,4ba7cbea:Bournemouth
+99,England FA-Cup,2025-02-08,10:00,17892952:Stoke City,75fae011:Cardiff City
+100,England FA-Cup,2025-02-08,10:00,e59ddc76:Wigan Athletic,fd962109:Fulham
+101,England FA-Cup,2025-02-08,10:00,f7e3dfe9:Coventry City,b74092de:Ipswich Town
+103,England FA-Cup,2025-02-08,10:00,22df8478:Preston,43c2583e:Wycombe
+104,England FA-Cup,2025-02-08,10:00,33c895d4:Southampton,943e8050:Burnley
+105,England FA-Cup,2025-02-08,12:45,ec79b7c2:Birmingham City,b2b47a98:Newcastle Utd
+106,England FA-Cup,2025-02-08,15:00,d07537b9:Brighton,cff3d9bb:Chelsea
+107,England FA-Cup,2025-02-09,07:30,e090f40b:Blackburn,8cec06e1:Wolves
+108,England FA-Cup,2025-02-09,10:00,32a1480e:Plymouth Argyle,822bd0ba:Liverpool
+109,England FA-Cup,2025-02-09,12:35,8602292d:Aston Villa,361ca564:Tottenham
+110,England FA-Cup,2025-02-10,14:45,03d10d77:Doncaster,47c64c55:Crystal Palace
+111,England FA-Cup,2025-02-11,15:00,05791fbc:Exeter City,e4a775cb:Nott'ham Forest
+112,England FA-Cup,2025-03-01,10:00,4ba7cbea:Bournemouth,8cec06e1:Wolves
+113,England FA-Cup,2025-03-01,10:00,22df8478:Preston,943e8050:Burnley
+114,England FA-Cup,2025-03-01,10:00,e4a775cb:Nott'ham Forest,b74092de:Ipswich Town
+115,England FA-Cup,2025-03-01,10:00,b8fd03ef:Manchester City,32a1480e:Plymouth Argyle
+116,England FA-Cup,2025-03-01,10:00,19538871:Manchester Utd,fd962109:Fulham
+117,England FA-Cup,2025-03-01,10:00,47c64c55:Crystal Palace,e3c537a1:Millwall
+118,England FA-Cup,2025-03-01,10:00,8602292d:Aston Villa,75fae011:Cardiff City
+119,England FA-Cup,2025-03-01,10:00,b2b47a98:Newcastle Utd,d07537b9:Brighton
+0,England FA-Community-Shield,2024-08-10,10:00,b8fd03ef:Manchester City,19538871:Manchester Utd
+0,England EFL-Cup,2024-08-13,14:30,120cfbbd:Carlisle United,17892952:Stoke City
+1,England EFL-Cup,2024-08-13,14:30,590e9120:Leyton Orient,6c15d7e1:Newport County
+2,England EFL-Cup,2024-08-13,14:30,c6ce4b54:Stockport,e090f40b:Blackburn
+3,England EFL-Cup,2024-08-13,14:45,b09787c5:Burton Albion,7cbf5cb4:Blackpool
+4,England EFL-Cup,2024-08-13,14:45,d76b7bed:Lincoln City,802d1b47:Harrogate
+5,England EFL-Cup,2024-08-13,14:45,445d3104:Bolton,13cb8449:Mansfield Town
+6,England EFL-Cup,2024-08-13,14:45,604617a2:Oxford United,d6e6321c:P'borough Utd
+7,England EFL-Cup,2024-08-13,14:45,8efa4cdf:Barrow,62657aa0:Port Vale
+8,England EFL-Cup,2024-08-13,14:45,986a26c1:Northampton,43c2583e:Wycombe
+9,England EFL-Cup,2024-08-13,14:45,26ab47ee:Derby County,ce786972:Chesterfield
+10,England EFL-Cup,2024-08-13,14:45,22df8478:Preston,8ef52968:Sunderland
+11,England EFL-Cup,2024-08-13,14:45,e59ddc76:Wigan Athletic,293cb36b:Barnsley
+12,England EFL-Cup,2024-08-13,14:45,375d66f1:Rotherham Utd,f13a527f:Crewe Alexandra
+13,England EFL-Cup,2024-08-13,14:45,76ffc013:Portsmouth,e3c537a1:Millwall
+14,England EFL-Cup,2024-08-13,14:45,2abfe087:Watford,fcf5b1e1:MK Dons
+15,England EFL-Cup,2024-08-13,14:45,1c781004:Norwich City,aca0450a:Stevenage
+16,England EFL-Cup,2024-08-13,14:45,b17b8146:Colchester Utd,b0ac61ff:Reading
+17,England EFL-Cup,2024-08-13,14:45,a18a87d7:Grimsby Town,3148d79f:Bradford City
+18,England EFL-Cup,2024-08-13,14:45,41da1cf3:Cambridge Utd,a757999c:QPR
+19,England EFL-Cup,2024-08-13,14:45,b435dbf5:Shrewsbury,3b27de1f:Notts County
+20,England EFL-Cup,2024-08-13,14:45,d6a369a2:Fleetwood Town,60c6b05f:West Brom
+21,England EFL-Cup,2024-08-13,14:45,4cefb8c7:Salford City,03d10d77:Doncaster
+22,England EFL-Cup,2024-08-13,14:45,fb10988f:Swansea City,5f01284a:Gillingham
+23,England EFL-Cup,2024-08-13,14:45,d96bbc04:Walsall,05791fbc:Exeter City
+25,England EFL-Cup,2024-08-13,14:45,7a8db6d4:Charlton Ath,ec79b7c2:Birmingham City
+26,England EFL-Cup,2024-08-13,14:45,75fae011:Cardiff City,654f3ca6:Bristol Rovers
+27,England EFL-Cup,2024-08-13,14:45,93493607:Bristol City,f7e3dfe9:Coventry City
+28,England EFL-Cup,2024-08-13,14:45,6a9477ca:Bromley,8b9bf22a:AFC Wimbledon
+29,England EFL-Cup,2024-08-13,14:45,f5922ca5:Huddersfield,6ca73159:Morecambe
+30,England EFL-Cup,2024-08-13,14:45,0cd8eef2:Crawley Town,1b295b25:Swindon Town
+31,England EFL-Cup,2024-08-13,14:45,22327064:Tranmere Rovers,9172ba36:Acc'ton Stanley
+32,England EFL-Cup,2024-08-13,15:00,1df6b87e:Sheffield Utd,dad7970b:Wrexham
+33,England EFL-Cup,2024-08-14,14:45,bd8769d1:Hull City,bba7d733:Sheffield Weds
+34,England EFL-Cup,2024-08-14,14:45,32a1480e:Plymouth Argyle,7c4744f7:Cheltenham
+35,England EFL-Cup,2024-08-14,15:00,5bfb9659:Leeds United,7f59c601:Middlesbrough
+37,England EFL-Cup,2024-08-27,14:15,7f59c601:Middlesbrough,17892952:Stoke City
+38,England EFL-Cup,2024-08-27,14:45,d07537b9:Brighton,0cd8eef2:Crawley Town
+39,England EFL-Cup,2024-08-27,14:45,f7e3dfe9:Coventry City,604617a2:Oxford United
+40,England EFL-Cup,2024-08-27,14:45,a2d435b3:Leicester City,22327064:Tranmere Rovers
+41,England EFL-Cup,2024-08-27,14:45,2abfe087:Watford,32a1480e:Plymouth Argyle
+42,England EFL-Cup,2024-08-27,14:45,d6a369a2:Fleetwood Town,375d66f1:Rotherham Utd
+43,England EFL-Cup,2024-08-27,14:45,e3c537a1:Millwall,590e9120:Leyton Orient
+44,England EFL-Cup,2024-08-27,14:45,8efa4cdf:Barrow,26ab47ee:Derby County
+45,England EFL-Cup,2024-08-27,14:45,802d1b47:Harrogate,22df8478:Preston
+46,England EFL-Cup,2024-08-27,14:45,d96bbc04:Walsall,f5922ca5:Huddersfield
+47,England EFL-Cup,2024-08-27,14:45,b435dbf5:Shrewsbury,445d3104:Bolton
+48,England EFL-Cup,2024-08-27,14:45,d3fd31cc:Everton,03d10d77:Doncaster
+49,England EFL-Cup,2024-08-27,14:45,293cb36b:Barnsley,1df6b87e:Sheffield Utd
+50,England EFL-Cup,2024-08-27,14:45,a18a87d7:Grimsby Town,bba7d733:Sheffield Weds
+51,England EFL-Cup,2024-08-27,14:45,e090f40b:Blackburn,7cbf5cb4:Blackpool
+52,England EFL-Cup,2024-08-27,14:45,a757999c:QPR,e297cd13:Luton Town
+53,England EFL-Cup,2024-08-27,15:00,ec79b7c2:Birmingham City,fd962109:Fulham
+54,England EFL-Cup,2024-08-27,15:00,47c64c55:Crystal Palace,1c781004:Norwich City
+55,England EFL-Cup,2024-08-28,14:30,8cec06e1:Wolves,943e8050:Burnley
+56,England EFL-Cup,2024-08-28,14:45,fb10988f:Swansea City,43c2583e:Wycombe
+57,England EFL-Cup,2024-08-28,14:45,75fae011:Cardiff City,33c895d4:Southampton
+58,England EFL-Cup,2024-08-28,14:45,7c21e445:West Ham,4ba7cbea:Bournemouth
+59,England EFL-Cup,2024-08-28,14:45,b17b8146:Colchester Utd,cd051869:Brentford
+60,England EFL-Cup,2024-08-28,14:45,8b9bf22a:AFC Wimbledon,b74092de:Ipswich Town
+61,England EFL-Cup,2024-08-28,15:00,e4a775cb:Nott'ham Forest,b2b47a98:Newcastle Utd
+63,England EFL-Cup,2024-09-17,14:30,17892952:Stoke City,d6a369a2:Fleetwood Town
+64,England EFL-Cup,2024-09-17,14:45,22df8478:Preston,fd962109:Fulham
+65,England EFL-Cup,2024-09-17,14:45,d3fd31cc:Everton,33c895d4:Southampton
+66,England EFL-Cup,2024-09-17,14:45,a757999c:QPR,47c64c55:Crystal Palace
+67,England EFL-Cup,2024-09-17,14:45,cd051869:Brentford,590e9120:Leyton Orient
+68,England EFL-Cup,2024-09-17,14:45,7cbf5cb4:Blackpool,bba7d733:Sheffield Weds
+69,England EFL-Cup,2024-09-17,15:00,19538871:Manchester Utd,293cb36b:Barnsley
+70,England EFL-Cup,2024-09-18,14:45,d07537b9:Brighton,8cec06e1:Wolves
+71,England EFL-Cup,2024-09-18,15:00,f7e3dfe9:Coventry City,361ca564:Tottenham
+72,England EFL-Cup,2024-09-24,14:45,d96bbc04:Walsall,a2d435b3:Leicester City
+73,England EFL-Cup,2024-09-24,14:45,cff3d9bb:Chelsea,8efa4cdf:Barrow
+74,England EFL-Cup,2024-09-24,14:45,b8fd03ef:Manchester City,2abfe087:Watford
+75,England EFL-Cup,2024-09-24,15:00,43c2583e:Wycombe,8602292d:Aston Villa
+76,England EFL-Cup,2024-09-25,14:45,18bb7c10:Arsenal,445d3104:Bolton
+77,England EFL-Cup,2024-09-25,15:00,822bd0ba:Liverpool,7c21e445:West Ham
+78,England EFL-Cup,2024-10-01,14:45,b2b47a98:Newcastle Utd,8b9bf22a:AFC Wimbledon
+80,England EFL-Cup,2024-10-29,15:45,33c895d4:Southampton,17892952:Stoke City
+81,England EFL-Cup,2024-10-29,16:00,cd051869:Brentford,bba7d733:Sheffield Weds
+82,England EFL-Cup,2024-10-30,15:30,d07537b9:Brighton,822bd0ba:Liverpool
+83,England EFL-Cup,2024-10-30,15:45,8602292d:Aston Villa,47c64c55:Crystal Palace
+84,England EFL-Cup,2024-10-30,15:45,b2b47a98:Newcastle Utd,cff3d9bb:Chelsea
+85,England EFL-Cup,2024-10-30,15:45,22df8478:Preston,18bb7c10:Arsenal
+86,England EFL-Cup,2024-10-30,15:45,19538871:Manchester Utd,a2d435b3:Leicester City
+87,England EFL-Cup,2024-10-30,16:15,361ca564:Tottenham,b8fd03ef:Manchester City
+89,England EFL-Cup,2024-12-18,14:30,18bb7c10:Arsenal,47c64c55:Crystal Palace
+90,England EFL-Cup,2024-12-18,14:45,b2b47a98:Newcastle Utd,cd051869:Brentford
+91,England EFL-Cup,2024-12-18,15:00,33c895d4:Southampton,822bd0ba:Liverpool
+92,England EFL-Cup,2024-12-19,15:00,361ca564:Tottenham,19538871:Manchester Utd
+94,England EFL-Cup,2025-01-07,15:00,18bb7c10:Arsenal,b2b47a98:Newcastle Utd
+95,England EFL-Cup,2025-01-08,15:00,361ca564:Tottenham,822bd0ba:Liverpool
+96,England EFL-Cup,2025-02-05,15:00,b2b47a98:Newcastle Utd,18bb7c10:Arsenal
+97,England EFL-Cup,2025-02-06,15:00,822bd0ba:Liverpool,361ca564:Tottenham
+99,England EFL-Cup,2025-03-16,12:30,822bd0ba:Liverpool,b2b47a98:Newcastle Utd
+0,Spain Copa-del-Rey,2024-10-09,11:30,0d19ebfb:San Tirso SD,98a34819:Selaya FC
+1,Spain Copa-del-Rey,2024-10-09,12:30,60e96961:CD Sonseca,a5582a79:CP Parla Escuela
+2,Spain Copa-del-Rey,2024-10-09,13:00,60453880:Astur CF,5cc8faeb:CD Promesas EDF
+3,Spain Copa-del-Rey,2024-10-09,13:00,8f4dc73e:CD Baztán,bd27e156:Ontiñena CF
+4,Spain Copa-del-Rey,2024-10-09,13:00,850aaa78:UD San Pedro,ad98cfcb:Ceuta 6dJun
+5,Spain Copa-del-Rey,2024-10-09,13:30,a5ddc149:CD Villamuriel,33f40f8e:CD Aurrerá de Vitoria
+6,Spain Copa-del-Rey,2024-10-09,14:00,805d60ed:EF Dolorense,2febfdd7:Manises CF
+7,Spain Copa-del-Rey,2024-10-09,14:30,f4158051:CD Gévora,30ca2005:UD Playas de Sotavento
+8,Spain Copa-del-Rey,2024-10-09,14:30,ed01bb97:UE Vic,fb07fd02:CF Sporting de Mahón
+9,Spain Copa-del-Rey,2024-10-09,15:00,a3c3c40a:Chiclana,2c490303:Melilla CD
+10,Spain Copa-del-Rey,2024-10-29,14:00,63505675:Compostela,8d6fd021:Alavés
+11,Spain Copa-del-Rey,2024-10-29,14:00,a5ddc149:CD Villamuriel,98e8af82:Rayo Vallecano
+12,Spain Copa-del-Rey,2024-10-29,16:00,47ce7abb:UD Lanzarote,dee3bbc8:Racing Sant
+13,Spain Copa-del-Rey,2024-10-29,15:00,eb74e9e0:Guijuelo,bec758d0:Ourense CF
+14,Spain Copa-del-Rey,2024-10-29,16:00,08f4680b:CE L'Hospitalet,800303a0:Zaragoza
+15,Spain Copa-del-Rey,2024-10-29,16:00,dc8390fa:UD Poblense,2a8183b3:Villarreal
+16,Spain Copa-del-Rey,2024-10-29,16:00,60453880:Astur CF,17859612:Valladolid
+17,Spain Copa-del-Rey,2024-10-29,16:00,99249528:Real Jaén,ee7c297c:Cádiz
+18,Spain Copa-del-Rey,2024-10-30,15:00,b9dcfe40:Utebo,5b9f913c:Unionistas Sal
+19,Spain Copa-del-Rey,2024-10-30,13:30,07de294e:Europa,b7e3e46e:Albacete
+20,Spain Copa-del-Rey,2024-10-30,14:00,043933e8:UE Olot,6009ff35:Córdoba
+21,Spain Copa-del-Rey,2024-10-30,14:00,71e8cebc:Ibiza,d5de8ff3:Gimnàstic
+22,Spain Copa-del-Rey,2024-10-30,14:00,3b147c89:Las Rozas CF,ad2be733:Sevilla
+23,Spain Copa-del-Rey,2024-10-30,14:00,6d15185b:Ciudad de Lucena,7c6f2c78:Leganés
+25,Spain Copa-del-Rey,2024-10-30,14:30,efbf6a9b:Langreo,8740efb9:Orihuela
+26,Spain Copa-del-Rey,2024-10-30,14:30,7da065c5:Bergantiños FC,c7ea3cd1:Marbella
+27,Spain Copa-del-Rey,2024-10-30,14:30,a3ebe635:SD Beasain,bbd9ac49:Cartagena
+28,Spain Copa-del-Rey,2024-10-30,14:30,a4615984:CD Móstoles URJC,d9fac124:Burgos
+29,Spain Copa-del-Rey,2024-10-30,15:00,31f1bcca:UD Logroñés,bea5c710:Eibar
+30,Spain Copa-del-Rey,2024-10-30,15:00,64a0f1a9:UD Salamanca B,045c971f:Alcorcón
+31,Spain Copa-del-Rey,2024-10-30,15:00,d6133833:CD Laredo,dd8f1ff9:Yeclano
+32,Spain Copa-del-Rey,2024-10-30,15:00,768c8a85:CD Cortes,a0435291:Granada
+33,Spain Copa-del-Rey,2024-10-30,15:00,c0235a2f:Juventud Torremolinos CF,e36fc5db:Zamora
+34,Spain Copa-del-Rey,2024-10-30,15:00,76d8bafa:Numancia,bb9efd50:Sporting Gijón
+35,Spain Copa-del-Rey,2024-10-30,15:00,2358159b:UE Sant Andreu,3640715c:CD Mirandés
+36,Spain Copa-del-Rey,2024-10-30,15:00,5e8c6a2f:Lleida,fd5b8bef:Barakaldo
+37,Spain Copa-del-Rey,2024-10-30,15:00,ff4ed90c:Llagostera,c6c493e6:Huesca
+38,Spain Copa-del-Rey,2024-10-30,15:00,22c1c21c:UM Escobedo,ffbaa3d2:Ponferradina
+39,Spain Copa-del-Rey,2024-10-30,15:30,7202b84f:Cacereño,801b52b3:Gimn Segoviana
+40,Spain Copa-del-Rey,2024-10-30,16:30,06994e5c:Club Deportivo Atlético Paso,fa36ed9b:Eldense
+41,Spain Copa-del-Rey,2024-10-30,15:30,27624e4d:UB Conquense,c187b7ab:Ibiza
+42,Spain Copa-del-Rey,2024-10-30,15:30,e8fba31e:CD Coria,6c8b07df:Elche
+43,Spain Copa-del-Rey,2024-10-30,16:00,c4c866db:UD Sanse,78ecf4bb:Almería
+44,Spain Copa-del-Rey,2024-10-30,16:00,850aaa78:UD San Pedro,f25da7fb:Celta Vigo
+45,Spain Copa-del-Rey,2024-10-30,16:00,78f0837b:Águilas,9eef2995:Castellón
+46,Spain Copa-del-Rey,2024-10-30,16:00,12b17f5e:CD Extremadura,9024a00a:Girona
+47,Spain Copa-del-Rey,2024-10-31,14:00,4eaa9116:Barbastro,5f70a1fa:Amorebieta
+48,Spain Copa-del-Rey,2024-10-31,14:00,0d19ebfb:San Tirso SD,a8661628:Espanyol
+49,Spain Copa-del-Rey,2024-10-31,14:00,ed01bb97:UE Vic,db3b9613:Atlético Madrid
+51,Spain Copa-del-Rey,2024-10-31,15:00,56f17f26:Real Ávila CF,ab358912:Oviedo
+52,Spain Copa-del-Rey,2024-10-31,15:00,59e199e5:Tudelano,b6fdf69d:CD Minera
+53,Spain Copa-del-Rey,2024-10-31,15:30,36783279:CD Don Benito,73178cb3:FC Andorra
+54,Spain Copa-del-Rey,2024-10-31,16:00,fa667d74:UD Llanera,38bf50d2:Leonesa
+55,Spain Copa-del-Rey,2024-10-31,16:00,f4158051:CD Gévora,fc536746:Betis
+56,Spain Copa-del-Rey,2024-10-31,16:00,8a1df7f4:CD Cuarte,962428a8:Racing Ferrol
+57,Spain Copa-del-Rey,2024-10-31,16:00,ff8db3c1:CD Alfaro,27cc9c62:Tenerife
+58,Spain Copa-del-Rey,2024-10-31,16:00,edaa7ef2:CD Estepona,1c896955:Málaga
+59,Spain Copa-del-Rey,2024-10-31,16:00,bd27e156:Ontiñena CF,0049d422:Las Palmas
+60,Spain Copa-del-Rey,2024-11-05,13:00,a3c3c40a:Chiclana,03c57e2b:Osasuna
+61,Spain Copa-del-Rey,2024-11-06,13:00,c653e8bf:Xerez,3a3ca6c0:AD Ceuta
+62,Spain Copa-del-Rey,2024-11-14,12:00,2da7552b:SD Ejea,4222a514:Hércules
+63,Spain Copa-del-Rey,2024-11-19,14:00,5f79c4a9:Pontevedra,9800b6a1:Levante
+64,Spain Copa-del-Rey,2024-11-21,15:00,76f7c0e6:FC Jove Español San Vicente,e31d1cd9:Real Sociedad
+65,Spain Copa-del-Rey,2024-11-26,13:00,a5582a79:CP Parla Escuela,dcc91a7b:Valencia
+66,Spain Copa-del-Rey,2024-11-26,13:00,2febfdd7:Manises CF,7848bd64:Getafe
+67,Spain Copa-del-Rey,2024-12-03,13:00,56f17f26:Real Ávila CF,17859612:Valladolid
+68,Spain Copa-del-Rey,2024-12-03,14:00,dd8f1ff9:Yeclano,6c8b07df:Elche
+69,Spain Copa-del-Rey,2024-12-03,15:00,800303a0:Zaragoza,a0435291:Granada
+70,Spain Copa-del-Rey,2024-12-03,15:00,4eaa9116:Barbastro,a8661628:Espanyol
+71,Spain Copa-del-Rey,2024-12-03,15:00,64a0f1a9:UD Salamanca B,f25da7fb:Celta Vigo
+72,Spain Copa-del-Rey,2024-12-03,15:15,07de294e:Europa,0049d422:Las Palmas
+73,Spain Copa-del-Rey,2024-12-04,13:00,d5de8ff3:Gimnàstic,c6c493e6:Huesca
+74,Spain Copa-del-Rey,2024-12-04,13:00,5b9f913c:Unionistas Sal,98e8af82:Rayo Vallecano
+75,Spain Copa-del-Rey,2024-12-04,13:00,2358159b:UE Sant Andreu,fc536746:Betis
+77,Spain Copa-del-Rey,2024-12-04,14:00,bec758d0:Ourense CF,2a60ed82:La Coruña
+78,Spain Copa-del-Rey,2024-12-04,14:00,38bf50d2:Leonesa,78ecf4bb:Almería
+79,Spain Copa-del-Rey,2024-12-04,14:00,ee7c297c:Cádiz,fa36ed9b:Eldense
+80,Spain Copa-del-Rey,2024-12-04,14:30,dee3bbc8:Racing Sant,bb9efd50:Sporting Gijón
+81,Spain Copa-del-Rey,2024-12-04,15:00,31f1bcca:UD Logroñés,9024a00a:Girona
+82,Spain Copa-del-Rey,2024-12-04,15:00,2da7552b:SD Ejea,dcc91a7b:Valencia
+83,Spain Copa-del-Rey,2024-12-04,15:00,edaa7ef2:CD Estepona,7c6f2c78:Leganés
+84,Spain Copa-del-Rey,2024-12-04,15:00,e36fc5db:Zamora,27cc9c62:Tenerife
+85,Spain Copa-del-Rey,2024-12-04,15:00,5f79c4a9:Pontevedra,2a8183b3:Villarreal
+86,Spain Copa-del-Rey,2024-12-05,13:00,8740efb9:Orihuela,7848bd64:Getafe
+87,Spain Copa-del-Rey,2024-12-05,13:00,7202b84f:Cacereño,db3b9613:Atlético Madrid
+88,Spain Copa-del-Rey,2024-12-05,13:00,3a3ca6c0:AD Ceuta,03c57e2b:Osasuna
+89,Spain Copa-del-Rey,2024-12-05,14:00,73178cb3:FC Andorra,bbd9ac49:Cartagena
+90,Spain Copa-del-Rey,2024-12-05,14:00,fd5b8bef:Barakaldo,962428a8:Racing Ferrol
+91,Spain Copa-del-Rey,2024-12-05,14:00,ffbaa3d2:Ponferradina,9eef2995:Castellón
+92,Spain Copa-del-Rey,2024-12-05,14:00,c7ea3cd1:Marbella,d9fac124:Burgos
+93,Spain Copa-del-Rey,2024-12-05,15:00,b6fdf69d:CD Minera,8d6fd021:Alavés
+94,Spain Copa-del-Rey,2024-12-05,15:00,27624e4d:UB Conquense,e31d1cd9:Real Sociedad
+95,Spain Copa-del-Rey,2024-12-05,15:00,043933e8:UE Olot,ad2be733:Sevilla
+96,Spain Copa-del-Rey,2025-01-03,13:00,a0435291:Granada,7848bd64:Getafe
+97,Spain Copa-del-Rey,2025-01-03,13:00,5f79c4a9:Pontevedra,2aa12281:Mallorca
+98,Spain Copa-del-Rey,2025-01-03,13:00,962428a8:Racing Ferrol,98e8af82:Rayo Vallecano
+99,Spain Copa-del-Rey,2025-01-04,10:30,27cc9c62:Tenerife,03c57e2b:Osasuna
+100,Spain Copa-del-Rey,2025-01-04,09:30,c6c493e6:Huesca,fc536746:Betis
+101,Spain Copa-del-Rey,2025-01-04,11:30,78ecf4bb:Almería,ad2be733:Sevilla
+103,Spain Copa-del-Rey,2025-01-04,13:00,4eaa9116:Barbastro,206d90db:Barcelona
+104,Spain Copa-del-Rey,2025-01-04,15:30,c7ea3cd1:Marbella,db3b9613:Atlético Madrid
+105,Spain Copa-del-Rey,2025-01-04,15:30,31f1bcca:UD Logroñés,2b390eca:Athletic Club
+106,Spain Copa-del-Rey,2025-01-05,06:00,bec758d0:Ourense CF,17859612:Valladolid
+107,Spain Copa-del-Rey,2025-01-05,06:00,6c8b07df:Elche,0049d422:Las Palmas
+108,Spain Copa-del-Rey,2025-01-05,09:30,dee3bbc8:Racing Sant,f25da7fb:Celta Vigo
+109,Spain Copa-del-Rey,2025-01-05,09:30,bbd9ac49:Cartagena,7c6f2c78:Leganés
+110,Spain Copa-del-Rey,2025-01-05,09:30,ffbaa3d2:Ponferradina,e31d1cd9:Real Sociedad
+111,Spain Copa-del-Rey,2025-01-06,13:00,b6fdf69d:CD Minera,53a2f082:Real Madrid
+112,Spain Copa-del-Rey,2025-01-07,15:00,fa36ed9b:Eldense,dcc91a7b:Valencia
+113,Spain Copa-del-Rey,2025-01-14,15:00,bec758d0:Ourense CF,dcc91a7b:Valencia
+114,Spain Copa-del-Rey,2025-01-15,13:30,78ecf4bb:Almería,7c6f2c78:Leganés
+115,Spain Copa-del-Rey,2025-01-15,13:30,5f79c4a9:Pontevedra,7848bd64:Getafe
+116,Spain Copa-del-Rey,2025-01-15,15:00,206d90db:Barcelona,fc536746:Betis
+117,Spain Copa-del-Rey,2025-01-15,15:30,6c8b07df:Elche,db3b9613:Atlético Madrid
+118,Spain Copa-del-Rey,2025-01-16,13:30,2b390eca:Athletic Club,03c57e2b:Osasuna
+119,Spain Copa-del-Rey,2025-01-16,13:30,e31d1cd9:Real Sociedad,98e8af82:Rayo Vallecano
+120,Spain Copa-del-Rey,2025-01-16,15:30,53a2f082:Real Madrid,f25da7fb:Celta Vigo
+121,Spain Copa-del-Rey,2025-02-04,15:30,db3b9613:Atlético Madrid,7848bd64:Getafe
+122,Spain Copa-del-Rey,2025-02-05,15:00,7c6f2c78:Leganés,53a2f082:Real Madrid
+123,Spain Copa-del-Rey,2025-02-06,13:30,e31d1cd9:Real Sociedad,03c57e2b:Osasuna
+124,Spain Copa-del-Rey,2025-02-06,15:30,dcc91a7b:Valencia,206d90db:Barcelona
+125,Spain Copa-del-Rey,2025-02-25,15:30,206d90db:Barcelona,db3b9613:Atlético Madrid
+126,Spain Copa-del-Rey,2025-02-26,15:30,e31d1cd9:Real Sociedad,53a2f082:Real Madrid
+127,Spain Copa-del-Rey,2025-04-01,15:30,53a2f082:Real Madrid,e31d1cd9:Real Sociedad
+129,Spain Copa-del-Rey,2025-04-02,15:30,db3b9613:Atlético Madrid,206d90db:Barcelona
+0,Spain Supercopa-de-Espana,2025-01-08,14:00,2b390eca:Athletic Club,206d90db:Barcelona
+1,Spain Supercopa-de-Espana,2025-01-09,14:00,53a2f082:Real Madrid,2aa12281:Mallorca
+2,Spain Supercopa-de-Espana,2025-01-12,14:00,53a2f082:Real Madrid,206d90db:Barcelona
+0,France Coupe-de-France,2024-11-10,16:30,1ad3bd9b:Jeunesse Évol.,6640d390:CS Moulien
+1,France Coupe-de-France,2024-11-15,13:00,3196586b:Les Herbiers,7a54bb4f:Ajaccio
+2,France Coupe-de-France,2024-11-15,14:00,dc1dd993:Angoulême,9130bd3b:Rodez Aveyron
+3,France Coupe-de-France,2024-11-15,14:00,056a5a75:Paris FC,34e7850d:Quevilly-Rouen
+4,France Coupe-de-France,2024-11-16,07:45,980524a2:FCSR Obernai,f83960ae:Metz
+5,France Coupe-de-France,2024-11-16,07:45,77021edb:Av. Bayonne,e5b6b0c1:Pau FC
+6,France Coupe-de-France,2024-11-16,07:45,ecb514d5:C' Chartres,74229020:Caen
+7,France Coupe-de-France,2024-11-16,13:00,76ca939d:RC Saint-Joseph,00a535a2:Samaritaine
+8,France Coupe-de-France,2024-11-16,08:00,410c7de5:CS Feytiat,d9676424:Clermont Foot
+9,France Coupe-de-France,2024-11-16,08:00,9a526aa9:USC Corte,6b355862:Linas-Montl.
+10,France Coupe-de-France,2024-11-16,08:00,1b379b16:AS Ginglin-Cesson,b7109505:US Alençon
+11,France Coupe-de-France,2024-11-16,08:00,6710dee7:FC Freyming,6283be2c:Bastia
+12,France Coupe-de-France,2024-11-16,08:00,a0dfd307:Houilles AC,98973a5c:US Boulogne
+13,France Coupe-de-France,2024-11-16,08:00,7b576c8b:US Crépy-en-Valois,ff7706bc:Diables Noirs de Combani
+14,France Coupe-de-France,2024-11-16,08:00,0be0fa09:Chaumont FC,6e65ebe0:Monts d'Or Azergues Foot
+15,France Coupe-de-France,2024-11-16,09:00,6cf1edac:CG Haubourdin,e83d13db:Red Star
+16,France Coupe-de-France,2024-11-16,09:30,db9f975e:US Raon,0a03ba6d:ASC Biesheim
+17,France Coupe-de-France,2024-11-16,09:30,82e26422:Ruffiac Malestroit Foot,d2c87802:Lorient
+18,France Coupe-de-France,2024-11-16,10:00,81f60c85:St Philbert Reorthe,cd4a4fe5:SA Mérignac
+19,France Coupe-de-France,2024-11-16,10:30,e5b472a1:SP Milizac,0c1c166a:Dinan-Léhon
+20,France Coupe-de-France,2024-11-16,11:00,f35581a8:Saint-Colomban Locminé,277cdbe7:Sablé
+21,France Coupe-de-France,2024-11-16,11:00,52807106:Vannes,cd5d7aa6:Le Mans
+22,France Coupe-de-France,2024-11-16,11:00,1b2fb5e6:Agde,e6255587:SO Romorantin
+23,France Coupe-de-France,2024-11-16,11:00,55e4f8f2:ESB Marboz,4eb023fd:Cluses-Scionzier FC
+25,France Coupe-de-France,2024-11-16,11:00,8e13e62e:Olympique Saumur FC,4d987358:US Concarneau
+26,France Coupe-de-France,2024-11-16,11:00,261e0a76:FC Grandvillars,8dfb7350:Dijon
+27,France Coupe-de-France,2024-11-16,11:00,3ac615e7:Sarre-Union,89ff5424:Thaon
+28,France Coupe-de-France,2024-11-16,11:30,ffa2218a:US Nousseviller,dc17fded:SR Colmar
+29,France Coupe-de-France,2024-11-16,11:30,70f96e85:Istres,7e3a857a:ES Cannet-Rocheville
+30,France Coupe-de-France,2024-11-16,12:00,32146a01:FC Espaly,04ab9043:FC Biars Bretenoux
+31,France Coupe-de-France,2024-11-16,12:00,2d3f9f8f:AS Guereins Genouilleux,b45f9287:UF Mâcon
+32,France Coupe-de-France,2024-11-16,12:00,d607afc4:GFA Rumilly Vallières,5498a6ec:Jura Dolois Foot
+33,France Coupe-de-France,2024-11-16,12:00,ca43de55:OC Cesson,da8d9837:TA Rennes
+34,France Coupe-de-France,2024-11-16,12:00,121dcdda:Colomiers,fc2d8fd5:Vierzon Foot 18
+35,France Coupe-de-France,2024-11-16,12:00,39981dae:USPF Saint-Philbert-de-Grand-Lieu,773a9b0d:Thouars Foot 79
+36,France Coupe-de-France,2024-11-16,12:00,0fd70875:FC Foron,54195385:Troyes
+37,France Coupe-de-France,2024-11-16,12:00,eef68dd6:Perpignan Canet FC,47d0a8b1:Versailles
+38,France Coupe-de-France,2024-11-16,12:00,cdf22ccc:Gallia Club Lucciana,6f4d0e0b:Px-Mézières
+39,France Coupe-de-France,2024-11-16,12:00,29f5eff9:Épinal,e88fc6e5:Nancy
+40,France Coupe-de-France,2024-11-16,12:00,4003a380:AS Vitré,66cc304a:Stade Laval
+41,France Coupe-de-France,2024-11-16,12:00,e2f6ddd0:Montagnarde,c96d05af:Tours FC
+42,France Coupe-de-France,2024-11-16,12:00,5f56a9a6:Fontenay,30ca6b5e:ESOF La Roche-sur-Yon
+43,France Coupe-de-France,2024-11-16,12:00,5deb1d8a:AS St-Just St-Rambert,b4461076:Bourgoin-Jal.
+44,France Coupe-de-France,2024-11-16,12:00,49cf900f:Alès OL,efab6f24:Stade Beaucairois
+45,France Coupe-de-France,2024-11-16,12:00,4a0ff629:Beauvais-Oise,b0b9782c:US Chantilly
+46,France Coupe-de-France,2024-11-16,12:00,9d88064b:Stade Béthunois FC,1740a29b:Dunkerque
+47,France Coupe-de-France,2024-11-16,12:00,5ea316dc:FC Saint-Lô Manche,64b0854d:SU Dives
+48,France Coupe-de-France,2024-11-16,12:00,d929fedb:Arras Football,259d3345:Valenciennes
+49,France Coupe-de-France,2024-11-16,12:00,da35c480:Fleury 91,25622401:Amiens
+51,France Coupe-de-France,2024-11-16,12:00,46c5732c:JA Drancy,e0be2f05:US Pays de Cassel
+52,France Coupe-de-France,2024-11-16,12:00,5dca7789:Gueugnon,b9cd3c9a:Sochaux
+53,France Coupe-de-France,2024-11-16,12:00,801e28af:FC Vesoul,c94d9135:Annecy
+54,France Coupe-de-France,2024-11-16,12:30,872d9edd:FC Serquigny Nassandres,d41b5f53:Guingamp
+55,France Coupe-de-France,2024-11-16,12:30,943aa94a:Boulay,b970b500:US Thionville Lusitanos
+56,France Coupe-de-France,2024-11-16,12:30,b009da4f:CS Blénod,3e5be65a:FCSR Haguenau
+57,France Coupe-de-France,2024-11-16,12:30,40aa7280:Grenoble,33382a12:Villefranche
+58,France Coupe-de-France,2024-11-16,13:00,41dff222:Valence FC,c29fb6f0:US Marignane
+59,France Coupe-de-France,2024-11-16,13:00,ec9aa446:ES Grau-du-Roi,69a82db6:Cannes
+60,France Coupe-de-France,2024-11-16,13:00,1c629a75:Calais Beau Marais,433dc32c:AC Paris 15
+61,France Coupe-de-France,2024-11-16,13:00,61d9850e:Niort,48dd5b1b:Orléans
+62,France Coupe-de-France,2024-11-16,13:00,f3c0bf70:Cazaux Olympique,064ce3d8:La Roche VF
+63,France Coupe-de-France,2024-11-16,13:00,c9861678:FC Comtal,67256fb4:Le Puy Foot 43
+64,France Coupe-de-France,2024-11-17,08:00,0248ac2f:AS Mutzig,d4066387:FA Illkirch-Graffenstaden
+65,France Coupe-de-France,2024-11-16,19:00,f855efb6:AS Dragon,2293229f:US Avranches
+66,France Coupe-de-France,2024-11-17,08:00,ae943665:CO Briochin,040e70e5:US Saint-Malo
+67,France Coupe-de-France,2024-11-17,08:00,c03d8fa1:RC Labourse,04ec4e3f:FC 93
+68,France Coupe-de-France,2024-11-17,08:00,e19e38f9:Avenir Mourenxois,ecaa1753:FC Marmande 47
+69,France Coupe-de-France,2024-11-17,08:00,8ac4a7d3:Le Touquet,e80f03f6:FC Porto Portugais
+70,France Coupe-de-France,2024-11-17,08:00,70e50a84:FC Raismes,ef26825d:SC Feignies
+71,France Coupe-de-France,2024-11-17,08:00,011245be:SO Chambéry Foot,29916c51:FC Saint-Cyr Collonges au Mont d'Or
+72,France Coupe-de-France,2024-11-17,08:00,4fe67df5:FC Valdahon Vercel,3df0eb96:Jura Sud Foot
+73,France Coupe-de-France,2024-11-17,08:00,b14dcf80:FC Hettange-Grande,d6dbeb95:Lunéville
+74,France Coupe-de-France,2024-11-17,08:00,b6c2f7cc:SC Anduzien,815ac9e3:Ht Lyonnais
+75,France Coupe-de-France,2024-11-17,08:00,759d2c27:CO Les Ulis,c910d41e:RC Calais
+77,France Coupe-de-France,2024-11-17,08:00,a9bf77e5:Maladrerie OS,aa16cc5d:US Bolbec
+78,France Coupe-de-France,2024-11-17,08:00,0c145733:Lempdes SF,83fd5273:Carnoux FC
+79,France Coupe-de-France,2024-11-17,08:00,755da2d9:Étoile Maritime FC,91e68ea5:USSA Vertou
+80,France Coupe-de-France,2024-11-17,08:00,6dc6f493:Ol. Valence,e95faa7f:Arles-Avignon
+81,France Coupe-de-France,2024-11-17,08:00,30ab494c:RC Roubaix,16058c00:Neuilly-sur-Marne SFC
+82,France Coupe-de-France,2024-11-17,08:00,eeda7c96:FC Liancourt Clermont,fc1c07db:Bretigny Foot CS
+83,France Coupe-de-France,2024-11-17,08:00,41247cac:Paimpolais,f3522e08:Stade Briochin
+84,France Coupe-de-France,2024-11-17,08:00,2deb7262:ES Beaumont Saint-Cyr,f42c5b3a:FC Ecureuils Merignac-Arlac
+85,France Coupe-de-France,2024-11-17,08:00,36acd614:Saint-Omer,b9bc39f0:US Noyelles-sous-Lens
+86,France Coupe-de-France,2024-11-17,08:00,14a18add:Anstaing Chereng,65d4f9f5:FCM Aubervilliers
+87,France Coupe-de-France,2024-11-17,08:00,685324a1:AS Montferrand,1b719877:L'Union
+88,France Coupe-de-France,2024-11-17,08:00,d0f01f06:FC Fief-Gesté,61193ee7:US Monnaie
+89,France Coupe-de-France,2024-11-17,08:00,ce12cdbb:USE Couzeix-Chaptelat,c42b00f3:Sauveteurs Brivois
+90,France Coupe-de-France,2024-11-17,07:30,07bb3d02:St Pierroise,0d650ddf:Saint-Denis FC
+91,France Coupe-de-France,2024-11-17,11:00,f7fd9106:FC Bressuire,123f3efe:Bordeaux
+92,France Coupe-de-France,2024-11-17,11:00,87df6232:FC Allobroges Asafia,82e8a66d:Martigues
+94,France Coupe-de-France,2024-11-20,14:00,9a526aa9:USC Corte,ff7706bc:Diables Noirs de Combani
+96,France Coupe-de-France,2024-11-23,14:00,236a1372:Aigles d'Or,16d603bf:AS Etoile de Matoury
+98,France Coupe-de-France,2024-11-29,13:00,f3522e08:Stade Briochin,040e70e5:US Saint-Malo
+99,France Coupe-de-France,2024-11-29,13:00,48dd5b1b:Orléans,064ce3d8:La Roche VF
+100,France Coupe-de-France,2024-11-29,13:30,db9f975e:US Raon,f83960ae:Metz
+101,France Coupe-de-France,2024-11-29,13:30,6283be2c:Bastia,e88fc6e5:Nancy
+102,France Coupe-de-France,2024-11-29,14:00,1c629a75:Calais Beau Marais,25622401:Amiens
+103,France Coupe-de-France,2024-11-29,14:00,011245be:SO Chambéry Foot,8dfb7350:Dijon
+104,France Coupe-de-France,2024-11-30,07:30,74229020:Caen,aa16cc5d:US Bolbec
+105,France Coupe-de-France,2024-11-30,07:30,61193ee7:US Monnaie,d2c87802:Lorient
+106,France Coupe-de-France,2024-11-30,08:00,66cc304a:Stade Laval,4d987358:US Concarneau
+107,France Coupe-de-France,2024-11-30,08:00,0248ac2f:AS Mutzig,1ad3bd9b:Jeunesse Évol.
+108,France Coupe-de-France,2024-11-30,08:00,dc1dd993:Angoulême,d9676424:Clermont Foot
+109,France Coupe-de-France,2024-11-30,08:30,04ec4e3f:FC 93,e83d13db:Red Star
+110,France Coupe-de-France,2024-11-30,08:30,65d4f9f5:FCM Aubervilliers,1740a29b:Dunkerque
+111,France Coupe-de-France,2024-11-30,08:30,39981dae:USPF Saint-Philbert-de-Grand-Lieu,e5b6b0c1:Pau FC
+112,France Coupe-de-France,2024-11-30,09:00,eeda7c96:FC Liancourt Clermont,34e7850d:Quevilly-Rouen
+113,France Coupe-de-France,2024-11-30,10:00,3df0eb96:Jura Sud Foot,c94d9135:Annecy
+114,France Coupe-de-France,2024-11-30,10:00,259d3345:Valenciennes,16058c00:Neuilly-sur-Marne SFC
+115,France Coupe-de-France,2024-11-30,14:00,16d603bf:AS Etoile de Matoury,b970b500:US Thionville Lusitanos
+116,France Coupe-de-France,2024-11-30,11:00,dc17fded:SR Colmar,3e5be65a:FCSR Haguenau
+117,France Coupe-de-France,2024-11-30,11:00,d607afc4:GFA Rumilly Vallières,6e65ebe0:Monts d'Or Azergues Foot
+118,France Coupe-de-France,2024-11-30,11:00,70f96e85:Istres,40aa7280:Grenoble
+119,France Coupe-de-France,2024-11-30,11:00,1b2fb5e6:Agde,67256fb4:Le Puy Foot 43
+120,France Coupe-de-France,2024-11-30,11:00,4eb023fd:Cluses-Scionzier FC,54195385:Troyes
+121,France Coupe-de-France,2024-11-30,12:00,1b719877:L'Union,47d0a8b1:Versailles
+122,France Coupe-de-France,2024-11-30,12:00,30ca6b5e:ESOF La Roche-sur-Yon,76ca939d:RC Saint-Joseph
+124,France Coupe-de-France,2024-11-30,12:00,8ac4a7d3:Le Touquet,c910d41e:RC Calais
+125,France Coupe-de-France,2024-11-30,12:00,cd5d7aa6:Le Mans,f35581a8:Saint-Colomban Locminé
+126,France Coupe-de-France,2024-11-30,12:00,49cf900f:Alès OL,69a82db6:Cannes
+127,France Coupe-de-France,2024-11-30,12:00,41dff222:Valence FC,82e8a66d:Martigues
+128,France Coupe-de-France,2024-11-30,12:00,c96d05af:Tours FC,ca43de55:OC Cesson
+129,France Coupe-de-France,2024-11-30,12:00,cd4a4fe5:SA Mérignac,2deb7262:ES Beaumont Saint-Cyr
+130,France Coupe-de-France,2024-11-30,12:00,83fd5273:Carnoux FC,815ac9e3:Ht Lyonnais
+131,France Coupe-de-France,2024-11-30,12:00,0c1c166a:Dinan-Léhon,d41b5f53:Guingamp
+132,France Coupe-de-France,2024-11-30,12:00,b4461076:Bourgoin-Jal.,6dc6f493:Ol. Valence
+133,France Coupe-de-France,2024-11-30,12:00,b45f9287:UF Mâcon,b9cd3c9a:Sochaux
+134,France Coupe-de-France,2024-11-30,12:30,1b379b16:AS Ginglin-Cesson,deac08c7:FC Rouen
+135,France Coupe-de-France,2024-11-30,14:00,ecaa1753:FC Marmande 47,fc2d8fd5:Vierzon Foot 18
+136,France Coupe-de-France,2024-11-30,14:00,64b0854d:SU Dives,f855efb6:AS Dragon
+137,France Coupe-de-France,2024-12-01,07:30,ce12cdbb:USE Couzeix-Chaptelat,32146a01:FC Espaly
+138,France Coupe-de-France,2024-12-01,07:30,ef26825d:SC Feignies,cdf22ccc:Gallia Club Lucciana
+139,France Coupe-de-France,2024-12-01,07:45,98973a5c:US Boulogne,4a0ff629:Beauvais-Oise
+140,France Coupe-de-France,2024-12-01,08:00,b9bc39f0:US Noyelles-sous-Lens,46c5732c:JA Drancy
+141,France Coupe-de-France,2024-12-01,09:00,d6dbeb95:Lunéville,89ff5424:Thaon
+142,France Coupe-de-France,2024-12-01,07:00,0d650ddf:Saint-Denis FC,91e68ea5:USSA Vertou
+143,France Coupe-de-France,2024-12-01,11:00,123f3efe:Bordeaux,3196586b:Les Herbiers
+145,France Coupe-de-France,2024-12-20,14:45,6283be2c:Bastia,76ca939d:RC Saint-Joseph
+146,France Coupe-de-France,2024-12-20,14:45,6e65ebe0:Monts d'Or Azergues Foot,c94d9135:Annecy
+147,France Coupe-de-France,2024-12-20,14:45,54195385:Troyes,f83960ae:Metz
+148,France Coupe-de-France,2024-12-20,14:45,32146a01:FC Espaly,8dfb7350:Dijon
+149,France Coupe-de-France,2024-12-20,14:45,cd4a4fe5:SA Mérignac,66cc304a:Stade Laval
+150,France Coupe-de-France,2024-12-20,14:45,3e5be65a:FCSR Haguenau,98973a5c:US Boulogne
+151,France Coupe-de-France,2024-12-20,15:00,deac08c7:FC Rouen,cb188c0c:Lille
+152,France Coupe-de-France,2024-12-21,09:30,64b0854d:SU Dives,0d650ddf:Saint-Denis FC
+153,France Coupe-de-France,2024-12-21,09:30,69a82db6:Cannes,40aa7280:Grenoble
+154,France Coupe-de-France,2024-12-21,09:30,815ac9e3:Ht Lyonnais,3f8c4b5f:Toulouse
+155,France Coupe-de-France,2024-12-21,09:30,064ce3d8:La Roche VF,fb08dbb3:Brest
+156,France Coupe-de-France,2024-12-21,09:30,f3522e08:Stade Briochin,5c2737db:Le Havre
+157,France Coupe-de-France,2024-12-21,09:30,b4461076:Bourgoin-Jal.,82e8a66d:Martigues
+158,France Coupe-de-France,2024-12-21,12:00,c96d05af:Tours FC,d2c87802:Lorient
+159,France Coupe-de-France,2024-12-21,12:00,9a526aa9:USC Corte,132ebc33:Nice
+160,France Coupe-de-France,2024-12-21,12:00,46c5732c:JA Drancy,d7a486cd:Nantes
+161,France Coupe-de-France,2024-12-21,12:00,67256fb4:Le Puy Foot 43,281b0e73:Montpellier
+162,France Coupe-de-France,2024-12-21,12:00,89ff5424:Thaon,25622401:Amiens
+163,France Coupe-de-France,2024-12-21,12:00,ef26825d:SC Feignies,d53c0b06:Lyon
+164,France Coupe-de-France,2024-12-21,15:00,c910d41e:RC Calais,c0d3eab4:Strasbourg
+165,France Coupe-de-France,2024-12-22,08:45,d298ef2c:Saint-Étienne,5725cc7b:Marseille
+166,France Coupe-de-France,2024-12-22,08:45,5ae09109:Auxerre,1740a29b:Dunkerque
+167,France Coupe-de-France,2024-12-22,08:45,123f3efe:Bordeaux,b3072e00:Rennes
+168,France Coupe-de-France,2024-12-22,08:45,1b719877:L'Union,fd6114db:Monaco
+169,France Coupe-de-France,2024-12-22,08:45,0248ac2f:AS Mutzig,7fdd64e0:Reims
+171,France Coupe-de-France,2024-12-22,11:30,b970b500:US Thionville Lusitanos,259d3345:Valenciennes
+172,France Coupe-de-France,2024-12-22,11:30,b9cd3c9a:Sochaux,d9676424:Clermont Foot
+173,France Coupe-de-France,2024-12-22,11:30,39981dae:USPF Saint-Philbert-de-Grand-Lieu,34e7850d:Quevilly-Rouen
+174,France Coupe-de-France,2024-12-22,11:30,d41b5f53:Guingamp,74229020:Caen
+175,France Coupe-de-France,2024-12-22,11:30,04ec4e3f:FC 93,69236f98:Angers
+176,France Coupe-de-France,2024-12-22,11:30,ecaa1753:FC Marmande 47,cd5d7aa6:Le Mans
+177,France Coupe-de-France,2024-12-22,15:00,fd4e0f7d:Lens,e2d8892c:Paris S-G
+179,France Coupe-de-France,2025-01-14,14:45,d41b5f53:Guingamp,b9cd3c9a:Sochaux
+180,France Coupe-de-France,2025-01-14,14:45,7fdd64e0:Reims,fd6114db:Monaco
+181,France Coupe-de-France,2025-01-14,14:45,6283be2c:Bastia,132ebc33:Nice
+182,France Coupe-de-France,2025-01-14,14:45,64b0854d:SU Dives,67256fb4:Le Puy Foot 43
+183,France Coupe-de-France,2025-01-14,14:45,cd5d7aa6:Le Mans,259d3345:Valenciennes
+184,France Coupe-de-France,2025-01-14,15:10,5725cc7b:Marseille,cb188c0c:Lille
+185,France Coupe-de-France,2025-01-15,12:00,b4461076:Bourgoin-Jal.,d53c0b06:Lyon
+186,France Coupe-de-France,2025-01-15,12:30,fb08dbb3:Brest,d7a486cd:Nantes
+187,France Coupe-de-France,2025-01-15,12:30,54195385:Troyes,b3072e00:Rennes
+188,France Coupe-de-France,2025-01-15,12:30,34e7850d:Quevilly-Rouen,69236f98:Angers
+189,France Coupe-de-France,2025-01-15,12:30,89ff5424:Thaon,c0d3eab4:Strasbourg
+190,France Coupe-de-France,2025-01-15,12:30,f3522e08:Stade Briochin,c94d9135:Annecy
+191,France Coupe-de-France,2025-01-15,12:30,3f8c4b5f:Toulouse,66cc304a:Stade Laval
+192,France Coupe-de-France,2025-01-15,12:30,69a82db6:Cannes,d2c87802:Lorient
+193,France Coupe-de-France,2025-01-15,15:00,32146a01:FC Espaly,e2d8892c:Paris S-G
+194,France Coupe-de-France,2025-01-22,11:00,3e5be65a:FCSR Haguenau,1740a29b:Dunkerque
+196,France Coupe-de-France,2025-02-04,13:00,54195385:Troyes,fb08dbb3:Brest
+197,France Coupe-de-France,2025-02-04,13:00,cb188c0c:Lille,1740a29b:Dunkerque
+198,France Coupe-de-France,2025-02-04,15:10,cd5d7aa6:Le Mans,e2d8892c:Paris S-G
+199,France Coupe-de-France,2025-02-05,14:45,3f8c4b5f:Toulouse,d41b5f53:Guingamp
+200,France Coupe-de-France,2025-02-05,14:45,c0d3eab4:Strasbourg,69236f98:Angers
+201,France Coupe-de-France,2025-02-05,14:45,f3522e08:Stade Briochin,132ebc33:Nice
+202,France Coupe-de-France,2025-02-05,14:45,69a82db6:Cannes,64b0854d:SU Dives
+203,France Coupe-de-France,2025-02-06,15:00,b4461076:Bourgoin-Jal.,7fdd64e0:Reims
+205,France Coupe-de-France,2025-02-25,15:00,69a82db6:Cannes,d41b5f53:Guingamp
+206,France Coupe-de-France,2025-02-25,15:00,69236f98:Angers,7fdd64e0:Reims
+207,France Coupe-de-France,2025-02-26,13:00,fb08dbb3:Brest,1740a29b:Dunkerque
+208,France Coupe-de-France,2025-02-26,15:10,f3522e08:Stade Briochin,e2d8892c:Paris S-G
+0,France Trophee-des-Champions,2025-01-05,11:30,e2d8892c:Paris S-G,fd6114db:Monaco
+0,Germany DFB-Pokal,2024-08-16,12:00,d69d0df7:Hallescher,54864664:St. Pauli
+1,Germany DFB-Pokal,2024-08-16,12:00,432f2430:Wehen,a224b06a:Mainz 05
+2,Germany DFB-Pokal,2024-08-16,12:00,4c2b6cd7:W'burg Kickers,033ea6b8:Hoffenheim
+3,Germany DFB-Pokal,2024-08-16,14:45,291257b3:Ulm,054efa67:Bayern Munich
+4,Germany DFB-Pokal,2024-08-17,07:00,6724656e:Erzgebirge Aue,32f3ee20:Gladbach
+5,Germany DFB-Pokal,2024-08-17,07:00,f62815d7:TSV Schott Mainz,12192a4c:Greuther Fürth
+6,Germany DFB-Pokal,2024-08-17,09:30,12eb2039:Ingolstadt 04,73a27a73:Kaiserslautern
+7,Germany DFB-Pokal,2024-08-17,09:30,eb207015:Aalen,c539e393:Schalke 04
+8,Germany DFB-Pokal,2024-08-17,09:30,c12cc630:Greifswalder SV 04,7a41008f:Union Berlin
+9,Germany DFB-Pokal,2024-08-17,09:30,3ce4e72c:Osnabrück,a486e511:Freiburg
+10,Germany DFB-Pokal,2024-08-17,09:30,28147f65:Rot-Weiss Essen,acbb6a5b:RB Leipzig
+11,Germany DFB-Pokal,2024-08-17,09:30,f554f7de:Villingen,18d9d2a7:Heidenheim
+12,Germany DFB-Pokal,2024-08-17,12:00,247c4b67:Arminia,60b5e41f:Hannover 96
+13,Germany DFB-Pokal,2024-08-17,12:00,3659060d:Aachen,2ac661d9:Holstein Kiel
+14,Germany DFB-Pokal,2024-08-17,12:00,fbed2cf7:1. FC Phönix Lübeck,add600ae:Dortmund
+15,Germany DFB-Pokal,2024-08-18,07:00,eb4b278c:Saarbrücken,6f2c108c:Nürnberg
+16,Germany DFB-Pokal,2024-08-18,07:00,05deef93:Viktoria 1889,0cdc4311:Augsburg
+17,Germany DFB-Pokal,2024-08-18,09:30,c241ee1a:Sandhausen,bc357bf7:Köln
+18,Germany DFB-Pokal,2024-08-18,09:30,4c4e92f8:FC Teutonia Ottensen,6a6967fc:Darmstadt 98
+19,Germany DFB-Pokal,2024-08-18,09:30,e42a660b:VfV 06 Hildesheim,fe686760:Elversberg
+20,Germany DFB-Pokal,2024-08-18,09:30,5cb328f2:Jahn R'burg,b42c6323:Bochum
+21,Germany DFB-Pokal,2024-08-18,09:30,d2727b1d:Bremer SV,d9f93f02:Paderborn 07
+22,Germany DFB-Pokal,2024-08-18,09:30,bc31a6e4:Hansa Rostock,2818f8bc:Hertha BSC
+23,Germany DFB-Pokal,2024-08-18,12:00,93e94415:Meppen,26790c6a:Hamburger SV
+25,Germany DFB-Pokal,2024-08-18,12:00,ac36c181:Dresden,b1278397:Düsseldorf
+26,Germany DFB-Pokal,2024-08-18,12:00,1573023f:Sportfreunde Lotte,33ba9d7b:Karlsruher
+27,Germany DFB-Pokal,2024-08-19,12:00,cda2e192:Kickers Offenbach,e18a73da:Magdeburg
+28,Germany DFB-Pokal,2024-08-19,12:00,7675ab36:Energie Cottbus,62add3bf:Werder Bremen
+29,Germany DFB-Pokal,2024-08-19,12:00,b90ae239:Koblenz,4eaa11d7:Wolfsburg
+30,Germany DFB-Pokal,2024-08-19,14:45,8107958d:Braunschweig,f0ac8ee6:Eint Frankfurt
+31,Germany DFB-Pokal,2024-08-27,14:45,bbcef8c7:Preußen Münster,598bc722:Stuttgart
+32,Germany DFB-Pokal,2024-08-28,12:00,b49d1b16:Carl Zeiss Jena,c7a9f859:Leverkusen
+34,Germany DFB-Pokal,2024-10-29,13:00,acbb6a5b:RB Leipzig,54864664:St. Pauli
+35,Germany DFB-Pokal,2024-10-29,13:00,cda2e192:Kickers Offenbach,33ba9d7b:Karlsruher
+36,Germany DFB-Pokal,2024-10-29,13:00,0cdc4311:Augsburg,c539e393:Schalke 04
+37,Germany DFB-Pokal,2024-10-29,13:00,c7a9f859:Leverkusen,fe686760:Elversberg
+38,Germany DFB-Pokal,2024-10-29,15:45,5cb328f2:Jahn R'burg,12192a4c:Greuther Fürth
+39,Germany DFB-Pokal,2024-10-29,15:45,4eaa11d7:Wolfsburg,add600ae:Dortmund
+40,Germany DFB-Pokal,2024-10-29,15:45,bc357bf7:Köln,2ac661d9:Holstein Kiel
+41,Germany DFB-Pokal,2024-10-29,15:45,598bc722:Stuttgart,73a27a73:Kaiserslautern
+42,Germany DFB-Pokal,2024-10-30,13:00,d9f93f02:Paderborn 07,62add3bf:Werder Bremen
+43,Germany DFB-Pokal,2024-10-30,13:00,a486e511:Freiburg,26790c6a:Hamburger SV
+44,Germany DFB-Pokal,2024-10-30,13:00,f0ac8ee6:Eint Frankfurt,32f3ee20:Gladbach
+45,Germany DFB-Pokal,2024-10-30,13:00,2818f8bc:Hertha BSC,18d9d2a7:Heidenheim
+46,Germany DFB-Pokal,2024-10-30,15:45,247c4b67:Arminia,7a41008f:Union Berlin
+47,Germany DFB-Pokal,2024-10-30,15:45,033ea6b8:Hoffenheim,6f2c108c:Nürnberg
+48,Germany DFB-Pokal,2024-10-30,15:45,ac36c181:Dresden,6a6967fc:Darmstadt 98
+49,Germany DFB-Pokal,2024-10-30,15:45,a224b06a:Mainz 05,054efa67:Bayern Munich
+51,Germany DFB-Pokal,2024-12-03,12:00,5cb328f2:Jahn R'burg,598bc722:Stuttgart
+52,Germany DFB-Pokal,2024-12-03,12:00,247c4b67:Arminia,a486e511:Freiburg
+53,Germany DFB-Pokal,2024-12-03,14:45,054efa67:Bayern Munich,c7a9f859:Leverkusen
+54,Germany DFB-Pokal,2024-12-03,14:45,62add3bf:Werder Bremen,6a6967fc:Darmstadt 98
+55,Germany DFB-Pokal,2024-12-04,12:00,bc357bf7:Köln,2818f8bc:Hertha BSC
+56,Germany DFB-Pokal,2024-12-04,12:00,4eaa11d7:Wolfsburg,033ea6b8:Hoffenheim
+57,Germany DFB-Pokal,2024-12-04,14:45,33ba9d7b:Karlsruher,0cdc4311:Augsburg
+58,Germany DFB-Pokal,2024-12-04,14:45,acbb6a5b:RB Leipzig,f0ac8ee6:Eint Frankfurt
+60,Germany DFB-Pokal,2025-02-04,14:45,598bc722:Stuttgart,0cdc4311:Augsburg
+61,Germany DFB-Pokal,2025-02-05,14:45,c7a9f859:Leverkusen,bc357bf7:Köln
+62,Germany DFB-Pokal,2025-02-25,14:45,247c4b67:Arminia,62add3bf:Werder Bremen
+63,Germany DFB-Pokal,2025-02-26,14:45,acbb6a5b:RB Leipzig,4eaa11d7:Wolfsburg
