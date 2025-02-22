@@ -3,7 +3,7 @@ import numpy as np
 import os
 import pandas as pd
 
-TEST = 1
+TEST = 0
 DATE = date.today() + timedelta(days=TEST)
 DATESEED = int(str(DATE).replace('-', ''))
 print(DATESEED)

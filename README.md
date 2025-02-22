@@ -40,3 +40,4 @@ or even want to collaborate on a project!
 
 - trevorscholz1@icloud.com
 - https://www.linkedin.com/in/trevor-scholz-014794258/
+- https://www.trevorscholz.dev
