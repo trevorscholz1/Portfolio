@@ -2,377 +2,85 @@
 <html>
   <head>
     <title>Search Results</title>
+    <style>
+      body {
+        font-family: "Roboto", "Arial", sans-serif;
+        background: linear-gradient(120deg, #ffffff, #f1f8e9);
+        color: #202124;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+      }
+
+      h1 {
+        font-size: 2.5em;
+        margin: 20px;
+        color: #e53935;
+        text-shadow: 2px 2px #000;
+        font-family: "Press Start 2P", cursive;
+      }
+
+      ul {
+        list-style: none;
+        padding: 0;
+        display: inline-block;
+        border: 3px solid #dadce0;
+        border-radius: 15px;
+        background: #ffffff;
+        box-shadow: 6px 6px 0 #202124;
+        padding: 20px;
+        width: 60%;
+        margin: 20px auto;
+      }
+
+      li {
+        margin: 15px 0;
+        font-size: 1.1em;
+        color: #202124;
+      }
+
+      a {
+        color: #1e88e5;
+        text-decoration: none;
+        border: 2px solid #cfd8dc;
+        border-radius: 8px;
+        padding: 8px 15px;
+        background: #e3f2fd;
+        display: inline-block;
+        transition: transform 0.2s ease;
+        font-family: "Press Start 2P", cursive;
+      }
+
+      a:hover {
+        background: #90caf9;
+        transform: scale(1.05);
+        box-shadow: 4px 4px 0 #202124;
+      }
+
+      .pokemon-theme {
+        background: linear-gradient(120deg, #ffcdd2, #c8e6c9);
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 6px 6px 0 #202124;
+        margin: 20px auto;
+        width: 80%;
+      }
+    </style>
     <link
       href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap"
       rel="stylesheet"
     />
-    <style>
-      /* Include all styles from index.html first */
-      /* Then add these additional styles specific to results page */
-
-      .search-results {
-        margin: 30px 0;
-        padding: 0;
-        list-style: none;
-      }
-
-      .channel-button {
-        width: 100%;
-        padding: 12px;
-        margin: 8px 0;
-        background: #ffffff;
-        border: 2px solid #dadce0;
-        border-radius: 8px;
-        cursor: pointer;
-        text-align: left;
-        font-size: 1.1em;
-        transition: all 0.2s ease;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-
-      .channel-button:hover {
-        background: #f5f5f5;
-        transform: translateX(5px);
-      }
-
-      .channel-button.selected {
-        background: #e3f2fd;
-        border-color: #2196f3;
-      }
-
-      .channel-button::after {
-        content: "➕";
-        font-size: 1.2em;
-        opacity: 0.5;
-      }
-
-      .channel-button.selected::after {
-        content: "✓";
-        color: #4caf50;
-      }
-
-      .back-link {
-        display: inline-block;
-        margin: 20px;
-        text-decoration: none;
-        color: #e53935;
-        font-family: "Press Start 2P", cursive;
-        font-size: 0.8em;
-      }
-
-      .no-results {
-        padding: 20px;
-        background: #f5f5f5;
-        border-radius: 8px;
-        margin: 20px 0;
-        color: #666;
-      }
-
-      .randomize-section {
-        margin-top: 20px;
-        text-align: center;
-      }
-
-      .start-random {
-        background: linear-gradient(90deg, #4caf50, #45a049);
-        color: white;
-        font-family: "Press Start 2P", cursive;
-        padding: 15px 30px;
-        font-size: 1em;
-        border: none;
-        border-radius: 8px;
-        cursor: pointer;
-        box-shadow: 4px 4px 0 #202124;
-        transition: all 0.2s ease;
-        width: auto;
-        margin: 20px auto;
-        display: inline-block;
-      }
-
-      .start-random:hover {
-        transform: translateY(-2px);
-        box-shadow: 6px 6px 0 #202124;
-        background: linear-gradient(90deg, #45a049, #4caf50);
-      }
-
-      .start-random:disabled {
-        background: #cccccc;
-        cursor: not-allowed;
-        transform: none;
-        box-shadow: none;
-      }
-
-      .selected-channels {
-        position: fixed;
-        top: 20px;
-        right: 20px;
-        background: #ffffff;
-        border: 3px solid #dadce0;
-        border-radius: 15px;
-        padding: 20px;
-        box-shadow: 4px 4px 0 #202124;
-        max-width: 300px;
-        text-align: left;
-        z-index: 1000;
-      }
-
-      .channel-count {
-        font-size: 0.9em;
-        color: #666;
-        margin: 5px 0 15px 0;
-        text-align: center;
-        font-family: "Press Start 2P", cursive;
-      }
-
-      .ready-message {
-        color: #4caf50;
-        font-size: 0.9em;
-        margin-top: 10px;
-        text-align: center;
-        font-family: "Press Start 2P", cursive;
-        display: none;
-      }
-
-      .ready-message.show {
-        display: block;
-        animation: pulse 2s infinite;
-      }
-
-      @keyframes pulse {
-        0% {
-          opacity: 0.6;
-        }
-        50% {
-          opacity: 1;
-        }
-        100% {
-          opacity: 0.6;
-        }
-      }
-    </style>
   </head>
   <body>
-    <div class="container">
-      <div class="pokemon-theme">
-        <h1>Search Results</h1>
-
-        <div class="search-section">
-          <form
-            action="/search"
-            method="post"
-            class="search-form"
-            id="searchForm"
-          >
-            <label for="query">Search for a channel:</label>
-            <input type="text" id="query" name="query" required />
-            <div id="selectedChannelsInputs"></div>
-            <button type="submit">Search</button>
-          </form>
-        </div>
-
-        <div
-          class="randomize-section"
-          id="randomizeSection"
-          style="display: none"
-        >
-          <div class="ready-message" id="readyMessage">
-            Ready to watch random videos!
-          </div>
-          <button class="start-random" id="mainStartRandom">
-            Start Random Videos
-          </button>
-        </div>
-
-        {{if .Error}}
-        <div class="error-message">{{.Error}}</div>
-        {{end}} {{if .Results}}
-        <ul class="search-results">
-          {{range .Results}}
-          <li>
-            <button
-              class="channel-button"
-              onclick="addChannel('{{.ChannelID}}', '{{.ChannelTitle}}')"
-              data-channel-id="{{.ChannelID}}"
-            >
-              {{.ChannelTitle}}
-            </button>
-          </li>
-          {{end}}
-        </ul>
-        {{else}}
-        <div class="no-results">No channels found matching your search.</div>
+    <div class="pokemon-theme">
+      <h1>Search Results</h1>
+      <ul>
+        {{range .}}
+        <li>
+          <a href="/random?channel_id={{.ChannelID}}">{{.ChannelTitle}}</a>
+        </li>
         {{end}}
-      </div>
+      </ul>
     </div>
-
-    <div class="selected-channels" id="selectedChannels" style="display: none">
-      <h3>Selected Channels</h3>
-      <div class="channel-count">
-        (<span id="channelCounter">0</span>/10 channels)
-      </div>
-      <div class="channel-list" id="channelList"></div>
-    </div>
-
-    <script>
-      const selectedChannels = new Map();
-      const maxChannels = 10;
-
-      // Initialize selected channels from server-side data if available
-      {
-        {
-          range.SelectedChannels;
-        }
-      }
-      selectedChannels.set("{{.ChannelID}}", "{{.ChannelTitle}}");
-      {
-        {
-          end;
-        }
-      }
-
-      // Update button states based on selected channels
-      function updateChannelButtons() {
-        const buttons = document.querySelectorAll(".channel-button");
-        buttons.forEach((button) => {
-          const channelId = button.getAttribute("data-channel-id");
-          if (selectedChannels.has(channelId)) {
-            button.classList.add("selected");
-          } else {
-            button.classList.remove("selected");
-          }
-        });
-      }
-
-      function updateSelectedChannels() {
-        const container = document.getElementById("selectedChannels");
-        const list = document.getElementById("channelList");
-        const randomizeSection = document.getElementById("randomizeSection");
-        const readyMessage = document.getElementById("readyMessage");
-        const inputsContainer = document.getElementById(
-          "selectedChannelsInputs"
-        );
-        const channelCounter = document.getElementById("channelCounter");
-        const mainStartRandom = document.getElementById("mainStartRandom");
-
-        if (selectedChannels.size > 0) {
-          container.style.display = "block";
-          randomizeSection.style.display = "block";
-          list.innerHTML = "";
-          inputsContainer.innerHTML = "";
-          channelCounter.textContent = selectedChannels.size;
-
-          // Show ready message if at least one channel is selected
-          if (selectedChannels.size >= 1) {
-            readyMessage.classList.add("show");
-            mainStartRandom.disabled = false;
-          } else {
-            readyMessage.classList.remove("show");
-            mainStartRandom.disabled = true;
-          }
-
-          selectedChannels.forEach((title, id) => {
-            // Add to visible list
-            const item = document.createElement("div");
-            item.className = "channel-item";
-            item.innerHTML = `
-                        <span>${title}</span>
-                        <button type="button" class="remove-channel" onclick="removeChannel('${id}')">&times;</button>
-                    `;
-            list.appendChild(item);
-
-            // Add hidden input for form submission
-            const input = document.createElement("input");
-            input.type = "hidden";
-            input.name = "selected_channels";
-            input.value = id;
-            inputsContainer.appendChild(input);
-          });
-        } else {
-          container.style.display = "none";
-          randomizeSection.style.display = "none";
-          readyMessage.classList.remove("show");
-          mainStartRandom.disabled = true;
-          inputsContainer.innerHTML = "";
-          channelCounter.textContent = "0";
-        }
-      }
-
-      // Add event listener for the main randomize button
-      document
-        .getElementById("mainStartRandom")
-        .addEventListener("click", () => {
-          const form = document.createElement("form");
-          form.method = "get";
-          form.action = "/random";
-
-          selectedChannels.forEach((_, id) => {
-            const input = document.createElement("input");
-            input.type = "hidden";
-            input.name = "channel_ids";
-            input.value = id;
-            form.appendChild(input);
-          });
-
-          document.body.appendChild(form);
-          form.submit();
-        });
-
-      function addChannel(id, title) {
-        if (selectedChannels.size < maxChannels) {
-          if (!selectedChannels.has(id)) {
-            selectedChannels.set(id, title);
-            updateSelectedChannels();
-          }
-        } else {
-          alert("Maximum 10 channels can be selected");
-        }
-      }
-
-      function removeChannel(id) {
-        selectedChannels.delete(id);
-        updateSelectedChannels();
-      }
-
-      document.getElementById("startRandom").addEventListener("click", () => {
-        const form = document.createElement("form");
-        form.method = "get";
-        form.action = "/random";
-
-        selectedChannels.forEach((_, id) => {
-          const input = document.createElement("input");
-          input.type = "hidden";
-          input.name = "channel_ids";
-          input.value = id;
-          form.appendChild(input);
-        });
-
-        document.body.appendChild(form);
-        form.submit();
-      });
-
-      // Initialize the display if we have channels
-      if (selectedChannels.size > 0) {
-        updateSelectedChannels();
-      }
-
-      // Add form submission handler to preserve selected channels
-      document.getElementById("searchForm").addEventListener("submit", (e) => {
-        e.preventDefault();
-        const form = e.target;
-
-        // Add selected channels to form
-        selectedChannels.forEach((_, id) => {
-          const input = document.createElement("input");
-          input.type = "hidden";
-          input.name = "selected_channels";
-          input.value = id;
-          form.appendChild(input);
-        });
-
-        form.submit();
-      });
-    </script>
   </body>
 </html>

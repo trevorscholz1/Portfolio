@@ -2,10 +2,6 @@
 <html>
   <head>
     <title>YouTube Random Video</title>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap"
-      rel="stylesheet"
-    />
     <style>
       body {
         font-family: "Roboto", "Arial", sans-serif;
@@ -13,8 +9,7 @@
         color: #202124;
         text-align: center;
         margin: 0;
-        padding: 20px;
-        min-height: 100vh;
+        padding: 0;
       }
 
       h1 {
@@ -25,17 +20,6 @@
         font-family: "Press Start 2P", cursive;
       }
 
-      .container {
-        max-width: 1200px;
-        margin: 0 auto;
-        position: relative;
-        padding: 20px;
-      }
-
-      .search-section {
-        margin-bottom: 40px;
-      }
-
       form {
         display: inline-block;
         padding: 20px;
@@ -44,330 +28,107 @@
         background: #ffffff;
         box-shadow: 4px 4px 0 #202124;
         margin-top: 20px;
-        min-width: 300px;
       }
 
       label {
         font-size: 1.2em;
         color: #3c4043;
-        display: block;
-        margin-bottom: 10px;
       }
 
       input[type="text"] {
+        font-family: "Roboto", "Arial", sans-serif;
         width: 80%;
-        padding: 12px;
+        padding: 10px;
         font-size: 1em;
         border: 2px solid #cfd8dc;
         border-radius: 8px;
         background: #ffffff;
         color: #202124;
         margin: 10px 0;
-        font-family: "Roboto", "Arial", sans-serif;
       }
 
       button {
         font-family: "Press Start 2P", cursive;
-        padding: 12px 24px;
-        font-size: 0.9em;
+        padding: 10px 20px;
+        font-size: 1em;
         color: #ffffff;
         background: linear-gradient(90deg, #e53935, #d32f2f);
         border: none;
         border-radius: 8px;
         cursor: pointer;
         box-shadow: 4px 4px 0 #202124;
-        transition: all 0.2s ease;
+        transition: transform 0.2s ease;
       }
 
       button:hover {
-        transform: translateY(-2px);
-        box-shadow: 6px 6px 0 #202124;
+        background: linear-gradient(90deg, #d32f2f, #e53935);
+        transform: scale(1.05);
       }
 
-      button:active {
-        transform: translateY(0);
-        box-shadow: 2px 2px 0 #202124;
-      }
-
-      .selected-channels {
-        position: fixed;
-        top: 20px;
-        right: 20px;
-        background: #ffffff;
-        border: 3px solid #dadce0;
-        border-radius: 15px;
-        padding: 20px;
-        box-shadow: 4px 4px 0 #202124;
-        max-width: 300px;
-        text-align: left;
-        z-index: 1000;
-      }
-
-      .selected-channels h3 {
-        margin: 0 0 15px 0;
+      p {
+        font-size: 1.1em;
         color: #e53935;
-        font-family: "Press Start 2P", cursive;
-        font-size: 0.9em;
-      }
-
-      .channel-list {
-        max-height: 300px;
-        overflow-y: auto;
-        margin-bottom: 15px;
-      }
-
-      .channel-item {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: 8px 0;
-        padding: 8px 12px;
-        background: #f5f5f5;
-        border-radius: 8px;
-        transition: background-color 0.2s ease;
-      }
-
-      .channel-item:hover {
-        background: #e3f2fd;
-      }
-
-      .remove-channel {
-        background: #e53935;
-        color: white;
-        border: none;
-        border-radius: 50%;
-        width: 24px;
-        height: 24px;
-        cursor: pointer;
-        font-size: 14px;
-        line-height: 1;
-        padding: 0;
-        margin-left: 10px;
-        transition: background-color 0.2s ease;
-      }
-
-      .remove-channel:hover {
-        background: #c62828;
-      }
-
-      .start-random {
-        background: #4caf50;
-        width: 100%;
-        margin-top: 10px;
-        font-size: 0.8em;
-      }
-
-      .start-random:disabled {
-        background: #cccccc;
-        cursor: not-allowed;
-        box-shadow: none;
-      }
-
-      .video-container {
-        margin: 40px 0;
       }
 
       iframe {
         border: 8px solid #202124;
+        margin: 20px 0;
         border-radius: 10px;
         box-shadow: 8px 8px 0 #202124;
-        max-width: 100%;
-        aspect-ratio: 16/9;
+      }
+
+      .next-button {
+        margin-top: 10px;
+        display: inline-block;
       }
 
       .pokemon-theme {
         background: linear-gradient(120deg, #ffcdd2, #c8e6c9);
-        padding: 30px;
+        padding: 20px;
         border-radius: 15px;
         box-shadow: 6px 6px 0 #202124;
         margin: 20px auto;
-        max-width: 800px;
-      }
-
-      .error-message {
-        color: #e53935;
-        font-weight: bold;
-        margin: 20px 0;
-        padding: 10px;
-        background: rgba(229, 57, 53, 0.1);
-        border-radius: 8px;
-      }
-
-      .channel-count {
-        font-size: 0.8em;
-        color: #666;
-        margin-top: 5px;
-      }
-
-      @media (max-width: 768px) {
-        .selected-channels {
-          position: static;
-          margin: 20px auto;
-          max-width: none;
-        }
-
-        .container {
-          padding: 10px;
-        }
-
-        h1 {
-          font-size: 1.8em;
-        }
+        width: 80%;
       }
     </style>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <div class="container">
-      <div class="pokemon-theme">
-        <h1>YouTube Random Video</h1>
+    <div class="pokemon-theme">
+      <h1>YouTube Random Video</h1>
+      <form action="/search" method="post">
+        <label for="query">Search for a channel:</label><br />
+        <input type="text" id="query" name="query" required />
+        <br />
+        <button type="submit">Search</button>
+      </form>
 
-        <div class="search-section">
-          <form
-            action="/search"
-            method="post"
-            class="search-form"
-            id="searchForm"
-          >
-            <label for="query">Search for a channel:</label>
-            <input type="text" id="query" name="query" required />
-            <div id="selectedChannelsInputs"></div>
-            <button type="submit">Search</button>
-          </form>
-        </div>
-
-        {{if .Error}}
-        <div class="error-message">{{.Error}}</div>
-        {{end}} {{if .Title}}
-        <div class="video-container">
-          <h2>{{.Title}}</h2>
-          {{if .Interval}}
-          <p>Watch from: {{.Interval}}</p>
-          {{end}}
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/{{.VideoID}}"
-            frameborder="0"
-            allowfullscreen
-          ></iframe>
-        </div>
-        <form action="/random" method="get" id="randomForm">
-          {{range .SelectedChannels}}
-          <input type="hidden" name="channel_ids" value="{{.ChannelID}}" />
-          {{end}}
-          <button type="submit">Next Video</button>
-        </form>
+      {{if .Error}}
+      <p>{{.Error}}</p>
+      {{end}} {{if .Title}}
+      <h2>Random Video:</h2>
+      <p>{{.Title}}</p>
+      <div>
+        <h2>{{.Title}}</h2>
+        {{if .Interval}}
+        <p>Watch from: {{.Interval}}</p>
         {{end}}
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/{{.VideoID}}"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
       </div>
+      <form action="/random" method="get" class="next-button">
+        <input type="hidden" name="channel_id" value="{{.ChannelID}}" />
+        <button type="submit">Next Video</button>
+      </form>
+      {{end}}
     </div>
-
-    <div class="selected-channels" id="selectedChannels" style="display: none">
-      <h3>Selected Channels</h3>
-      <div class="channel-count">
-        (<span id="channelCounter">0</span>/10 channels)
-      </div>
-      <div class="channel-list" id="channelList"></div>
-      <button class="start-random" id="startRandom" disabled>
-        Start Random Videos
-      </button>
-    </div>
-
-    <script>
-      const selectedChannels = new Map();
-      const maxChannels = 10;
-
-      // Initialize selected channels from server-side data if available
-      {
-        {
-          range.SelectedChannels;
-        }
-      }
-      selectedChannels.set("{{.ChannelID}}", "{{.ChannelTitle}}");
-      {
-        {
-          end;
-        }
-      }
-
-      // Update display if we have initial channels
-      if (selectedChannels.size > 0) {
-        updateSelectedChannels();
-      }
-
-      function updateSelectedChannels() {
-        const container = document.getElementById("selectedChannels");
-        const list = document.getElementById("channelList");
-        const startButton = document.getElementById("startRandom");
-        const inputsContainer = document.getElementById(
-          "selectedChannelsInputs"
-        );
-        const channelCounter = document.getElementById("channelCounter");
-
-        if (selectedChannels.size > 0) {
-          container.style.display = "block";
-          list.innerHTML = "";
-          inputsContainer.innerHTML = "";
-          channelCounter.textContent = selectedChannels.size;
-
-          selectedChannels.forEach((title, id) => {
-            // Add to visible list
-            const item = document.createElement("div");
-            item.className = "channel-item";
-            item.innerHTML = `
-                        <span>${title}</span>
-                        <button type="button" class="remove-channel" onclick="removeChannel('${id}')">&times;</button>
-                    `;
-            list.appendChild(item);
-
-            // Add hidden input for form submission
-            const input = document.createElement("input");
-            input.type = "hidden";
-            input.name = "selected_channels";
-            input.value = id;
-            inputsContainer.appendChild(input);
-          });
-
-          startButton.disabled = selectedChannels.size === 0;
-        } else {
-          container.style.display = "none";
-          startButton.disabled = true;
-          inputsContainer.innerHTML = "";
-          channelCounter.textContent = "0";
-        }
-      }
-
-      function addChannel(id, title) {
-        if (selectedChannels.size < maxChannels) {
-          if (!selectedChannels.has(id)) {
-            selectedChannels.set(id, title);
-            updateSelectedChannels();
-          }
-        } else {
-          alert("Maximum 10 channels can be selected");
-        }
-      }
-
-      function removeChannel(id) {
-        selectedChannels.delete(id);
-        updateSelectedChannels();
-      }
-
-      document.getElementById("startRandom").addEventListener("click", () => {
-        const form = document.createElement("form");
-        form.method = "get";
-        form.action = "/random";
-
-        selectedChannels.forEach((_, id) => {
-          const input = document.createElement("input");
-          input.type = "hidden";
-          input.name = "channel_ids";
-          input.value = id;
-          form.appendChild(input);
-        });
-
-        document.body.appendChild(form);
-        form.submit();
-      });
-    </script>
   </body>
 </html>

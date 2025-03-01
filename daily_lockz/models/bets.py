@@ -3,7 +3,7 @@ import numpy as np
 import os
 import pandas as pd
 
-TEST = 0
+TEST = 1
 DATE = date.today() + timedelta(days=TEST)
 DATESEED = int(str(DATE).replace('-', ''))
 print(DATESEED)
@@ -42,7 +42,7 @@ bets['spread'] = all_sims['h_score'] - all_sims['a_score']
 bets['total_score'] = all_sims['h_score'] + all_sims['a_score']
 print(bets[['sport','home_team','away_team','h_score','a_score','implied_odds','spread','total_score','time']])
 
-i = 0
+i = 1
 assignments = {}
 bets.sort_values(by='sport', inplace=True)
 for index, row in bets.iterrows():
@@ -50,7 +50,7 @@ for index, row in bets.iterrows():
     
     conference = ''
     if 'NCAAB' in row['sport']:
-        conference = row['sport'].split('NCAAB')[-1]
+        conference = row['sport'].split('NCAAB')[-1] + 'FADE'
         row['sport'] = 'NCAAB'
     if row['sport'] not in assignments:
         assignments[row['sport']] = []
