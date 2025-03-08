@@ -7,11 +7,23 @@
         font-family: "Roboto", "Arial", sans-serif;
         background: linear-gradient(120deg, #ffffff, #f1f8e9);
         color: #202124;
-        text-align: center;
+        display: flex;
         margin: 0;
         padding: 0;
       }
-
+      .sidebar {
+        width: 250px;
+        background: #f1f8e9;
+        padding: 20px;
+        border-right: 2px solid #dadce0;
+        height: 100vh;
+        overflow-y: auto;
+      }
+      .main-content {
+        flex-grow: 1;
+        padding: 20px;
+        text-align: center;
+      }
       h1 {
         font-size: 2.5em;
         margin: 20px;
@@ -19,7 +31,32 @@
         text-shadow: 2px 2px #000;
         font-family: "Press Start 2P", cursive;
       }
-
+      .selected-channels {
+        background: #ffffff;
+        border: 2px solid #dadce0;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 20px;
+      }
+      .selected-channels h3 {
+        margin-top: 0;
+        color: #3c4043;
+      }
+      .channel-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 10px 0;
+        padding: 5px;
+        background: #e3f2fd;
+        border-radius: 5px;
+      }
+      .channel-remove {
+        color: #e53935;
+        cursor: pointer;
+        text-decoration: none;
+        font-weight: bold;
+      }
       ul {
         list-style: none;
         padding: 0;
@@ -29,17 +66,18 @@
         background: #ffffff;
         box-shadow: 6px 6px 0 #202124;
         padding: 20px;
-        width: 60%;
+        width: 80%;
         margin: 20px auto;
       }
-
       li {
         margin: 15px 0;
         font-size: 1.1em;
         color: #202124;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
       }
-
-      a {
+      .channel-add {
         color: #1e88e5;
         text-decoration: none;
         border: 2px solid #cfd8dc;
@@ -50,13 +88,11 @@
         transition: transform 0.2s ease;
         font-family: "Press Start 2P", cursive;
       }
-
-      a:hover {
+      .channel-add:hover {
         background: #90caf9;
         transform: scale(1.05);
         box-shadow: 4px 4px 0 #202124;
       }
-
       .pokemon-theme {
         background: linear-gradient(120deg, #ffcdd2, #c8e6c9);
         padding: 20px;
@@ -64,6 +100,7 @@
         box-shadow: 6px 6px 0 #202124;
         margin: 20px auto;
         width: 80%;
+        position: relative;
       }
     </style>
     <link
@@ -72,15 +109,49 @@
     />
   </head>
   <body>
-    <div class="pokemon-theme">
-      <h1>Search Results</h1>
-      <ul>
-        {{range .}}
-        <li>
-          <a href="/random?channel_id={{.ChannelID}}">{{.ChannelTitle}}</a>
-        </li>
+    <div class="sidebar">
+      <div class="selected-channels">
+        <h3>Selected Channels</h3>
+        {{if .Channels}} {{range .Channels}}
+        <div class="channel-item">
+          <span>{{.ChannelTitle}}</span>
+          <form action="/remove-channel" method="post" style="display: inline">
+            <input type="hidden" name="channel_id" value="{{.ChannelID}}" />
+            <button type="submit" class="channel-remove">✖</button>
+          </form>
+        </div>
+        {{end}} {{else}}
+        <p>No channels selected</p>
         {{end}}
-      </ul>
+      </div>
+      <form action="/search" method="post">
+        <label for="query">Search for a channel:</label><br />
+        <input type="text" id="query" name="query" required />
+        <br />
+        <button type="submit">Search</button>
+      </form>
+    </div>
+
+    <div class="main-content">
+      <div class="pokemon-theme">
+        <h1>Search Results</h1>
+        <ul>
+          {{range .Results}}
+          <li>
+            <span>{{.ChannelTitle}}</span>
+            <form action="/add-channel" method="post" style="display: inline">
+              <input
+                type="hidden"
+                name="channel_title"
+                value="{{.ChannelTitle}}"
+              />
+              <input type="hidden" name="channel_id" value="{{.ChannelID}}" />
+              <button type="submit" class="channel-add">Add</button>
+            </form>
+          </li>
+          {{end}}
+        </ul>
+      </div>
     </div>
   </body>
 </html>

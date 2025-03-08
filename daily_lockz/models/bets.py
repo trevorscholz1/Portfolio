@@ -74,8 +74,8 @@ for index, row in bets.iterrows():
     elif row['sport'] in ['MLB','NHL']:
         if assignment == 'Spread':
             print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {winteam} at {row['implied_odds']}")
-        else:
-            print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
+        # else:
+        #     print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
     else:
         print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {winteam} 3-Way ML {row['implied_odds']}")
         

@@ -1,0 +1,64 @@
+,home_team,away_team
+0,purdue:Purdue,fairleigh-dickinson:FDU
+1,memphis:Memphis,florida-atlantic:Florida Atlantic
+2,duke:Duke,oral-roberts:Oral Roberts
+3,tennessee:Tennessee,louisiana-lafayette:Louisiana
+4,kentucky:Kentucky,providence:Providence
+5,kansas-state:Kansas State,montana-state:Montana State
+6,michigan-state:Michigan State,southern-california:USC
+7,marquette:Marquette,vermont:Vermont
+8,fairleigh-dickinson:FDU,florida-atlantic:Florida Atlantic
+9,duke:Duke,tennessee:Tennessee
+10,kentucky:Kentucky,kansas-state:Kansas State
+11,michigan-state:Michigan State,marquette:Marquette
+12,florida-atlantic:Florida Atlantic,tennessee:Tennessee
+13,kansas-state:Kansas State,michigan-state:Michigan State
+14,florida-atlantic:Florida Atlantic,kansas-state:Kansas State
+15,houston:Houston,northern-kentucky:Northern Kentucky
+16,iowa:Iowa,auburn:Auburn
+17,miami-fl:Miami (FL),drake:Drake
+18,indiana:Indiana,kent-state:Kent State
+19,iowa-state:Iowa State,pittsburgh:Pitt
+20,xavier:Xavier,kennesaw-state:Kennesaw State
+21,texas-am:Texas A&M,penn-state:Penn State
+22,texas:Texas,colgate:Colgate
+23,houston:Houston,auburn:Auburn
+24,miami-fl:Miami (FL),indiana:Indiana
+25,pittsburgh:Pitt,xavier:Xavier
+26,penn-state:Penn State,texas:Texas
+27,houston:Houston,miami-fl:Miami (FL)
+28,xavier:Xavier,texas:Texas
+29,miami-fl:Miami (FL),texas:Texas
+30,alabama:Alabama,texas-am-corpus-christi:Texas A&M-Corpus Christi
+31,maryland:Maryland,west-virginia:West Virginia
+32,san-diego-state:San Diego State,college-of-charleston:College of Charleston
+33,virginia:Virginia,furman:Furman
+34,creighton:Creighton,north-carolina-state:NC State
+35,baylor:Baylor,california-santa-barbara:UCSB
+36,missouri:Missouri,utah-state:Utah State
+37,arizona:Arizona,princeton:Princeton
+38,alabama:Alabama,maryland:Maryland
+39,san-diego-state:San Diego State,furman:Furman
+40,creighton:Creighton,baylor:Baylor
+41,missouri:Missouri,princeton:Princeton
+42,alabama:Alabama,san-diego-state:San Diego State
+43,creighton:Creighton,princeton:Princeton
+44,san-diego-state:San Diego State,creighton:Creighton
+45,kansas:Kansas,howard:Howard
+46,arkansas:Arkansas,illinois:Illinois
+47,saint-marys-ca:Saint Mary's,virginia-commonwealth:VCU
+48,connecticut:UConn,iona:Iona
+49,texas-christian:TCU,arizona-state:Arizona State
+50,gonzaga:Gonzaga,grand-canyon:Grand Canyon
+51,northwestern:Northwestern,boise-state:Boise State
+52,ucla:UCLA,north-carolina-asheville:UNC Asheville
+53,kansas:Kansas,arkansas:Arkansas
+54,saint-marys-ca:Saint Mary's,connecticut:UConn
+55,texas-christian:TCU,gonzaga:Gonzaga
+56,northwestern:Northwestern,ucla:UCLA
+57,arkansas:Arkansas,connecticut:UConn
+58,gonzaga:Gonzaga,ucla:UCLA
+59,connecticut:UConn,gonzaga:Gonzaga
+60,florida-atlantic:Florida Atlantic,san-diego-state:San Diego State
+61,miami-fl:Miami (FL),connecticut:UConn
+62,san-diego-state:San Diego State,connecticut:UConn

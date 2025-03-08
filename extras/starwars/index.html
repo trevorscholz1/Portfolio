@@ -7,11 +7,52 @@
         font-family: "Roboto", "Arial", sans-serif;
         background: linear-gradient(120deg, #ffffff, #f1f8e9);
         color: #202124;
-        text-align: center;
         margin: 0;
         padding: 0;
+        display: flex;
       }
-
+      .sidebar {
+        width: 250px;
+        background: #f1f8e9;
+        padding: 20px;
+        border-right: 2px solid #dadce0;
+        height: 100vh;
+        overflow-y: auto;
+      }
+      .main-content {
+        flex-grow: 1;
+        padding: 20px;
+        text-align: center;
+        position: relative;
+      }
+      .global-random-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        z-index: 10;
+      }
+      .global-random-btn button {
+        font-family: "Press Start 2P", cursive;
+        padding: 10px 20px;
+        font-size: 1em;
+        color: #ffffff;
+        background: linear-gradient(90deg, #4caf50, #45a049);
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        box-shadow: 4px 4px 0 #202124;
+        transition: transform 0.2s ease;
+      }
+      .global-random-btn button:hover {
+        background: linear-gradient(90deg, #45a049, #4caf50);
+        transform: scale(1.05);
+      }
+      .global-random-btn button:disabled {
+        background: #cccccc;
+        cursor: not-allowed;
+        transform: none;
+        box-shadow: none;
+      }
       h1 {
         font-size: 2.5em;
         margin: 20px;
@@ -19,69 +60,32 @@
         text-shadow: 2px 2px #000;
         font-family: "Press Start 2P", cursive;
       }
-
-      form {
-        display: inline-block;
-        padding: 20px;
-        border: 3px solid #dadce0;
-        border-radius: 15px;
+      .selected-channels {
         background: #ffffff;
-        box-shadow: 4px 4px 0 #202124;
-        margin-top: 20px;
+        border: 2px solid #dadce0;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 20px;
       }
-
-      label {
-        font-size: 1.2em;
+      .selected-channels h3 {
+        margin-top: 0;
         color: #3c4043;
       }
-
-      input[type="text"] {
-        font-family: "Roboto", "Arial", sans-serif;
-        width: 80%;
-        padding: 10px;
-        font-size: 1em;
-        border: 2px solid #cfd8dc;
-        border-radius: 8px;
-        background: #ffffff;
-        color: #202124;
+      .channel-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         margin: 10px 0;
+        padding: 5px;
+        background: #e3f2fd;
+        border-radius: 5px;
       }
-
-      button {
-        font-family: "Press Start 2P", cursive;
-        padding: 10px 20px;
-        font-size: 1em;
-        color: #ffffff;
-        background: linear-gradient(90deg, #e53935, #d32f2f);
-        border: none;
-        border-radius: 8px;
-        cursor: pointer;
-        box-shadow: 4px 4px 0 #202124;
-        transition: transform 0.2s ease;
-      }
-
-      button:hover {
-        background: linear-gradient(90deg, #d32f2f, #e53935);
-        transform: scale(1.05);
-      }
-
-      p {
-        font-size: 1.1em;
+      .channel-remove {
         color: #e53935;
+        cursor: pointer;
+        text-decoration: none;
+        font-weight: bold;
       }
-
-      iframe {
-        border: 8px solid #202124;
-        margin: 20px 0;
-        border-radius: 10px;
-        box-shadow: 8px 8px 0 #202124;
-      }
-
-      .next-button {
-        margin-top: 10px;
-        display: inline-block;
-      }
-
       .pokemon-theme {
         background: linear-gradient(120deg, #ffcdd2, #c8e6c9);
         padding: 20px;
@@ -90,6 +94,20 @@
         margin: 20px auto;
         width: 80%;
       }
+      .next-button {
+        margin-top: 10px;
+        display: inline-block;
+      }
+      p {
+        font-size: 1.1em;
+        color: #e53935;
+      }
+      iframe {
+        border: 8px solid #202124;
+        margin: 20px 0;
+        border-radius: 10px;
+        box-shadow: 8px 8px 0 #202124;
+      }
     </style>
     <link
       href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap"
@@ -97,38 +115,59 @@
     />
   </head>
   <body>
-    <div class="pokemon-theme">
-      <h1>YouTube Random Video</h1>
+    <div class="sidebar">
+      <div class="selected-channels">
+        <h3>Selected Channels</h3>
+        {{if .Channels}} {{range .Channels}}
+        <div class="channel-item">
+          <span>{{.ChannelTitle}}</span>
+          <form action="/remove-channel" method="post" style="display: inline">
+            <input type="hidden" name="channel_id" value="{{.ChannelID}}" />
+            <button type="submit" class="channel-remove">✖</button>
+          </form>
+        </div>
+        {{end}} {{else}}
+        <p>No channels selected</p>
+        {{end}}
+      </div>
       <form action="/search" method="post">
         <label for="query">Search for a channel:</label><br />
         <input type="text" id="query" name="query" required />
         <br />
         <button type="submit">Search</button>
       </form>
+    </div>
 
-      {{if .Error}}
-      <p>{{.Error}}</p>
-      {{end}} {{if .Title}}
-      <h2>Random Video:</h2>
-      <p>{{.Title}}</p>
-      <div>
-        <h2>{{.Title}}</h2>
-        {{if .Interval}}
-        <p>Watch from: {{.Interval}}</p>
-        {{end}}
-        <iframe
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/{{.VideoID}}"
-          frameborder="0"
-          allowfullscreen
-        ></iframe>
+    <div class="main-content">
+      <div class="global-random-btn">
+        <form action="/random-global" method="get">
+          <button type="submit" {{if not .Channels}}disabled{{end}}>
+            Randomize All Channels
+          </button>
+        </form>
       </div>
-      <form action="/random" method="get" class="next-button">
-        <input type="hidden" name="channel_id" value="{{.ChannelID}}" />
-        <button type="submit">Next Video</button>
-      </form>
-      {{end}}
+
+      <div class="pokemon-theme">
+        {{if .Error}}
+        <p>{{.Error}}</p>
+        {{end}} {{if .VideoData}}
+        <h2>Random Video:</h2>
+        <p>{{.VideoData.Title}}</p>
+        <p>Out of: {{.VideoData.ChannelLen}} Videos</p>
+        <div>
+          {{if .VideoData.Interval}}
+          <p>Watch from: {{.VideoData.Interval}}</p>
+          {{end}}
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/{{.VideoData.VideoID}}"
+            frameborder="0"
+            allowfullscreen
+          ></iframe>
+        </div>
+        {{end}}
+      </div>
     </div>
   </body>
 </html>

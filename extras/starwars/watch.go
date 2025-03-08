@@ -33,12 +33,19 @@ type SearchResult struct {
 }
 
 type VideoData struct {
-	Title     string
-	VideoID   string
-	Error     string
-	ChannelID string
-	Interval  string
+	Title      string
+	VideoID    string
+	Error      string
+	ChannelID  string
+	ChannelLen int
+	Interval   string
 }
+
+type SelectedChannels struct {
+	Channels []SearchResult
+}
+
+var selectedChannels SelectedChannels
 
 func main() {
 	var err error
@@ -60,7 +67,9 @@ func main() {
 
 	http.HandleFunc("/", handleHome)
 	http.HandleFunc("/search", handleSearch)
-	http.HandleFunc("/random", handleRandomVideo)
+	http.HandleFunc("/add-channel", handleAddChannel)
+	http.HandleFunc("/remove-channel", handleRemoveChannel)
+	http.HandleFunc("/random-global", handleRandomGlobalVideo)
 
 	log.Println("Server starting on http://localhost:8080")
 	if err := http.ListenAndServe(":8080", nil); err != nil {
@@ -69,7 +78,7 @@ func main() {
 }
 
 func handleHome(w http.ResponseWriter, r *http.Request) {
-	templates.ExecuteTemplate(w, "index.html", nil)
+	templates.ExecuteTemplate(w, "index.html", selectedChannels)
 }
 
 func handleSearch(w http.ResponseWriter, r *http.Request) {
@@ -80,17 +89,112 @@ func handleSearch(w http.ResponseWriter, r *http.Request) {
 
 	query := r.FormValue("query")
 	if query == "" {
-		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Please enter a search query"})
+		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
+			"Error":    "Please enter a search query",
+			"Channels": selectedChannels.Channels,
+		})
 		return
 	}
 
 	results, err := searchChannels(youtubeService, query)
 	if err != nil {
-		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error searching for channels: " + err.Error()})
+		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
+			"Error":    "Error searching for channels: " + err.Error(),
+			"Channels": selectedChannels.Channels,
+		})
 		return
 	}
 
-	templates.ExecuteTemplate(w, "results.html", results)
+	templates.ExecuteTemplate(w, "results.html", map[string]interface{}{
+		"Results":  results,
+		"Channels": selectedChannels.Channels,
+	})
+}
+
+func handleAddChannel(w http.ResponseWriter, r *http.Request) {
+	channelTitle := r.FormValue("channel_title")
+	channelID := r.FormValue("channel_id")
+
+	for _, ch := range selectedChannels.Channels {
+		if ch.ChannelID == channelID {
+			http.Redirect(w, r, "/", http.StatusSeeOther)
+			return
+		}
+	}
+
+	selectedChannels.Channels = append(selectedChannels.Channels, SearchResult{
+		ChannelTitle: channelTitle,
+		ChannelID:    channelID,
+	})
+
+	http.Redirect(w, r, "/", http.StatusSeeOther)
+}
+
+func handleRemoveChannel(w http.ResponseWriter, r *http.Request) {
+	channelID := r.FormValue("channel_id")
+
+	for i, ch := range selectedChannels.Channels {
+		if ch.ChannelID == channelID {
+			selectedChannels.Channels = append(selectedChannels.Channels[:i], selectedChannels.Channels[i+1:]...)
+			break
+		}
+	}
+
+	http.Redirect(w, r, "/", http.StatusSeeOther)
+}
+
+func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
+	if len(selectedChannels.Channels) == 0 {
+		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
+			"Error":    "No channels selected",
+			"Channels": selectedChannels.Channels,
+		})
+		return
+	}
+
+	var allVideos []*youtube.PlaylistItem
+	for _, channel := range selectedChannels.Channels {
+		videos, err := getAllVideos(youtubeService, channel.ChannelID)
+		if err != nil {
+			log.Printf("Error fetching videos for channel %s: %v", channel.ChannelTitle, err)
+			continue
+		}
+		allVideos = append(allVideos, videos...)
+	}
+
+	if len(allVideos) == 0 {
+		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
+			"Error":    "No videos found across selected channels",
+			"Channels": selectedChannels.Channels,
+		})
+		return
+	}
+
+	index := rand.Intn(len(allVideos))
+	video := allVideos[index]
+
+	duration, err := getVideoDuration(youtubeService, video.Snippet.ResourceId.VideoId)
+	if err != nil {
+		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
+			"Error":    "Error fetching video duration: " + err.Error(),
+			"Channels": selectedChannels.Channels,
+		})
+		return
+	}
+
+	start, end := getRandomInterval(duration)
+	data := VideoData{
+		Title:      video.Snippet.Title,
+		VideoID:    video.Snippet.ResourceId.VideoId,
+		ChannelID:  video.Snippet.ChannelId,
+		ChannelLen: len(allVideos) - 1,
+		Interval:   fmt.Sprintf("%s - %s", start, end),
+	}
+
+	templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
+		"VideoData": data,
+		"Channels":  selectedChannels.Channels,
+	})
 }
 
 func searchChannels(service *youtube.Service, query string) ([]SearchResult, error) {
@@ -134,46 +238,47 @@ func getAllVideos(service *youtube.Service, channelID string) ([]*youtube.Playli
 		}
 		playlistItemsRequest = playlistItemsRequest.PageToken(playlistItemsResponse.NextPageToken)
 	}
+
 	return videos, nil
 }
 
-func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
-	channelID := r.URL.Query().Get("channel_id")
-	if channelID == "" {
-		http.Redirect(w, r, "/", http.StatusSeeOther)
-		return
-	}
+// func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
+// 	channelID := r.URL.Query().Get("channel_id")
+// 	if channelID == "" {
+// 		http.Redirect(w, r, "/", http.StatusSeeOther)
+// 		return
+// 	}
 
-	videos, err := getAllVideos(youtubeService, channelID)
-	if err != nil {
-		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching videos: " + err.Error()})
-		return
-	}
+// 	videos, err := getAllVideos(youtubeService, channelID)
+// 	if err != nil {
+// 		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching videos: " + err.Error()})
+// 		return
+// 	}
 
-	if len(videos) == 0 {
-		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "No videos found for this channel"})
-		return
-	}
+// 	if len(videos) == 0 {
+// 		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "No videos found for this channel"})
+// 		return
+// 	}
 
-	index := rand.Intn(len(videos))
-	video := videos[index]
+// 	index := rand.Intn(len(videos))
+// 	video := videos[index]
 
-	duration, err := getVideoDuration(youtubeService, video.Snippet.ResourceId.VideoId)
-	if err != nil {
-		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching video duration: " + err.Error()})
-		return
-	}
+// 	duration, err := getVideoDuration(youtubeService, video.Snippet.ResourceId.VideoId)
+// 	if err != nil {
+// 		templates.ExecuteTemplate(w, "index.html", map[string]string{"Error": "Error fetching video duration: " + err.Error()})
+// 		return
+// 	}
 
-	start, end := getRandomInterval(duration)
-	data := VideoData{
-		Title:     video.Snippet.Title,
-		VideoID:   video.Snippet.ResourceId.VideoId,
-		ChannelID: channelID,
-		Interval:  fmt.Sprintf("%s - %s", start, end),
-	}
+// 	start, end := getRandomInterval(duration)
+// 	data := VideoData{
+// 		Title:     video.Snippet.Title,
+// 		VideoID:   video.Snippet.ResourceId.VideoId,
+// 		ChannelID: channelID,
+// 		Interval:  fmt.Sprintf("%s - %s", start, end),
+// 	}
 
-	templates.ExecuteTemplate(w, "index.html", data)
-}
+// 	templates.ExecuteTemplate(w, "index.html", data)
+// }
 
 func getVideoDuration(service *youtube.Service, videoID string) (time.Duration, error) {
 	call := service.Videos.List([]string{"contentDetails"}).Id(videoID)
