@@ -29,12 +29,11 @@ all_sims.to_csv('./trevorAppsWebsites/daily-lockz/public/all_sims.csv', index=Fa
 all_sims.to_csv('./trevorAppsWebsites/DailyLockz/all_sims.csv', index=False, header=True)
 print(f"GAMES AVAILABLE: {len(all_sims[all_sims['is_dl'] == True])}")
 
-os.chdir('trevorAppsWebsites/daily-lockz')
-os.system('git add .')
-os.system("git commit -m 'daily'")
-os.system('git push')
-os.chdir('../../trevorscholz1/daily_lockz/models')
-# os.system('node uploadBlogPosts.js')
+# os.chdir('trevorAppsWebsites/daily-lockz')
+# os.system('git add .')
+# os.system("git commit -m 'daily'")
+# os.system('git push')
+# os.chdir('../../trevorscholz1/daily_lockz/models')
 print('DONE')
 
 bets = all_sims[all_sims['is_dl'] == True].copy()
@@ -50,7 +49,7 @@ for index, row in bets.iterrows():
     
     conference = ''
     if 'NCAAB' in row['sport']:
-        conference = row['sport'].split('NCAAB')[-1] + 'FADE'
+        conference = row['sport'].split('NCAAB')[-1]
         row['sport'] = 'NCAAB'
     if row['sport'] not in assignments:
         assignments[row['sport']] = []
@@ -72,10 +71,7 @@ for index, row in bets.iterrows():
         else:
             print(f"{row['sport'] + conference} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
     elif row['sport'] in ['MLB','NHL']:
-        if assignment == 'Spread':
-            print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {winteam} at {row['implied_odds']}")
-        # else:
-        #     print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
+        print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {winteam} at {row['implied_odds']}")
     else:
         print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {winteam} 3-Way ML {row['implied_odds']}")
         
