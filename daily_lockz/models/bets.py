@@ -29,11 +29,11 @@ all_sims.to_csv('./trevorAppsWebsites/daily-lockz/public/all_sims.csv', index=Fa
 all_sims.to_csv('./trevorAppsWebsites/DailyLockz/all_sims.csv', index=False, header=True)
 print(f"GAMES AVAILABLE: {len(all_sims[all_sims['is_dl'] == True])}")
 
-# os.chdir('trevorAppsWebsites/daily-lockz')
-# os.system('git add .')
-# os.system("git commit -m 'daily'")
-# os.system('git push')
-# os.chdir('../../trevorscholz1/daily_lockz/models')
+os.chdir('trevorAppsWebsites/daily-lockz')
+os.system('git add .')
+os.system("git commit -m 'daily'")
+os.system('git push')
+os.chdir('../../trevorscholz1/daily_lockz/models')
 print('DONE')
 
 bets = all_sims[all_sims['is_dl'] == True].copy()
