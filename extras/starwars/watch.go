@@ -143,61 +143,6 @@ func handleRemoveChannel(w http.ResponseWriter, r *http.Request) {
 	http.Redirect(w, r, "/", http.StatusSeeOther)
 }
 
-func getRandomVideoFromChannel(service *youtube.Service, channelID string) (*youtube.PlaylistItem, error) {
-	// Get channel's uploads playlist ID and item count
-	channelsResponse, err := service.Channels.List([]string{"contentDetails", "statistics"}).Id(channelID).Do()
-	if err != nil {
-		return nil, err
-	}
-	if len(channelsResponse.Items) == 0 {
-		return nil, fmt.Errorf("channel not found")
-	}
-
-	uploadsPlaylistID := channelsResponse.Items[0].ContentDetails.RelatedPlaylists.Uploads
-	videoCount := channelsResponse.Items[0].Statistics.VideoCount
-	if videoCount == 0 {
-		return nil, fmt.Errorf("no videos in channel")
-	}
-
-	// Choose a random index
-	randomIndex := rand.Int63n(int64(videoCount))
-
-	// Calculate which page to fetch and which item on that page
-	pageSize := int64(50) // Max allowed by API
-	pageToFetch := randomIndex / pageSize
-	itemOnPage := randomIndex % pageSize
-
-	// Navigate to the right page
-	playlistItemsRequest := service.PlaylistItems.List([]string{"snippet", "contentDetails"}).
-		PlaylistId(uploadsPlaylistID).
-		MaxResults(pageSize)
-
-	// Skip pages until we reach the one containing our random video
-	for i := int64(0); i < pageToFetch; i++ {
-		response, err := playlistItemsRequest.Do()
-		if err != nil {
-			return nil, err
-		}
-		if response.NextPageToken == "" {
-			return nil, fmt.Errorf("ran out of pages before reaching target video")
-		}
-		playlistItemsRequest = playlistItemsRequest.PageToken(response.NextPageToken)
-	}
-
-	// Get the page containing our random video
-	playlistItemsResponse, err := playlistItemsRequest.Do()
-	if err != nil {
-		return nil, err
-	}
-
-	// Make sure we have enough items
-	if len(playlistItemsResponse.Items) <= int(itemOnPage) {
-		return nil, fmt.Errorf("video index out of range")
-	}
-
-	return playlistItemsResponse.Items[itemOnPage], nil
-}
-
 func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 	if len(selectedChannels.Channels) == 0 {
 		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
@@ -207,12 +152,10 @@ func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Pick a random channel first
 	channelIndex := rand.Intn(len(selectedChannels.Channels))
 	selectedChannel := selectedChannels.Channels[channelIndex]
 
-	// Get a random video from that channel
-	video, err := getRandomVideoFromChannel(youtubeService, selectedChannel.ChannelID)
+	video, videoCount, err := getRandomVideoFromChannel(youtubeService, selectedChannel.ChannelID)
 	if err != nil {
 		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
 			"Error":    "Error fetching random video: " + err.Error(),
@@ -221,7 +164,6 @@ func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Get video duration
 	duration, err := getVideoDuration(youtubeService, video.Snippet.ResourceId.VideoId)
 	if err != nil {
 		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
@@ -236,7 +178,7 @@ func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 		Title:      video.Snippet.Title,
 		VideoID:    video.Snippet.ResourceId.VideoId,
 		ChannelID:  video.Snippet.ChannelId,
-		ChannelLen: -1, // We don't have this info anymore, but it's not essential
+		ChannelLen: int(videoCount),
 		Interval:   fmt.Sprintf("%s - %s", start, end),
 	}
 
@@ -244,6 +186,54 @@ func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 		"VideoData": data,
 		"Channels":  selectedChannels.Channels,
 	})
+}
+
+func getRandomVideoFromChannel(service *youtube.Service, channelID string) (*youtube.PlaylistItem, uint64, error) {
+	channelsResponse, err := service.Channels.List([]string{"contentDetails", "statistics"}).Id(channelID).Do()
+	if err != nil {
+		return nil, 0, err
+	}
+	if len(channelsResponse.Items) == 0 {
+		return nil, 0, fmt.Errorf("channel not found")
+	}
+
+	uploadsPlaylistID := channelsResponse.Items[0].ContentDetails.RelatedPlaylists.Uploads
+	videoCount := channelsResponse.Items[0].Statistics.VideoCount
+	if videoCount == 0 {
+		return nil, 0, fmt.Errorf("no videos in channel")
+	}
+
+	randomIndex := rand.Int63n(int64(videoCount))
+
+	pageSize := int64(50)
+	pageToFetch := randomIndex / pageSize
+	itemOnPage := randomIndex % pageSize
+
+	playlistItemsRequest := service.PlaylistItems.List([]string{"snippet", "contentDetails"}).
+		PlaylistId(uploadsPlaylistID).
+		MaxResults(pageSize)
+
+	for i := int64(0); i < pageToFetch; i++ {
+		response, err := playlistItemsRequest.Do()
+		if err != nil {
+			return nil, 0, err
+		}
+		if response.NextPageToken == "" {
+			return nil, 0, fmt.Errorf("ran out of pages before reaching target video")
+		}
+		playlistItemsRequest = playlistItemsRequest.PageToken(response.NextPageToken)
+	}
+
+	playlistItemsResponse, err := playlistItemsRequest.Do()
+	if err != nil {
+		return nil, 0, err
+	}
+
+	if len(playlistItemsResponse.Items) <= int(itemOnPage) {
+		return nil, 0, fmt.Errorf("video index out of range")
+	}
+
+	return playlistItemsResponse.Items[itemOnPage], videoCount, nil
 }
 
 func searchChannels(service *youtube.Service, query string) ([]SearchResult, error) {
@@ -263,33 +253,6 @@ func searchChannels(service *youtube.Service, query string) ([]SearchResult, err
 
 	return results, nil
 }
-
-// func getAllVideos(service *youtube.Service, channelID string) ([]*youtube.PlaylistItem, error) {
-// 	channelsResponse, err := service.Channels.List([]string{"contentDetails"}).Id(channelID).Do()
-// 	if err != nil {
-// 		return nil, err
-// 	}
-// 	if len(channelsResponse.Items) == 0 {
-// 		return nil, fmt.Errorf("channel not found")
-// 	}
-// 	uploadsPlaylistID := channelsResponse.Items[0].ContentDetails.RelatedPlaylists.Uploads
-
-// 	var videos []*youtube.PlaylistItem
-// 	playlistItemsRequest := service.PlaylistItems.List([]string{"snippet", "contentDetails"}).PlaylistId(uploadsPlaylistID)
-// 	for {
-// 		playlistItemsResponse, err := playlistItemsRequest.Do()
-// 		if err != nil {
-// 			return nil, err
-// 		}
-// 		videos = append(videos, playlistItemsResponse.Items...)
-// 		if playlistItemsResponse.NextPageToken == "" {
-// 			break
-// 		}
-// 		playlistItemsRequest = playlistItemsRequest.PageToken(playlistItemsResponse.NextPageToken)
-// 	}
-
-// 	return videos, nil
-// }
 
 func getVideoDuration(service *youtube.Service, videoID string) (time.Duration, error) {
 	call := service.Videos.List([]string{"contentDetails"}).Id(videoID)
