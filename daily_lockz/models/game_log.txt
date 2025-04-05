@@ -1,0 +1,46 @@
+mlb=5
+nba=6
+ncaab=0
+ncaaf=0
+nhl=9
+soccer=16
+
+ PARSED MLB=15
+
+ PARSED SOCCER=62
+
+ PARSED NHL=5
+
+ PARSED NFL=0
+
+ PARSED NCAAF=0
+
+ PARSED NCAAB=0
+
+ PARSED NBA=9
+mlb=14
+nba=10
+ncaab=0
+ncaaf=0
+nhl=3
+soccer=74
+
+ PARSED MLB=5
+
+ PARSED SOCCER=17
+
+ PARSED NHL=9
+
+ PARSED NFL=0
+
+ PARSED NCAAF=0
+
+ PARSED NCAAB=0
+
+ PARSED NBA=6
+mlb=15
+nba=5
+ncaab=0
+ncaaf=0
+nhl=13
+soccer=290

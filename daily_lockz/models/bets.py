@@ -1,9 +1,15 @@
 from datetime import date, timedelta
+import firebase_admin
+from firebase_admin import credentials, firestore
 import numpy as np
 import os
 import pandas as pd
 
-TEST = 1
+cred = credentials.Certificate('./Documents/GoogleCerts/daily-lockz-firebase-adminsdk-os684-05417a328a.json')
+firebase_admin.initialize_app(cred)
+db = firestore.client()
+
+TEST = 0
 DATE = date.today() + timedelta(days=TEST)
 DATESEED = int(str(DATE).replace('-', ''))
 print(DATESEED)
@@ -26,8 +32,15 @@ all_sims = all_sims.sort_values(by=['datetime','home_team']).reset_index(drop=Tr
 all_sims = all_sims.drop(columns=['datetime'])
 
 all_sims.to_csv('./trevorAppsWebsites/daily-lockz/public/all_sims.csv', index=False, header=True)
-all_sims.to_csv('./trevorAppsWebsites/DailyLockz/all_sims.csv', index=False, header=True)
 print(f"GAMES AVAILABLE: {len(all_sims[all_sims['is_dl'] == True])}")
+
+dailylockz = db.collection('picks')
+bets_dict = all_sims.to_dict(orient='records')
+for bet in bets_dict:
+    bet['cur_date'] = bet['cur_date'].isoformat()
+    bet_id = f"{bet['sport']}_{bet['home_team']}_{bet['away_team']}_{DATESEED}"
+    dailylockz.document(bet_id).set(bet)
+print('Bets uploaded to Firestore.')
 
 os.chdir('trevorAppsWebsites/daily-lockz')
 os.system('git add .')
