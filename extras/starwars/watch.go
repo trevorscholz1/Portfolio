@@ -39,6 +39,7 @@ type VideoData struct {
 	ChannelID  string
 	ChannelLen int
 	Interval   string
+	UploadDate string
 }
 
 type SelectedChannels struct {
@@ -69,7 +70,7 @@ func main() {
 	http.HandleFunc("/search", handleSearch)
 	http.HandleFunc("/add-channel", handleAddChannel)
 	http.HandleFunc("/remove-channel", handleRemoveChannel)
-	http.HandleFunc("/random-global", handleRandomGlobalVideo)
+	http.HandleFunc("/random", handleRandomVideo)
 
 	log.Println("Server starting on http://localhost:8080")
 	if err := http.ListenAndServe(":8080", nil); err != nil {
@@ -143,7 +144,7 @@ func handleRemoveChannel(w http.ResponseWriter, r *http.Request) {
 	http.Redirect(w, r, "/", http.StatusSeeOther)
 }
 
-func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
+func handleRandomVideo(w http.ResponseWriter, r *http.Request) {
 	if len(selectedChannels.Channels) == 0 {
 		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
 			"Error":    "No channels selected",
@@ -155,7 +156,7 @@ func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 	channelIndex := rand.Intn(len(selectedChannels.Channels))
 	selectedChannel := selectedChannels.Channels[channelIndex]
 
-	video, videoCount, err := getRandomVideoFromChannel(youtubeService, selectedChannel.ChannelID)
+	video, videoCount, err := getRandomVideo(youtubeService, selectedChannel.ChannelID)
 	if err != nil {
 		templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
 			"Error":    "Error fetching random video: " + err.Error(),
@@ -180,6 +181,7 @@ func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 		ChannelID:  video.Snippet.ChannelId,
 		ChannelLen: int(videoCount),
 		Interval:   fmt.Sprintf("%s - %s", start, end),
+		UploadDate: video.Snippet.PublishedAt,
 	}
 
 	templates.ExecuteTemplate(w, "index.html", map[string]interface{}{
@@ -188,7 +190,7 @@ func handleRandomGlobalVideo(w http.ResponseWriter, r *http.Request) {
 	})
 }
 
-func getRandomVideoFromChannel(service *youtube.Service, channelID string) (*youtube.PlaylistItem, uint64, error) {
+func getRandomVideo(service *youtube.Service, channelID string) (*youtube.PlaylistItem, uint64, error) {
 	channelsResponse, err := service.Channels.List([]string{"contentDetails", "statistics"}).Id(channelID).Do()
 	if err != nil {
 		return nil, 0, err

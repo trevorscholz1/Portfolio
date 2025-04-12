@@ -9,19 +9,10 @@ cred = credentials.Certificate('./Documents/GoogleCerts/daily-lockz-firebase-adm
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
-TEST = 0
+TEST = 1
 DATE = date.today() + timedelta(days=TEST)
 DATESEED = int(str(DATE).replace('-', ''))
 print(DATESEED)
-
-try:
-    os.remove('./trevorAppsWebsites/daily-lockz/public/all_sims.csv')
-except FileNotFoundError:
-    pass
-try:
-    os.remove('./trevorAppsWebsites/DailyLockz/all_sims.csv')
-except FileNotFoundError:
-    pass
 
 sims = pd.read_csv('./trevorscholz1/daily_lockz/models/sims.csv')
 
@@ -30,16 +21,18 @@ all_sims['cur_date'] = DATE
 all_sims['datetime'] = pd.to_datetime(all_sims['time'], format='%I:%M%p')
 all_sims = all_sims.sort_values(by=['datetime','home_team']).reset_index(drop=True)
 all_sims = all_sims.drop(columns=['datetime'])
-
-all_sims.to_csv('./trevorAppsWebsites/daily-lockz/public/all_sims.csv', index=False, header=True)
 print(f"GAMES AVAILABLE: {len(all_sims[all_sims['is_dl'] == True])}")
 
 dailylockz = db.collection('picks')
+
+existing_docs = dailylockz.stream()
+for doc in existing_docs:
+    doc.reference.delete()
+
 bets_dict = all_sims.to_dict(orient='records')
 for bet in bets_dict:
     bet['cur_date'] = bet['cur_date'].isoformat()
-    bet_id = f"{bet['sport']}_{bet['home_team']}_{bet['away_team']}_{DATESEED}"
-    dailylockz.document(bet_id).set(bet)
+    dailylockz.add(bet)
 print('Bets uploaded to Firestore.')
 
 os.chdir('trevorAppsWebsites/daily-lockz')
@@ -52,7 +45,7 @@ print('DONE')
 bets = all_sims[all_sims['is_dl'] == True].copy()
 bets['spread'] = all_sims['h_score'] - all_sims['a_score']
 bets['total_score'] = all_sims['h_score'] + all_sims['a_score']
-print(bets[['sport','home_team','away_team','h_score','a_score','implied_odds','spread','total_score','time']])
+print(f"{bets[['sport','home_team','away_team','h_score','a_score','implied_odds','spread','total_score','time']]}\n")
 
 i = 1
 assignments = {}
@@ -80,13 +73,13 @@ for index, row in bets.iterrows():
     assignments[row['sport']].append(assignment)
     if row['sport'] in ['NBA','NCAAB','NCAAF','NFL']:
         if assignment == 'Spread':
-            print(f"{row['sport'] + conference} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {winteam} by {abs(row['spread'])}")
+            print(f"\n{row['sport'] + conference} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {winteam} by {abs(row['spread'])}")
         else:
-            print(f"{row['sport'] + conference} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
+            print(f"\n{row['sport'] + conference} {row['time']} {row['home_team']}/{row['away_team']}: {assignment} {row['total_score']}")
     elif row['sport'] in ['MLB','NHL']:
-        print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {winteam} at {row['implied_odds']}")
+        print(f"\n{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {winteam} at {row['implied_odds']}")
     else:
-        print(f"{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {winteam} 3-Way ML {row['implied_odds']}")
+        print(f"\n{row['sport']} {row['time']} {row['home_team']}/{row['away_team']}: {winteam} 3-Way ML {row['implied_odds']}")
         
-    print('--------------------------------------------------')
+    print('------------------------------')
     i += 1
