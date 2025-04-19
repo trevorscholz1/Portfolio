@@ -12,6 +12,7 @@ struct LegoSet {
     theme_id: u16,
     num_parts: u32,
     set_img_url: Option<String>,
+    set_url: Option<String>
 }
 
 #[derive(Deserialize, Debug)]

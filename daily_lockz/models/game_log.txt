@@ -1,93 +1,73 @@
-mlb=11
-nba=2
-ncaab=1
-ncaaf=0
-nhl=5
-soccer=42
-
- PARSED MLB=15
-
- PARSED NBA=11
-
- PARSED NCAAB=0
-
- PARSED NCAAF=0
-
- PARSED NFL=0
-
- PARSED NHL=8
-
- PARSED SOCCER=191
-mlb=15
-nba=10
-ncaab=0
-ncaaf=0
-nhl=10
-soccer=39
-
- PARSED MLB=11
-
- PARSED NBA=2
-
- PARSED NCAAF=0
-
- PARSED NFL=0
-
- PARSED NHL=5
-
- PARSED NCAAB=10972
-
- PARSED SOCCER=17515
-mlb=15
-nba=10
-ncaab=0
-ncaaf=0
-nhl=5
-soccer=29
-
- PARSED MLB=15
-
- PARSED NBA=10
-
- PARSED NCAAB=0
-
- PARSED NCAAF=0
-
- PARSED NFL=0
-
- PARSED NHL=10
-
- PARSED SOCCER=39
-mlb=6
-nba=5
-ncaab=0
-ncaaf=0
-nhl=10
-soccer=33
-
- PARSED MLB=15
-
- PARSED NBA=10
-
- PARSED NCAAB=0
-
- PARSED NCAAF=0
-
- PARSED NFL=0
-
- PARSED NHL=5
-
- PARSED SOCCER=29
 mlb=15
 nba=15
 ncaab=0
 ncaaf=0
-nhl=5
-soccer=83
+nhl=9
+soccer=159
 
- PARSED MLB=6
+ PARSED MLB=15
 
- PARSED NBA=5
+ PARSED NBA=0
+
+ PARSED NCAAB=0
+
+ PARSED NCAAF=0
+
+ PARSED NFL=0
+
+ PARSED NHL=11
+
+ PARSED SOCCER=267
+mlb=10
+nba=0
+ncaab=0
+ncaaf=0
+nhl=6
+soccer=45
+
+ PARSED MLB=15
+
+ PARSED NBA=15
+
+ PARSED NCAAB=0
+
+ PARSED NCAAF=0
+
+ PARSED NFL=0
+
+ PARSED NHL=9
+
+ PARSED SOCCER=156
+mlb=15
+nba=0
+ncaab=0
+ncaaf=0
+nhl=10
+soccer=28
+
+ PARSED MLB=10
+
+ PARSED NBA=0
+
+ PARSED NCAAF=0
+
+ PARSED NFL=0
+
+ PARSED NHL=6
+
+ PARSED SOCCER=46
+
+ PARSED NCAAB=10972
+mlb=15
+nba=2
+ncaab=0
+ncaaf=0
+nhl=6
+soccer=46
+
+ PARSED MLB=15
+
+ PARSED NBA=2
 
  PARSED NCAAB=0
 
@@ -97,17 +77,49 @@ soccer=83
 
  PARSED NHL=10
 
- PARSED SOCCER=32
-mlb=15
+ PARSED SOCCER=18192
+mlb=10
 nba=0
 ncaab=0
-ncaaf=0
-nhl=11
-soccer=277
-mlb=15
-mlb=15
+mlb=10
 nba=0
 ncaab=0
-ncaaf=0
-nhl=11
-soccer=277
+nhl=7
+soccer=34
+
+ PARSED MLB=15
+
+ PARSED NBA=2
+
+ PARSED NCAAB=0
+
+ PARSED NCAAF=0
+
+ PARSED NFL=0
+
+ PARSED NHL=6
+
+ PARSED SOCCER=49
+mlb=15
+nba=2
+ncaab=0
+nhl=0
+soccer=122
+
+ PARSED MLB=10
+
+ PARSED NBA=0
+
+ PARSED NCAAB=0
+
+ PARSED NCAAF=0
+
+ PARSED NFL=0
+
+ PARSED NHL=7
+
+ PARSED SOCCER=18275
+mlb=15
+nba=0
+nhl=0
+soccer=183
