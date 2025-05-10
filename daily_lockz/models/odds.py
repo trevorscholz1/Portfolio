@@ -91,17 +91,14 @@ def main():
                 home_odds.append(home_odd)
                 away_odds.append(away_odd)
 
-            if not home_odds or not away_odds:
-                continue
-
             h_avg = sum(home_odds) / len(home_odds)
             a_avg = sum(away_odds) / len(away_odds)
 
-            if fliff_h_odds and fliff_h_odds >= h_avg:
+            if fliff_h_odds and fliff_h_odds >= (h_avg+0.03):
                 odds = convert(fliff_h_odds)
                 BETS.loc[len(BETS)] = {'sport': sport, 'team': home_team, 'odds': odds, 'time': time}
 
-            if fliff_a_odds and fliff_a_odds >= a_avg:
+            if fliff_a_odds and fliff_a_odds >= (a_avg+0.03):
                 odds = convert(fliff_a_odds)
                 BETS.loc[len(BETS)] = {'sport': sport, 'team': away_team, 'odds': odds, 'time': time}
     
