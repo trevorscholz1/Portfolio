@@ -90,6 +90,9 @@ def main():
 
                 home_odds.append(home_odd)
                 away_odds.append(away_odd)
+            
+            if not len(home_odds) or not len(away_odds):
+                continue
 
             h_avg = sum(home_odds) / len(home_odds)
             a_avg = sum(away_odds) / len(away_odds)
