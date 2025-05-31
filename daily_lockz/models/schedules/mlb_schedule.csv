@@ -1,0 +1,2430 @@
+,Date,time,home_team,away_team
+0,2025-03-18,,CHC:Chicago Cubs,LAD:Los Angeles Dodgers
+1,2025-03-19,,CHC:Chicago Cubs,LAD:Los Angeles Dodgers
+2,2025-03-27,,ARI:Arizona D'Backs,CHC:Chicago Cubs
+3,2025-03-27,,CHW:Chicago White Sox,LAA:Los Angeles Angels
+4,2025-03-27,,CIN:Cincinnati Reds,SFG:San Francisco Giants
+5,2025-03-27,,HOU:Houston Astros,NYM:New York Mets
+6,2025-03-27,,KCR:Kansas City Royals,CLE:Cleveland Guardians
+7,2025-03-27,,LAD:Los Angeles Dodgers,DET:Detroit Tigers
+8,2025-03-27,,MIA:Miami Marlins,PIT:Pittsburgh Pirates
+9,2025-03-27,,NYY:New York Yankees,MIL:Milwaukee Brewers
+10,2025-03-27,,SDP:San Diego Padres,ATL:Atlanta Braves
+11,2025-03-27,,SEA:Seattle Mariners,ATH:Athletics
+12,2025-03-27,,STL:St. Louis Cardinals,MIN:Minnesota Twins
+13,2025-03-27,,TEX:Texas Rangers,BOS:Boston Red Sox
+14,2025-03-27,,TOR:Toronto Blue Jays,BAL:Baltimore Orioles
+15,2025-03-27,,WSN:Washington Nationals,PHI:Philadelphia Phillies
+16,2025-03-28,,ARI:Arizona D'Backs,CHC:Chicago Cubs
+17,2025-03-28,,HOU:Houston Astros,NYM:New York Mets
+18,2025-03-28,,LAD:Los Angeles Dodgers,DET:Detroit Tigers
+19,2025-03-28,,MIA:Miami Marlins,PIT:Pittsburgh Pirates
+20,2025-03-28,,SDP:San Diego Padres,ATL:Atlanta Braves
+21,2025-03-28,,SEA:Seattle Mariners,ATH:Athletics
+22,2025-03-28,,TBR:Tampa Bay Rays,COL:Colorado Rockies
+23,2025-03-28,,TEX:Texas Rangers,BOS:Boston Red Sox
+24,2025-03-28,,TOR:Toronto Blue Jays,BAL:Baltimore Orioles
+25,2025-03-29,,ARI:Arizona D'Backs,CHC:Chicago Cubs
+26,2025-03-29,,CHW:Chicago White Sox,LAA:Los Angeles Angels
+27,2025-03-29,,CIN:Cincinnati Reds,SFG:San Francisco Giants
+28,2025-03-29,,HOU:Houston Astros,NYM:New York Mets
+29,2025-03-29,,KCR:Kansas City Royals,CLE:Cleveland Guardians
+30,2025-03-29,,LAD:Los Angeles Dodgers,DET:Detroit Tigers
+31,2025-03-29,,MIA:Miami Marlins,PIT:Pittsburgh Pirates
+32,2025-03-29,,NYY:New York Yankees,MIL:Milwaukee Brewers
+33,2025-03-29,,SDP:San Diego Padres,ATL:Atlanta Braves
+34,2025-03-29,,SEA:Seattle Mariners,ATH:Athletics
+35,2025-03-29,,STL:St. Louis Cardinals,MIN:Minnesota Twins
+36,2025-03-29,,TBR:Tampa Bay Rays,COL:Colorado Rockies
+37,2025-03-29,,TEX:Texas Rangers,BOS:Boston Red Sox
+38,2025-03-29,,TOR:Toronto Blue Jays,BAL:Baltimore Orioles
+39,2025-03-29,,WSN:Washington Nationals,PHI:Philadelphia Phillies
+40,2025-03-30,,ARI:Arizona D'Backs,CHC:Chicago Cubs
+41,2025-03-30,,CHW:Chicago White Sox,LAA:Los Angeles Angels
+42,2025-03-30,,CIN:Cincinnati Reds,SFG:San Francisco Giants
+43,2025-03-30,,KCR:Kansas City Royals,CLE:Cleveland Guardians
+44,2025-03-30,,MIA:Miami Marlins,PIT:Pittsburgh Pirates
+45,2025-03-30,,NYY:New York Yankees,MIL:Milwaukee Brewers
+46,2025-03-30,,SDP:San Diego Padres,ATL:Atlanta Braves
+47,2025-03-30,,SEA:Seattle Mariners,ATH:Athletics
+48,2025-03-30,,STL:St. Louis Cardinals,MIN:Minnesota Twins
+49,2025-03-30,,TBR:Tampa Bay Rays,COL:Colorado Rockies
+50,2025-03-30,,TEX:Texas Rangers,BOS:Boston Red Sox
+51,2025-03-30,,TOR:Toronto Blue Jays,BAL:Baltimore Orioles
+52,2025-03-30,,WSN:Washington Nationals,PHI:Philadelphia Phillies
+53,2025-03-31,,ATH:Athletics,CHC:Chicago Cubs
+54,2025-03-31,,BAL:Baltimore Orioles,BOS:Boston Red Sox
+55,2025-03-31,,CHW:Chicago White Sox,MIN:Minnesota Twins
+56,2025-03-31,,CIN:Cincinnati Reds,TEX:Texas Rangers
+57,2025-03-31,,HOU:Houston Astros,SFG:San Francisco Giants
+58,2025-03-31,,LAD:Los Angeles Dodgers,ATL:Atlanta Braves
+59,2025-03-31,,MIA:Miami Marlins,NYM:New York Mets
+60,2025-03-31,,MIL:Milwaukee Brewers,KCR:Kansas City Royals
+61,2025-03-31,,PHI:Philadelphia Phillies,COL:Colorado Rockies
+62,2025-03-31,,SDP:San Diego Padres,CLE:Cleveland Guardians
+63,2025-03-31,,SEA:Seattle Mariners,DET:Detroit Tigers
+64,2025-03-31,,STL:St. Louis Cardinals,LAA:Los Angeles Angels
+65,2025-03-31,,TBR:Tampa Bay Rays,PIT:Pittsburgh Pirates
+66,2025-03-31,,TOR:Toronto Blue Jays,WSN:Washington Nationals
+67,2025-04-01,,ATH:Athletics,CHC:Chicago Cubs
+68,2025-04-01,,CHW:Chicago White Sox,MIN:Minnesota Twins
+69,2025-04-01,,CIN:Cincinnati Reds,TEX:Texas Rangers
+70,2025-04-01,,HOU:Houston Astros,SFG:San Francisco Giants
+71,2025-04-01,,LAD:Los Angeles Dodgers,ATL:Atlanta Braves
+72,2025-04-01,,MIA:Miami Marlins,NYM:New York Mets
+73,2025-04-01,,MIL:Milwaukee Brewers,KCR:Kansas City Royals
+74,2025-04-01,,NYY:New York Yankees,ARI:Arizona D'Backs
+75,2025-04-01,,SDP:San Diego Padres,CLE:Cleveland Guardians
+76,2025-04-01,,SEA:Seattle Mariners,DET:Detroit Tigers
+77,2025-04-01,,STL:St. Louis Cardinals,LAA:Los Angeles Angels
+78,2025-04-01,,TBR:Tampa Bay Rays,PIT:Pittsburgh Pirates
+79,2025-04-01,,TOR:Toronto Blue Jays,WSN:Washington Nationals
+80,2025-04-02,,ATH:Athletics,CHC:Chicago Cubs
+81,2025-04-02,,BAL:Baltimore Orioles,BOS:Boston Red Sox
+82,2025-04-02,,CHW:Chicago White Sox,MIN:Minnesota Twins
+83,2025-04-02,,CIN:Cincinnati Reds,TEX:Texas Rangers
+84,2025-04-02,,HOU:Houston Astros,SFG:San Francisco Giants
+85,2025-04-02,,LAD:Los Angeles Dodgers,ATL:Atlanta Braves
+86,2025-04-02,,MIA:Miami Marlins,NYM:New York Mets
+87,2025-04-02,,MIL:Milwaukee Brewers,KCR:Kansas City Royals
+88,2025-04-02,,NYY:New York Yankees,ARI:Arizona D'Backs
+89,2025-04-02,,PHI:Philadelphia Phillies,COL:Colorado Rockies
+90,2025-04-02,,SDP:San Diego Padres,CLE:Cleveland Guardians
+91,2025-04-02,,SEA:Seattle Mariners,DET:Detroit Tigers
+92,2025-04-02,,STL:St. Louis Cardinals,LAA:Los Angeles Angels
+93,2025-04-02,,TBR:Tampa Bay Rays,PIT:Pittsburgh Pirates
+94,2025-04-02,,TOR:Toronto Blue Jays,WSN:Washington Nationals
+95,2025-04-03,,BAL:Baltimore Orioles,BOS:Boston Red Sox
+96,2025-04-03,,MIL:Milwaukee Brewers,CIN:Cincinnati Reds
+97,2025-04-03,,MIN:Minnesota Twins,HOU:Houston Astros
+98,2025-04-03,,NYY:New York Yankees,ARI:Arizona D'Backs
+99,2025-04-03,,PHI:Philadelphia Phillies,COL:Colorado Rockies
+101,2025-04-04,,ATL:Atlanta Braves,MIA:Miami Marlins
+102,2025-04-04,,BOS:Boston Red Sox,STL:St. Louis Cardinals
+103,2025-04-04,,CHC:Chicago Cubs,SDP:San Diego Padres
+104,2025-04-04,,COL:Colorado Rockies,ATH:Athletics
+105,2025-04-04,,DET:Detroit Tigers,CHW:Chicago White Sox
+106,2025-04-04,,KCR:Kansas City Royals,BAL:Baltimore Orioles
+100,2025-04-04,,LAA:Los Angeles Angels,CLE:Cleveland Guardians
+107,2025-04-04,,MIL:Milwaukee Brewers,CIN:Cincinnati Reds
+108,2025-04-04,,NYM:New York Mets,TOR:Toronto Blue Jays
+109,2025-04-04,,PHI:Philadelphia Phillies,LAD:Los Angeles Dodgers
+110,2025-04-04,,PIT:Pittsburgh Pirates,NYY:New York Yankees
+111,2025-04-04,,SFG:San Francisco Giants,SEA:Seattle Mariners
+112,2025-04-04,,TEX:Texas Rangers,TBR:Tampa Bay Rays
+113,2025-04-04,,WSN:Washington Nationals,ARI:Arizona D'Backs
+115,2025-04-05,,ATL:Atlanta Braves,MIA:Miami Marlins
+116,2025-04-05,,CHC:Chicago Cubs,SDP:San Diego Padres
+117,2025-04-05,,COL:Colorado Rockies,ATH:Athletics
+118,2025-04-05,,DET:Detroit Tigers,CHW:Chicago White Sox
+119,2025-04-05,,KCR:Kansas City Royals,BAL:Baltimore Orioles
+114,2025-04-05,,LAA:Los Angeles Angels,CLE:Cleveland Guardians
+120,2025-04-05,,MIL:Milwaukee Brewers,CIN:Cincinnati Reds
+121,2025-04-05,,MIN:Minnesota Twins,HOU:Houston Astros
+122,2025-04-05,,NYM:New York Mets,TOR:Toronto Blue Jays
+123,2025-04-05,,PHI:Philadelphia Phillies,LAD:Los Angeles Dodgers
+124,2025-04-05,,PIT:Pittsburgh Pirates,NYY:New York Yankees
+125,2025-04-05,,SFG:San Francisco Giants,SEA:Seattle Mariners
+126,2025-04-05,,TEX:Texas Rangers,TBR:Tampa Bay Rays
+127,2025-04-05,,WSN:Washington Nationals,ARI:Arizona D'Backs
+129,2025-04-06,,BOS:Boston Red Sox,STL:St. Louis Cardinals
+130,2025-04-06,,BOS:Boston Red Sox,STL:St. Louis Cardinals
+131,2025-04-06,,CHC:Chicago Cubs,SDP:San Diego Padres
+132,2025-04-06,,COL:Colorado Rockies,ATH:Athletics
+133,2025-04-06,,DET:Detroit Tigers,CHW:Chicago White Sox
+134,2025-04-06,,KCR:Kansas City Royals,BAL:Baltimore Orioles
+128,2025-04-06,,LAA:Los Angeles Angels,CLE:Cleveland Guardians
+135,2025-04-06,,MIL:Milwaukee Brewers,CIN:Cincinnati Reds
+136,2025-04-06,,MIN:Minnesota Twins,HOU:Houston Astros
+137,2025-04-06,,NYM:New York Mets,TOR:Toronto Blue Jays
+138,2025-04-06,,PHI:Philadelphia Phillies,LAD:Los Angeles Dodgers
+139,2025-04-06,,PIT:Pittsburgh Pirates,NYY:New York Yankees
+140,2025-04-06,,SFG:San Francisco Giants,SEA:Seattle Mariners
+141,2025-04-06,,TEX:Texas Rangers,TBR:Tampa Bay Rays
+142,2025-04-06,,WSN:Washington Nationals,ARI:Arizona D'Backs
+143,2025-04-07,,ARI:Arizona D'Backs,BAL:Baltimore Orioles
+144,2025-04-07,,ATH:Athletics,SDP:San Diego Padres
+145,2025-04-07,,BOS:Boston Red Sox,TOR:Toronto Blue Jays
+146,2025-04-07,,CHC:Chicago Cubs,TEX:Texas Rangers
+147,2025-04-07,,DET:Detroit Tigers,NYY:New York Yankees
+148,2025-04-07,,KCR:Kansas City Royals,MIN:Minnesota Twins
+149,2025-04-07,,NYM:New York Mets,MIA:Miami Marlins
+150,2025-04-07,,PIT:Pittsburgh Pirates,STL:St. Louis Cardinals
+151,2025-04-07,,SEA:Seattle Mariners,HOU:Houston Astros
+152,2025-04-07,,SFG:San Francisco Giants,CIN:Cincinnati Reds
+153,2025-04-07,,WSN:Washington Nationals,LAD:Los Angeles Dodgers
+154,2025-04-08,,ARI:Arizona D'Backs,BAL:Baltimore Orioles
+155,2025-04-08,,ATH:Athletics,SDP:San Diego Padres
+156,2025-04-08,,ATL:Atlanta Braves,PHI:Philadelphia Phillies
+157,2025-04-08,,BOS:Boston Red Sox,TOR:Toronto Blue Jays
+158,2025-04-08,,CHC:Chicago Cubs,TEX:Texas Rangers
+159,2025-04-08,,CLE:Cleveland Guardians,CHW:Chicago White Sox
+160,2025-04-08,,COL:Colorado Rockies,MIL:Milwaukee Brewers
+161,2025-04-08,,DET:Detroit Tigers,NYY:New York Yankees
+162,2025-04-08,,KCR:Kansas City Royals,MIN:Minnesota Twins
+163,2025-04-08,,NYM:New York Mets,MIA:Miami Marlins
+164,2025-04-08,,PIT:Pittsburgh Pirates,STL:St. Louis Cardinals
+165,2025-04-08,,SEA:Seattle Mariners,HOU:Houston Astros
+166,2025-04-08,,SFG:San Francisco Giants,CIN:Cincinnati Reds
+167,2025-04-08,,TBR:Tampa Bay Rays,LAA:Los Angeles Angels
+168,2025-04-08,,WSN:Washington Nationals,LAD:Los Angeles Dodgers
+169,2025-04-09,,ARI:Arizona D'Backs,BAL:Baltimore Orioles
+170,2025-04-09,,ATH:Athletics,SDP:San Diego Padres
+171,2025-04-09,,ATL:Atlanta Braves,PHI:Philadelphia Phillies
+172,2025-04-09,,BOS:Boston Red Sox,TOR:Toronto Blue Jays
+173,2025-04-09,,CHC:Chicago Cubs,TEX:Texas Rangers
+174,2025-04-09,,CLE:Cleveland Guardians,CHW:Chicago White Sox
+175,2025-04-09,,COL:Colorado Rockies,MIL:Milwaukee Brewers
+176,2025-04-09,,DET:Detroit Tigers,NYY:New York Yankees
+177,2025-04-09,,KCR:Kansas City Royals,MIN:Minnesota Twins
+178,2025-04-09,,NYM:New York Mets,MIA:Miami Marlins
+179,2025-04-09,,PIT:Pittsburgh Pirates,STL:St. Louis Cardinals
+180,2025-04-09,,SEA:Seattle Mariners,HOU:Houston Astros
+181,2025-04-09,,SFG:San Francisco Giants,CIN:Cincinnati Reds
+182,2025-04-09,,TBR:Tampa Bay Rays,LAA:Los Angeles Angels
+183,2025-04-09,,WSN:Washington Nationals,LAD:Los Angeles Dodgers
+184,2025-04-10,,ATL:Atlanta Braves,PHI:Philadelphia Phillies
+185,2025-04-10,,BOS:Boston Red Sox,TOR:Toronto Blue Jays
+186,2025-04-10,,CLE:Cleveland Guardians,CHW:Chicago White Sox
+187,2025-04-10,,COL:Colorado Rockies,MIL:Milwaukee Brewers
+188,2025-04-10,,KCR:Kansas City Royals,MIN:Minnesota Twins
+189,2025-04-10,,TBR:Tampa Bay Rays,LAA:Los Angeles Angels
+190,2025-04-11,,ARI:Arizona D'Backs,MIL:Milwaukee Brewers
+191,2025-04-11,,ATH:Athletics,NYM:New York Mets
+192,2025-04-11,,CHW:Chicago White Sox,BOS:Boston Red Sox
+193,2025-04-11,,CIN:Cincinnati Reds,PIT:Pittsburgh Pirates
+194,2025-04-11,,CLE:Cleveland Guardians,KCR:Kansas City Royals
+195,2025-04-11,,HOU:Houston Astros,LAA:Los Angeles Angels
+196,2025-04-11,,LAD:Los Angeles Dodgers,CHC:Chicago Cubs
+197,2025-04-11,,MIA:Miami Marlins,WSN:Washington Nationals
+198,2025-04-11,,MIN:Minnesota Twins,DET:Detroit Tigers
+199,2025-04-11,,NYY:New York Yankees,SFG:San Francisco Giants
+200,2025-04-11,,SDP:San Diego Padres,COL:Colorado Rockies
+201,2025-04-11,,SEA:Seattle Mariners,TEX:Texas Rangers
+202,2025-04-11,,STL:St. Louis Cardinals,PHI:Philadelphia Phillies
+203,2025-04-11,,TBR:Tampa Bay Rays,ATL:Atlanta Braves
+204,2025-04-12,,ARI:Arizona D'Backs,MIL:Milwaukee Brewers
+205,2025-04-12,,ATH:Athletics,NYM:New York Mets
+206,2025-04-12,,BAL:Baltimore Orioles,TOR:Toronto Blue Jays
+207,2025-04-12,,CHW:Chicago White Sox,BOS:Boston Red Sox
+208,2025-04-12,,CIN:Cincinnati Reds,PIT:Pittsburgh Pirates
+209,2025-04-12,,CLE:Cleveland Guardians,KCR:Kansas City Royals
+210,2025-04-12,,HOU:Houston Astros,LAA:Los Angeles Angels
+211,2025-04-12,,LAD:Los Angeles Dodgers,CHC:Chicago Cubs
+212,2025-04-12,,MIA:Miami Marlins,WSN:Washington Nationals
+213,2025-04-12,,MIN:Minnesota Twins,DET:Detroit Tigers
+214,2025-04-12,,NYY:New York Yankees,SFG:San Francisco Giants
+215,2025-04-12,,SDP:San Diego Padres,COL:Colorado Rockies
+216,2025-04-12,,SEA:Seattle Mariners,TEX:Texas Rangers
+217,2025-04-12,,STL:St. Louis Cardinals,PHI:Philadelphia Phillies
+218,2025-04-12,,TBR:Tampa Bay Rays,ATL:Atlanta Braves
+219,2025-04-13,,ARI:Arizona D'Backs,MIL:Milwaukee Brewers
+220,2025-04-13,,ATH:Athletics,NYM:New York Mets
+221,2025-04-13,,BAL:Baltimore Orioles,TOR:Toronto Blue Jays
+222,2025-04-13,,CHW:Chicago White Sox,BOS:Boston Red Sox
+223,2025-04-13,,CIN:Cincinnati Reds,PIT:Pittsburgh Pirates
+224,2025-04-13,,CLE:Cleveland Guardians,KCR:Kansas City Royals
+225,2025-04-13,,HOU:Houston Astros,LAA:Los Angeles Angels
+226,2025-04-13,,LAD:Los Angeles Dodgers,CHC:Chicago Cubs
+227,2025-04-13,,MIA:Miami Marlins,WSN:Washington Nationals
+228,2025-04-13,,MIN:Minnesota Twins,DET:Detroit Tigers
+229,2025-04-13,,NYY:New York Yankees,SFG:San Francisco Giants
+230,2025-04-13,,SDP:San Diego Padres,COL:Colorado Rockies
+231,2025-04-13,,SEA:Seattle Mariners,TEX:Texas Rangers
+232,2025-04-13,,STL:St. Louis Cardinals,PHI:Philadelphia Phillies
+233,2025-04-13,,TBR:Tampa Bay Rays,ATL:Atlanta Braves
+234,2025-04-14,,LAD:Los Angeles Dodgers,COL:Colorado Rockies
+235,2025-04-14,,MIL:Milwaukee Brewers,DET:Detroit Tigers
+236,2025-04-14,,MIN:Minnesota Twins,NYM:New York Mets
+237,2025-04-14,,NYY:New York Yankees,KCR:Kansas City Royals
+238,2025-04-14,,PHI:Philadelphia Phillies,SFG:San Francisco Giants
+239,2025-04-14,,PIT:Pittsburgh Pirates,WSN:Washington Nationals
+240,2025-04-14,,SDP:San Diego Padres,CHC:Chicago Cubs
+241,2025-04-14,,STL:St. Louis Cardinals,HOU:Houston Astros
+242,2025-04-14,,TBR:Tampa Bay Rays,BOS:Boston Red Sox
+243,2025-04-14,,TOR:Toronto Blue Jays,ATL:Atlanta Braves
+244,2025-04-15,,BAL:Baltimore Orioles,CLE:Cleveland Guardians
+245,2025-04-15,,CHW:Chicago White Sox,ATH:Athletics
+246,2025-04-15,,CIN:Cincinnati Reds,SEA:Seattle Mariners
+247,2025-04-15,,LAD:Los Angeles Dodgers,COL:Colorado Rockies
+248,2025-04-15,,MIA:Miami Marlins,ARI:Arizona D'Backs
+249,2025-04-15,,MIL:Milwaukee Brewers,DET:Detroit Tigers
+250,2025-04-15,,MIN:Minnesota Twins,NYM:New York Mets
+251,2025-04-15,,NYY:New York Yankees,KCR:Kansas City Royals
+252,2025-04-15,,PHI:Philadelphia Phillies,SFG:San Francisco Giants
+253,2025-04-15,,PIT:Pittsburgh Pirates,WSN:Washington Nationals
+254,2025-04-15,,SDP:San Diego Padres,CHC:Chicago Cubs
+255,2025-04-15,,STL:St. Louis Cardinals,HOU:Houston Astros
+256,2025-04-15,,TBR:Tampa Bay Rays,BOS:Boston Red Sox
+257,2025-04-15,,TEX:Texas Rangers,LAA:Los Angeles Angels
+258,2025-04-15,,TOR:Toronto Blue Jays,ATL:Atlanta Braves
+259,2025-04-16,,BAL:Baltimore Orioles,CLE:Cleveland Guardians
+260,2025-04-16,,CHW:Chicago White Sox,ATH:Athletics
+261,2025-04-16,,CIN:Cincinnati Reds,SEA:Seattle Mariners
+262,2025-04-16,,LAD:Los Angeles Dodgers,COL:Colorado Rockies
+263,2025-04-16,,MIA:Miami Marlins,ARI:Arizona D'Backs
+264,2025-04-16,,MIL:Milwaukee Brewers,DET:Detroit Tigers
+265,2025-04-16,,MIN:Minnesota Twins,NYM:New York Mets
+266,2025-04-16,,NYY:New York Yankees,KCR:Kansas City Royals
+267,2025-04-16,,PHI:Philadelphia Phillies,SFG:San Francisco Giants
+268,2025-04-16,,PIT:Pittsburgh Pirates,WSN:Washington Nationals
+269,2025-04-16,,SDP:San Diego Padres,CHC:Chicago Cubs
+270,2025-04-16,,STL:St. Louis Cardinals,HOU:Houston Astros
+271,2025-04-16,,TBR:Tampa Bay Rays,BOS:Boston Red Sox
+272,2025-04-16,,TEX:Texas Rangers,LAA:Los Angeles Angels
+273,2025-04-16,,TOR:Toronto Blue Jays,ATL:Atlanta Braves
+274,2025-04-17,,BAL:Baltimore Orioles,CLE:Cleveland Guardians
+275,2025-04-17,,CHW:Chicago White Sox,ATH:Athletics
+276,2025-04-17,,CIN:Cincinnati Reds,SEA:Seattle Mariners
+277,2025-04-17,,DET:Detroit Tigers,KCR:Kansas City Royals
+278,2025-04-17,,MIA:Miami Marlins,ARI:Arizona D'Backs
+279,2025-04-17,,NYM:New York Mets,STL:St. Louis Cardinals
+280,2025-04-17,,PHI:Philadelphia Phillies,SFG:San Francisco Giants
+281,2025-04-17,,PIT:Pittsburgh Pirates,WSN:Washington Nationals
+282,2025-04-17,,TBR:Tampa Bay Rays,NYY:New York Yankees
+283,2025-04-17,,TEX:Texas Rangers,LAA:Los Angeles Angels
+285,2025-04-18,,ATL:Atlanta Braves,MIN:Minnesota Twins
+286,2025-04-18,,BAL:Baltimore Orioles,CIN:Cincinnati Reds
+287,2025-04-18,,BOS:Boston Red Sox,CHW:Chicago White Sox
+288,2025-04-18,,CHC:Chicago Cubs,ARI:Arizona D'Backs
+289,2025-04-18,,DET:Detroit Tigers,KCR:Kansas City Royals
+290,2025-04-18,,HOU:Houston Astros,SDP:San Diego Padres
+284,2025-04-18,,LAA:Los Angeles Angels,SFG:San Francisco Giants
+291,2025-04-18,,MIL:Milwaukee Brewers,ATH:Athletics
+292,2025-04-18,,NYM:New York Mets,STL:St. Louis Cardinals
+293,2025-04-18,,PHI:Philadelphia Phillies,MIA:Miami Marlins
+294,2025-04-18,,PIT:Pittsburgh Pirates,CLE:Cleveland Guardians
+295,2025-04-18,,TBR:Tampa Bay Rays,NYY:New York Yankees
+296,2025-04-18,,TEX:Texas Rangers,LAD:Los Angeles Dodgers
+297,2025-04-18,,TOR:Toronto Blue Jays,SEA:Seattle Mariners
+299,2025-04-19,,ATL:Atlanta Braves,MIN:Minnesota Twins
+300,2025-04-19,,BAL:Baltimore Orioles,CIN:Cincinnati Reds
+301,2025-04-19,,BOS:Boston Red Sox,CHW:Chicago White Sox
+302,2025-04-19,,CHC:Chicago Cubs,ARI:Arizona D'Backs
+303,2025-04-19,,COL:Colorado Rockies,WSN:Washington Nationals
+304,2025-04-19,,DET:Detroit Tigers,KCR:Kansas City Royals
+305,2025-04-19,,HOU:Houston Astros,SDP:San Diego Padres
+298,2025-04-19,,LAA:Los Angeles Angels,SFG:San Francisco Giants
+306,2025-04-19,,MIL:Milwaukee Brewers,ATH:Athletics
+307,2025-04-19,,NYM:New York Mets,STL:St. Louis Cardinals
+308,2025-04-19,,PHI:Philadelphia Phillies,MIA:Miami Marlins
+309,2025-04-19,,PIT:Pittsburgh Pirates,CLE:Cleveland Guardians
+310,2025-04-19,,TBR:Tampa Bay Rays,NYY:New York Yankees
+311,2025-04-19,,TEX:Texas Rangers,LAD:Los Angeles Dodgers
+312,2025-04-19,,TOR:Toronto Blue Jays,SEA:Seattle Mariners
+314,2025-04-20,,ATL:Atlanta Braves,MIN:Minnesota Twins
+315,2025-04-20,,BAL:Baltimore Orioles,CIN:Cincinnati Reds
+316,2025-04-20,,BOS:Boston Red Sox,CHW:Chicago White Sox
+317,2025-04-20,,CHC:Chicago Cubs,ARI:Arizona D'Backs
+318,2025-04-20,,COL:Colorado Rockies,WSN:Washington Nationals
+319,2025-04-20,,COL:Colorado Rockies,WSN:Washington Nationals
+320,2025-04-20,,DET:Detroit Tigers,KCR:Kansas City Royals
+321,2025-04-20,,HOU:Houston Astros,SDP:San Diego Padres
+313,2025-04-20,,LAA:Los Angeles Angels,SFG:San Francisco Giants
+322,2025-04-20,,MIL:Milwaukee Brewers,ATH:Athletics
+323,2025-04-20,,NYM:New York Mets,STL:St. Louis Cardinals
+324,2025-04-20,,PHI:Philadelphia Phillies,MIA:Miami Marlins
+325,2025-04-20,,PIT:Pittsburgh Pirates,CLE:Cleveland Guardians
+326,2025-04-20,,TBR:Tampa Bay Rays,NYY:New York Yankees
+327,2025-04-20,,TEX:Texas Rangers,LAD:Los Angeles Dodgers
+328,2025-04-20,,TOR:Toronto Blue Jays,SEA:Seattle Mariners
+329,2025-04-21,,ATL:Atlanta Braves,STL:St. Louis Cardinals
+330,2025-04-21,,BOS:Boston Red Sox,CHW:Chicago White Sox
+331,2025-04-21,,CLE:Cleveland Guardians,NYY:New York Yankees
+332,2025-04-21,,DET:Detroit Tigers,SDP:San Diego Padres
+333,2025-04-21,,HOU:Houston Astros,TOR:Toronto Blue Jays
+334,2025-04-21,,MIA:Miami Marlins,CIN:Cincinnati Reds
+335,2025-04-21,,NYM:New York Mets,PHI:Philadelphia Phillies
+336,2025-04-21,,SFG:San Francisco Giants,MIL:Milwaukee Brewers
+338,2025-04-22,,ARI:Arizona D'Backs,TBR:Tampa Bay Rays
+339,2025-04-22,,ATH:Athletics,TEX:Texas Rangers
+340,2025-04-22,,ATL:Atlanta Braves,STL:St. Louis Cardinals
+341,2025-04-22,,BOS:Boston Red Sox,SEA:Seattle Mariners
+342,2025-04-22,,CHC:Chicago Cubs,LAD:Los Angeles Dodgers
+343,2025-04-22,,CLE:Cleveland Guardians,NYY:New York Yankees
+344,2025-04-22,,DET:Detroit Tigers,SDP:San Diego Padres
+345,2025-04-22,,HOU:Houston Astros,TOR:Toronto Blue Jays
+346,2025-04-22,,KCR:Kansas City Royals,COL:Colorado Rockies
+337,2025-04-22,,LAA:Los Angeles Angels,PIT:Pittsburgh Pirates
+347,2025-04-22,,MIA:Miami Marlins,CIN:Cincinnati Reds
+348,2025-04-22,,MIN:Minnesota Twins,CHW:Chicago White Sox
+349,2025-04-22,,NYM:New York Mets,PHI:Philadelphia Phillies
+350,2025-04-22,,SFG:San Francisco Giants,MIL:Milwaukee Brewers
+351,2025-04-22,,WSN:Washington Nationals,BAL:Baltimore Orioles
+353,2025-04-23,,ARI:Arizona D'Backs,TBR:Tampa Bay Rays
+354,2025-04-23,,ATH:Athletics,TEX:Texas Rangers
+355,2025-04-23,,ATL:Atlanta Braves,STL:St. Louis Cardinals
+356,2025-04-23,,BOS:Boston Red Sox,SEA:Seattle Mariners
+357,2025-04-23,,CHC:Chicago Cubs,LAD:Los Angeles Dodgers
+358,2025-04-23,,CLE:Cleveland Guardians,NYY:New York Yankees
+359,2025-04-23,,DET:Detroit Tigers,SDP:San Diego Padres
+360,2025-04-23,,HOU:Houston Astros,TOR:Toronto Blue Jays
+352,2025-04-23,,LAA:Los Angeles Angels,PIT:Pittsburgh Pirates
+361,2025-04-23,,MIA:Miami Marlins,CIN:Cincinnati Reds
+362,2025-04-23,,MIN:Minnesota Twins,CHW:Chicago White Sox
+363,2025-04-23,,NYM:New York Mets,PHI:Philadelphia Phillies
+364,2025-04-23,,SFG:San Francisco Giants,MIL:Milwaukee Brewers
+365,2025-04-23,,WSN:Washington Nationals,BAL:Baltimore Orioles
+367,2025-04-24,,ARI:Arizona D'Backs,TBR:Tampa Bay Rays
+368,2025-04-24,,ATH:Athletics,TEX:Texas Rangers
+369,2025-04-24,,BOS:Boston Red Sox,SEA:Seattle Mariners
+370,2025-04-24,,KCR:Kansas City Royals,COL:Colorado Rockies
+371,2025-04-24,,KCR:Kansas City Royals,COL:Colorado Rockies
+366,2025-04-24,,LAA:Los Angeles Angels,PIT:Pittsburgh Pirates
+372,2025-04-24,,MIN:Minnesota Twins,CHW:Chicago White Sox
+373,2025-04-24,,SFG:San Francisco Giants,MIL:Milwaukee Brewers
+374,2025-04-24,,WSN:Washington Nationals,BAL:Baltimore Orioles
+375,2025-04-25,,ARI:Arizona D'Backs,ATL:Atlanta Braves
+376,2025-04-25,,ATH:Athletics,CHW:Chicago White Sox
+377,2025-04-25,,CHC:Chicago Cubs,PHI:Philadelphia Phillies
+378,2025-04-25,,COL:Colorado Rockies,CIN:Cincinnati Reds
+379,2025-04-25,,KCR:Kansas City Royals,HOU:Houston Astros
+380,2025-04-25,,LAD:Los Angeles Dodgers,PIT:Pittsburgh Pirates
+381,2025-04-25,,MIN:Minnesota Twins,LAA:Los Angeles Angels
+382,2025-04-25,,NYY:New York Yankees,TOR:Toronto Blue Jays
+383,2025-04-25,,SDP:San Diego Padres,TBR:Tampa Bay Rays
+384,2025-04-25,,SEA:Seattle Mariners,MIA:Miami Marlins
+385,2025-04-25,,SFG:San Francisco Giants,TEX:Texas Rangers
+386,2025-04-25,,STL:St. Louis Cardinals,MIL:Milwaukee Brewers
+387,2025-04-25,,WSN:Washington Nationals,NYM:New York Mets
+388,2025-04-26,,ARI:Arizona D'Backs,ATL:Atlanta Braves
+389,2025-04-26,,ATH:Athletics,CHW:Chicago White Sox
+390,2025-04-26,,CHC:Chicago Cubs,PHI:Philadelphia Phillies
+391,2025-04-26,,CLE:Cleveland Guardians,BOS:Boston Red Sox
+392,2025-04-26,,CLE:Cleveland Guardians,BOS:Boston Red Sox
+393,2025-04-26,,COL:Colorado Rockies,CIN:Cincinnati Reds
+394,2025-04-26,,DET:Detroit Tigers,BAL:Baltimore Orioles
+395,2025-04-26,,DET:Detroit Tigers,BAL:Baltimore Orioles
+396,2025-04-26,,KCR:Kansas City Royals,HOU:Houston Astros
+397,2025-04-26,,LAD:Los Angeles Dodgers,PIT:Pittsburgh Pirates
+398,2025-04-26,,MIN:Minnesota Twins,LAA:Los Angeles Angels
+399,2025-04-26,,SDP:San Diego Padres,TBR:Tampa Bay Rays
+400,2025-04-26,,SEA:Seattle Mariners,MIA:Miami Marlins
+401,2025-04-26,,SFG:San Francisco Giants,TEX:Texas Rangers
+402,2025-04-26,,STL:St. Louis Cardinals,MIL:Milwaukee Brewers
+403,2025-04-26,,WSN:Washington Nationals,NYM:New York Mets
+404,2025-04-27,,ARI:Arizona D'Backs,ATL:Atlanta Braves
+405,2025-04-27,,ATH:Athletics,CHW:Chicago White Sox
+406,2025-04-27,,CHC:Chicago Cubs,PHI:Philadelphia Phillies
+407,2025-04-27,,CLE:Cleveland Guardians,BOS:Boston Red Sox
+408,2025-04-27,,COL:Colorado Rockies,CIN:Cincinnati Reds
+409,2025-04-27,,DET:Detroit Tigers,BAL:Baltimore Orioles
+410,2025-04-27,,KCR:Kansas City Royals,HOU:Houston Astros
+411,2025-04-27,,LAD:Los Angeles Dodgers,PIT:Pittsburgh Pirates
+412,2025-04-27,,MIN:Minnesota Twins,LAA:Los Angeles Angels
+413,2025-04-27,,NYY:New York Yankees,TOR:Toronto Blue Jays
+414,2025-04-27,,NYY:New York Yankees,TOR:Toronto Blue Jays
+415,2025-04-27,,SDP:San Diego Padres,TBR:Tampa Bay Rays
+416,2025-04-27,,SEA:Seattle Mariners,MIA:Miami Marlins
+417,2025-04-27,,SFG:San Francisco Giants,TEX:Texas Rangers
+418,2025-04-27,,STL:St. Louis Cardinals,MIL:Milwaukee Brewers
+419,2025-04-27,,WSN:Washington Nationals,NYM:New York Mets
+420,2025-04-28,,BAL:Baltimore Orioles,NYY:New York Yankees
+421,2025-04-28,,CIN:Cincinnati Reds,STL:St. Louis Cardinals
+422,2025-04-28,,CLE:Cleveland Guardians,MIN:Minnesota Twins
+423,2025-04-28,,COL:Colorado Rockies,ATL:Atlanta Braves
+424,2025-04-28,,HOU:Houston Astros,DET:Detroit Tigers
+425,2025-04-28,,LAD:Los Angeles Dodgers,MIA:Miami Marlins
+426,2025-04-28,,TEX:Texas Rangers,ATH:Athletics
+427,2025-04-28,,WSN:Washington Nationals,NYM:New York Mets
+428,2025-04-29,,BAL:Baltimore Orioles,NYY:New York Yankees
+429,2025-04-29,,CHW:Chicago White Sox,MIL:Milwaukee Brewers
+430,2025-04-29,,CLE:Cleveland Guardians,MIN:Minnesota Twins
+431,2025-04-29,,COL:Colorado Rockies,ATL:Atlanta Braves
+432,2025-04-29,,HOU:Houston Astros,DET:Detroit Tigers
+433,2025-04-29,,LAD:Los Angeles Dodgers,MIA:Miami Marlins
+434,2025-04-29,,NYM:New York Mets,ARI:Arizona D'Backs
+435,2025-04-29,,PHI:Philadelphia Phillies,WSN:Washington Nationals
+436,2025-04-29,,PIT:Pittsburgh Pirates,CHC:Chicago Cubs
+437,2025-04-29,,SDP:San Diego Padres,SFG:San Francisco Giants
+438,2025-04-29,,SEA:Seattle Mariners,LAA:Los Angeles Angels
+439,2025-04-29,,TBR:Tampa Bay Rays,KCR:Kansas City Royals
+440,2025-04-29,,TEX:Texas Rangers,ATH:Athletics
+441,2025-04-29,,TOR:Toronto Blue Jays,BOS:Boston Red Sox
+442,2025-04-30,,BAL:Baltimore Orioles,NYY:New York Yankees
+443,2025-04-30,,CHW:Chicago White Sox,MIL:Milwaukee Brewers
+444,2025-04-30,,CIN:Cincinnati Reds,STL:St. Louis Cardinals
+445,2025-04-30,,CIN:Cincinnati Reds,STL:St. Louis Cardinals
+446,2025-04-30,,CLE:Cleveland Guardians,MIN:Minnesota Twins
+447,2025-04-30,,COL:Colorado Rockies,ATL:Atlanta Braves
+448,2025-04-30,,HOU:Houston Astros,DET:Detroit Tigers
+449,2025-04-30,,LAD:Los Angeles Dodgers,MIA:Miami Marlins
+450,2025-04-30,,NYM:New York Mets,ARI:Arizona D'Backs
+451,2025-04-30,,PHI:Philadelphia Phillies,WSN:Washington Nationals
+452,2025-04-30,,PIT:Pittsburgh Pirates,CHC:Chicago Cubs
+453,2025-04-30,,SDP:San Diego Padres,SFG:San Francisco Giants
+454,2025-04-30,,SEA:Seattle Mariners,LAA:Los Angeles Angels
+455,2025-04-30,,TBR:Tampa Bay Rays,KCR:Kansas City Royals
+456,2025-04-30,,TEX:Texas Rangers,ATH:Athletics
+457,2025-04-30,,TOR:Toronto Blue Jays,BOS:Boston Red Sox
+459,2025-05-01,,CHW:Chicago White Sox,MIL:Milwaukee Brewers
+460,2025-05-01,,CIN:Cincinnati Reds,STL:St. Louis Cardinals
+461,2025-05-01,,CLE:Cleveland Guardians,MIN:Minnesota Twins
+458,2025-05-01,,LAA:Los Angeles Angels,DET:Detroit Tigers
+462,2025-05-01,,NYM:New York Mets,ARI:Arizona D'Backs
+463,2025-05-01,,PHI:Philadelphia Phillies,WSN:Washington Nationals
+464,2025-05-01,,PIT:Pittsburgh Pirates,CHC:Chicago Cubs
+465,2025-05-01,,SFG:San Francisco Giants,COL:Colorado Rockies
+466,2025-05-01,,TBR:Tampa Bay Rays,KCR:Kansas City Royals
+467,2025-05-01,,TEX:Texas Rangers,ATH:Athletics
+468,2025-05-01,,TOR:Toronto Blue Jays,BOS:Boston Red Sox
+470,2025-05-02,,ATL:Atlanta Braves,LAD:Los Angeles Dodgers
+471,2025-05-02,,BAL:Baltimore Orioles,KCR:Kansas City Royals
+472,2025-05-02,,BOS:Boston Red Sox,MIN:Minnesota Twins
+473,2025-05-02,,CHW:Chicago White Sox,HOU:Houston Astros
+474,2025-05-02,,CIN:Cincinnati Reds,WSN:Washington Nationals
+469,2025-05-02,,LAA:Los Angeles Angels,DET:Detroit Tigers
+475,2025-05-02,,MIA:Miami Marlins,ATH:Athletics
+476,2025-05-02,,MIL:Milwaukee Brewers,CHC:Chicago Cubs
+477,2025-05-02,,NYY:New York Yankees,TBR:Tampa Bay Rays
+478,2025-05-02,,PHI:Philadelphia Phillies,ARI:Arizona D'Backs
+479,2025-05-02,,PIT:Pittsburgh Pirates,SDP:San Diego Padres
+480,2025-05-02,,SFG:San Francisco Giants,COL:Colorado Rockies
+481,2025-05-02,,STL:St. Louis Cardinals,NYM:New York Mets
+482,2025-05-02,,TEX:Texas Rangers,SEA:Seattle Mariners
+483,2025-05-02,,TOR:Toronto Blue Jays,CLE:Cleveland Guardians
+485,2025-05-03,,ATL:Atlanta Braves,LAD:Los Angeles Dodgers
+486,2025-05-03,,BAL:Baltimore Orioles,KCR:Kansas City Royals
+487,2025-05-03,,BOS:Boston Red Sox,MIN:Minnesota Twins
+488,2025-05-03,,CHW:Chicago White Sox,HOU:Houston Astros
+489,2025-05-03,,CIN:Cincinnati Reds,WSN:Washington Nationals
+484,2025-05-03,,LAA:Los Angeles Angels,DET:Detroit Tigers
+490,2025-05-03,,MIA:Miami Marlins,ATH:Athletics
+491,2025-05-03,,MIL:Milwaukee Brewers,CHC:Chicago Cubs
+492,2025-05-03,,NYY:New York Yankees,TBR:Tampa Bay Rays
+493,2025-05-03,,PHI:Philadelphia Phillies,ARI:Arizona D'Backs
+494,2025-05-03,,PIT:Pittsburgh Pirates,SDP:San Diego Padres
+495,2025-05-03,,SFG:San Francisco Giants,COL:Colorado Rockies
+496,2025-05-03,,TEX:Texas Rangers,SEA:Seattle Mariners
+497,2025-05-03,,TOR:Toronto Blue Jays,CLE:Cleveland Guardians
+499,2025-05-04,,ATL:Atlanta Braves,LAD:Los Angeles Dodgers
+500,2025-05-04,,BAL:Baltimore Orioles,KCR:Kansas City Royals
+501,2025-05-04,,BOS:Boston Red Sox,MIN:Minnesota Twins
+502,2025-05-04,,CHW:Chicago White Sox,HOU:Houston Astros
+503,2025-05-04,,CIN:Cincinnati Reds,WSN:Washington Nationals
+498,2025-05-04,,LAA:Los Angeles Angels,DET:Detroit Tigers
+504,2025-05-04,,MIA:Miami Marlins,ATH:Athletics
+505,2025-05-04,,MIL:Milwaukee Brewers,CHC:Chicago Cubs
+506,2025-05-04,,NYY:New York Yankees,TBR:Tampa Bay Rays
+507,2025-05-04,,PHI:Philadelphia Phillies,ARI:Arizona D'Backs
+508,2025-05-04,,PIT:Pittsburgh Pirates,SDP:San Diego Padres
+509,2025-05-04,,SFG:San Francisco Giants,COL:Colorado Rockies
+510,2025-05-04,,STL:St. Louis Cardinals,NYM:New York Mets
+511,2025-05-04,,STL:St. Louis Cardinals,NYM:New York Mets
+512,2025-05-04,,TEX:Texas Rangers,SEA:Seattle Mariners
+513,2025-05-04,,TOR:Toronto Blue Jays,CLE:Cleveland Guardians
+514,2025-05-05,,ARI:Arizona D'Backs,NYM:New York Mets
+515,2025-05-05,,ATH:Athletics,SEA:Seattle Mariners
+516,2025-05-05,,ATL:Atlanta Braves,CIN:Cincinnati Reds
+517,2025-05-05,,CHC:Chicago Cubs,SFG:San Francisco Giants
+518,2025-05-05,,KCR:Kansas City Royals,CHW:Chicago White Sox
+519,2025-05-05,,MIA:Miami Marlins,LAD:Los Angeles Dodgers
+520,2025-05-05,,MIL:Milwaukee Brewers,HOU:Houston Astros
+521,2025-05-05,,NYY:New York Yankees,SDP:San Diego Padres
+522,2025-05-05,,STL:St. Louis Cardinals,PIT:Pittsburgh Pirates
+524,2025-05-06,,ARI:Arizona D'Backs,NYM:New York Mets
+525,2025-05-06,,ATH:Athletics,SEA:Seattle Mariners
+526,2025-05-06,,ATL:Atlanta Braves,CIN:Cincinnati Reds
+527,2025-05-06,,BOS:Boston Red Sox,TEX:Texas Rangers
+528,2025-05-06,,CHC:Chicago Cubs,SFG:San Francisco Giants
+529,2025-05-06,,KCR:Kansas City Royals,CHW:Chicago White Sox
+523,2025-05-06,,LAA:Los Angeles Angels,TOR:Toronto Blue Jays
+530,2025-05-06,,MIA:Miami Marlins,LAD:Los Angeles Dodgers
+531,2025-05-06,,MIL:Milwaukee Brewers,HOU:Houston Astros
+532,2025-05-06,,MIN:Minnesota Twins,BAL:Baltimore Orioles
+533,2025-05-06,,NYY:New York Yankees,SDP:San Diego Padres
+534,2025-05-06,,STL:St. Louis Cardinals,PIT:Pittsburgh Pirates
+535,2025-05-06,,TBR:Tampa Bay Rays,PHI:Philadelphia Phillies
+536,2025-05-06,,WSN:Washington Nationals,CLE:Cleveland Guardians
+537,2025-05-06,,WSN:Washington Nationals,CLE:Cleveland Guardians
+539,2025-05-07,,ARI:Arizona D'Backs,NYM:New York Mets
+540,2025-05-07,,ATH:Athletics,SEA:Seattle Mariners
+541,2025-05-07,,ATL:Atlanta Braves,CIN:Cincinnati Reds
+542,2025-05-07,,BOS:Boston Red Sox,TEX:Texas Rangers
+543,2025-05-07,,CHC:Chicago Cubs,SFG:San Francisco Giants
+544,2025-05-07,,COL:Colorado Rockies,DET:Detroit Tigers
+545,2025-05-07,,KCR:Kansas City Royals,CHW:Chicago White Sox
+538,2025-05-07,,LAA:Los Angeles Angels,TOR:Toronto Blue Jays
+546,2025-05-07,,MIA:Miami Marlins,LAD:Los Angeles Dodgers
+547,2025-05-07,,MIL:Milwaukee Brewers,HOU:Houston Astros
+548,2025-05-07,,MIN:Minnesota Twins,BAL:Baltimore Orioles
+549,2025-05-07,,NYY:New York Yankees,SDP:San Diego Padres
+550,2025-05-07,,STL:St. Louis Cardinals,PIT:Pittsburgh Pirates
+551,2025-05-07,,TBR:Tampa Bay Rays,PHI:Philadelphia Phillies
+552,2025-05-07,,WSN:Washington Nationals,CLE:Cleveland Guardians
+554,2025-05-08,,ARI:Arizona D'Backs,LAD:Los Angeles Dodgers
+555,2025-05-08,,ATL:Atlanta Braves,CIN:Cincinnati Reds
+556,2025-05-08,,BOS:Boston Red Sox,TEX:Texas Rangers
+557,2025-05-08,,COL:Colorado Rockies,DET:Detroit Tigers
+558,2025-05-08,,COL:Colorado Rockies,DET:Detroit Tigers
+559,2025-05-08,,KCR:Kansas City Royals,CHW:Chicago White Sox
+553,2025-05-08,,LAA:Los Angeles Angels,TOR:Toronto Blue Jays
+560,2025-05-08,,MIN:Minnesota Twins,BAL:Baltimore Orioles
+561,2025-05-08,,TBR:Tampa Bay Rays,PHI:Philadelphia Phillies
+563,2025-05-09,,ARI:Arizona D'Backs,LAD:Los Angeles Dodgers
+564,2025-05-09,,ATH:Athletics,NYY:New York Yankees
+565,2025-05-09,,CHW:Chicago White Sox,MIA:Miami Marlins
+566,2025-05-09,,CLE:Cleveland Guardians,PHI:Philadelphia Phillies
+567,2025-05-09,,COL:Colorado Rockies,SDP:San Diego Padres
+568,2025-05-09,,DET:Detroit Tigers,TEX:Texas Rangers
+569,2025-05-09,,HOU:Houston Astros,CIN:Cincinnati Reds
+570,2025-05-09,,KCR:Kansas City Royals,BOS:Boston Red Sox
+562,2025-05-09,,LAA:Los Angeles Angels,BAL:Baltimore Orioles
+571,2025-05-09,,MIN:Minnesota Twins,SFG:San Francisco Giants
+572,2025-05-09,,NYM:New York Mets,CHC:Chicago Cubs
+573,2025-05-09,,PIT:Pittsburgh Pirates,ATL:Atlanta Braves
+574,2025-05-09,,SEA:Seattle Mariners,TOR:Toronto Blue Jays
+575,2025-05-09,,TBR:Tampa Bay Rays,MIL:Milwaukee Brewers
+576,2025-05-09,,WSN:Washington Nationals,STL:St. Louis Cardinals
+578,2025-05-10,,ARI:Arizona D'Backs,LAD:Los Angeles Dodgers
+579,2025-05-10,,ATH:Athletics,NYY:New York Yankees
+580,2025-05-10,,CHW:Chicago White Sox,MIA:Miami Marlins
+581,2025-05-10,,CLE:Cleveland Guardians,PHI:Philadelphia Phillies
+582,2025-05-10,,COL:Colorado Rockies,SDP:San Diego Padres
+583,2025-05-10,,DET:Detroit Tigers,TEX:Texas Rangers
+584,2025-05-10,,HOU:Houston Astros,CIN:Cincinnati Reds
+585,2025-05-10,,KCR:Kansas City Royals,BOS:Boston Red Sox
+577,2025-05-10,,LAA:Los Angeles Angels,BAL:Baltimore Orioles
+586,2025-05-10,,MIN:Minnesota Twins,SFG:San Francisco Giants
+587,2025-05-10,,NYM:New York Mets,CHC:Chicago Cubs
+588,2025-05-10,,PIT:Pittsburgh Pirates,ATL:Atlanta Braves
+589,2025-05-10,,SEA:Seattle Mariners,TOR:Toronto Blue Jays
+590,2025-05-10,,TBR:Tampa Bay Rays,MIL:Milwaukee Brewers
+591,2025-05-10,,WSN:Washington Nationals,STL:St. Louis Cardinals
+593,2025-05-11,,ARI:Arizona D'Backs,LAD:Los Angeles Dodgers
+594,2025-05-11,,ATH:Athletics,NYY:New York Yankees
+595,2025-05-11,,CHW:Chicago White Sox,MIA:Miami Marlins
+596,2025-05-11,,CLE:Cleveland Guardians,PHI:Philadelphia Phillies
+597,2025-05-11,,COL:Colorado Rockies,SDP:San Diego Padres
+598,2025-05-11,,DET:Detroit Tigers,TEX:Texas Rangers
+599,2025-05-11,,HOU:Houston Astros,CIN:Cincinnati Reds
+600,2025-05-11,,KCR:Kansas City Royals,BOS:Boston Red Sox
+592,2025-05-11,,LAA:Los Angeles Angels,BAL:Baltimore Orioles
+601,2025-05-11,,MIN:Minnesota Twins,SFG:San Francisco Giants
+602,2025-05-11,,NYM:New York Mets,CHC:Chicago Cubs
+603,2025-05-11,,PIT:Pittsburgh Pirates,ATL:Atlanta Braves
+604,2025-05-11,,SEA:Seattle Mariners,TOR:Toronto Blue Jays
+605,2025-05-11,,TBR:Tampa Bay Rays,MIL:Milwaukee Brewers
+606,2025-05-11,,WSN:Washington Nationals,STL:St. Louis Cardinals
+607,2025-05-12,,ATL:Atlanta Braves,WSN:Washington Nationals
+608,2025-05-12,,CHC:Chicago Cubs,MIA:Miami Marlins
+609,2025-05-12,,CLE:Cleveland Guardians,MIL:Milwaukee Brewers
+610,2025-05-12,,DET:Detroit Tigers,BOS:Boston Red Sox
+611,2025-05-12,,HOU:Houston Astros,KCR:Kansas City Royals
+612,2025-05-12,,NYM:New York Mets,PIT:Pittsburgh Pirates
+613,2025-05-12,,PHI:Philadelphia Phillies,STL:St. Louis Cardinals
+614,2025-05-12,,SDP:San Diego Padres,LAA:Los Angeles Angels
+615,2025-05-12,,SEA:Seattle Mariners,NYY:New York Yankees
+616,2025-05-12,,SFG:San Francisco Giants,ARI:Arizona D'Backs
+617,2025-05-12,,TEX:Texas Rangers,COL:Colorado Rockies
+618,2025-05-13,,ATL:Atlanta Braves,WSN:Washington Nationals
+619,2025-05-13,,CHC:Chicago Cubs,MIA:Miami Marlins
+620,2025-05-13,,CIN:Cincinnati Reds,CHW:Chicago White Sox
+621,2025-05-13,,CLE:Cleveland Guardians,MIL:Milwaukee Brewers
+622,2025-05-13,,DET:Detroit Tigers,BOS:Boston Red Sox
+623,2025-05-13,,HOU:Houston Astros,KCR:Kansas City Royals
+624,2025-05-13,,LAD:Los Angeles Dodgers,ATH:Athletics
+625,2025-05-13,,NYM:New York Mets,PIT:Pittsburgh Pirates
+626,2025-05-13,,SDP:San Diego Padres,LAA:Los Angeles Angels
+627,2025-05-13,,SEA:Seattle Mariners,NYY:New York Yankees
+628,2025-05-13,,SFG:San Francisco Giants,ARI:Arizona D'Backs
+629,2025-05-13,,TEX:Texas Rangers,COL:Colorado Rockies
+630,2025-05-13,,TOR:Toronto Blue Jays,TBR:Tampa Bay Rays
+631,2025-05-14,,ATL:Atlanta Braves,WSN:Washington Nationals
+632,2025-05-14,,BAL:Baltimore Orioles,MIN:Minnesota Twins
+633,2025-05-14,,BAL:Baltimore Orioles,MIN:Minnesota Twins
+634,2025-05-14,,CHC:Chicago Cubs,MIA:Miami Marlins
+635,2025-05-14,,CIN:Cincinnati Reds,CHW:Chicago White Sox
+636,2025-05-14,,CLE:Cleveland Guardians,MIL:Milwaukee Brewers
+637,2025-05-14,,DET:Detroit Tigers,BOS:Boston Red Sox
+638,2025-05-14,,HOU:Houston Astros,KCR:Kansas City Royals
+639,2025-05-14,,LAD:Los Angeles Dodgers,ATH:Athletics
+640,2025-05-14,,NYM:New York Mets,PIT:Pittsburgh Pirates
+641,2025-05-14,,PHI:Philadelphia Phillies,STL:St. Louis Cardinals
+642,2025-05-14,,PHI:Philadelphia Phillies,STL:St. Louis Cardinals
+643,2025-05-14,,SDP:San Diego Padres,LAA:Los Angeles Angels
+644,2025-05-14,,SEA:Seattle Mariners,NYY:New York Yankees
+645,2025-05-14,,SFG:San Francisco Giants,ARI:Arizona D'Backs
+646,2025-05-14,,TEX:Texas Rangers,COL:Colorado Rockies
+647,2025-05-14,,TOR:Toronto Blue Jays,TBR:Tampa Bay Rays
+648,2025-05-15,,ATL:Atlanta Braves,WSN:Washington Nationals
+649,2025-05-15,,BAL:Baltimore Orioles,MIN:Minnesota Twins
+650,2025-05-15,,CIN:Cincinnati Reds,CHW:Chicago White Sox
+651,2025-05-15,,LAD:Los Angeles Dodgers,ATH:Athletics
+652,2025-05-15,,TEX:Texas Rangers,HOU:Houston Astros
+653,2025-05-15,,TOR:Toronto Blue Jays,TBR:Tampa Bay Rays
+654,2025-05-16,,ARI:Arizona D'Backs,COL:Colorado Rockies
+655,2025-05-16,,BAL:Baltimore Orioles,WSN:Washington Nationals
+656,2025-05-16,,BOS:Boston Red Sox,ATL:Atlanta Braves
+657,2025-05-16,,CHC:Chicago Cubs,CHW:Chicago White Sox
+658,2025-05-16,,CIN:Cincinnati Reds,CLE:Cleveland Guardians
+659,2025-05-16,,KCR:Kansas City Royals,STL:St. Louis Cardinals
+660,2025-05-16,,LAD:Los Angeles Dodgers,LAA:Los Angeles Angels
+661,2025-05-16,,MIA:Miami Marlins,TBR:Tampa Bay Rays
+662,2025-05-16,,MIL:Milwaukee Brewers,MIN:Minnesota Twins
+663,2025-05-16,,NYY:New York Yankees,NYM:New York Mets
+664,2025-05-16,,PHI:Philadelphia Phillies,PIT:Pittsburgh Pirates
+665,2025-05-16,,SDP:San Diego Padres,SEA:Seattle Mariners
+666,2025-05-16,,SFG:San Francisco Giants,ATH:Athletics
+667,2025-05-16,,TEX:Texas Rangers,HOU:Houston Astros
+668,2025-05-16,,TOR:Toronto Blue Jays,DET:Detroit Tigers
+669,2025-05-17,,ARI:Arizona D'Backs,COL:Colorado Rockies
+670,2025-05-17,,BAL:Baltimore Orioles,WSN:Washington Nationals
+671,2025-05-17,,BOS:Boston Red Sox,ATL:Atlanta Braves
+672,2025-05-17,,CHC:Chicago Cubs,CHW:Chicago White Sox
+673,2025-05-17,,CIN:Cincinnati Reds,CLE:Cleveland Guardians
+674,2025-05-17,,KCR:Kansas City Royals,STL:St. Louis Cardinals
+675,2025-05-17,,LAD:Los Angeles Dodgers,LAA:Los Angeles Angels
+676,2025-05-17,,MIA:Miami Marlins,TBR:Tampa Bay Rays
+677,2025-05-17,,MIL:Milwaukee Brewers,MIN:Minnesota Twins
+678,2025-05-17,,NYY:New York Yankees,NYM:New York Mets
+679,2025-05-17,,PHI:Philadelphia Phillies,PIT:Pittsburgh Pirates
+680,2025-05-17,,SDP:San Diego Padres,SEA:Seattle Mariners
+681,2025-05-17,,SFG:San Francisco Giants,ATH:Athletics
+682,2025-05-17,,TEX:Texas Rangers,HOU:Houston Astros
+683,2025-05-17,,TOR:Toronto Blue Jays,DET:Detroit Tigers
+684,2025-05-18,,ARI:Arizona D'Backs,COL:Colorado Rockies
+685,2025-05-18,,BAL:Baltimore Orioles,WSN:Washington Nationals
+686,2025-05-18,,BOS:Boston Red Sox,ATL:Atlanta Braves
+687,2025-05-18,,CHC:Chicago Cubs,CHW:Chicago White Sox
+688,2025-05-18,,CIN:Cincinnati Reds,CLE:Cleveland Guardians
+689,2025-05-18,,KCR:Kansas City Royals,STL:St. Louis Cardinals
+690,2025-05-18,,LAD:Los Angeles Dodgers,LAA:Los Angeles Angels
+691,2025-05-18,,MIA:Miami Marlins,TBR:Tampa Bay Rays
+692,2025-05-18,,MIL:Milwaukee Brewers,MIN:Minnesota Twins
+693,2025-05-18,,NYY:New York Yankees,NYM:New York Mets
+694,2025-05-18,,PHI:Philadelphia Phillies,PIT:Pittsburgh Pirates
+695,2025-05-18,,SDP:San Diego Padres,SEA:Seattle Mariners
+696,2025-05-18,,SFG:San Francisco Giants,ATH:Athletics
+697,2025-05-18,,TEX:Texas Rangers,HOU:Houston Astros
+698,2025-05-18,,TOR:Toronto Blue Jays,DET:Detroit Tigers
+699,2025-05-19,,ATH:Athletics,LAA:Los Angeles Angels
+700,2025-05-19,,BOS:Boston Red Sox,NYM:New York Mets
+701,2025-05-19,,CHW:Chicago White Sox,SEA:Seattle Mariners
+702,2025-05-19,,COL:Colorado Rockies,PHI:Philadelphia Phillies
+703,2025-05-19,,LAD:Los Angeles Dodgers,ARI:Arizona D'Backs
+704,2025-05-19,,MIA:Miami Marlins,CHC:Chicago Cubs
+705,2025-05-19,,MIL:Milwaukee Brewers,BAL:Baltimore Orioles
+706,2025-05-19,,MIN:Minnesota Twins,CLE:Cleveland Guardians
+707,2025-05-19,,PIT:Pittsburgh Pirates,CIN:Cincinnati Reds
+708,2025-05-19,,SFG:San Francisco Giants,KCR:Kansas City Royals
+709,2025-05-19,,STL:St. Louis Cardinals,DET:Detroit Tigers
+710,2025-05-19,,TBR:Tampa Bay Rays,HOU:Houston Astros
+711,2025-05-20,,ATH:Athletics,LAA:Los Angeles Angels
+712,2025-05-20,,BOS:Boston Red Sox,NYM:New York Mets
+713,2025-05-20,,CHW:Chicago White Sox,SEA:Seattle Mariners
+714,2025-05-20,,COL:Colorado Rockies,PHI:Philadelphia Phillies
+715,2025-05-20,,LAD:Los Angeles Dodgers,ARI:Arizona D'Backs
+716,2025-05-20,,MIA:Miami Marlins,CHC:Chicago Cubs
+717,2025-05-20,,MIL:Milwaukee Brewers,BAL:Baltimore Orioles
+718,2025-05-20,,NYY:New York Yankees,TEX:Texas Rangers
+719,2025-05-20,,PIT:Pittsburgh Pirates,CIN:Cincinnati Reds
+720,2025-05-20,,SFG:San Francisco Giants,KCR:Kansas City Royals
+721,2025-05-20,,STL:St. Louis Cardinals,DET:Detroit Tigers
+722,2025-05-20,,TBR:Tampa Bay Rays,HOU:Houston Astros
+723,2025-05-20,,TOR:Toronto Blue Jays,SDP:San Diego Padres
+724,2025-05-20,,WSN:Washington Nationals,ATL:Atlanta Braves
+725,2025-05-21,,ATH:Athletics,LAA:Los Angeles Angels
+726,2025-05-21,,BOS:Boston Red Sox,NYM:New York Mets
+727,2025-05-21,,CHW:Chicago White Sox,SEA:Seattle Mariners
+728,2025-05-21,,COL:Colorado Rockies,PHI:Philadelphia Phillies
+729,2025-05-21,,LAD:Los Angeles Dodgers,ARI:Arizona D'Backs
+730,2025-05-21,,MIA:Miami Marlins,CHC:Chicago Cubs
+731,2025-05-21,,MIL:Milwaukee Brewers,BAL:Baltimore Orioles
+732,2025-05-21,,MIN:Minnesota Twins,CLE:Cleveland Guardians
+733,2025-05-21,,NYY:New York Yankees,TEX:Texas Rangers
+734,2025-05-21,,PIT:Pittsburgh Pirates,CIN:Cincinnati Reds
+735,2025-05-21,,SFG:San Francisco Giants,KCR:Kansas City Royals
+736,2025-05-21,,STL:St. Louis Cardinals,DET:Detroit Tigers
+737,2025-05-21,,TBR:Tampa Bay Rays,HOU:Houston Astros
+738,2025-05-21,,TOR:Toronto Blue Jays,SDP:San Diego Padres
+739,2025-05-22,,ATH:Athletics,LAA:Los Angeles Angels
+740,2025-05-22,,COL:Colorado Rockies,PHI:Philadelphia Phillies
+741,2025-05-22,,DET:Detroit Tigers,CLE:Cleveland Guardians
+742,2025-05-22,,HOU:Houston Astros,SEA:Seattle Mariners
+743,2025-05-22,,NYY:New York Yankees,TEX:Texas Rangers
+744,2025-05-22,,PIT:Pittsburgh Pirates,MIL:Milwaukee Brewers
+745,2025-05-22,,TOR:Toronto Blue Jays,SDP:San Diego Padres
+746,2025-05-22,,WSN:Washington Nationals,ATL:Atlanta Braves
+748,2025-05-23,,ATH:Athletics,PHI:Philadelphia Phillies
+749,2025-05-23,,ATL:Atlanta Braves,SDP:San Diego Padres
+750,2025-05-23,,BOS:Boston Red Sox,BAL:Baltimore Orioles
+751,2025-05-23,,CHW:Chicago White Sox,TEX:Texas Rangers
+752,2025-05-23,,CIN:Cincinnati Reds,CHC:Chicago Cubs
+753,2025-05-23,,COL:Colorado Rockies,NYY:New York Yankees
+754,2025-05-23,,DET:Detroit Tigers,CLE:Cleveland Guardians
+755,2025-05-23,,HOU:Houston Astros,SEA:Seattle Mariners
+747,2025-05-23,,LAA:Los Angeles Angels,MIA:Miami Marlins
+756,2025-05-23,,MIN:Minnesota Twins,KCR:Kansas City Royals
+757,2025-05-23,,NYM:New York Mets,LAD:Los Angeles Dodgers
+758,2025-05-23,,PIT:Pittsburgh Pirates,MIL:Milwaukee Brewers
+759,2025-05-23,,STL:St. Louis Cardinals,ARI:Arizona D'Backs
+760,2025-05-23,,TBR:Tampa Bay Rays,TOR:Toronto Blue Jays
+761,2025-05-23,,WSN:Washington Nationals,SFG:San Francisco Giants
+763,2025-05-24,,ATH:Athletics,PHI:Philadelphia Phillies
+764,2025-05-24,,ATL:Atlanta Braves,SDP:San Diego Padres
+765,2025-05-24,,BOS:Boston Red Sox,BAL:Baltimore Orioles
+766,2025-05-24,,BOS:Boston Red Sox,BAL:Baltimore Orioles
+767,2025-05-24,,CHW:Chicago White Sox,TEX:Texas Rangers
+768,2025-05-24,,CIN:Cincinnati Reds,CHC:Chicago Cubs
+769,2025-05-24,,COL:Colorado Rockies,NYY:New York Yankees
+770,2025-05-24,,DET:Detroit Tigers,CLE:Cleveland Guardians
+771,2025-05-24,,HOU:Houston Astros,SEA:Seattle Mariners
+762,2025-05-24,,LAA:Los Angeles Angels,MIA:Miami Marlins
+772,2025-05-24,,MIN:Minnesota Twins,KCR:Kansas City Royals
+773,2025-05-24,,NYM:New York Mets,LAD:Los Angeles Dodgers
+774,2025-05-24,,PIT:Pittsburgh Pirates,MIL:Milwaukee Brewers
+775,2025-05-24,,STL:St. Louis Cardinals,ARI:Arizona D'Backs
+776,2025-05-24,,TBR:Tampa Bay Rays,TOR:Toronto Blue Jays
+777,2025-05-24,,WSN:Washington Nationals,SFG:San Francisco Giants
+779,2025-05-25,,ATH:Athletics,PHI:Philadelphia Phillies
+780,2025-05-25,,ATL:Atlanta Braves,SDP:San Diego Padres
+781,2025-05-25,,BOS:Boston Red Sox,BAL:Baltimore Orioles
+782,2025-05-25,,CHW:Chicago White Sox,TEX:Texas Rangers
+783,2025-05-25,,CIN:Cincinnati Reds,CHC:Chicago Cubs
+784,2025-05-25,,COL:Colorado Rockies,NYY:New York Yankees
+785,2025-05-25,,DET:Detroit Tigers,CLE:Cleveland Guardians
+786,2025-05-25,,HOU:Houston Astros,SEA:Seattle Mariners
+778,2025-05-25,,LAA:Los Angeles Angels,MIA:Miami Marlins
+787,2025-05-25,,MIN:Minnesota Twins,KCR:Kansas City Royals
+788,2025-05-25,,NYM:New York Mets,LAD:Los Angeles Dodgers
+789,2025-05-25,,PIT:Pittsburgh Pirates,MIL:Milwaukee Brewers
+790,2025-05-25,,STL:St. Louis Cardinals,ARI:Arizona D'Backs
+791,2025-05-25,,TBR:Tampa Bay Rays,TOR:Toronto Blue Jays
+792,2025-05-25,,WSN:Washington Nationals,SFG:San Francisco Giants
+794,2025-05-26,,ARI:Arizona D'Backs,PIT:Pittsburgh Pirates
+795,2025-05-26,,BAL:Baltimore Orioles,STL:St. Louis Cardinals
+796,2025-05-26,,CHC:Chicago Cubs,COL:Colorado Rockies
+797,2025-05-26,,CLE:Cleveland Guardians,LAD:Los Angeles Dodgers
+798,2025-05-26,,DET:Detroit Tigers,SFG:San Francisco Giants
+799,2025-05-26,,KCR:Kansas City Royals,CIN:Cincinnati Reds
+793,2025-05-26,,LAA:Los Angeles Angels,NYY:New York Yankees
+800,2025-05-26,,MIL:Milwaukee Brewers,BOS:Boston Red Sox
+801,2025-05-26,,NYM:New York Mets,CHW:Chicago White Sox
+802,2025-05-26,,SDP:San Diego Padres,MIA:Miami Marlins
+803,2025-05-26,,TBR:Tampa Bay Rays,MIN:Minnesota Twins
+804,2025-05-26,,TEX:Texas Rangers,TOR:Toronto Blue Jays
+806,2025-05-27,,ARI:Arizona D'Backs,PIT:Pittsburgh Pirates
+807,2025-05-27,,BAL:Baltimore Orioles,STL:St. Louis Cardinals
+808,2025-05-27,,CHC:Chicago Cubs,COL:Colorado Rockies
+809,2025-05-27,,CLE:Cleveland Guardians,LAD:Los Angeles Dodgers
+810,2025-05-27,,DET:Detroit Tigers,SFG:San Francisco Giants
+811,2025-05-27,,HOU:Houston Astros,ATH:Athletics
+812,2025-05-27,,KCR:Kansas City Royals,CIN:Cincinnati Reds
+805,2025-05-27,,LAA:Los Angeles Angels,NYY:New York Yankees
+813,2025-05-27,,MIL:Milwaukee Brewers,BOS:Boston Red Sox
+814,2025-05-27,,NYM:New York Mets,CHW:Chicago White Sox
+815,2025-05-27,,PHI:Philadelphia Phillies,ATL:Atlanta Braves
+816,2025-05-27,,SDP:San Diego Padres,MIA:Miami Marlins
+817,2025-05-27,,SEA:Seattle Mariners,WSN:Washington Nationals
+818,2025-05-27,,TBR:Tampa Bay Rays,MIN:Minnesota Twins
+819,2025-05-27,,TEX:Texas Rangers,TOR:Toronto Blue Jays
+821,2025-05-28,,ARI:Arizona D'Backs,PIT:Pittsburgh Pirates
+822,2025-05-28,,BAL:Baltimore Orioles,STL:St. Louis Cardinals
+823,2025-05-28,,CHC:Chicago Cubs,COL:Colorado Rockies
+824,2025-05-28,,CLE:Cleveland Guardians,LAD:Los Angeles Dodgers
+825,2025-05-28,,DET:Detroit Tigers,SFG:San Francisco Giants
+826,2025-05-28,,HOU:Houston Astros,ATH:Athletics
+827,2025-05-28,,KCR:Kansas City Royals,CIN:Cincinnati Reds
+820,2025-05-28,,LAA:Los Angeles Angels,NYY:New York Yankees
+828,2025-05-28,,MIL:Milwaukee Brewers,BOS:Boston Red Sox
+829,2025-05-28,,NYM:New York Mets,CHW:Chicago White Sox
+830,2025-05-28,,SDP:San Diego Padres,MIA:Miami Marlins
+831,2025-05-28,,SEA:Seattle Mariners,WSN:Washington Nationals
+832,2025-05-28,,TBR:Tampa Bay Rays,MIN:Minnesota Twins
+833,2025-05-28,,TEX:Texas Rangers,TOR:Toronto Blue Jays
+834,2025-05-29,,HOU:Houston Astros,TBR:Tampa Bay Rays
+835,2025-05-29,,PHI:Philadelphia Phillies,ATL:Atlanta Braves
+836,2025-05-29,,PHI:Philadelphia Phillies,ATL:Atlanta Braves
+837,2025-05-29,,SEA:Seattle Mariners,WSN:Washington Nationals
+838,2025-05-29,,TOR:Toronto Blue Jays,ATH:Athletics
+839,2025-05-30,,ARI:Arizona D'Backs,WSN:Washington Nationals
+840,2025-05-30,,ATL:Atlanta Braves,BOS:Boston Red Sox
+841,2025-05-30,,BAL:Baltimore Orioles,CHW:Chicago White Sox
+842,2025-05-30,,CHC:Chicago Cubs,CIN:Cincinnati Reds
+843,2025-05-30,,CLE:Cleveland Guardians,LAA:Los Angeles Angels
+844,2025-05-30,,HOU:Houston Astros,TBR:Tampa Bay Rays
+845,2025-05-30,,KCR:Kansas City Royals,DET:Detroit Tigers
+846,2025-05-30,,LAD:Los Angeles Dodgers,NYY:New York Yankees
+847,2025-05-30,,MIA:Miami Marlins,SFG:San Francisco Giants
+848,2025-05-30,,NYM:New York Mets,COL:Colorado Rockies
+849,2025-05-30,,PHI:Philadelphia Phillies,MIL:Milwaukee Brewers
+850,2025-05-30,,SDP:San Diego Padres,PIT:Pittsburgh Pirates
+851,2025-05-30,,SEA:Seattle Mariners,MIN:Minnesota Twins
+852,2025-05-30,,TEX:Texas Rangers,STL:St. Louis Cardinals
+853,2025-05-30,,TOR:Toronto Blue Jays,ATH:Athletics
+854,2025-05-31,02:20PM,CHC:Chicago Cubs,CIN:Cincinnati Reds
+855,2025-05-31,03:07PM,TOR:Toronto Blue Jays,ATH:Athletics
+856,2025-05-31,04:05PM,BAL:Baltimore Orioles,CHW:Chicago White Sox
+857,2025-05-31,04:05PM,PHI:Philadelphia Phillies,MIL:Milwaukee Brewers
+858,2025-05-31,04:05PM,TEX:Texas Rangers,STL:St. Louis Cardinals
+859,2025-05-31,04:10PM,ATL:Atlanta Braves,BOS:Boston Red Sox
+860,2025-05-31,04:10PM,CLE:Cleveland Guardians,LAA:Los Angeles Angels
+861,2025-05-31,04:10PM,HOU:Houston Astros,TBR:Tampa Bay Rays
+862,2025-05-31,04:10PM,KCR:Kansas City Royals,DET:Detroit Tigers
+863,2025-05-31,04:10PM,MIA:Miami Marlins,SFG:San Francisco Giants
+864,2025-05-31,04:10PM,NYM:New York Mets,COL:Colorado Rockies
+865,2025-05-31,07:15PM,LAD:Los Angeles Dodgers,NYY:New York Yankees
+866,2025-05-31,07:15PM,SEA:Seattle Mariners,MIN:Minnesota Twins
+867,2025-05-31,09:40PM,SDP:San Diego Padres,PIT:Pittsburgh Pirates
+868,2025-05-31,10:10PM,ARI:Arizona D'Backs,WSN:Washington Nationals
+869,2025-06-01,01:05PM,TEX:Texas Rangers,STL:St. Louis Cardinals
+870,2025-06-01,01:35PM,ATL:Atlanta Braves,BOS:Boston Red Sox
+871,2025-06-01,01:35PM,BAL:Baltimore Orioles,CHW:Chicago White Sox
+872,2025-06-01,01:35PM,PHI:Philadelphia Phillies,MIL:Milwaukee Brewers
+873,2025-06-01,01:37PM,TOR:Toronto Blue Jays,ATH:Athletics
+874,2025-06-01,01:40PM,CLE:Cleveland Guardians,LAA:Los Angeles Angels
+875,2025-06-01,01:40PM,MIA:Miami Marlins,SFG:San Francisco Giants
+876,2025-06-01,01:40PM,NYM:New York Mets,COL:Colorado Rockies
+877,2025-06-01,02:10PM,HOU:Houston Astros,TBR:Tampa Bay Rays
+878,2025-06-01,02:10PM,KCR:Kansas City Royals,DET:Detroit Tigers
+879,2025-06-01,02:20PM,CHC:Chicago Cubs,CIN:Cincinnati Reds
+880,2025-06-01,04:10PM,ARI:Arizona D'Backs,WSN:Washington Nationals
+881,2025-06-01,04:10PM,SEA:Seattle Mariners,MIN:Minnesota Twins
+882,2025-06-01,05:10PM,SDP:San Diego Padres,PIT:Pittsburgh Pirates
+883,2025-06-01,07:10PM,LAD:Los Angeles Dodgers,NYY:New York Yankees
+884,2025-06-02,06:40PM,MIA:Miami Marlins,COL:Colorado Rockies
+885,2025-06-02,07:10PM,BOS:Boston Red Sox,LAA:Los Angeles Angels
+886,2025-06-02,07:10PM,CIN:Cincinnati Reds,MIL:Milwaukee Brewers
+887,2025-06-02,07:40PM,CHW:Chicago White Sox,DET:Detroit Tigers
+888,2025-06-02,09:45PM,SFG:San Francisco Giants,SDP:San Diego Padres
+889,2025-06-02,10:05PM,ATH:Athletics,MIN:Minnesota Twins
+890,2025-06-02,10:10PM,LAD:Los Angeles Dodgers,NYM:New York Mets
+891,2025-06-03,06:40PM,MIA:Miami Marlins,COL:Colorado Rockies
+892,2025-06-03,06:40PM,PIT:Pittsburgh Pirates,HOU:Houston Astros
+893,2025-06-03,06:45PM,WSN:Washington Nationals,CHC:Chicago Cubs
+894,2025-06-03,07:05PM,NYY:New York Yankees,CLE:Cleveland Guardians
+895,2025-06-03,07:07PM,TOR:Toronto Blue Jays,PHI:Philadelphia Phillies
+896,2025-06-03,07:10PM,BOS:Boston Red Sox,LAA:Los Angeles Angels
+897,2025-06-03,07:10PM,CIN:Cincinnati Reds,MIL:Milwaukee Brewers
+898,2025-06-03,07:15PM,ATL:Atlanta Braves,ARI:Arizona D'Backs
+899,2025-06-03,07:35PM,TBR:Tampa Bay Rays,TEX:Texas Rangers
+900,2025-06-03,07:40PM,CHW:Chicago White Sox,DET:Detroit Tigers
+901,2025-06-03,07:45PM,STL:St. Louis Cardinals,KCR:Kansas City Royals
+902,2025-06-03,09:40PM,SEA:Seattle Mariners,BAL:Baltimore Orioles
+903,2025-06-03,09:45PM,SFG:San Francisco Giants,SDP:San Diego Padres
+904,2025-06-03,10:05PM,ATH:Athletics,MIN:Minnesota Twins
+905,2025-06-03,10:10PM,LAD:Los Angeles Dodgers,NYM:New York Mets
+908,2025-06-04,01:35PM,BOS:Boston Red Sox,LAA:Los Angeles Angels
+909,2025-06-04,06:40PM,PIT:Pittsburgh Pirates,HOU:Houston Astros
+910,2025-06-04,06:45PM,WSN:Washington Nationals,CHC:Chicago Cubs
+911,2025-06-04,07:05PM,NYY:New York Yankees,CLE:Cleveland Guardians
+912,2025-06-04,07:07PM,TOR:Toronto Blue Jays,PHI:Philadelphia Phillies
+913,2025-06-04,07:15PM,ATL:Atlanta Braves,ARI:Arizona D'Backs
+914,2025-06-04,07:35PM,TBR:Tampa Bay Rays,TEX:Texas Rangers
+915,2025-06-04,07:40PM,CHW:Chicago White Sox,DET:Detroit Tigers
+916,2025-06-04,07:45PM,STL:St. Louis Cardinals,KCR:Kansas City Royals
+917,2025-06-04,09:40PM,SEA:Seattle Mariners,BAL:Baltimore Orioles
+918,2025-06-04,09:45PM,SFG:San Francisco Giants,SDP:San Diego Padres
+919,2025-06-04,10:05PM,ATH:Athletics,MIN:Minnesota Twins
+920,2025-06-04,10:10PM,LAD:Los Angeles Dodgers,NYM:New York Mets
+906,2025-06-04,12:10PM,MIA:Miami Marlins,COL:Colorado Rockies
+907,2025-06-04,12:40PM,CIN:Cincinnati Reds,MIL:Milwaukee Brewers
+922,2025-06-05,02:10PM,CHW:Chicago White Sox,DET:Detroit Tigers
+923,2025-06-05,03:07PM,TOR:Toronto Blue Jays,PHI:Philadelphia Phillies
+924,2025-06-05,03:35PM,ATH:Athletics,MIN:Minnesota Twins
+925,2025-06-05,03:40PM,SEA:Seattle Mariners,BAL:Baltimore Orioles
+926,2025-06-05,03:45PM,SFG:San Francisco Giants,SDP:San Diego Padres
+927,2025-06-05,04:10PM,LAD:Los Angeles Dodgers,NYM:New York Mets
+928,2025-06-05,06:40PM,PIT:Pittsburgh Pirates,HOU:Houston Astros
+929,2025-06-05,06:45PM,WSN:Washington Nationals,CHC:Chicago Cubs
+930,2025-06-05,07:05PM,NYY:New York Yankees,CLE:Cleveland Guardians
+931,2025-06-05,07:35PM,TBR:Tampa Bay Rays,TEX:Texas Rangers
+932,2025-06-05,07:45PM,STL:St. Louis Cardinals,KCR:Kansas City Royals
+921,2025-06-05,12:15PM,ATL:Atlanta Braves,ARI:Arizona D'Backs
+933,2025-06-06,01:10PM,TBR:Tampa Bay Rays,MIA:Miami Marlins
+934,2025-06-06,06:40PM,PIT:Pittsburgh Pirates,PHI:Philadelphia Phillies
+935,2025-06-06,06:45PM,WSN:Washington Nationals,TEX:Texas Rangers
+936,2025-06-06,07:05PM,NYY:New York Yankees,BOS:Boston Red Sox
+937,2025-06-06,07:10PM,CIN:Cincinnati Reds,ARI:Arizona D'Backs
+938,2025-06-06,07:10PM,CLE:Cleveland Guardians,HOU:Houston Astros
+939,2025-06-06,07:10PM,DET:Detroit Tigers,CHC:Chicago Cubs
+940,2025-06-06,07:40PM,CHW:Chicago White Sox,KCR:Kansas City Royals
+941,2025-06-06,08:10PM,MIL:Milwaukee Brewers,SDP:San Diego Padres
+942,2025-06-06,08:10PM,MIN:Minnesota Twins,TOR:Toronto Blue Jays
+943,2025-06-06,08:15PM,STL:St. Louis Cardinals,LAD:Los Angeles Dodgers
+944,2025-06-06,08:40PM,COL:Colorado Rockies,NYM:New York Mets
+945,2025-06-06,09:38PM,LAA:Los Angeles Angels,SEA:Seattle Mariners
+946,2025-06-06,10:05PM,ATH:Athletics,BAL:Baltimore Orioles
+947,2025-06-06,10:15PM,SFG:San Francisco Giants,ATL:Atlanta Braves
+948,2025-06-07,01:10PM,DET:Detroit Tigers,CHC:Chicago Cubs
+949,2025-06-07,02:10PM,MIN:Minnesota Twins,TOR:Toronto Blue Jays
+950,2025-06-07,02:15PM,STL:St. Louis Cardinals,LAD:Los Angeles Dodgers
+951,2025-06-07,04:05PM,PIT:Pittsburgh Pirates,PHI:Philadelphia Phillies
+952,2025-06-07,04:05PM,SFG:San Francisco Giants,ATL:Atlanta Braves
+953,2025-06-07,04:05PM,WSN:Washington Nationals,TEX:Texas Rangers
+954,2025-06-07,04:10PM,CHW:Chicago White Sox,KCR:Kansas City Royals
+955,2025-06-07,04:10PM,CIN:Cincinnati Reds,ARI:Arizona D'Backs
+956,2025-06-07,04:10PM,CLE:Cleveland Guardians,HOU:Houston Astros
+957,2025-06-07,04:10PM,TBR:Tampa Bay Rays,MIA:Miami Marlins
+958,2025-06-07,07:35PM,MIL:Milwaukee Brewers,SDP:San Diego Padres
+959,2025-06-07,07:35PM,NYY:New York Yankees,BOS:Boston Red Sox
+960,2025-06-07,09:38PM,LAA:Los Angeles Angels,SEA:Seattle Mariners
+961,2025-06-07,09:40PM,COL:Colorado Rockies,NYM:New York Mets
+962,2025-06-07,10:05PM,ATH:Athletics,BAL:Baltimore Orioles
+964,2025-06-08,01:05PM,MIL:Milwaukee Brewers,SDP:San Diego Padres
+965,2025-06-08,01:35PM,PIT:Pittsburgh Pirates,PHI:Philadelphia Phillies
+966,2025-06-08,01:35PM,WSN:Washington Nationals,TEX:Texas Rangers
+967,2025-06-08,01:40PM,CIN:Cincinnati Reds,ARI:Arizona D'Backs
+968,2025-06-08,01:40PM,CLE:Cleveland Guardians,HOU:Houston Astros
+969,2025-06-08,01:40PM,DET:Detroit Tigers,CHC:Chicago Cubs
+970,2025-06-08,02:10PM,CHW:Chicago White Sox,KCR:Kansas City Royals
+971,2025-06-08,02:10PM,MIN:Minnesota Twins,TOR:Toronto Blue Jays
+972,2025-06-08,02:15PM,STL:St. Louis Cardinals,LAD:Los Angeles Dodgers
+973,2025-06-08,03:10PM,COL:Colorado Rockies,NYM:New York Mets
+974,2025-06-08,04:05PM,ATH:Athletics,BAL:Baltimore Orioles
+975,2025-06-08,04:05PM,SFG:San Francisco Giants,ATL:Atlanta Braves
+976,2025-06-08,04:07PM,LAA:Los Angeles Angels,SEA:Seattle Mariners
+977,2025-06-08,06:30PM,NYY:New York Yankees,BOS:Boston Red Sox
+963,2025-06-08,12:10PM,TBR:Tampa Bay Rays,MIA:Miami Marlins
+978,2025-06-09,06:40PM,CLE:Cleveland Guardians,CIN:Cincinnati Reds
+979,2025-06-09,06:40PM,PIT:Pittsburgh Pirates,MIA:Miami Marlins
+980,2025-06-09,06:45PM,PHI:Philadelphia Phillies,CHC:Chicago Cubs
+981,2025-06-09,07:10PM,BOS:Boston Red Sox,TBR:Tampa Bay Rays
+982,2025-06-09,07:40PM,MIL:Milwaukee Brewers,ATL:Atlanta Braves
+983,2025-06-09,07:45PM,STL:St. Louis Cardinals,TOR:Toronto Blue Jays
+984,2025-06-09,09:38PM,LAA:Los Angeles Angels,ATH:Athletics
+985,2025-06-09,09:40PM,ARI:Arizona D'Backs,SEA:Seattle Mariners
+986,2025-06-09,09:40PM,SDP:San Diego Padres,LAD:Los Angeles Dodgers
+987,2025-06-10,06:35PM,BAL:Baltimore Orioles,DET:Detroit Tigers
+988,2025-06-10,06:40PM,CLE:Cleveland Guardians,CIN:Cincinnati Reds
+989,2025-06-10,06:40PM,PIT:Pittsburgh Pirates,MIA:Miami Marlins
+990,2025-06-10,06:45PM,PHI:Philadelphia Phillies,CHC:Chicago Cubs
+991,2025-06-10,07:10PM,BOS:Boston Red Sox,TBR:Tampa Bay Rays
+992,2025-06-10,07:10PM,NYM:New York Mets,WSN:Washington Nationals
+993,2025-06-10,07:40PM,KCR:Kansas City Royals,NYY:New York Yankees
+994,2025-06-10,07:40PM,MIL:Milwaukee Brewers,ATL:Atlanta Braves
+995,2025-06-10,07:40PM,MIN:Minnesota Twins,TEX:Texas Rangers
+996,2025-06-10,07:45PM,STL:St. Louis Cardinals,TOR:Toronto Blue Jays
+997,2025-06-10,08:10PM,HOU:Houston Astros,CHW:Chicago White Sox
+998,2025-06-10,08:40PM,COL:Colorado Rockies,SFG:San Francisco Giants
+999,2025-06-10,09:38PM,LAA:Los Angeles Angels,ATH:Athletics
+1000,2025-06-10,09:40PM,ARI:Arizona D'Backs,SEA:Seattle Mariners
+1001,2025-06-10,09:40PM,SDP:San Diego Padres,LAD:Los Angeles Dodgers
+1003,2025-06-11,01:05PM,PHI:Philadelphia Phillies,CHC:Chicago Cubs
+1004,2025-06-11,01:10PM,CLE:Cleveland Guardians,CIN:Cincinnati Reds
+1005,2025-06-11,02:10PM,MIL:Milwaukee Brewers,ATL:Atlanta Braves
+1006,2025-06-11,02:15PM,STL:St. Louis Cardinals,TOR:Toronto Blue Jays
+1007,2025-06-11,03:40PM,ARI:Arizona D'Backs,SEA:Seattle Mariners
+1008,2025-06-11,04:07PM,LAA:Los Angeles Angels,ATH:Athletics
+1009,2025-06-11,04:10PM,SDP:San Diego Padres,LAD:Los Angeles Dodgers
+1010,2025-06-11,06:35PM,BAL:Baltimore Orioles,DET:Detroit Tigers
+1011,2025-06-11,07:10PM,BOS:Boston Red Sox,TBR:Tampa Bay Rays
+1012,2025-06-11,07:10PM,NYM:New York Mets,WSN:Washington Nationals
+1013,2025-06-11,07:40PM,KCR:Kansas City Royals,NYY:New York Yankees
+1014,2025-06-11,07:40PM,MIN:Minnesota Twins,TEX:Texas Rangers
+1015,2025-06-11,08:10PM,HOU:Houston Astros,CHW:Chicago White Sox
+1016,2025-06-11,08:40PM,COL:Colorado Rockies,SFG:San Francisco Giants
+1002,2025-06-11,12:35PM,PIT:Pittsburgh Pirates,MIA:Miami Marlins
+1017,2025-06-12,01:10PM,MIN:Minnesota Twins,TEX:Texas Rangers
+1018,2025-06-12,01:10PM,NYM:New York Mets,WSN:Washington Nationals
+1019,2025-06-12,03:10PM,COL:Colorado Rockies,SFG:San Francisco Giants
+1020,2025-06-12,06:35PM,BAL:Baltimore Orioles,DET:Detroit Tigers
+1021,2025-06-12,07:40PM,KCR:Kansas City Royals,NYY:New York Yankees
+1022,2025-06-12,07:40PM,MIL:Milwaukee Brewers,STL:St. Louis Cardinals
+1023,2025-06-12,08:05PM,CHC:Chicago Cubs,PIT:Pittsburgh Pirates
+1024,2025-06-12,08:10PM,HOU:Houston Astros,CHW:Chicago White Sox
+1025,2025-06-13,02:20PM,CHC:Chicago Cubs,PIT:Pittsburgh Pirates
+1026,2025-06-13,06:45PM,PHI:Philadelphia Phillies,TOR:Toronto Blue Jays
+1027,2025-06-13,06:45PM,WSN:Washington Nationals,MIA:Miami Marlins
+1028,2025-06-13,07:05PM,BAL:Baltimore Orioles,LAA:Los Angeles Angels
+1029,2025-06-13,07:10PM,BOS:Boston Red Sox,NYY:New York Yankees
+1030,2025-06-13,07:10PM,DET:Detroit Tigers,CIN:Cincinnati Reds
+1031,2025-06-13,07:10PM,NYM:New York Mets,TBR:Tampa Bay Rays
+1032,2025-06-13,07:15PM,ATL:Atlanta Braves,COL:Colorado Rockies
+1033,2025-06-13,08:05PM,TEX:Texas Rangers,CHW:Chicago White Sox
+1034,2025-06-13,08:10PM,HOU:Houston Astros,MIN:Minnesota Twins
+1035,2025-06-13,08:10PM,KCR:Kansas City Royals,ATH:Athletics
+1036,2025-06-13,08:10PM,MIL:Milwaukee Brewers,STL:St. Louis Cardinals
+1037,2025-06-13,09:40PM,ARI:Arizona D'Backs,SDP:San Diego Padres
+1038,2025-06-13,10:10PM,LAD:Los Angeles Dodgers,SFG:San Francisco Giants
+1039,2025-06-13,10:10PM,SEA:Seattle Mariners,CLE:Cleveland Guardians
+1040,2025-06-14,01:05PM,WSN:Washington Nationals,MIA:Miami Marlins
+1041,2025-06-14,01:10PM,DET:Detroit Tigers,CIN:Cincinnati Reds
+1042,2025-06-14,02:20PM,CHC:Chicago Cubs,PIT:Pittsburgh Pirates
+1043,2025-06-14,04:05PM,BAL:Baltimore Orioles,LAA:Los Angeles Angels
+1044,2025-06-14,04:05PM,PHI:Philadelphia Phillies,TOR:Toronto Blue Jays
+1045,2025-06-14,04:05PM,TEX:Texas Rangers,CHW:Chicago White Sox
+1046,2025-06-14,04:10PM,ATL:Atlanta Braves,COL:Colorado Rockies
+1047,2025-06-14,04:10PM,HOU:Houston Astros,MIN:Minnesota Twins
+1048,2025-06-14,04:10PM,KCR:Kansas City Royals,ATH:Athletics
+1049,2025-06-14,04:10PM,MIL:Milwaukee Brewers,STL:St. Louis Cardinals
+1050,2025-06-14,04:10PM,NYM:New York Mets,TBR:Tampa Bay Rays
+1051,2025-06-14,07:15PM,ARI:Arizona D'Backs,SDP:San Diego Padres
+1052,2025-06-14,07:15PM,BOS:Boston Red Sox,NYY:New York Yankees
+1053,2025-06-14,09:40PM,SEA:Seattle Mariners,CLE:Cleveland Guardians
+1054,2025-06-14,10:10PM,LAD:Los Angeles Dodgers,SFG:San Francisco Giants
+1056,2025-06-15,01:35PM,ATL:Atlanta Braves,COL:Colorado Rockies
+1057,2025-06-15,01:35PM,BAL:Baltimore Orioles,LAA:Los Angeles Angels
+1058,2025-06-15,01:35PM,BOS:Boston Red Sox,NYY:New York Yankees
+1059,2025-06-15,01:35PM,PHI:Philadelphia Phillies,TOR:Toronto Blue Jays
+1060,2025-06-15,01:35PM,WSN:Washington Nationals,MIA:Miami Marlins
+1061,2025-06-15,01:40PM,NYM:New York Mets,TBR:Tampa Bay Rays
+1062,2025-06-15,02:10PM,HOU:Houston Astros,MIN:Minnesota Twins
+1063,2025-06-15,02:10PM,KCR:Kansas City Royals,ATH:Athletics
+1064,2025-06-15,02:10PM,MIL:Milwaukee Brewers,STL:St. Louis Cardinals
+1065,2025-06-15,02:20PM,CHC:Chicago Cubs,PIT:Pittsburgh Pirates
+1066,2025-06-15,02:35PM,TEX:Texas Rangers,CHW:Chicago White Sox
+1067,2025-06-15,04:10PM,ARI:Arizona D'Backs,SDP:San Diego Padres
+1068,2025-06-15,04:10PM,SEA:Seattle Mariners,CLE:Cleveland Guardians
+1069,2025-06-15,07:10PM,LAD:Los Angeles Dodgers,SFG:San Francisco Giants
+1055,2025-06-15,12:05PM,DET:Detroit Tigers,CIN:Cincinnati Reds
+1070,2025-06-16,06:40PM,MIA:Miami Marlins,PHI:Philadelphia Phillies
+1071,2025-06-16,06:45PM,WSN:Washington Nationals,COL:Colorado Rockies
+1072,2025-06-16,07:05PM,NYY:New York Yankees,LAA:Los Angeles Angels
+1073,2025-06-16,07:35PM,TBR:Tampa Bay Rays,BAL:Baltimore Orioles
+1074,2025-06-16,09:40PM,SEA:Seattle Mariners,BOS:Boston Red Sox
+1075,2025-06-16,10:05PM,ATH:Athletics,HOU:Houston Astros
+1076,2025-06-16,10:10PM,LAD:Los Angeles Dodgers,SDP:San Diego Padres
+1077,2025-06-17,06:40PM,DET:Detroit Tigers,PIT:Pittsburgh Pirates
+1078,2025-06-17,06:40PM,MIA:Miami Marlins,PHI:Philadelphia Phillies
+1079,2025-06-17,06:45PM,WSN:Washington Nationals,COL:Colorado Rockies
+1080,2025-06-17,07:05PM,NYY:New York Yankees,LAA:Los Angeles Angels
+1081,2025-06-17,07:07PM,TOR:Toronto Blue Jays,ARI:Arizona D'Backs
+1082,2025-06-17,07:10PM,CIN:Cincinnati Reds,MIN:Minnesota Twins
+1083,2025-06-17,07:15PM,ATL:Atlanta Braves,NYM:New York Mets
+1084,2025-06-17,07:35PM,TBR:Tampa Bay Rays,BAL:Baltimore Orioles
+1085,2025-06-17,07:40PM,CHW:Chicago White Sox,STL:St. Louis Cardinals
+1086,2025-06-17,08:05PM,CHC:Chicago Cubs,MIL:Milwaukee Brewers
+1087,2025-06-17,08:05PM,TEX:Texas Rangers,KCR:Kansas City Royals
+1088,2025-06-17,09:40PM,SEA:Seattle Mariners,BOS:Boston Red Sox
+1089,2025-06-17,09:45PM,SFG:San Francisco Giants,CLE:Cleveland Guardians
+1090,2025-06-17,10:05PM,ATH:Athletics,HOU:Houston Astros
+1091,2025-06-17,10:10PM,LAD:Los Angeles Dodgers,SDP:San Diego Padres
+1092,2025-06-18,04:10PM,SEA:Seattle Mariners,BOS:Boston Red Sox
+1093,2025-06-18,06:40PM,DET:Detroit Tigers,PIT:Pittsburgh Pirates
+1094,2025-06-18,06:40PM,MIA:Miami Marlins,PHI:Philadelphia Phillies
+1095,2025-06-18,06:45PM,WSN:Washington Nationals,COL:Colorado Rockies
+1096,2025-06-18,07:05PM,NYY:New York Yankees,LAA:Los Angeles Angels
+1097,2025-06-18,07:07PM,TOR:Toronto Blue Jays,ARI:Arizona D'Backs
+1098,2025-06-18,07:10PM,CIN:Cincinnati Reds,MIN:Minnesota Twins
+1099,2025-06-18,07:15PM,ATL:Atlanta Braves,NYM:New York Mets
+1100,2025-06-18,07:35PM,TBR:Tampa Bay Rays,BAL:Baltimore Orioles
+1101,2025-06-18,07:40PM,CHW:Chicago White Sox,STL:St. Louis Cardinals
+1102,2025-06-18,08:05PM,CHC:Chicago Cubs,MIL:Milwaukee Brewers
+1103,2025-06-18,08:05PM,TEX:Texas Rangers,KCR:Kansas City Royals
+1104,2025-06-18,09:45PM,SFG:San Francisco Giants,CLE:Cleveland Guardians
+1105,2025-06-18,10:05PM,ATH:Athletics,HOU:Houston Astros
+1106,2025-06-18,10:10PM,LAD:Los Angeles Dodgers,SDP:San Diego Padres
+1108,2025-06-19,01:05PM,NYY:New York Yankees,LAA:Los Angeles Angels
+1109,2025-06-19,01:05PM,WSN:Washington Nationals,COL:Colorado Rockies
+1110,2025-06-19,01:10PM,DET:Detroit Tigers,PIT:Pittsburgh Pirates
+1111,2025-06-19,02:10PM,CHW:Chicago White Sox,STL:St. Louis Cardinals
+1112,2025-06-19,02:20PM,CHC:Chicago Cubs,MIL:Milwaukee Brewers
+1113,2025-06-19,02:35PM,TEX:Texas Rangers,KCR:Kansas City Royals
+1114,2025-06-19,03:07PM,TOR:Toronto Blue Jays,ARI:Arizona D'Backs
+1115,2025-06-19,04:05PM,SFG:San Francisco Giants,CLE:Cleveland Guardians
+1116,2025-06-19,06:40PM,MIA:Miami Marlins,PHI:Philadelphia Phillies
+1117,2025-06-19,07:15PM,ATL:Atlanta Braves,NYM:New York Mets
+1118,2025-06-19,07:35PM,TBR:Tampa Bay Rays,BAL:Baltimore Orioles
+1119,2025-06-19,10:05PM,ATH:Athletics,HOU:Houston Astros
+1120,2025-06-19,10:10PM,LAD:Los Angeles Dodgers,SDP:San Diego Padres
+1107,2025-06-19,12:40PM,CIN:Cincinnati Reds,MIN:Minnesota Twins
+1121,2025-06-20,02:20PM,CHC:Chicago Cubs,SEA:Seattle Mariners
+1122,2025-06-20,06:40PM,PIT:Pittsburgh Pirates,TEX:Texas Rangers
+1123,2025-06-20,07:05PM,NYY:New York Yankees,BAL:Baltimore Orioles
+1124,2025-06-20,07:05PM,TBR:Tampa Bay Rays,DET:Detroit Tigers
+1125,2025-06-20,07:07PM,TOR:Toronto Blue Jays,CHW:Chicago White Sox
+1126,2025-06-20,07:10PM,MIA:Miami Marlins,ATL:Atlanta Braves
+1127,2025-06-20,07:15PM,PHI:Philadelphia Phillies,NYM:New York Mets
+1128,2025-06-20,07:15PM,STL:St. Louis Cardinals,CIN:Cincinnati Reds
+1129,2025-06-20,08:10PM,MIN:Minnesota Twins,MIL:Milwaukee Brewers
+1130,2025-06-20,08:40PM,COL:Colorado Rockies,ARI:Arizona D'Backs
+1131,2025-06-20,09:38PM,LAA:Los Angeles Angels,HOU:Houston Astros
+1132,2025-06-20,09:40PM,SDP:San Diego Padres,KCR:Kansas City Royals
+1133,2025-06-20,10:05PM,ATH:Athletics,CLE:Cleveland Guardians
+1134,2025-06-20,10:10PM,LAD:Los Angeles Dodgers,WSN:Washington Nationals
+1135,2025-06-20,10:15PM,SFG:San Francisco Giants,BOS:Boston Red Sox
+1137,2025-06-21,01:05PM,NYY:New York Yankees,BAL:Baltimore Orioles
+1138,2025-06-21,02:10PM,MIN:Minnesota Twins,MIL:Milwaukee Brewers
+1139,2025-06-21,02:15PM,STL:St. Louis Cardinals,CIN:Cincinnati Reds
+1140,2025-06-21,02:20PM,CHC:Chicago Cubs,SEA:Seattle Mariners
+1141,2025-06-21,03:07PM,TOR:Toronto Blue Jays,CHW:Chicago White Sox
+1142,2025-06-21,04:05PM,PIT:Pittsburgh Pirates,TEX:Texas Rangers
+1143,2025-06-21,04:05PM,SFG:San Francisco Giants,BOS:Boston Red Sox
+1144,2025-06-21,04:10PM,MIA:Miami Marlins,ATL:Atlanta Braves
+1145,2025-06-21,07:15PM,PHI:Philadelphia Phillies,NYM:New York Mets
+1146,2025-06-21,07:15PM,SDP:San Diego Padres,KCR:Kansas City Royals
+1147,2025-06-21,09:10PM,COL:Colorado Rockies,ARI:Arizona D'Backs
+1148,2025-06-21,09:38PM,LAA:Los Angeles Angels,HOU:Houston Astros
+1149,2025-06-21,10:05PM,ATH:Athletics,CLE:Cleveland Guardians
+1150,2025-06-21,10:10PM,LAD:Los Angeles Dodgers,WSN:Washington Nationals
+1136,2025-06-21,12:10PM,TBR:Tampa Bay Rays,DET:Detroit Tigers
+1153,2025-06-22,01:35PM,PIT:Pittsburgh Pirates,TEX:Texas Rangers
+1154,2025-06-22,01:37PM,TOR:Toronto Blue Jays,CHW:Chicago White Sox
+1155,2025-06-22,01:40PM,MIA:Miami Marlins,ATL:Atlanta Braves
+1156,2025-06-22,02:10PM,MIN:Minnesota Twins,MIL:Milwaukee Brewers
+1157,2025-06-22,02:15PM,STL:St. Louis Cardinals,CIN:Cincinnati Reds
+1158,2025-06-22,02:20PM,CHC:Chicago Cubs,SEA:Seattle Mariners
+1159,2025-06-22,03:10PM,COL:Colorado Rockies,ARI:Arizona D'Backs
+1160,2025-06-22,04:05PM,ATH:Athletics,CLE:Cleveland Guardians
+1161,2025-06-22,04:05PM,SFG:San Francisco Giants,BOS:Boston Red Sox
+1162,2025-06-22,04:07PM,LAA:Los Angeles Angels,HOU:Houston Astros
+1163,2025-06-22,04:10PM,LAD:Los Angeles Dodgers,WSN:Washington Nationals
+1164,2025-06-22,04:10PM,SDP:San Diego Padres,KCR:Kansas City Royals
+1165,2025-06-22,07:10PM,PHI:Philadelphia Phillies,NYM:New York Mets
+1151,2025-06-22,11:35AM,NYY:New York Yankees,BAL:Baltimore Orioles
+1152,2025-06-22,12:10PM,TBR:Tampa Bay Rays,DET:Detroit Tigers
+1166,2025-06-23,06:35PM,BAL:Baltimore Orioles,TEX:Texas Rangers
+1167,2025-06-23,07:10PM,CIN:Cincinnati Reds,NYY:New York Yankees
+1168,2025-06-23,07:10PM,NYM:New York Mets,ATL:Atlanta Braves
+1169,2025-06-23,07:40PM,CHW:Chicago White Sox,ARI:Arizona D'Backs
+1170,2025-06-23,07:40PM,MIL:Milwaukee Brewers,PIT:Pittsburgh Pirates
+1171,2025-06-23,07:40PM,MIN:Minnesota Twins,SEA:Seattle Mariners
+1172,2025-06-23,07:45PM,STL:St. Louis Cardinals,CHC:Chicago Cubs
+1173,2025-06-23,09:38PM,LAA:Los Angeles Angels,BOS:Boston Red Sox
+1174,2025-06-23,09:40PM,SDP:San Diego Padres,WSN:Washington Nationals
+1175,2025-06-24,06:35PM,BAL:Baltimore Orioles,TEX:Texas Rangers
+1176,2025-06-24,06:40PM,CLE:Cleveland Guardians,TOR:Toronto Blue Jays
+1177,2025-06-24,06:40PM,DET:Detroit Tigers,ATH:Athletics
+1178,2025-06-24,07:10PM,CIN:Cincinnati Reds,NYY:New York Yankees
+1179,2025-06-24,07:10PM,NYM:New York Mets,ATL:Atlanta Braves
+1180,2025-06-24,07:40PM,CHW:Chicago White Sox,ARI:Arizona D'Backs
+1181,2025-06-24,07:40PM,KCR:Kansas City Royals,TBR:Tampa Bay Rays
+1182,2025-06-24,07:40PM,MIL:Milwaukee Brewers,PIT:Pittsburgh Pirates
+1183,2025-06-24,07:40PM,MIN:Minnesota Twins,SEA:Seattle Mariners
+1184,2025-06-24,07:45PM,STL:St. Louis Cardinals,CHC:Chicago Cubs
+1185,2025-06-24,08:10PM,HOU:Houston Astros,PHI:Philadelphia Phillies
+1186,2025-06-24,08:40PM,COL:Colorado Rockies,LAD:Los Angeles Dodgers
+1187,2025-06-24,09:38PM,LAA:Los Angeles Angels,BOS:Boston Red Sox
+1188,2025-06-24,09:40PM,SDP:San Diego Padres,WSN:Washington Nationals
+1189,2025-06-24,09:45PM,SFG:San Francisco Giants,MIA:Miami Marlins
+1190,2025-06-25,02:10PM,CHW:Chicago White Sox,ARI:Arizona D'Backs
+1191,2025-06-25,02:10PM,MIL:Milwaukee Brewers,PIT:Pittsburgh Pirates
+1192,2025-06-25,04:07PM,LAA:Los Angeles Angels,BOS:Boston Red Sox
+1193,2025-06-25,04:10PM,SDP:San Diego Padres,WSN:Washington Nationals
+1194,2025-06-25,06:35PM,BAL:Baltimore Orioles,TEX:Texas Rangers
+1195,2025-06-25,06:40PM,CLE:Cleveland Guardians,TOR:Toronto Blue Jays
+1196,2025-06-25,06:40PM,DET:Detroit Tigers,ATH:Athletics
+1197,2025-06-25,07:10PM,CIN:Cincinnati Reds,NYY:New York Yankees
+1198,2025-06-25,07:10PM,NYM:New York Mets,ATL:Atlanta Braves
+1199,2025-06-25,07:40PM,KCR:Kansas City Royals,TBR:Tampa Bay Rays
+1200,2025-06-25,07:40PM,MIN:Minnesota Twins,SEA:Seattle Mariners
+1201,2025-06-25,07:45PM,STL:St. Louis Cardinals,CHC:Chicago Cubs
+1202,2025-06-25,08:10PM,HOU:Houston Astros,PHI:Philadelphia Phillies
+1203,2025-06-25,08:40PM,COL:Colorado Rockies,LAD:Los Angeles Dodgers
+1204,2025-06-25,09:45PM,SFG:San Francisco Giants,MIA:Miami Marlins
+1205,2025-06-26,01:10PM,CLE:Cleveland Guardians,TOR:Toronto Blue Jays
+1206,2025-06-26,01:10PM,DET:Detroit Tigers,ATH:Athletics
+1207,2025-06-26,01:10PM,MIN:Minnesota Twins,SEA:Seattle Mariners
+1208,2025-06-26,02:10PM,HOU:Houston Astros,PHI:Philadelphia Phillies
+1209,2025-06-26,02:10PM,KCR:Kansas City Royals,TBR:Tampa Bay Rays
+1210,2025-06-26,02:15PM,STL:St. Louis Cardinals,CHC:Chicago Cubs
+1211,2025-06-26,03:10PM,COL:Colorado Rockies,LAD:Los Angeles Dodgers
+1212,2025-06-26,03:45PM,SFG:San Francisco Giants,MIA:Miami Marlins
+1213,2025-06-26,07:10PM,NYM:New York Mets,ATL:Atlanta Braves
+1214,2025-06-27,06:40PM,PIT:Pittsburgh Pirates,NYM:New York Mets
+1215,2025-06-27,07:05PM,BAL:Baltimore Orioles,TBR:Tampa Bay Rays
+1216,2025-06-27,07:05PM,NYY:New York Yankees,ATH:Athletics
+1217,2025-06-27,07:10PM,BOS:Boston Red Sox,TOR:Toronto Blue Jays
+1218,2025-06-27,07:10PM,CIN:Cincinnati Reds,SDP:San Diego Padres
+1219,2025-06-27,07:10PM,CLE:Cleveland Guardians,STL:St. Louis Cardinals
+1220,2025-06-27,07:10PM,DET:Detroit Tigers,MIN:Minnesota Twins
+1221,2025-06-27,07:15PM,ATL:Atlanta Braves,PHI:Philadelphia Phillies
+1222,2025-06-27,07:40PM,CHW:Chicago White Sox,SFG:San Francisco Giants
+1223,2025-06-27,08:05PM,TEX:Texas Rangers,SEA:Seattle Mariners
+1224,2025-06-27,08:10PM,HOU:Houston Astros,CHC:Chicago Cubs
+1225,2025-06-27,08:10PM,KCR:Kansas City Royals,LAD:Los Angeles Dodgers
+1226,2025-06-27,08:10PM,MIL:Milwaukee Brewers,COL:Colorado Rockies
+1227,2025-06-27,09:38PM,LAA:Los Angeles Angels,WSN:Washington Nationals
+1228,2025-06-27,09:40PM,ARI:Arizona D'Backs,MIA:Miami Marlins
+1229,2025-06-28,01:05PM,NYY:New York Yankees,ATH:Athletics
+1230,2025-06-28,01:10PM,DET:Detroit Tigers,MIN:Minnesota Twins
+1231,2025-06-28,04:05PM,BAL:Baltimore Orioles,TBR:Tampa Bay Rays
+1232,2025-06-28,04:05PM,PIT:Pittsburgh Pirates,NYM:New York Mets
+1233,2025-06-28,04:05PM,TEX:Texas Rangers,SEA:Seattle Mariners
+1234,2025-06-28,04:10PM,ARI:Arizona D'Backs,MIA:Miami Marlins
+1235,2025-06-28,04:10PM,BOS:Boston Red Sox,TOR:Toronto Blue Jays
+1236,2025-06-28,04:10PM,CHW:Chicago White Sox,SFG:San Francisco Giants
+1237,2025-06-28,04:10PM,CIN:Cincinnati Reds,SDP:San Diego Padres
+1238,2025-06-28,04:10PM,CLE:Cleveland Guardians,STL:St. Louis Cardinals
+1239,2025-06-28,04:10PM,KCR:Kansas City Royals,LAD:Los Angeles Dodgers
+1240,2025-06-28,04:10PM,MIL:Milwaukee Brewers,COL:Colorado Rockies
+1241,2025-06-28,07:15PM,ATL:Atlanta Braves,PHI:Philadelphia Phillies
+1242,2025-06-28,07:15PM,HOU:Houston Astros,CHC:Chicago Cubs
+1243,2025-06-28,09:38PM,LAA:Los Angeles Angels,WSN:Washington Nationals
+1245,2025-06-29,01:35PM,ATL:Atlanta Braves,PHI:Philadelphia Phillies
+1246,2025-06-29,01:35PM,BAL:Baltimore Orioles,TBR:Tampa Bay Rays
+1247,2025-06-29,01:35PM,BOS:Boston Red Sox,TOR:Toronto Blue Jays
+1248,2025-06-29,01:35PM,NYY:New York Yankees,ATH:Athletics
+1249,2025-06-29,01:35PM,PIT:Pittsburgh Pirates,NYM:New York Mets
+1250,2025-06-29,01:40PM,CIN:Cincinnati Reds,SDP:San Diego Padres
+1251,2025-06-29,01:40PM,DET:Detroit Tigers,MIN:Minnesota Twins
+1252,2025-06-29,02:10PM,CHW:Chicago White Sox,SFG:San Francisco Giants
+1253,2025-06-29,02:10PM,HOU:Houston Astros,CHC:Chicago Cubs
+1254,2025-06-29,02:10PM,KCR:Kansas City Royals,LAD:Los Angeles Dodgers
+1255,2025-06-29,02:10PM,MIL:Milwaukee Brewers,COL:Colorado Rockies
+1256,2025-06-29,02:35PM,TEX:Texas Rangers,SEA:Seattle Mariners
+1257,2025-06-29,04:07PM,LAA:Los Angeles Angels,WSN:Washington Nationals
+1258,2025-06-29,04:10PM,ARI:Arizona D'Backs,MIA:Miami Marlins
+1244,2025-06-29,12:05PM,CLE:Cleveland Guardians,STL:St. Louis Cardinals
+1259,2025-06-30,06:30PM,PHI:Philadelphia Phillies,SDP:San Diego Padres
+1260,2025-06-30,06:40PM,PIT:Pittsburgh Pirates,STL:St. Louis Cardinals
+1261,2025-06-30,07:07PM,TOR:Toronto Blue Jays,NYY:New York Yankees
+1262,2025-06-30,07:10PM,BOS:Boston Red Sox,CIN:Cincinnati Reds
+1263,2025-06-30,07:35PM,TBR:Tampa Bay Rays,ATH:Athletics
+1264,2025-06-30,08:05PM,TEX:Texas Rangers,BAL:Baltimore Orioles
+1265,2025-06-30,09:40PM,ARI:Arizona D'Backs,SFG:San Francisco Giants
+1266,2025-06-30,09:40PM,SEA:Seattle Mariners,KCR:Kansas City Royals
+1267,2025-07-01,03:07PM,TOR:Toronto Blue Jays,NYY:New York Yankees
+1268,2025-07-01,06:30PM,PHI:Philadelphia Phillies,SDP:San Diego Padres
+1269,2025-07-01,06:40PM,MIA:Miami Marlins,MIN:Minnesota Twins
+1270,2025-07-01,06:40PM,PIT:Pittsburgh Pirates,STL:St. Louis Cardinals
+1271,2025-07-01,06:45PM,WSN:Washington Nationals,DET:Detroit Tigers
+1272,2025-07-01,07:05PM,TBR:Tampa Bay Rays,ATH:Athletics
+1273,2025-07-01,07:10PM,BOS:Boston Red Sox,CIN:Cincinnati Reds
+1274,2025-07-01,07:10PM,NYM:New York Mets,MIL:Milwaukee Brewers
+1275,2025-07-01,07:15PM,ATL:Atlanta Braves,LAA:Los Angeles Angels
+1276,2025-07-01,08:05PM,CHC:Chicago Cubs,CLE:Cleveland Guardians
+1277,2025-07-01,08:05PM,TEX:Texas Rangers,BAL:Baltimore Orioles
+1278,2025-07-01,08:40PM,COL:Colorado Rockies,HOU:Houston Astros
+1279,2025-07-01,09:40PM,ARI:Arizona D'Backs,SFG:San Francisco Giants
+1280,2025-07-01,09:40PM,SEA:Seattle Mariners,KCR:Kansas City Royals
+1281,2025-07-01,10:10PM,LAD:Los Angeles Dodgers,CHW:Chicago White Sox
+1284,2025-07-02,01:05PM,PHI:Philadelphia Phillies,SDP:San Diego Padres
+1285,2025-07-02,06:40PM,MIA:Miami Marlins,MIN:Minnesota Twins
+1286,2025-07-02,06:45PM,WSN:Washington Nationals,DET:Detroit Tigers
+1287,2025-07-02,07:07PM,TOR:Toronto Blue Jays,NYY:New York Yankees
+1288,2025-07-02,07:10PM,BOS:Boston Red Sox,CIN:Cincinnati Reds
+1289,2025-07-02,07:10PM,NYM:New York Mets,MIL:Milwaukee Brewers
+1290,2025-07-02,07:15PM,ATL:Atlanta Braves,LAA:Los Angeles Angels
+1291,2025-07-02,08:05PM,CHC:Chicago Cubs,CLE:Cleveland Guardians
+1292,2025-07-02,08:05PM,TEX:Texas Rangers,BAL:Baltimore Orioles
+1293,2025-07-02,08:40PM,COL:Colorado Rockies,HOU:Houston Astros
+1294,2025-07-02,09:40PM,ARI:Arizona D'Backs,SFG:San Francisco Giants
+1295,2025-07-02,09:40PM,SEA:Seattle Mariners,KCR:Kansas City Royals
+1296,2025-07-02,10:10PM,LAD:Los Angeles Dodgers,CHW:Chicago White Sox
+1282,2025-07-02,12:10PM,TBR:Tampa Bay Rays,ATH:Athletics
+1283,2025-07-02,12:35PM,PIT:Pittsburgh Pirates,STL:St. Louis Cardinals
+1298,2025-07-03,03:10PM,COL:Colorado Rockies,HOU:Houston Astros
+1299,2025-07-03,06:45PM,WSN:Washington Nationals,DET:Detroit Tigers
+1300,2025-07-03,07:07PM,TOR:Toronto Blue Jays,NYY:New York Yankees
+1301,2025-07-03,07:10PM,NYM:New York Mets,MIL:Milwaukee Brewers
+1302,2025-07-03,07:15PM,ATL:Atlanta Braves,LAA:Los Angeles Angels
+1303,2025-07-03,08:05PM,CHC:Chicago Cubs,CLE:Cleveland Guardians
+1304,2025-07-03,09:40PM,ARI:Arizona D'Backs,SFG:San Francisco Giants
+1305,2025-07-03,10:10PM,LAD:Los Angeles Dodgers,CHW:Chicago White Sox
+1306,2025-07-03,10:10PM,SEA:Seattle Mariners,KCR:Kansas City Royals
+1297,2025-07-03,12:10PM,MIA:Miami Marlins,MIN:Minnesota Twins
+1308,2025-07-04,01:05PM,PHI:Philadelphia Phillies,CIN:Cincinnati Reds
+1309,2025-07-04,02:20PM,CHC:Chicago Cubs,STL:St. Louis Cardinals
+1310,2025-07-04,03:10PM,NYM:New York Mets,NYY:New York Yankees
+1311,2025-07-04,04:10PM,MIN:Minnesota Twins,TBR:Tampa Bay Rays
+1312,2025-07-04,04:10PM,SEA:Seattle Mariners,PIT:Pittsburgh Pirates
+1313,2025-07-04,06:40PM,SDP:San Diego Padres,TEX:Texas Rangers
+1314,2025-07-04,07:07PM,TOR:Toronto Blue Jays,LAA:Los Angeles Angels
+1315,2025-07-04,07:10PM,CLE:Cleveland Guardians,DET:Detroit Tigers
+1316,2025-07-04,07:10PM,MIA:Miami Marlins,MIL:Milwaukee Brewers
+1317,2025-07-04,07:15PM,ATL:Atlanta Braves,BAL:Baltimore Orioles
+1318,2025-07-04,08:10PM,COL:Colorado Rockies,CHW:Chicago White Sox
+1319,2025-07-04,09:10PM,LAD:Los Angeles Dodgers,HOU:Houston Astros
+1320,2025-07-04,09:40PM,ARI:Arizona D'Backs,KCR:Kansas City Royals
+1321,2025-07-04,10:05PM,ATH:Athletics,SFG:San Francisco Giants
+1307,2025-07-04,11:05AM,WSN:Washington Nationals,BOS:Boston Red Sox
+1322,2025-07-05,02:10PM,MIN:Minnesota Twins,TBR:Tampa Bay Rays
+1323,2025-07-05,02:20PM,CHC:Chicago Cubs,STL:St. Louis Cardinals
+1324,2025-07-05,03:07PM,TOR:Toronto Blue Jays,LAA:Los Angeles Angels
+1325,2025-07-05,04:05PM,PHI:Philadelphia Phillies,CIN:Cincinnati Reds
+1326,2025-07-05,04:05PM,WSN:Washington Nationals,BOS:Boston Red Sox
+1327,2025-07-05,04:10PM,ARI:Arizona D'Backs,KCR:Kansas City Royals
+1328,2025-07-05,04:10PM,ATL:Atlanta Braves,BAL:Baltimore Orioles
+1329,2025-07-05,04:10PM,MIA:Miami Marlins,MIL:Milwaukee Brewers
+1330,2025-07-05,04:10PM,NYM:New York Mets,NYY:New York Yankees
+1331,2025-07-05,07:15PM,CLE:Cleveland Guardians,DET:Detroit Tigers
+1332,2025-07-05,07:15PM,LAD:Los Angeles Dodgers,HOU:Houston Astros
+1333,2025-07-05,09:10PM,COL:Colorado Rockies,CHW:Chicago White Sox
+1334,2025-07-05,09:40PM,SDP:San Diego Padres,TEX:Texas Rangers
+1335,2025-07-05,10:05PM,ATH:Athletics,SFG:San Francisco Giants
+1336,2025-07-05,10:10PM,SEA:Seattle Mariners,PIT:Pittsburgh Pirates
+1338,2025-07-06,01:35PM,PHI:Philadelphia Phillies,CIN:Cincinnati Reds
+1339,2025-07-06,01:35PM,WSN:Washington Nationals,BOS:Boston Red Sox
+1340,2025-07-06,01:37PM,TOR:Toronto Blue Jays,LAA:Los Angeles Angels
+1341,2025-07-06,01:40PM,CLE:Cleveland Guardians,DET:Detroit Tigers
+1342,2025-07-06,01:40PM,MIA:Miami Marlins,MIL:Milwaukee Brewers
+1343,2025-07-06,01:40PM,NYM:New York Mets,NYY:New York Yankees
+1344,2025-07-06,02:10PM,MIN:Minnesota Twins,TBR:Tampa Bay Rays
+1345,2025-07-06,02:20PM,CHC:Chicago Cubs,STL:St. Louis Cardinals
+1346,2025-07-06,03:10PM,COL:Colorado Rockies,CHW:Chicago White Sox
+1347,2025-07-06,04:10PM,ARI:Arizona D'Backs,KCR:Kansas City Royals
+1348,2025-07-06,04:10PM,LAD:Los Angeles Dodgers,HOU:Houston Astros
+1349,2025-07-06,04:10PM,SEA:Seattle Mariners,PIT:Pittsburgh Pirates
+1350,2025-07-06,09:10PM,SDP:San Diego Padres,TEX:Texas Rangers
+1351,2025-07-06,10:05PM,ATH:Athletics,SFG:San Francisco Giants
+1337,2025-07-06,11:35AM,ATL:Atlanta Braves,BAL:Baltimore Orioles
+1352,2025-07-07,06:40PM,DET:Detroit Tigers,TBR:Tampa Bay Rays
+1353,2025-07-07,07:10PM,BOS:Boston Red Sox,COL:Colorado Rockies
+1354,2025-07-07,07:10PM,CIN:Cincinnati Reds,MIA:Miami Marlins
+1355,2025-07-07,07:40PM,CHW:Chicago White Sox,TOR:Toronto Blue Jays
+1356,2025-07-07,07:40PM,KCR:Kansas City Royals,PIT:Pittsburgh Pirates
+1357,2025-07-07,07:40PM,MIL:Milwaukee Brewers,LAD:Los Angeles Dodgers
+1358,2025-07-07,08:10PM,HOU:Houston Astros,CLE:Cleveland Guardians
+1359,2025-07-07,09:38PM,LAA:Los Angeles Angels,TEX:Texas Rangers
+1360,2025-07-07,09:40PM,SDP:San Diego Padres,ARI:Arizona D'Backs
+1361,2025-07-07,09:45PM,SFG:San Francisco Giants,PHI:Philadelphia Phillies
+1362,2025-07-08,06:35PM,BAL:Baltimore Orioles,NYM:New York Mets
+1363,2025-07-08,06:40PM,DET:Detroit Tigers,TBR:Tampa Bay Rays
+1364,2025-07-08,07:05PM,NYY:New York Yankees,SEA:Seattle Mariners
+1365,2025-07-08,07:10PM,BOS:Boston Red Sox,COL:Colorado Rockies
+1366,2025-07-08,07:10PM,CIN:Cincinnati Reds,MIA:Miami Marlins
+1367,2025-07-08,07:40PM,CHW:Chicago White Sox,TOR:Toronto Blue Jays
+1368,2025-07-08,07:40PM,KCR:Kansas City Royals,PIT:Pittsburgh Pirates
+1369,2025-07-08,07:40PM,MIL:Milwaukee Brewers,LAD:Los Angeles Dodgers
+1370,2025-07-08,07:40PM,MIN:Minnesota Twins,CHC:Chicago Cubs
+1371,2025-07-08,07:45PM,STL:St. Louis Cardinals,WSN:Washington Nationals
+1372,2025-07-08,08:10PM,HOU:Houston Astros,CLE:Cleveland Guardians
+1373,2025-07-08,09:38PM,LAA:Los Angeles Angels,TEX:Texas Rangers
+1374,2025-07-08,09:40PM,SDP:San Diego Padres,ARI:Arizona D'Backs
+1375,2025-07-08,09:45PM,SFG:San Francisco Giants,PHI:Philadelphia Phillies
+1376,2025-07-08,10:05PM,ATH:Athletics,ATL:Atlanta Braves
+1377,2025-07-09,01:10PM,DET:Detroit Tigers,TBR:Tampa Bay Rays
+1378,2025-07-09,02:10PM,CHW:Chicago White Sox,TOR:Toronto Blue Jays
+1379,2025-07-09,02:10PM,MIL:Milwaukee Brewers,LAD:Los Angeles Dodgers
+1380,2025-07-09,03:45PM,SFG:San Francisco Giants,PHI:Philadelphia Phillies
+1381,2025-07-09,07:05PM,BAL:Baltimore Orioles,NYM:New York Mets
+1382,2025-07-09,07:05PM,NYY:New York Yankees,SEA:Seattle Mariners
+1383,2025-07-09,07:10PM,BOS:Boston Red Sox,COL:Colorado Rockies
+1384,2025-07-09,07:10PM,CIN:Cincinnati Reds,MIA:Miami Marlins
+1385,2025-07-09,07:40PM,KCR:Kansas City Royals,PIT:Pittsburgh Pirates
+1386,2025-07-09,07:40PM,MIN:Minnesota Twins,CHC:Chicago Cubs
+1387,2025-07-09,07:45PM,STL:St. Louis Cardinals,WSN:Washington Nationals
+1388,2025-07-09,08:10PM,HOU:Houston Astros,CLE:Cleveland Guardians
+1389,2025-07-09,09:38PM,LAA:Los Angeles Angels,TEX:Texas Rangers
+1390,2025-07-09,09:40PM,SDP:San Diego Padres,ARI:Arizona D'Backs
+1391,2025-07-09,10:05PM,ATH:Athletics,ATL:Atlanta Braves
+1392,2025-07-10,01:05PM,BAL:Baltimore Orioles,NYM:New York Mets
+1393,2025-07-10,01:10PM,MIN:Minnesota Twins,CHC:Chicago Cubs
+1394,2025-07-10,05:10PM,CIN:Cincinnati Reds,MIA:Miami Marlins
+1395,2025-07-10,07:05PM,NYY:New York Yankees,SEA:Seattle Mariners
+1396,2025-07-10,07:10PM,BOS:Boston Red Sox,TBR:Tampa Bay Rays
+1397,2025-07-10,07:40PM,CHW:Chicago White Sox,CLE:Cleveland Guardians
+1398,2025-07-10,07:45PM,STL:St. Louis Cardinals,WSN:Washington Nationals
+1399,2025-07-10,09:05PM,ATH:Athletics,ATL:Atlanta Braves
+1400,2025-07-10,09:38PM,LAA:Los Angeles Angels,TEX:Texas Rangers
+1401,2025-07-10,09:40PM,SDP:San Diego Padres,ARI:Arizona D'Backs
+1402,2025-07-11,07:05PM,BAL:Baltimore Orioles,MIA:Miami Marlins
+1403,2025-07-11,07:05PM,NYY:New York Yankees,CHC:Chicago Cubs
+1404,2025-07-11,07:10PM,BOS:Boston Red Sox,TBR:Tampa Bay Rays
+1405,2025-07-11,07:10PM,CIN:Cincinnati Reds,COL:Colorado Rockies
+1406,2025-07-11,07:10PM,DET:Detroit Tigers,SEA:Seattle Mariners
+1407,2025-07-11,08:10PM,CHW:Chicago White Sox,CLE:Cleveland Guardians
+1408,2025-07-11,08:10PM,HOU:Houston Astros,TEX:Texas Rangers
+1409,2025-07-11,08:10PM,KCR:Kansas City Royals,NYM:New York Mets
+1410,2025-07-11,08:10PM,MIL:Milwaukee Brewers,WSN:Washington Nationals
+1411,2025-07-11,08:10PM,MIN:Minnesota Twins,PIT:Pittsburgh Pirates
+1412,2025-07-11,08:15PM,STL:St. Louis Cardinals,ATL:Atlanta Braves
+1413,2025-07-11,09:38PM,LAA:Los Angeles Angels,ARI:Arizona D'Backs
+1414,2025-07-11,09:40PM,SDP:San Diego Padres,PHI:Philadelphia Phillies
+1415,2025-07-11,10:05PM,ATH:Athletics,TOR:Toronto Blue Jays
+1416,2025-07-11,10:15PM,SFG:San Francisco Giants,LAD:Los Angeles Dodgers
+1417,2025-07-12,01:05PM,NYY:New York Yankees,CHC:Chicago Cubs
+1418,2025-07-12,01:10PM,DET:Detroit Tigers,SEA:Seattle Mariners
+1419,2025-07-12,02:10PM,MIN:Minnesota Twins,PIT:Pittsburgh Pirates
+1420,2025-07-12,02:15PM,STL:St. Louis Cardinals,ATL:Atlanta Braves
+1421,2025-07-12,04:05PM,BAL:Baltimore Orioles,MIA:Miami Marlins
+1422,2025-07-12,04:05PM,SFG:San Francisco Giants,LAD:Los Angeles Dodgers
+1423,2025-07-12,04:10PM,BOS:Boston Red Sox,TBR:Tampa Bay Rays
+1424,2025-07-12,04:10PM,CHW:Chicago White Sox,CLE:Cleveland Guardians
+1425,2025-07-12,04:10PM,CIN:Cincinnati Reds,COL:Colorado Rockies
+1426,2025-07-12,04:10PM,KCR:Kansas City Royals,NYM:New York Mets
+1427,2025-07-12,04:10PM,MIL:Milwaukee Brewers,WSN:Washington Nationals
+1428,2025-07-12,07:35PM,HOU:Houston Astros,TEX:Texas Rangers
+1429,2025-07-12,07:35PM,SDP:San Diego Padres,PHI:Philadelphia Phillies
+1430,2025-07-12,09:38PM,LAA:Los Angeles Angels,ARI:Arizona D'Backs
+1431,2025-07-12,10:05PM,ATH:Athletics,TOR:Toronto Blue Jays
+1432,2025-07-13,01:35PM,BAL:Baltimore Orioles,MIA:Miami Marlins
+1433,2025-07-13,01:35PM,BOS:Boston Red Sox,TBR:Tampa Bay Rays
+1434,2025-07-13,01:35PM,NYY:New York Yankees,CHC:Chicago Cubs
+1435,2025-07-13,01:40PM,CIN:Cincinnati Reds,COL:Colorado Rockies
+1436,2025-07-13,01:40PM,DET:Detroit Tigers,SEA:Seattle Mariners
+1437,2025-07-13,02:10PM,CHW:Chicago White Sox,CLE:Cleveland Guardians
+1438,2025-07-13,02:10PM,HOU:Houston Astros,TEX:Texas Rangers
+1439,2025-07-13,02:10PM,KCR:Kansas City Royals,NYM:New York Mets
+1440,2025-07-13,02:10PM,MIL:Milwaukee Brewers,WSN:Washington Nationals
+1441,2025-07-13,02:10PM,MIN:Minnesota Twins,PIT:Pittsburgh Pirates
+1442,2025-07-13,02:15PM,STL:St. Louis Cardinals,ATL:Atlanta Braves
+1443,2025-07-13,04:05PM,ATH:Athletics,TOR:Toronto Blue Jays
+1444,2025-07-13,04:05PM,SFG:San Francisco Giants,LAD:Los Angeles Dodgers
+1445,2025-07-13,04:07PM,LAA:Los Angeles Angels,ARI:Arizona D'Backs
+1446,2025-07-13,04:10PM,SDP:San Diego Padres,PHI:Philadelphia Phillies
+1447,2025-07-18,02:20PM,CHC:Chicago Cubs,BOS:Boston Red Sox
+1448,2025-07-18,06:40PM,PIT:Pittsburgh Pirates,CHW:Chicago White Sox
+1449,2025-07-18,06:45PM,PHI:Philadelphia Phillies,LAA:Los Angeles Angels
+1450,2025-07-18,06:45PM,WSN:Washington Nationals,SDP:San Diego Padres
+1451,2025-07-18,07:07PM,TOR:Toronto Blue Jays,SFG:San Francisco Giants
+1452,2025-07-18,07:10PM,CLE:Cleveland Guardians,ATH:Athletics
+1453,2025-07-18,07:10PM,MIA:Miami Marlins,KCR:Kansas City Royals
+1454,2025-07-18,07:10PM,NYM:New York Mets,CIN:Cincinnati Reds
+1455,2025-07-18,07:15PM,ATL:Atlanta Braves,NYY:New York Yankees
+1456,2025-07-18,07:35PM,TBR:Tampa Bay Rays,BAL:Baltimore Orioles
+1457,2025-07-18,08:05PM,TEX:Texas Rangers,DET:Detroit Tigers
+1458,2025-07-18,08:40PM,COL:Colorado Rockies,MIN:Minnesota Twins
+1459,2025-07-18,09:40PM,ARI:Arizona D'Backs,STL:St. Louis Cardinals
+1460,2025-07-18,10:10PM,LAD:Los Angeles Dodgers,MIL:Milwaukee Brewers
+1461,2025-07-18,10:10PM,SEA:Seattle Mariners,HOU:Houston Astros
+1462,2025-07-19,03:07PM,TOR:Toronto Blue Jays,SFG:San Francisco Giants
+1463,2025-07-19,04:10PM,MIA:Miami Marlins,KCR:Kansas City Royals
+1464,2025-07-19,04:10PM,NYM:New York Mets,CIN:Cincinnati Reds
+1465,2025-07-19,06:05PM,PHI:Philadelphia Phillies,LAA:Los Angeles Angels
+1466,2025-07-19,06:40PM,PIT:Pittsburgh Pirates,CHW:Chicago White Sox
+1467,2025-07-19,06:45PM,WSN:Washington Nationals,SDP:San Diego Padres
+1468,2025-07-19,07:05PM,TBR:Tampa Bay Rays,BAL:Baltimore Orioles
+1469,2025-07-19,07:05PM,TEX:Texas Rangers,DET:Detroit Tigers
+1470,2025-07-19,07:10PM,CLE:Cleveland Guardians,ATH:Athletics
+1471,2025-07-19,07:15PM,ARI:Arizona D'Backs,STL:St. Louis Cardinals
+1472,2025-07-19,07:15PM,ATL:Atlanta Braves,NYY:New York Yankees
+1473,2025-07-19,07:15PM,CHC:Chicago Cubs,BOS:Boston Red Sox
+1474,2025-07-19,08:10PM,COL:Colorado Rockies,MIN:Minnesota Twins
+1475,2025-07-19,09:10PM,LAD:Los Angeles Dodgers,MIL:Milwaukee Brewers
+1476,2025-07-19,09:40PM,SEA:Seattle Mariners,HOU:Houston Astros
+1479,2025-07-20,01:35PM,ATL:Atlanta Braves,NYY:New York Yankees
+1480,2025-07-20,01:35PM,PHI:Philadelphia Phillies,LAA:Los Angeles Angels
+1481,2025-07-20,01:35PM,PIT:Pittsburgh Pirates,CHW:Chicago White Sox
+1482,2025-07-20,01:35PM,WSN:Washington Nationals,SDP:San Diego Padres
+1483,2025-07-20,01:40PM,CLE:Cleveland Guardians,ATH:Athletics
+1484,2025-07-20,01:40PM,MIA:Miami Marlins,KCR:Kansas City Royals
+1485,2025-07-20,01:40PM,NYM:New York Mets,CIN:Cincinnati Reds
+1486,2025-07-20,02:20PM,CHC:Chicago Cubs,BOS:Boston Red Sox
+1487,2025-07-20,02:35PM,TEX:Texas Rangers,DET:Detroit Tigers
+1488,2025-07-20,03:10PM,COL:Colorado Rockies,MIN:Minnesota Twins
+1489,2025-07-20,04:10PM,ARI:Arizona D'Backs,STL:St. Louis Cardinals
+1490,2025-07-20,04:10PM,LAD:Los Angeles Dodgers,MIL:Milwaukee Brewers
+1491,2025-07-20,04:10PM,SEA:Seattle Mariners,HOU:Houston Astros
+1477,2025-07-20,12:05PM,TOR:Toronto Blue Jays,SFG:San Francisco Giants
+1478,2025-07-20,12:10PM,TBR:Tampa Bay Rays,BAL:Baltimore Orioles
+1492,2025-07-21,06:40PM,CLE:Cleveland Guardians,BAL:Baltimore Orioles
+1493,2025-07-21,06:40PM,MIA:Miami Marlins,SDP:San Diego Padres
+1494,2025-07-21,06:40PM,PIT:Pittsburgh Pirates,DET:Detroit Tigers
+1495,2025-07-21,06:45PM,PHI:Philadelphia Phillies,BOS:Boston Red Sox
+1496,2025-07-21,06:45PM,WSN:Washington Nationals,CIN:Cincinnati Reds
+1497,2025-07-21,07:07PM,TOR:Toronto Blue Jays,NYY:New York Yankees
+1498,2025-07-21,07:10PM,NYM:New York Mets,LAA:Los Angeles Angels
+1499,2025-07-21,07:15PM,ATL:Atlanta Braves,SFG:San Francisco Giants
+1500,2025-07-21,07:35PM,TBR:Tampa Bay Rays,CHW:Chicago White Sox
+1501,2025-07-21,08:05PM,CHC:Chicago Cubs,KCR:Kansas City Royals
+1502,2025-07-21,08:05PM,TEX:Texas Rangers,ATH:Athletics
+1503,2025-07-21,08:40PM,COL:Colorado Rockies,STL:St. Louis Cardinals
+1504,2025-07-21,09:40PM,ARI:Arizona D'Backs,HOU:Houston Astros
+1505,2025-07-21,09:40PM,SEA:Seattle Mariners,MIL:Milwaukee Brewers
+1506,2025-07-21,10:10PM,LAD:Los Angeles Dodgers,MIN:Minnesota Twins
+1507,2025-07-22,06:40PM,CLE:Cleveland Guardians,BAL:Baltimore Orioles
+1508,2025-07-22,06:40PM,MIA:Miami Marlins,SDP:San Diego Padres
+1509,2025-07-22,06:40PM,PIT:Pittsburgh Pirates,DET:Detroit Tigers
+1510,2025-07-22,06:45PM,PHI:Philadelphia Phillies,BOS:Boston Red Sox
+1511,2025-07-22,06:45PM,WSN:Washington Nationals,CIN:Cincinnati Reds
+1512,2025-07-22,07:07PM,TOR:Toronto Blue Jays,NYY:New York Yankees
+1513,2025-07-22,07:10PM,NYM:New York Mets,LAA:Los Angeles Angels
+1514,2025-07-22,07:15PM,ATL:Atlanta Braves,SFG:San Francisco Giants
+1515,2025-07-22,07:35PM,TBR:Tampa Bay Rays,CHW:Chicago White Sox
+1516,2025-07-22,08:05PM,CHC:Chicago Cubs,KCR:Kansas City Royals
+1517,2025-07-22,08:05PM,TEX:Texas Rangers,ATH:Athletics
+1518,2025-07-22,08:40PM,COL:Colorado Rockies,STL:St. Louis Cardinals
+1519,2025-07-22,09:40PM,ARI:Arizona D'Backs,HOU:Houston Astros
+1520,2025-07-22,09:40PM,SEA:Seattle Mariners,MIL:Milwaukee Brewers
+1521,2025-07-22,10:10PM,LAD:Los Angeles Dodgers,MIN:Minnesota Twins
+1526,2025-07-23,01:10PM,NYM:New York Mets,LAA:Los Angeles Angels
+1527,2025-07-23,02:20PM,CHC:Chicago Cubs,KCR:Kansas City Royals
+1528,2025-07-23,03:10PM,COL:Colorado Rockies,STL:St. Louis Cardinals
+1529,2025-07-23,03:40PM,ARI:Arizona D'Backs,HOU:Houston Astros
+1530,2025-07-23,03:40PM,SEA:Seattle Mariners,MIL:Milwaukee Brewers
+1531,2025-07-23,04:10PM,LAD:Los Angeles Dodgers,MIN:Minnesota Twins
+1532,2025-07-23,06:40PM,CLE:Cleveland Guardians,BAL:Baltimore Orioles
+1533,2025-07-23,07:05PM,PHI:Philadelphia Phillies,BOS:Boston Red Sox
+1534,2025-07-23,07:07PM,TOR:Toronto Blue Jays,NYY:New York Yankees
+1535,2025-07-23,07:35PM,TBR:Tampa Bay Rays,CHW:Chicago White Sox
+1536,2025-07-23,08:05PM,TEX:Texas Rangers,ATH:Athletics
+1522,2025-07-23,12:05PM,WSN:Washington Nationals,CIN:Cincinnati Reds
+1523,2025-07-23,12:10PM,MIA:Miami Marlins,SDP:San Diego Padres
+1524,2025-07-23,12:15PM,ATL:Atlanta Braves,SFG:San Francisco Giants
+1525,2025-07-23,12:35PM,PIT:Pittsburgh Pirates,DET:Detroit Tigers
+1537,2025-07-24,01:10PM,CLE:Cleveland Guardians,BAL:Baltimore Orioles
+1538,2025-07-24,06:40PM,DET:Detroit Tigers,TOR:Toronto Blue Jays
+1539,2025-07-24,07:45PM,STL:St. Louis Cardinals,SDP:San Diego Padres
+1540,2025-07-24,08:10PM,HOU:Houston Astros,ATH:Athletics
+1541,2025-07-24,09:38PM,LAA:Los Angeles Angels,SEA:Seattle Mariners
+1542,2025-07-25,04:10PM,MIL:Milwaukee Brewers,MIA:Miami Marlins
+1543,2025-07-25,06:40PM,PIT:Pittsburgh Pirates,ARI:Arizona D'Backs
+1544,2025-07-25,07:05PM,BAL:Baltimore Orioles,COL:Colorado Rockies
+1545,2025-07-25,07:05PM,NYY:New York Yankees,PHI:Philadelphia Phillies
+1546,2025-07-25,07:10PM,BOS:Boston Red Sox,LAD:Los Angeles Dodgers
+1547,2025-07-25,07:10PM,CIN:Cincinnati Reds,TBR:Tampa Bay Rays
+1548,2025-07-25,07:10PM,DET:Detroit Tigers,TOR:Toronto Blue Jays
+1549,2025-07-25,07:15PM,STL:St. Louis Cardinals,SDP:San Diego Padres
+1550,2025-07-25,07:40PM,CHW:Chicago White Sox,CHC:Chicago Cubs
+1551,2025-07-25,08:05PM,TEX:Texas Rangers,ATL:Atlanta Braves
+1552,2025-07-25,08:10PM,HOU:Houston Astros,ATH:Athletics
+1553,2025-07-25,08:10PM,KCR:Kansas City Royals,CLE:Cleveland Guardians
+1554,2025-07-25,08:10PM,MIN:Minnesota Twins,WSN:Washington Nationals
+1555,2025-07-25,09:38PM,LAA:Los Angeles Angels,SEA:Seattle Mariners
+1556,2025-07-25,10:15PM,SFG:San Francisco Giants,NYM:New York Mets
+1557,2025-07-26,01:05PM,NYY:New York Yankees,PHI:Philadelphia Phillies
+1558,2025-07-26,06:10PM,DET:Detroit Tigers,TOR:Toronto Blue Jays
+1559,2025-07-26,06:40PM,CIN:Cincinnati Reds,TBR:Tampa Bay Rays
+1560,2025-07-26,06:40PM,PIT:Pittsburgh Pirates,ARI:Arizona D'Backs
+1561,2025-07-26,07:05PM,BAL:Baltimore Orioles,COL:Colorado Rockies
+1562,2025-07-26,07:05PM,TEX:Texas Rangers,ATL:Atlanta Braves
+1563,2025-07-26,07:10PM,CHW:Chicago White Sox,CHC:Chicago Cubs
+1564,2025-07-26,07:10PM,HOU:Houston Astros,ATH:Athletics
+1565,2025-07-26,07:10PM,MIL:Milwaukee Brewers,MIA:Miami Marlins
+1566,2025-07-26,07:10PM,MIN:Minnesota Twins,WSN:Washington Nationals
+1567,2025-07-26,07:15PM,BOS:Boston Red Sox,LAD:Los Angeles Dodgers
+1568,2025-07-26,07:15PM,KCR:Kansas City Royals,CLE:Cleveland Guardians
+1569,2025-07-26,07:15PM,STL:St. Louis Cardinals,SDP:San Diego Padres
+1570,2025-07-26,09:05PM,SFG:San Francisco Giants,NYM:New York Mets
+1571,2025-07-26,09:38PM,LAA:Los Angeles Angels,SEA:Seattle Mariners
+1572,2025-07-27,01:35PM,BAL:Baltimore Orioles,COL:Colorado Rockies
+1573,2025-07-27,01:35PM,BOS:Boston Red Sox,LAD:Los Angeles Dodgers
+1574,2025-07-27,01:35PM,NYY:New York Yankees,PHI:Philadelphia Phillies
+1575,2025-07-27,01:35PM,PIT:Pittsburgh Pirates,ARI:Arizona D'Backs
+1576,2025-07-27,01:40PM,CIN:Cincinnati Reds,TBR:Tampa Bay Rays
+1577,2025-07-27,01:40PM,DET:Detroit Tigers,TOR:Toronto Blue Jays
+1578,2025-07-27,02:10PM,CHW:Chicago White Sox,CHC:Chicago Cubs
+1579,2025-07-27,02:10PM,HOU:Houston Astros,ATH:Athletics
+1580,2025-07-27,02:10PM,KCR:Kansas City Royals,CLE:Cleveland Guardians
+1581,2025-07-27,02:10PM,MIL:Milwaukee Brewers,MIA:Miami Marlins
+1582,2025-07-27,02:10PM,MIN:Minnesota Twins,WSN:Washington Nationals
+1583,2025-07-27,02:15PM,STL:St. Louis Cardinals,SDP:San Diego Padres
+1584,2025-07-27,02:35PM,TEX:Texas Rangers,ATL:Atlanta Braves
+1585,2025-07-27,04:05PM,SFG:San Francisco Giants,NYM:New York Mets
+1586,2025-07-27,04:07PM,LAA:Los Angeles Angels,SEA:Seattle Mariners
+1587,2025-07-28,06:35PM,BAL:Baltimore Orioles,TOR:Toronto Blue Jays
+1588,2025-07-28,06:40PM,CLE:Cleveland Guardians,COL:Colorado Rockies
+1589,2025-07-28,06:40PM,DET:Detroit Tigers,ARI:Arizona D'Backs
+1590,2025-07-28,07:05PM,NYY:New York Yankees,TBR:Tampa Bay Rays
+1591,2025-07-28,07:10PM,CIN:Cincinnati Reds,LAD:Los Angeles Dodgers
+1592,2025-07-28,07:40PM,CHW:Chicago White Sox,PHI:Philadelphia Phillies
+1593,2025-07-28,07:40PM,KCR:Kansas City Royals,ATL:Atlanta Braves
+1594,2025-07-28,07:40PM,MIL:Milwaukee Brewers,CHC:Chicago Cubs
+1595,2025-07-28,07:40PM,MIN:Minnesota Twins,BOS:Boston Red Sox
+1596,2025-07-28,07:45PM,STL:St. Louis Cardinals,MIA:Miami Marlins
+1597,2025-07-28,08:10PM,HOU:Houston Astros,WSN:Washington Nationals
+1598,2025-07-28,09:38PM,LAA:Los Angeles Angels,TEX:Texas Rangers
+1599,2025-07-28,09:40PM,SDP:San Diego Padres,NYM:New York Mets
+1600,2025-07-28,09:45PM,SFG:San Francisco Giants,PIT:Pittsburgh Pirates
+1601,2025-07-28,10:05PM,ATH:Athletics,SEA:Seattle Mariners
+1603,2025-07-29,06:40PM,CLE:Cleveland Guardians,COL:Colorado Rockies
+1604,2025-07-29,06:40PM,DET:Detroit Tigers,ARI:Arizona D'Backs
+1605,2025-07-29,07:05PM,NYY:New York Yankees,TBR:Tampa Bay Rays
+1606,2025-07-29,07:10PM,CIN:Cincinnati Reds,LAD:Los Angeles Dodgers
+1607,2025-07-29,07:40PM,CHW:Chicago White Sox,PHI:Philadelphia Phillies
+1608,2025-07-29,07:40PM,KCR:Kansas City Royals,ATL:Atlanta Braves
+1609,2025-07-29,07:40PM,MIL:Milwaukee Brewers,CHC:Chicago Cubs
+1610,2025-07-29,07:40PM,MIN:Minnesota Twins,BOS:Boston Red Sox
+1611,2025-07-29,07:45PM,STL:St. Louis Cardinals,MIA:Miami Marlins
+1612,2025-07-29,08:10PM,HOU:Houston Astros,WSN:Washington Nationals
+1613,2025-07-29,09:38PM,LAA:Los Angeles Angels,TEX:Texas Rangers
+1614,2025-07-29,09:40PM,SDP:San Diego Padres,NYM:New York Mets
+1615,2025-07-29,09:45PM,SFG:San Francisco Giants,PIT:Pittsburgh Pirates
+1616,2025-07-29,10:05PM,ATH:Athletics,SEA:Seattle Mariners
+1602,2025-07-29,12:35PM,BAL:Baltimore Orioles,TOR:Toronto Blue Jays
+1618,2025-07-30,01:10PM,DET:Detroit Tigers,ARI:Arizona D'Backs
+1619,2025-07-30,01:10PM,MIN:Minnesota Twins,BOS:Boston Red Sox
+1620,2025-07-30,02:10PM,CHW:Chicago White Sox,PHI:Philadelphia Phillies
+1621,2025-07-30,02:10PM,HOU:Houston Astros,WSN:Washington Nationals
+1622,2025-07-30,02:10PM,KCR:Kansas City Royals,ATL:Atlanta Braves
+1623,2025-07-30,02:10PM,MIL:Milwaukee Brewers,CHC:Chicago Cubs
+1624,2025-07-30,03:45PM,SFG:San Francisco Giants,PIT:Pittsburgh Pirates
+1625,2025-07-30,04:10PM,SDP:San Diego Padres,NYM:New York Mets
+1626,2025-07-30,06:40PM,CLE:Cleveland Guardians,COL:Colorado Rockies
+1627,2025-07-30,07:05PM,NYY:New York Yankees,TBR:Tampa Bay Rays
+1628,2025-07-30,07:10PM,CIN:Cincinnati Reds,LAD:Los Angeles Dodgers
+1629,2025-07-30,07:45PM,STL:St. Louis Cardinals,MIA:Miami Marlins
+1630,2025-07-30,09:38PM,LAA:Los Angeles Angels,TEX:Texas Rangers
+1631,2025-07-30,10:05PM,ATH:Athletics,SEA:Seattle Mariners
+1617,2025-07-30,12:35PM,BAL:Baltimore Orioles,TOR:Toronto Blue Jays
+1632,2025-07-31,01:05PM,NYY:New York Yankees,TBR:Tampa Bay Rays
+1633,2025-07-31,07:10PM,CIN:Cincinnati Reds,ATL:Atlanta Braves
+1634,2025-07-31,09:40PM,SEA:Seattle Mariners,TEX:Texas Rangers
+1636,2025-08-01,02:20PM,CHC:Chicago Cubs,BAL:Baltimore Orioles
+1637,2025-08-01,06:45PM,PHI:Philadelphia Phillies,DET:Detroit Tigers
+1638,2025-08-01,06:45PM,WSN:Washington Nationals,MIL:Milwaukee Brewers
+1639,2025-08-01,07:07PM,TOR:Toronto Blue Jays,KCR:Kansas City Royals
+1640,2025-08-01,07:10PM,BOS:Boston Red Sox,HOU:Houston Astros
+1641,2025-08-01,07:10PM,CLE:Cleveland Guardians,MIN:Minnesota Twins
+1642,2025-08-01,07:10PM,MIA:Miami Marlins,NYY:New York Yankees
+1643,2025-08-01,07:10PM,NYM:New York Mets,SFG:San Francisco Giants
+1644,2025-08-01,07:35PM,TBR:Tampa Bay Rays,LAD:Los Angeles Dodgers
+1645,2025-08-01,08:10PM,COL:Colorado Rockies,PIT:Pittsburgh Pirates
+1646,2025-08-01,09:38PM,LAA:Los Angeles Angels,CHW:Chicago White Sox
+1647,2025-08-01,09:40PM,SDP:San Diego Padres,STL:St. Louis Cardinals
+1648,2025-08-01,10:05PM,ATH:Athletics,ARI:Arizona D'Backs
+1649,2025-08-01,10:10PM,SEA:Seattle Mariners,TEX:Texas Rangers
+1635,2025-08-01,12:40PM,CIN:Cincinnati Reds,ATL:Atlanta Braves
+1650,2025-08-02,01:10PM,TBR:Tampa Bay Rays,LAD:Los Angeles Dodgers
+1651,2025-08-02,02:20PM,CHC:Chicago Cubs,BAL:Baltimore Orioles
+1652,2025-08-02,03:07PM,TOR:Toronto Blue Jays,KCR:Kansas City Royals
+1653,2025-08-02,03:10PM,COL:Colorado Rockies,PIT:Pittsburgh Pirates
+1654,2025-08-02,04:05PM,PHI:Philadelphia Phillies,DET:Detroit Tigers
+1655,2025-08-02,04:05PM,WSN:Washington Nationals,MIL:Milwaukee Brewers
+1656,2025-08-02,04:10PM,BOS:Boston Red Sox,HOU:Houston Astros
+1657,2025-08-02,04:10PM,CLE:Cleveland Guardians,MIN:Minnesota Twins
+1658,2025-08-02,04:10PM,MIA:Miami Marlins,NYY:New York Yankees
+1659,2025-08-02,04:10PM,NYM:New York Mets,SFG:San Francisco Giants
+1660,2025-08-02,04:10PM,SEA:Seattle Mariners,TEX:Texas Rangers
+1661,2025-08-02,07:15PM,CIN:Cincinnati Reds,ATL:Atlanta Braves
+1662,2025-08-02,10:05PM,ATH:Athletics,ARI:Arizona D'Backs
+1663,2025-08-02,10:07PM,LAA:Los Angeles Angels,CHW:Chicago White Sox
+1664,2025-08-02,10:10PM,SDP:San Diego Padres,STL:St. Louis Cardinals
+1667,2025-08-03,01:35PM,PHI:Philadelphia Phillies,DET:Detroit Tigers
+1668,2025-08-03,01:35PM,WSN:Washington Nationals,MIL:Milwaukee Brewers
+1669,2025-08-03,01:37PM,TOR:Toronto Blue Jays,KCR:Kansas City Royals
+1670,2025-08-03,01:40PM,CLE:Cleveland Guardians,MIN:Minnesota Twins
+1671,2025-08-03,01:40PM,MIA:Miami Marlins,NYY:New York Yankees
+1672,2025-08-03,01:40PM,NYM:New York Mets,SFG:San Francisco Giants
+1673,2025-08-03,02:20PM,CHC:Chicago Cubs,BAL:Baltimore Orioles
+1674,2025-08-03,03:10PM,COL:Colorado Rockies,PIT:Pittsburgh Pirates
+1675,2025-08-03,04:05PM,ATH:Athletics,ARI:Arizona D'Backs
+1676,2025-08-03,04:07PM,LAA:Los Angeles Angels,CHW:Chicago White Sox
+1677,2025-08-03,04:10PM,SDP:San Diego Padres,STL:St. Louis Cardinals
+1678,2025-08-03,04:10PM,SEA:Seattle Mariners,TEX:Texas Rangers
+1665,2025-08-03,11:35AM,BOS:Boston Red Sox,HOU:Houston Astros
+1666,2025-08-03,12:10PM,TBR:Tampa Bay Rays,LAD:Los Angeles Dodgers
+1679,2025-08-04,06:40PM,DET:Detroit Tigers,MIN:Minnesota Twins
+1680,2025-08-04,06:40PM,MIA:Miami Marlins,HOU:Houston Astros
+1681,2025-08-04,06:40PM,PIT:Pittsburgh Pirates,SFG:San Francisco Giants
+1682,2025-08-04,06:45PM,PHI:Philadelphia Phillies,BAL:Baltimore Orioles
+1683,2025-08-04,07:10PM,BOS:Boston Red Sox,KCR:Kansas City Royals
+1684,2025-08-04,07:10PM,NYM:New York Mets,CLE:Cleveland Guardians
+1685,2025-08-04,07:15PM,ATL:Atlanta Braves,MIL:Milwaukee Brewers
+1686,2025-08-04,08:05PM,CHC:Chicago Cubs,CIN:Cincinnati Reds
+1687,2025-08-04,08:05PM,TEX:Texas Rangers,NYY:New York Yankees
+1688,2025-08-04,08:40PM,COL:Colorado Rockies,TOR:Toronto Blue Jays
+1689,2025-08-04,09:38PM,LAA:Los Angeles Angels,TBR:Tampa Bay Rays
+1690,2025-08-04,09:40PM,ARI:Arizona D'Backs,SDP:San Diego Padres
+1691,2025-08-04,10:10PM,LAD:Los Angeles Dodgers,STL:St. Louis Cardinals
+1692,2025-08-05,06:40PM,DET:Detroit Tigers,MIN:Minnesota Twins
+1693,2025-08-05,06:40PM,MIA:Miami Marlins,HOU:Houston Astros
+1694,2025-08-05,06:40PM,PIT:Pittsburgh Pirates,SFG:San Francisco Giants
+1695,2025-08-05,06:45PM,PHI:Philadelphia Phillies,BAL:Baltimore Orioles
+1696,2025-08-05,06:45PM,WSN:Washington Nationals,ATH:Athletics
+1697,2025-08-05,07:10PM,BOS:Boston Red Sox,KCR:Kansas City Royals
+1698,2025-08-05,07:10PM,NYM:New York Mets,CLE:Cleveland Guardians
+1699,2025-08-05,07:15PM,ATL:Atlanta Braves,MIL:Milwaukee Brewers
+1700,2025-08-05,08:05PM,CHC:Chicago Cubs,CIN:Cincinnati Reds
+1701,2025-08-05,08:05PM,TEX:Texas Rangers,NYY:New York Yankees
+1702,2025-08-05,08:40PM,COL:Colorado Rockies,TOR:Toronto Blue Jays
+1703,2025-08-05,09:38PM,LAA:Los Angeles Angels,TBR:Tampa Bay Rays
+1704,2025-08-05,09:40PM,ARI:Arizona D'Backs,SDP:San Diego Padres
+1705,2025-08-05,09:40PM,SEA:Seattle Mariners,CHW:Chicago White Sox
+1706,2025-08-05,10:10PM,LAD:Los Angeles Dodgers,STL:St. Louis Cardinals
+1709,2025-08-06,01:10PM,DET:Detroit Tigers,MIN:Minnesota Twins
+1710,2025-08-06,01:10PM,NYM:New York Mets,CLE:Cleveland Guardians
+1711,2025-08-06,02:20PM,CHC:Chicago Cubs,CIN:Cincinnati Reds
+1712,2025-08-06,02:35PM,TEX:Texas Rangers,NYY:New York Yankees
+1713,2025-08-06,03:10PM,COL:Colorado Rockies,TOR:Toronto Blue Jays
+1714,2025-08-06,04:07PM,LAA:Los Angeles Angels,TBR:Tampa Bay Rays
+1715,2025-08-06,04:10PM,LAD:Los Angeles Dodgers,STL:St. Louis Cardinals
+1716,2025-08-06,04:40PM,MIA:Miami Marlins,HOU:Houston Astros
+1717,2025-08-06,06:45PM,WSN:Washington Nationals,ATH:Athletics
+1718,2025-08-06,07:10PM,BOS:Boston Red Sox,KCR:Kansas City Royals
+1719,2025-08-06,07:15PM,ATL:Atlanta Braves,MIL:Milwaukee Brewers
+1720,2025-08-06,09:40PM,ARI:Arizona D'Backs,SDP:San Diego Padres
+1721,2025-08-06,09:40PM,SEA:Seattle Mariners,CHW:Chicago White Sox
+1707,2025-08-06,12:35PM,PHI:Philadelphia Phillies,BAL:Baltimore Orioles
+1708,2025-08-06,12:35PM,PIT:Pittsburgh Pirates,SFG:San Francisco Giants
+1723,2025-08-07,04:10PM,SEA:Seattle Mariners,CHW:Chicago White Sox
+1724,2025-08-07,06:40PM,PIT:Pittsburgh Pirates,CIN:Cincinnati Reds
+1725,2025-08-07,07:15PM,ATL:Atlanta Braves,MIA:Miami Marlins
+1722,2025-08-07,12:05PM,WSN:Washington Nationals,ATH:Athletics
+1726,2025-08-08,06:40PM,PIT:Pittsburgh Pirates,CIN:Cincinnati Reds
+1727,2025-08-08,07:05PM,BAL:Baltimore Orioles,ATH:Athletics
+1728,2025-08-08,07:05PM,NYY:New York Yankees,HOU:Houston Astros
+1729,2025-08-08,07:10PM,DET:Detroit Tigers,LAA:Los Angeles Angels
+1730,2025-08-08,07:15PM,ATL:Atlanta Braves,MIA:Miami Marlins
+1731,2025-08-08,07:40PM,CHW:Chicago White Sox,CLE:Cleveland Guardians
+1732,2025-08-08,08:05PM,TEX:Texas Rangers,PHI:Philadelphia Phillies
+1733,2025-08-08,08:10PM,MIL:Milwaukee Brewers,NYM:New York Mets
+1734,2025-08-08,08:10PM,MIN:Minnesota Twins,KCR:Kansas City Royals
+1735,2025-08-08,08:15PM,STL:St. Louis Cardinals,CHC:Chicago Cubs
+1736,2025-08-08,09:40PM,ARI:Arizona D'Backs,COL:Colorado Rockies
+1737,2025-08-08,09:40PM,SDP:San Diego Padres,BOS:Boston Red Sox
+1738,2025-08-08,09:40PM,SEA:Seattle Mariners,TBR:Tampa Bay Rays
+1739,2025-08-08,10:10PM,LAD:Los Angeles Dodgers,TOR:Toronto Blue Jays
+1740,2025-08-08,10:15PM,SFG:San Francisco Giants,WSN:Washington Nationals
+1741,2025-08-09,01:15PM,ATL:Atlanta Braves,MIA:Miami Marlins
+1742,2025-08-09,02:05PM,NYY:New York Yankees,HOU:Houston Astros
+1743,2025-08-09,04:05PM,SFG:San Francisco Giants,WSN:Washington Nationals
+1744,2025-08-09,06:10PM,DET:Detroit Tigers,LAA:Los Angeles Angels
+1745,2025-08-09,06:40PM,PIT:Pittsburgh Pirates,CIN:Cincinnati Reds
+1746,2025-08-09,07:05PM,BAL:Baltimore Orioles,ATH:Athletics
+1747,2025-08-09,07:10PM,CHW:Chicago White Sox,CLE:Cleveland Guardians
+1748,2025-08-09,07:10PM,MIL:Milwaukee Brewers,NYM:New York Mets
+1749,2025-08-09,07:10PM,MIN:Minnesota Twins,KCR:Kansas City Royals
+1750,2025-08-09,07:15PM,ATL:Atlanta Braves,MIA:Miami Marlins
+1751,2025-08-09,07:15PM,STL:St. Louis Cardinals,CHC:Chicago Cubs
+1752,2025-08-09,07:15PM,TEX:Texas Rangers,PHI:Philadelphia Phillies
+1753,2025-08-09,08:10PM,ARI:Arizona D'Backs,COL:Colorado Rockies
+1754,2025-08-09,08:40PM,SDP:San Diego Padres,BOS:Boston Red Sox
+1755,2025-08-09,09:10PM,LAD:Los Angeles Dodgers,TOR:Toronto Blue Jays
+1756,2025-08-09,09:40PM,SEA:Seattle Mariners,TBR:Tampa Bay Rays
+1757,2025-08-10,01:05PM,MIN:Minnesota Twins,KCR:Kansas City Royals
+1758,2025-08-10,01:35PM,ATL:Atlanta Braves,MIA:Miami Marlins
+1759,2025-08-10,01:35PM,BAL:Baltimore Orioles,ATH:Athletics
+1760,2025-08-10,01:35PM,NYY:New York Yankees,HOU:Houston Astros
+1761,2025-08-10,01:35PM,PIT:Pittsburgh Pirates,CIN:Cincinnati Reds
+1762,2025-08-10,01:40PM,DET:Detroit Tigers,LAA:Los Angeles Angels
+1763,2025-08-10,02:10PM,CHW:Chicago White Sox,CLE:Cleveland Guardians
+1764,2025-08-10,02:10PM,MIL:Milwaukee Brewers,NYM:New York Mets
+1765,2025-08-10,02:15PM,STL:St. Louis Cardinals,CHC:Chicago Cubs
+1766,2025-08-10,02:35PM,TEX:Texas Rangers,PHI:Philadelphia Phillies
+1767,2025-08-10,04:05PM,SFG:San Francisco Giants,WSN:Washington Nationals
+1768,2025-08-10,04:10PM,ARI:Arizona D'Backs,COL:Colorado Rockies
+1769,2025-08-10,04:10PM,LAD:Los Angeles Dodgers,TOR:Toronto Blue Jays
+1770,2025-08-10,04:10PM,SDP:San Diego Padres,BOS:Boston Red Sox
+1771,2025-08-10,04:10PM,SEA:Seattle Mariners,TBR:Tampa Bay Rays
+1772,2025-08-11,06:10PM,CIN:Cincinnati Reds,PHI:Philadelphia Phillies
+1773,2025-08-11,07:05PM,NYY:New York Yankees,MIN:Minnesota Twins
+1774,2025-08-11,07:40PM,CHW:Chicago White Sox,DET:Detroit Tigers
+1775,2025-08-11,07:40PM,KCR:Kansas City Royals,WSN:Washington Nationals
+1776,2025-08-11,07:40PM,MIL:Milwaukee Brewers,PIT:Pittsburgh Pirates
+1777,2025-08-11,07:45PM,STL:St. Louis Cardinals,COL:Colorado Rockies
+1778,2025-08-11,08:05PM,TEX:Texas Rangers,ARI:Arizona D'Backs
+1779,2025-08-11,08:10PM,HOU:Houston Astros,BOS:Boston Red Sox
+1780,2025-08-11,09:38PM,LAA:Los Angeles Angels,LAD:Los Angeles Dodgers
+1781,2025-08-11,09:45PM,SFG:San Francisco Giants,SDP:San Diego Padres
+1782,2025-08-11,10:05PM,ATH:Athletics,TBR:Tampa Bay Rays
+1783,2025-08-12,06:35PM,BAL:Baltimore Orioles,SEA:Seattle Mariners
+1784,2025-08-12,06:40PM,CIN:Cincinnati Reds,PHI:Philadelphia Phillies
+1785,2025-08-12,06:40PM,CLE:Cleveland Guardians,MIA:Miami Marlins
+1786,2025-08-12,07:05PM,NYY:New York Yankees,MIN:Minnesota Twins
+1787,2025-08-12,07:07PM,TOR:Toronto Blue Jays,CHC:Chicago Cubs
+1788,2025-08-12,07:10PM,NYM:New York Mets,ATL:Atlanta Braves
+1789,2025-08-12,07:40PM,CHW:Chicago White Sox,DET:Detroit Tigers
+1790,2025-08-12,07:40PM,KCR:Kansas City Royals,WSN:Washington Nationals
+1791,2025-08-12,07:40PM,MIL:Milwaukee Brewers,PIT:Pittsburgh Pirates
+1792,2025-08-12,07:45PM,STL:St. Louis Cardinals,COL:Colorado Rockies
+1793,2025-08-12,08:05PM,TEX:Texas Rangers,ARI:Arizona D'Backs
+1794,2025-08-12,08:10PM,HOU:Houston Astros,BOS:Boston Red Sox
+1795,2025-08-12,09:38PM,LAA:Los Angeles Angels,LAD:Los Angeles Dodgers
+1796,2025-08-12,09:45PM,SFG:San Francisco Giants,SDP:San Diego Padres
+1797,2025-08-12,10:05PM,ATH:Athletics,TBR:Tampa Bay Rays
+1798,2025-08-13,02:10PM,CHW:Chicago White Sox,DET:Detroit Tigers
+1799,2025-08-13,02:10PM,KCR:Kansas City Royals,WSN:Washington Nationals
+1800,2025-08-13,02:10PM,MIL:Milwaukee Brewers,PIT:Pittsburgh Pirates
+1801,2025-08-13,02:15PM,STL:St. Louis Cardinals,COL:Colorado Rockies
+1802,2025-08-13,02:35PM,TEX:Texas Rangers,ARI:Arizona D'Backs
+1803,2025-08-13,03:45PM,SFG:San Francisco Giants,SDP:San Diego Padres
+1804,2025-08-13,05:10PM,CIN:Cincinnati Reds,PHI:Philadelphia Phillies
+1805,2025-08-13,06:35PM,BAL:Baltimore Orioles,SEA:Seattle Mariners
+1806,2025-08-13,06:40PM,CLE:Cleveland Guardians,MIA:Miami Marlins
+1807,2025-08-13,07:05PM,NYY:New York Yankees,MIN:Minnesota Twins
+1808,2025-08-13,07:07PM,TOR:Toronto Blue Jays,CHC:Chicago Cubs
+1809,2025-08-13,07:10PM,HOU:Houston Astros,BOS:Boston Red Sox
+1810,2025-08-13,07:10PM,NYM:New York Mets,ATL:Atlanta Braves
+1811,2025-08-13,09:38PM,LAA:Los Angeles Angels,LAD:Los Angeles Dodgers
+1812,2025-08-13,10:05PM,ATH:Athletics,TBR:Tampa Bay Rays
+1813,2025-08-14,01:05PM,BAL:Baltimore Orioles,SEA:Seattle Mariners
+1814,2025-08-14,03:07PM,TOR:Toronto Blue Jays,CHC:Chicago Cubs
+1815,2025-08-14,06:40PM,CLE:Cleveland Guardians,MIA:Miami Marlins
+1816,2025-08-14,06:45PM,WSN:Washington Nationals,PHI:Philadelphia Phillies
+1817,2025-08-14,07:10PM,NYM:New York Mets,ATL:Atlanta Braves
+1818,2025-08-14,07:40PM,MIN:Minnesota Twins,DET:Detroit Tigers
+1819,2025-08-14,08:40PM,COL:Colorado Rockies,ARI:Arizona D'Backs
+1820,2025-08-15,02:20PM,CHC:Chicago Cubs,PIT:Pittsburgh Pirates
+1821,2025-08-15,06:40PM,CIN:Cincinnati Reds,MIL:Milwaukee Brewers
+1822,2025-08-15,06:45PM,WSN:Washington Nationals,PHI:Philadelphia Phillies
+1823,2025-08-15,07:07PM,TOR:Toronto Blue Jays,TEX:Texas Rangers
+1824,2025-08-15,07:10PM,BOS:Boston Red Sox,MIA:Miami Marlins
+1825,2025-08-15,07:10PM,CLE:Cleveland Guardians,ATL:Atlanta Braves
+1826,2025-08-15,07:10PM,NYM:New York Mets,SEA:Seattle Mariners
+1827,2025-08-15,08:10PM,HOU:Houston Astros,BAL:Baltimore Orioles
+1828,2025-08-15,08:10PM,KCR:Kansas City Royals,CHW:Chicago White Sox
+1829,2025-08-15,08:10PM,MIN:Minnesota Twins,DET:Detroit Tigers
+1830,2025-08-15,08:15PM,STL:St. Louis Cardinals,NYY:New York Yankees
+1831,2025-08-15,08:40PM,COL:Colorado Rockies,ARI:Arizona D'Backs
+1832,2025-08-15,10:05PM,ATH:Athletics,LAA:Los Angeles Angels
+1833,2025-08-15,10:10PM,LAD:Los Angeles Dodgers,SDP:San Diego Padres
+1834,2025-08-15,10:15PM,SFG:San Francisco Giants,TBR:Tampa Bay Rays
+1835,2025-08-16,02:20PM,CHC:Chicago Cubs,PIT:Pittsburgh Pirates
+1836,2025-08-16,03:07PM,TOR:Toronto Blue Jays,TEX:Texas Rangers
+1837,2025-08-16,04:05PM,WSN:Washington Nationals,PHI:Philadelphia Phillies
+1838,2025-08-16,04:10PM,BOS:Boston Red Sox,MIA:Miami Marlins
+1839,2025-08-16,04:10PM,NYM:New York Mets,SEA:Seattle Mariners
+1840,2025-08-16,06:40PM,CIN:Cincinnati Reds,MIL:Milwaukee Brewers
+1841,2025-08-16,07:10PM,CLE:Cleveland Guardians,ATL:Atlanta Braves
+1842,2025-08-16,07:10PM,HOU:Houston Astros,BAL:Baltimore Orioles
+1843,2025-08-16,07:10PM,KCR:Kansas City Royals,CHW:Chicago White Sox
+1844,2025-08-16,07:15PM,MIN:Minnesota Twins,DET:Detroit Tigers
+1845,2025-08-16,07:15PM,STL:St. Louis Cardinals,NYY:New York Yankees
+1846,2025-08-16,08:10PM,COL:Colorado Rockies,ARI:Arizona D'Backs
+1847,2025-08-16,09:05PM,SFG:San Francisco Giants,TBR:Tampa Bay Rays
+1848,2025-08-16,09:10PM,LAD:Los Angeles Dodgers,SDP:San Diego Padres
+1849,2025-08-16,10:05PM,ATH:Athletics,LAA:Los Angeles Angels
+1851,2025-08-17,01:35PM,BOS:Boston Red Sox,MIA:Miami Marlins
+1852,2025-08-17,01:37PM,TOR:Toronto Blue Jays,TEX:Texas Rangers
+1853,2025-08-17,01:40PM,CIN:Cincinnati Reds,MIL:Milwaukee Brewers
+1854,2025-08-17,01:40PM,CLE:Cleveland Guardians,ATL:Atlanta Braves
+1855,2025-08-17,02:10PM,HOU:Houston Astros,BAL:Baltimore Orioles
+1856,2025-08-17,02:10PM,KCR:Kansas City Royals,CHW:Chicago White Sox
+1857,2025-08-17,02:10PM,MIN:Minnesota Twins,DET:Detroit Tigers
+1858,2025-08-17,02:15PM,STL:St. Louis Cardinals,NYY:New York Yankees
+1859,2025-08-17,02:20PM,CHC:Chicago Cubs,PIT:Pittsburgh Pirates
+1860,2025-08-17,03:10PM,COL:Colorado Rockies,ARI:Arizona D'Backs
+1861,2025-08-17,04:05PM,ATH:Athletics,LAA:Los Angeles Angels
+1862,2025-08-17,04:05PM,SFG:San Francisco Giants,TBR:Tampa Bay Rays
+1863,2025-08-17,04:10PM,LAD:Los Angeles Dodgers,SDP:San Diego Padres
+1864,2025-08-17,07:10PM,NYM:New York Mets,SEA:Seattle Mariners
+1850,2025-08-17,11:35AM,WSN:Washington Nationals,PHI:Philadelphia Phillies
+1865,2025-08-18,06:40PM,DET:Detroit Tigers,HOU:Houston Astros
+1866,2025-08-18,06:40PM,MIA:Miami Marlins,STL:St. Louis Cardinals
+1867,2025-08-18,06:40PM,PIT:Pittsburgh Pirates,TOR:Toronto Blue Jays
+1868,2025-08-18,06:45PM,PHI:Philadelphia Phillies,SEA:Seattle Mariners
+1869,2025-08-18,07:10PM,BOS:Boston Red Sox,BAL:Baltimore Orioles
+1870,2025-08-18,07:15PM,ATL:Atlanta Braves,CHW:Chicago White Sox
+1871,2025-08-18,07:40PM,KCR:Kansas City Royals,TEX:Texas Rangers
+1872,2025-08-18,08:05PM,CHC:Chicago Cubs,MIL:Milwaukee Brewers
+1873,2025-08-18,08:40PM,COL:Colorado Rockies,LAD:Los Angeles Dodgers
+1874,2025-08-18,09:38PM,LAA:Los Angeles Angels,CIN:Cincinnati Reds
+1875,2025-08-18,09:40PM,ARI:Arizona D'Backs,CLE:Cleveland Guardians
+1876,2025-08-18,09:40PM,SDP:San Diego Padres,SFG:San Francisco Giants
+1877,2025-08-19,06:40PM,DET:Detroit Tigers,HOU:Houston Astros
+1878,2025-08-19,06:40PM,MIA:Miami Marlins,STL:St. Louis Cardinals
+1879,2025-08-19,06:40PM,PIT:Pittsburgh Pirates,TOR:Toronto Blue Jays
+1880,2025-08-19,06:45PM,PHI:Philadelphia Phillies,SEA:Seattle Mariners
+1881,2025-08-19,06:45PM,WSN:Washington Nationals,NYM:New York Mets
+1882,2025-08-19,07:10PM,BOS:Boston Red Sox,BAL:Baltimore Orioles
+1883,2025-08-19,07:15PM,ATL:Atlanta Braves,CHW:Chicago White Sox
+1884,2025-08-19,07:35PM,TBR:Tampa Bay Rays,NYY:New York Yankees
+1885,2025-08-19,07:40PM,KCR:Kansas City Royals,TEX:Texas Rangers
+1886,2025-08-19,07:40PM,MIN:Minnesota Twins,ATH:Athletics
+1887,2025-08-19,08:05PM,CHC:Chicago Cubs,MIL:Milwaukee Brewers
+1888,2025-08-19,08:40PM,COL:Colorado Rockies,LAD:Los Angeles Dodgers
+1889,2025-08-19,09:38PM,LAA:Los Angeles Angels,CIN:Cincinnati Reds
+1890,2025-08-19,09:40PM,ARI:Arizona D'Backs,CLE:Cleveland Guardians
+1891,2025-08-19,09:40PM,SDP:San Diego Padres,SFG:San Francisco Giants
+1893,2025-08-20,01:05PM,PHI:Philadelphia Phillies,SEA:Seattle Mariners
+1894,2025-08-20,01:10PM,DET:Detroit Tigers,HOU:Houston Astros
+1895,2025-08-20,03:40PM,ARI:Arizona D'Backs,CLE:Cleveland Guardians
+1896,2025-08-20,06:40PM,MIA:Miami Marlins,STL:St. Louis Cardinals
+1897,2025-08-20,06:45PM,WSN:Washington Nationals,NYM:New York Mets
+1898,2025-08-20,07:15PM,ATL:Atlanta Braves,CHW:Chicago White Sox
+1899,2025-08-20,07:35PM,TBR:Tampa Bay Rays,NYY:New York Yankees
+1900,2025-08-20,07:40PM,KCR:Kansas City Royals,TEX:Texas Rangers
+1901,2025-08-20,07:40PM,MIN:Minnesota Twins,ATH:Athletics
+1902,2025-08-20,08:05PM,CHC:Chicago Cubs,MIL:Milwaukee Brewers
+1903,2025-08-20,08:40PM,COL:Colorado Rockies,LAD:Los Angeles Dodgers
+1904,2025-08-20,09:38PM,LAA:Los Angeles Angels,CIN:Cincinnati Reds
+1905,2025-08-20,09:40PM,SDP:San Diego Padres,SFG:San Francisco Giants
+1892,2025-08-20,12:35PM,PIT:Pittsburgh Pirates,TOR:Toronto Blue Jays
+1906,2025-08-21,01:10PM,MIN:Minnesota Twins,ATH:Athletics
+1907,2025-08-21,02:10PM,KCR:Kansas City Royals,TEX:Texas Rangers
+1908,2025-08-21,02:20PM,CHC:Chicago Cubs,MIL:Milwaukee Brewers
+1909,2025-08-21,03:10PM,COL:Colorado Rockies,LAD:Los Angeles Dodgers
+1910,2025-08-21,04:05PM,WSN:Washington Nationals,NYM:New York Mets
+1911,2025-08-21,04:10PM,SDP:San Diego Padres,SFG:San Francisco Giants
+1912,2025-08-21,07:15PM,BAL:Baltimore Orioles,HOU:Houston Astros
+1913,2025-08-21,07:15PM,NYY:New York Yankees,BOS:Boston Red Sox
+1914,2025-08-21,07:35PM,TBR:Tampa Bay Rays,STL:St. Louis Cardinals
+1915,2025-08-22,06:40PM,PIT:Pittsburgh Pirates,COL:Colorado Rockies
+1916,2025-08-22,06:45PM,PHI:Philadelphia Phillies,WSN:Washington Nationals
+1917,2025-08-22,07:05PM,BAL:Baltimore Orioles,HOU:Houston Astros
+1918,2025-08-22,07:05PM,NYY:New York Yankees,BOS:Boston Red Sox
+1919,2025-08-22,07:10PM,DET:Detroit Tigers,KCR:Kansas City Royals
+1920,2025-08-22,07:10PM,MIA:Miami Marlins,TOR:Toronto Blue Jays
+1921,2025-08-22,07:15PM,ATL:Atlanta Braves,NYM:New York Mets
+1922,2025-08-22,07:35PM,TBR:Tampa Bay Rays,STL:St. Louis Cardinals
+1923,2025-08-22,07:40PM,CHW:Chicago White Sox,MIN:Minnesota Twins
+1924,2025-08-22,08:05PM,TEX:Texas Rangers,CLE:Cleveland Guardians
+1925,2025-08-22,08:10PM,MIL:Milwaukee Brewers,SFG:San Francisco Giants
+1926,2025-08-22,09:38PM,LAA:Los Angeles Angels,CHC:Chicago Cubs
+1927,2025-08-22,09:40PM,ARI:Arizona D'Backs,CIN:Cincinnati Reds
+1928,2025-08-22,09:40PM,SDP:San Diego Padres,LAD:Los Angeles Dodgers
+1929,2025-08-22,10:10PM,SEA:Seattle Mariners,ATH:Athletics
+1930,2025-08-23,01:05PM,NYY:New York Yankees,BOS:Boston Red Sox
+1931,2025-08-23,04:10PM,MIA:Miami Marlins,TOR:Toronto Blue Jays
+1932,2025-08-23,06:05PM,PHI:Philadelphia Phillies,WSN:Washington Nationals
+1933,2025-08-23,06:10PM,DET:Detroit Tigers,KCR:Kansas City Royals
+1934,2025-08-23,06:40PM,PIT:Pittsburgh Pirates,COL:Colorado Rockies
+1935,2025-08-23,07:05PM,BAL:Baltimore Orioles,HOU:Houston Astros
+1936,2025-08-23,07:05PM,TEX:Texas Rangers,CLE:Cleveland Guardians
+1937,2025-08-23,07:10PM,CHW:Chicago White Sox,MIN:Minnesota Twins
+1938,2025-08-23,07:10PM,MIL:Milwaukee Brewers,SFG:San Francisco Giants
+1939,2025-08-23,07:15PM,ATL:Atlanta Braves,NYM:New York Mets
+1940,2025-08-23,08:10PM,ARI:Arizona D'Backs,CIN:Cincinnati Reds
+1941,2025-08-23,08:40PM,SDP:San Diego Padres,LAD:Los Angeles Dodgers
+1942,2025-08-23,09:38PM,LAA:Los Angeles Angels,CHC:Chicago Cubs
+1943,2025-08-23,09:40PM,SEA:Seattle Mariners,ATH:Athletics
+1946,2025-08-24,01:35PM,ATL:Atlanta Braves,NYM:New York Mets
+1947,2025-08-24,01:35PM,BAL:Baltimore Orioles,HOU:Houston Astros
+1948,2025-08-24,01:35PM,NYY:New York Yankees,BOS:Boston Red Sox
+1949,2025-08-24,01:35PM,PHI:Philadelphia Phillies,WSN:Washington Nationals
+1950,2025-08-24,01:40PM,DET:Detroit Tigers,KCR:Kansas City Royals
+1951,2025-08-24,01:40PM,MIA:Miami Marlins,TOR:Toronto Blue Jays
+1952,2025-08-24,02:10PM,CHW:Chicago White Sox,MIN:Minnesota Twins
+1953,2025-08-24,02:10PM,MIL:Milwaukee Brewers,SFG:San Francisco Giants
+1954,2025-08-24,02:35PM,TEX:Texas Rangers,CLE:Cleveland Guardians
+1955,2025-08-24,04:07PM,LAA:Los Angeles Angels,CHC:Chicago Cubs
+1956,2025-08-24,04:10PM,ARI:Arizona D'Backs,CIN:Cincinnati Reds
+1957,2025-08-24,04:10PM,SDP:San Diego Padres,LAD:Los Angeles Dodgers
+1958,2025-08-24,04:10PM,SEA:Seattle Mariners,ATH:Athletics
+1944,2025-08-24,12:05PM,PIT:Pittsburgh Pirates,COL:Colorado Rockies
+1945,2025-08-24,12:10PM,TBR:Tampa Bay Rays,STL:St. Louis Cardinals
+1959,2025-08-25,06:35PM,BAL:Baltimore Orioles,BOS:Boston Red Sox
+1960,2025-08-25,06:40PM,CLE:Cleveland Guardians,TBR:Tampa Bay Rays
+1961,2025-08-25,06:40PM,MIA:Miami Marlins,ATL:Atlanta Braves
+1962,2025-08-25,07:05PM,NYY:New York Yankees,WSN:Washington Nationals
+1963,2025-08-25,07:07PM,TOR:Toronto Blue Jays,MIN:Minnesota Twins
+1964,2025-08-25,07:10PM,NYM:New York Mets,PHI:Philadelphia Phillies
+1965,2025-08-25,07:40PM,CHW:Chicago White Sox,KCR:Kansas City Royals
+1966,2025-08-25,07:40PM,MIL:Milwaukee Brewers,ARI:Arizona D'Backs
+1967,2025-08-25,07:45PM,STL:St. Louis Cardinals,PIT:Pittsburgh Pirates
+1968,2025-08-25,08:05PM,TEX:Texas Rangers,LAA:Los Angeles Angels
+1969,2025-08-25,09:40PM,SEA:Seattle Mariners,SDP:San Diego Padres
+1970,2025-08-25,10:05PM,ATH:Athletics,DET:Detroit Tigers
+1971,2025-08-25,10:10PM,LAD:Los Angeles Dodgers,CIN:Cincinnati Reds
+1972,2025-08-26,06:35PM,BAL:Baltimore Orioles,BOS:Boston Red Sox
+1973,2025-08-26,06:40PM,CLE:Cleveland Guardians,TBR:Tampa Bay Rays
+1974,2025-08-26,06:40PM,MIA:Miami Marlins,ATL:Atlanta Braves
+1975,2025-08-26,07:05PM,NYY:New York Yankees,WSN:Washington Nationals
+1976,2025-08-26,07:07PM,TOR:Toronto Blue Jays,MIN:Minnesota Twins
+1977,2025-08-26,07:10PM,NYM:New York Mets,PHI:Philadelphia Phillies
+1978,2025-08-26,07:40PM,CHW:Chicago White Sox,KCR:Kansas City Royals
+1979,2025-08-26,07:40PM,MIL:Milwaukee Brewers,ARI:Arizona D'Backs
+1980,2025-08-26,07:45PM,STL:St. Louis Cardinals,PIT:Pittsburgh Pirates
+1981,2025-08-26,08:05PM,TEX:Texas Rangers,LAA:Los Angeles Angels
+1982,2025-08-26,08:10PM,HOU:Houston Astros,COL:Colorado Rockies
+1983,2025-08-26,09:40PM,SEA:Seattle Mariners,SDP:San Diego Padres
+1984,2025-08-26,09:45PM,SFG:San Francisco Giants,CHC:Chicago Cubs
+1985,2025-08-26,10:05PM,ATH:Athletics,DET:Detroit Tigers
+1986,2025-08-26,10:10PM,LAD:Los Angeles Dodgers,CIN:Cincinnati Reds
+1987,2025-08-27,01:05PM,NYY:New York Yankees,WSN:Washington Nationals
+1988,2025-08-27,01:10PM,CLE:Cleveland Guardians,TBR:Tampa Bay Rays
+1989,2025-08-27,01:10PM,MIA:Miami Marlins,ATL:Atlanta Braves
+1990,2025-08-27,04:10PM,SEA:Seattle Mariners,SDP:San Diego Padres
+1991,2025-08-27,06:35PM,BAL:Baltimore Orioles,BOS:Boston Red Sox
+1992,2025-08-27,07:07PM,TOR:Toronto Blue Jays,MIN:Minnesota Twins
+1993,2025-08-27,07:10PM,NYM:New York Mets,PHI:Philadelphia Phillies
+1994,2025-08-27,07:40PM,CHW:Chicago White Sox,KCR:Kansas City Royals
+1995,2025-08-27,07:40PM,MIL:Milwaukee Brewers,ARI:Arizona D'Backs
+1996,2025-08-27,07:45PM,STL:St. Louis Cardinals,PIT:Pittsburgh Pirates
+1997,2025-08-27,08:05PM,TEX:Texas Rangers,LAA:Los Angeles Angels
+1998,2025-08-27,08:10PM,HOU:Houston Astros,COL:Colorado Rockies
+1999,2025-08-27,08:40PM,LAD:Los Angeles Dodgers,CIN:Cincinnati Reds
+2000,2025-08-27,09:45PM,SFG:San Francisco Giants,CHC:Chicago Cubs
+2001,2025-08-27,10:05PM,ATH:Athletics,DET:Detroit Tigers
+2002,2025-08-28,01:05PM,BAL:Baltimore Orioles,BOS:Boston Red Sox
+2003,2025-08-28,02:10PM,HOU:Houston Astros,COL:Colorado Rockies
+2004,2025-08-28,02:10PM,MIL:Milwaukee Brewers,ARI:Arizona D'Backs
+2005,2025-08-28,02:15PM,STL:St. Louis Cardinals,PIT:Pittsburgh Pirates
+2006,2025-08-28,03:45PM,SFG:San Francisco Giants,CHC:Chicago Cubs
+2007,2025-08-28,06:45PM,PHI:Philadelphia Phillies,ATL:Atlanta Braves
+2008,2025-08-28,07:10PM,NYM:New York Mets,MIA:Miami Marlins
+2009,2025-08-28,07:40PM,CHW:Chicago White Sox,NYY:New York Yankees
+2010,2025-08-29,06:40PM,CIN:Cincinnati Reds,STL:St. Louis Cardinals
+2011,2025-08-29,06:45PM,PHI:Philadelphia Phillies,ATL:Atlanta Braves
+2012,2025-08-29,06:45PM,WSN:Washington Nationals,TBR:Tampa Bay Rays
+2013,2025-08-29,07:07PM,TOR:Toronto Blue Jays,MIL:Milwaukee Brewers
+2014,2025-08-29,07:10PM,BOS:Boston Red Sox,PIT:Pittsburgh Pirates
+2015,2025-08-29,07:10PM,CLE:Cleveland Guardians,SEA:Seattle Mariners
+2016,2025-08-29,07:10PM,NYM:New York Mets,MIA:Miami Marlins
+2017,2025-08-29,07:40PM,CHW:Chicago White Sox,NYY:New York Yankees
+2018,2025-08-29,08:10PM,HOU:Houston Astros,LAA:Los Angeles Angels
+2019,2025-08-29,08:10PM,KCR:Kansas City Royals,DET:Detroit Tigers
+2020,2025-08-29,08:10PM,MIN:Minnesota Twins,SDP:San Diego Padres
+2021,2025-08-29,08:40PM,COL:Colorado Rockies,CHC:Chicago Cubs
+2022,2025-08-29,10:05PM,ATH:Athletics,TEX:Texas Rangers
+2023,2025-08-29,10:10PM,LAD:Los Angeles Dodgers,ARI:Arizona D'Backs
+2024,2025-08-29,10:15PM,SFG:San Francisco Giants,BAL:Baltimore Orioles
+2025,2025-08-30,03:07PM,TOR:Toronto Blue Jays,MIL:Milwaukee Brewers
+2026,2025-08-30,04:05PM,WSN:Washington Nationals,TBR:Tampa Bay Rays
+2027,2025-08-30,04:10PM,BOS:Boston Red Sox,PIT:Pittsburgh Pirates
+2028,2025-08-30,04:10PM,NYM:New York Mets,MIA:Miami Marlins
+2029,2025-08-30,06:05PM,PHI:Philadelphia Phillies,ATL:Atlanta Braves
+2030,2025-08-30,06:40PM,CIN:Cincinnati Reds,STL:St. Louis Cardinals
+2031,2025-08-30,07:10PM,CHW:Chicago White Sox,NYY:New York Yankees
+2032,2025-08-30,07:10PM,HOU:Houston Astros,LAA:Los Angeles Angels
+2033,2025-08-30,07:10PM,MIN:Minnesota Twins,SDP:San Diego Padres
+2034,2025-08-30,07:15PM,CLE:Cleveland Guardians,SEA:Seattle Mariners
+2035,2025-08-30,07:15PM,KCR:Kansas City Royals,DET:Detroit Tigers
+2036,2025-08-30,07:15PM,SFG:San Francisco Giants,BAL:Baltimore Orioles
+2037,2025-08-30,08:10PM,COL:Colorado Rockies,CHC:Chicago Cubs
+2038,2025-08-30,09:10PM,LAD:Los Angeles Dodgers,ARI:Arizona D'Backs
+2039,2025-08-30,10:05PM,ATH:Athletics,TEX:Texas Rangers
+2041,2025-08-31,01:05PM,MIN:Minnesota Twins,SDP:San Diego Padres
+2042,2025-08-31,01:35PM,BOS:Boston Red Sox,PIT:Pittsburgh Pirates
+2043,2025-08-31,01:35PM,PHI:Philadelphia Phillies,ATL:Atlanta Braves
+2044,2025-08-31,01:35PM,WSN:Washington Nationals,TBR:Tampa Bay Rays
+2045,2025-08-31,01:37PM,TOR:Toronto Blue Jays,MIL:Milwaukee Brewers
+2046,2025-08-31,01:40PM,CLE:Cleveland Guardians,SEA:Seattle Mariners
+2047,2025-08-31,01:40PM,NYM:New York Mets,MIA:Miami Marlins
+2048,2025-08-31,02:10PM,CHW:Chicago White Sox,NYY:New York Yankees
+2049,2025-08-31,02:10PM,HOU:Houston Astros,LAA:Los Angeles Angels
+2050,2025-08-31,02:10PM,KCR:Kansas City Royals,DET:Detroit Tigers
+2051,2025-08-31,03:10PM,COL:Colorado Rockies,CHC:Chicago Cubs
+2052,2025-08-31,04:05PM,ATH:Athletics,TEX:Texas Rangers
+2053,2025-08-31,04:05PM,SFG:San Francisco Giants,BAL:Baltimore Orioles
+2054,2025-08-31,04:10PM,LAD:Los Angeles Dodgers,ARI:Arizona D'Backs
+2040,2025-08-31,12:10PM,CIN:Cincinnati Reds,STL:St. Louis Cardinals
+2055,2025-09-01,01:05PM,WSN:Washington Nationals,MIA:Miami Marlins
+2056,2025-09-01,01:10PM,CIN:Cincinnati Reds,TOR:Toronto Blue Jays
+2057,2025-09-01,01:10PM,DET:Detroit Tigers,NYM:New York Mets
+2058,2025-09-01,01:35PM,BOS:Boston Red Sox,CLE:Cleveland Guardians
+2059,2025-09-01,02:10PM,HOU:Houston Astros,LAA:Los Angeles Angels
+2060,2025-09-01,02:10PM,MIN:Minnesota Twins,CHW:Chicago White Sox
+2061,2025-09-01,02:15PM,STL:St. Louis Cardinals,ATH:Athletics
+2062,2025-09-01,02:20PM,CHC:Chicago Cubs,ATL:Atlanta Braves
+2063,2025-09-01,04:10PM,COL:Colorado Rockies,SFG:San Francisco Giants
+2064,2025-09-01,04:10PM,MIL:Milwaukee Brewers,PHI:Philadelphia Phillies
+2065,2025-09-01,06:40PM,SDP:San Diego Padres,BAL:Baltimore Orioles
+2066,2025-09-01,07:35PM,TBR:Tampa Bay Rays,SEA:Seattle Mariners
+2067,2025-09-01,08:10PM,ARI:Arizona D'Backs,TEX:Texas Rangers
+2068,2025-09-02,06:40PM,CIN:Cincinnati Reds,TOR:Toronto Blue Jays
+2069,2025-09-02,06:40PM,DET:Detroit Tigers,NYM:New York Mets
+2070,2025-09-02,06:40PM,PIT:Pittsburgh Pirates,LAD:Los Angeles Dodgers
+2071,2025-09-02,06:45PM,BOS:Boston Red Sox,CLE:Cleveland Guardians
+2072,2025-09-02,06:45PM,WSN:Washington Nationals,MIA:Miami Marlins
+2073,2025-09-02,07:35PM,TBR:Tampa Bay Rays,SEA:Seattle Mariners
+2074,2025-09-02,07:40PM,CHC:Chicago Cubs,ATL:Atlanta Braves
+2075,2025-09-02,07:40PM,KCR:Kansas City Royals,LAA:Los Angeles Angels
+2076,2025-09-02,07:40PM,MIN:Minnesota Twins,CHW:Chicago White Sox
+2077,2025-09-02,07:45PM,STL:St. Louis Cardinals,ATH:Athletics
+2078,2025-09-02,08:10PM,HOU:Houston Astros,NYY:New York Yankees
+2079,2025-09-02,08:40PM,COL:Colorado Rockies,SFG:San Francisco Giants
+2080,2025-09-02,09:40PM,ARI:Arizona D'Backs,TEX:Texas Rangers
+2081,2025-09-02,09:40PM,SDP:San Diego Padres,BAL:Baltimore Orioles
+2082,2025-09-03,01:05PM,WSN:Washington Nationals,MIA:Miami Marlins
+2083,2025-09-03,01:10PM,DET:Detroit Tigers,NYM:New York Mets
+2084,2025-09-03,03:40PM,ARI:Arizona D'Backs,TEX:Texas Rangers
+2085,2025-09-03,04:10PM,SDP:San Diego Padres,BAL:Baltimore Orioles
+2086,2025-09-03,06:40PM,CIN:Cincinnati Reds,TOR:Toronto Blue Jays
+2087,2025-09-03,06:40PM,PIT:Pittsburgh Pirates,LAD:Los Angeles Dodgers
+2088,2025-09-03,06:45PM,BOS:Boston Red Sox,CLE:Cleveland Guardians
+2089,2025-09-03,07:35PM,TBR:Tampa Bay Rays,SEA:Seattle Mariners
+2090,2025-09-03,07:40PM,CHC:Chicago Cubs,ATL:Atlanta Braves
+2091,2025-09-03,07:40PM,KCR:Kansas City Royals,LAA:Los Angeles Angels
+2092,2025-09-03,07:40PM,MIL:Milwaukee Brewers,PHI:Philadelphia Phillies
+2093,2025-09-03,07:40PM,MIN:Minnesota Twins,CHW:Chicago White Sox
+2094,2025-09-03,07:45PM,STL:St. Louis Cardinals,ATH:Athletics
+2095,2025-09-03,08:10PM,HOU:Houston Astros,NYY:New York Yankees
+2096,2025-09-03,08:40PM,COL:Colorado Rockies,SFG:San Francisco Giants
+2097,2025-09-04,04:10PM,MIL:Milwaukee Brewers,PHI:Philadelphia Phillies
+2098,2025-09-04,06:40PM,PIT:Pittsburgh Pirates,LAD:Los Angeles Dodgers
+2099,2025-09-04,07:35PM,TBR:Tampa Bay Rays,CLE:Cleveland Guardians
+2100,2025-09-04,07:40PM,HOU:Houston Astros,NYY:New York Yankees
+2101,2025-09-04,07:40PM,KCR:Kansas City Royals,LAA:Los Angeles Angels
+2102,2025-09-04,07:40PM,MIN:Minnesota Twins,CHW:Chicago White Sox
+2103,2025-09-05,02:20PM,CHC:Chicago Cubs,WSN:Washington Nationals
+2104,2025-09-05,06:40PM,CIN:Cincinnati Reds,NYM:New York Mets
+2105,2025-09-05,06:40PM,DET:Detroit Tigers,CHW:Chicago White Sox
+2106,2025-09-05,06:40PM,PIT:Pittsburgh Pirates,MIL:Milwaukee Brewers
+2107,2025-09-05,07:05PM,BAL:Baltimore Orioles,LAD:Los Angeles Dodgers
+2108,2025-09-05,07:05PM,NYY:New York Yankees,TOR:Toronto Blue Jays
+2109,2025-09-05,07:10PM,MIA:Miami Marlins,PHI:Philadelphia Phillies
+2110,2025-09-05,07:15PM,ATL:Atlanta Braves,SEA:Seattle Mariners
+2111,2025-09-05,07:35PM,TBR:Tampa Bay Rays,CLE:Cleveland Guardians
+2112,2025-09-05,07:40PM,KCR:Kansas City Royals,MIN:Minnesota Twins
+2113,2025-09-05,08:05PM,TEX:Texas Rangers,HOU:Houston Astros
+2114,2025-09-05,08:15PM,STL:St. Louis Cardinals,SFG:San Francisco Giants
+2115,2025-09-05,08:40PM,COL:Colorado Rockies,SDP:San Diego Padres
+2116,2025-09-05,09:38PM,LAA:Los Angeles Angels,ATH:Athletics
+2117,2025-09-05,09:40PM,ARI:Arizona D'Backs,BOS:Boston Red Sox
+2118,2025-09-06,01:05PM,NYY:New York Yankees,TOR:Toronto Blue Jays
+2119,2025-09-06,02:20PM,CHC:Chicago Cubs,WSN:Washington Nationals
+2120,2025-09-06,04:10PM,MIA:Miami Marlins,PHI:Philadelphia Phillies
+2121,2025-09-06,06:10PM,DET:Detroit Tigers,CHW:Chicago White Sox
+2122,2025-09-06,06:40PM,CIN:Cincinnati Reds,NYM:New York Mets
+2123,2025-09-06,06:40PM,PIT:Pittsburgh Pirates,MIL:Milwaukee Brewers
+2124,2025-09-06,07:05PM,BAL:Baltimore Orioles,LAD:Los Angeles Dodgers
+2125,2025-09-06,07:05PM,TBR:Tampa Bay Rays,CLE:Cleveland Guardians
+2126,2025-09-06,07:15PM,ATL:Atlanta Braves,SEA:Seattle Mariners
+2127,2025-09-06,07:15PM,KCR:Kansas City Royals,MIN:Minnesota Twins
+2128,2025-09-06,07:15PM,STL:St. Louis Cardinals,SFG:San Francisco Giants
+2129,2025-09-06,07:15PM,TEX:Texas Rangers,HOU:Houston Astros
+2130,2025-09-06,08:10PM,ARI:Arizona D'Backs,BOS:Boston Red Sox
+2131,2025-09-06,08:10PM,COL:Colorado Rockies,SDP:San Diego Padres
+2132,2025-09-06,09:38PM,LAA:Los Angeles Angels,ATH:Athletics
+2135,2025-09-07,01:35PM,BAL:Baltimore Orioles,LAD:Los Angeles Dodgers
+2136,2025-09-07,01:35PM,NYY:New York Yankees,TOR:Toronto Blue Jays
+2137,2025-09-07,01:35PM,PIT:Pittsburgh Pirates,MIL:Milwaukee Brewers
+2138,2025-09-07,01:40PM,CIN:Cincinnati Reds,NYM:New York Mets
+2139,2025-09-07,01:40PM,DET:Detroit Tigers,CHW:Chicago White Sox
+2140,2025-09-07,01:40PM,MIA:Miami Marlins,PHI:Philadelphia Phillies
+2141,2025-09-07,02:10PM,KCR:Kansas City Royals,MIN:Minnesota Twins
+2142,2025-09-07,02:15PM,STL:St. Louis Cardinals,SFG:San Francisco Giants
+2143,2025-09-07,02:20PM,CHC:Chicago Cubs,WSN:Washington Nationals
+2144,2025-09-07,02:35PM,TEX:Texas Rangers,HOU:Houston Astros
+2145,2025-09-07,03:10PM,COL:Colorado Rockies,SDP:San Diego Padres
+2146,2025-09-07,04:07PM,LAA:Los Angeles Angels,ATH:Athletics
+2147,2025-09-07,04:10PM,ARI:Arizona D'Backs,BOS:Boston Red Sox
+2133,2025-09-07,12:05PM,ATL:Atlanta Braves,SEA:Seattle Mariners
+2134,2025-09-07,12:10PM,TBR:Tampa Bay Rays,CLE:Cleveland Guardians
+2148,2025-09-08,06:40PM,CLE:Cleveland Guardians,KCR:Kansas City Royals
+2149,2025-09-08,06:40PM,MIA:Miami Marlins,WSN:Washington Nationals
+2150,2025-09-08,06:45PM,PHI:Philadelphia Phillies,NYM:New York Mets
+2151,2025-09-08,07:15PM,ATL:Atlanta Braves,CHC:Chicago Cubs
+2152,2025-09-08,08:05PM,TEX:Texas Rangers,MIL:Milwaukee Brewers
+2153,2025-09-08,09:38PM,LAA:Los Angeles Angels,MIN:Minnesota Twins
+2154,2025-09-08,09:40PM,SDP:San Diego Padres,CIN:Cincinnati Reds
+2155,2025-09-08,09:40PM,SEA:Seattle Mariners,STL:St. Louis Cardinals
+2156,2025-09-08,09:45PM,SFG:San Francisco Giants,ARI:Arizona D'Backs
+2157,2025-09-08,10:05PM,ATH:Athletics,BOS:Boston Red Sox
+2158,2025-09-08,10:10PM,LAD:Los Angeles Dodgers,COL:Colorado Rockies
+2159,2025-09-09,06:35PM,BAL:Baltimore Orioles,PIT:Pittsburgh Pirates
+2160,2025-09-09,06:40PM,CLE:Cleveland Guardians,KCR:Kansas City Royals
+2161,2025-09-09,06:40PM,MIA:Miami Marlins,WSN:Washington Nationals
+2162,2025-09-09,06:45PM,PHI:Philadelphia Phillies,NYM:New York Mets
+2163,2025-09-09,07:05PM,NYY:New York Yankees,DET:Detroit Tigers
+2164,2025-09-09,07:07PM,TOR:Toronto Blue Jays,HOU:Houston Astros
+2165,2025-09-09,07:15PM,ATL:Atlanta Braves,CHC:Chicago Cubs
+2166,2025-09-09,07:40PM,CHW:Chicago White Sox,TBR:Tampa Bay Rays
+2167,2025-09-09,08:05PM,TEX:Texas Rangers,MIL:Milwaukee Brewers
+2168,2025-09-09,09:38PM,LAA:Los Angeles Angels,MIN:Minnesota Twins
+2169,2025-09-09,09:40PM,SDP:San Diego Padres,CIN:Cincinnati Reds
+2170,2025-09-09,09:40PM,SEA:Seattle Mariners,STL:St. Louis Cardinals
+2171,2025-09-09,09:45PM,SFG:San Francisco Giants,ARI:Arizona D'Backs
+2172,2025-09-09,10:05PM,ATH:Athletics,BOS:Boston Red Sox
+2173,2025-09-09,10:10PM,LAD:Los Angeles Dodgers,COL:Colorado Rockies
+2174,2025-09-10,02:35PM,TEX:Texas Rangers,MIL:Milwaukee Brewers
+2175,2025-09-10,03:35PM,ATH:Athletics,BOS:Boston Red Sox
+2176,2025-09-10,03:45PM,SFG:San Francisco Giants,ARI:Arizona D'Backs
+2177,2025-09-10,04:07PM,LAA:Los Angeles Angels,MIN:Minnesota Twins
+2178,2025-09-10,06:35PM,BAL:Baltimore Orioles,PIT:Pittsburgh Pirates
+2179,2025-09-10,06:40PM,CLE:Cleveland Guardians,KCR:Kansas City Royals
+2180,2025-09-10,06:40PM,MIA:Miami Marlins,WSN:Washington Nationals
+2181,2025-09-10,06:45PM,PHI:Philadelphia Phillies,NYM:New York Mets
+2182,2025-09-10,07:05PM,NYY:New York Yankees,DET:Detroit Tigers
+2183,2025-09-10,07:07PM,TOR:Toronto Blue Jays,HOU:Houston Astros
+2184,2025-09-10,07:15PM,ATL:Atlanta Braves,CHC:Chicago Cubs
+2185,2025-09-10,07:40PM,CHW:Chicago White Sox,TBR:Tampa Bay Rays
+2186,2025-09-10,08:40PM,SDP:San Diego Padres,CIN:Cincinnati Reds
+2187,2025-09-10,09:40PM,SEA:Seattle Mariners,STL:St. Louis Cardinals
+2188,2025-09-10,10:10PM,LAD:Los Angeles Dodgers,COL:Colorado Rockies
+2189,2025-09-11,01:05PM,BAL:Baltimore Orioles,PIT:Pittsburgh Pirates
+2190,2025-09-11,02:10PM,CHW:Chicago White Sox,TBR:Tampa Bay Rays
+2191,2025-09-11,03:07PM,TOR:Toronto Blue Jays,HOU:Houston Astros
+2192,2025-09-11,06:40PM,MIA:Miami Marlins,WSN:Washington Nationals
+2193,2025-09-11,07:05PM,NYY:New York Yankees,DET:Detroit Tigers
+2194,2025-09-11,07:15PM,CLE:Cleveland Guardians,KCR:Kansas City Royals
+2195,2025-09-11,07:15PM,PHI:Philadelphia Phillies,NYM:New York Mets
+2196,2025-09-11,09:40PM,SDP:San Diego Padres,COL:Colorado Rockies
+2197,2025-09-11,09:40PM,SEA:Seattle Mariners,LAA:Los Angeles Angels
+2198,2025-09-12,02:20PM,CHC:Chicago Cubs,TBR:Tampa Bay Rays
+2199,2025-09-12,06:45PM,PHI:Philadelphia Phillies,KCR:Kansas City Royals
+2200,2025-09-12,06:45PM,WSN:Washington Nationals,PIT:Pittsburgh Pirates
+2201,2025-09-12,07:07PM,TOR:Toronto Blue Jays,BAL:Baltimore Orioles
+2202,2025-09-12,07:10PM,BOS:Boston Red Sox,NYY:New York Yankees
+2203,2025-09-12,07:10PM,CLE:Cleveland Guardians,CHW:Chicago White Sox
+2204,2025-09-12,07:10PM,MIA:Miami Marlins,DET:Detroit Tigers
+2205,2025-09-12,07:10PM,NYM:New York Mets,TEX:Texas Rangers
+2206,2025-09-12,07:15PM,ATL:Atlanta Braves,HOU:Houston Astros
+2207,2025-09-12,08:10PM,MIL:Milwaukee Brewers,STL:St. Louis Cardinals
+2208,2025-09-12,08:10PM,MIN:Minnesota Twins,ARI:Arizona D'Backs
+2209,2025-09-12,09:40PM,SDP:San Diego Padres,COL:Colorado Rockies
+2210,2025-09-12,10:05PM,ATH:Athletics,CIN:Cincinnati Reds
+2211,2025-09-12,10:10PM,SEA:Seattle Mariners,LAA:Los Angeles Angels
+2212,2025-09-12,10:15PM,SFG:San Francisco Giants,LAD:Los Angeles Dodgers
+2213,2025-09-13,02:20PM,CHC:Chicago Cubs,TBR:Tampa Bay Rays
+2214,2025-09-13,03:07PM,TOR:Toronto Blue Jays,BAL:Baltimore Orioles
+2215,2025-09-13,04:05PM,WSN:Washington Nationals,PIT:Pittsburgh Pirates
+2216,2025-09-13,04:10PM,BOS:Boston Red Sox,NYY:New York Yankees
+2217,2025-09-13,04:10PM,MIA:Miami Marlins,DET:Detroit Tigers
+2218,2025-09-13,04:10PM,NYM:New York Mets,TEX:Texas Rangers
+2219,2025-09-13,06:05PM,PHI:Philadelphia Phillies,KCR:Kansas City Royals
+2220,2025-09-13,06:10PM,CLE:Cleveland Guardians,CHW:Chicago White Sox
+2221,2025-09-13,07:10PM,MIL:Milwaukee Brewers,STL:St. Louis Cardinals
+2222,2025-09-13,07:10PM,MIN:Minnesota Twins,ARI:Arizona D'Backs
+2223,2025-09-13,07:15PM,ATL:Atlanta Braves,HOU:Houston Astros
+2224,2025-09-13,08:40PM,SDP:San Diego Padres,COL:Colorado Rockies
+2225,2025-09-13,09:05PM,SFG:San Francisco Giants,LAD:Los Angeles Dodgers
+2226,2025-09-13,09:40PM,SEA:Seattle Mariners,LAA:Los Angeles Angels
+2227,2025-09-13,10:05PM,ATH:Athletics,CIN:Cincinnati Reds
+2228,2025-09-14,01:35PM,ATL:Atlanta Braves,HOU:Houston Astros
+2229,2025-09-14,01:35PM,BOS:Boston Red Sox,NYY:New York Yankees
+2230,2025-09-14,01:35PM,PHI:Philadelphia Phillies,KCR:Kansas City Royals
+2231,2025-09-14,01:35PM,WSN:Washington Nationals,PIT:Pittsburgh Pirates
+2232,2025-09-14,01:37PM,TOR:Toronto Blue Jays,BAL:Baltimore Orioles
+2233,2025-09-14,01:40PM,CLE:Cleveland Guardians,CHW:Chicago White Sox
+2234,2025-09-14,01:40PM,MIA:Miami Marlins,DET:Detroit Tigers
+2235,2025-09-14,01:40PM,NYM:New York Mets,TEX:Texas Rangers
+2236,2025-09-14,02:10PM,MIL:Milwaukee Brewers,STL:St. Louis Cardinals
+2237,2025-09-14,02:10PM,MIN:Minnesota Twins,ARI:Arizona D'Backs
+2238,2025-09-14,02:20PM,CHC:Chicago Cubs,TBR:Tampa Bay Rays
+2239,2025-09-14,04:05PM,ATH:Athletics,CIN:Cincinnati Reds
+2240,2025-09-14,04:05PM,SFG:San Francisco Giants,LAD:Los Angeles Dodgers
+2241,2025-09-14,04:10PM,SDP:San Diego Padres,COL:Colorado Rockies
+2242,2025-09-14,04:10PM,SEA:Seattle Mariners,LAA:Los Angeles Angels
+2243,2025-09-15,06:40PM,PIT:Pittsburgh Pirates,CHC:Chicago Cubs
+2244,2025-09-15,06:45PM,WSN:Washington Nationals,ATL:Atlanta Braves
+2245,2025-09-15,07:35PM,TBR:Tampa Bay Rays,TOR:Toronto Blue Jays
+2246,2025-09-15,07:40PM,CHW:Chicago White Sox,BAL:Baltimore Orioles
+2247,2025-09-15,07:40PM,MIN:Minnesota Twins,NYY:New York Yankees
+2248,2025-09-15,07:45PM,STL:St. Louis Cardinals,CIN:Cincinnati Reds
+2249,2025-09-15,08:10PM,HOU:Houston Astros,TEX:Texas Rangers
+2250,2025-09-15,09:40PM,ARI:Arizona D'Backs,SFG:San Francisco Giants
+2251,2025-09-15,10:10PM,LAD:Los Angeles Dodgers,PHI:Philadelphia Phillies
+2252,2025-09-16,01:05PM,WSN:Washington Nationals,ATL:Atlanta Braves
+2253,2025-09-16,06:40PM,DET:Detroit Tigers,CLE:Cleveland Guardians
+2254,2025-09-16,06:40PM,PIT:Pittsburgh Pirates,CHC:Chicago Cubs
+2255,2025-09-16,06:45PM,BOS:Boston Red Sox,ATH:Athletics
+2256,2025-09-16,06:45PM,WSN:Washington Nationals,ATL:Atlanta Braves
+2257,2025-09-16,07:10PM,NYM:New York Mets,SDP:San Diego Padres
+2258,2025-09-16,07:35PM,TBR:Tampa Bay Rays,TOR:Toronto Blue Jays
+2259,2025-09-16,07:40PM,CHW:Chicago White Sox,BAL:Baltimore Orioles
+2260,2025-09-16,07:40PM,KCR:Kansas City Royals,SEA:Seattle Mariners
+2261,2025-09-16,07:40PM,MIL:Milwaukee Brewers,LAA:Los Angeles Angels
+2262,2025-09-16,07:40PM,MIN:Minnesota Twins,NYY:New York Yankees
+2263,2025-09-16,07:45PM,STL:St. Louis Cardinals,CIN:Cincinnati Reds
+2264,2025-09-16,08:10PM,HOU:Houston Astros,TEX:Texas Rangers
+2265,2025-09-16,08:40PM,COL:Colorado Rockies,MIA:Miami Marlins
+2266,2025-09-16,09:40PM,ARI:Arizona D'Backs,SFG:San Francisco Giants
+2267,2025-09-16,10:10PM,LAD:Los Angeles Dodgers,PHI:Philadelphia Phillies
+2269,2025-09-17,01:15PM,STL:St. Louis Cardinals,CIN:Cincinnati Reds
+2270,2025-09-17,02:10PM,CHW:Chicago White Sox,BAL:Baltimore Orioles
+2271,2025-09-17,03:40PM,ARI:Arizona D'Backs,SFG:San Francisco Giants
+2272,2025-09-17,04:05PM,WSN:Washington Nationals,ATL:Atlanta Braves
+2273,2025-09-17,06:40PM,DET:Detroit Tigers,CLE:Cleveland Guardians
+2274,2025-09-17,06:45PM,BOS:Boston Red Sox,ATH:Athletics
+2275,2025-09-17,07:05PM,TBR:Tampa Bay Rays,TOR:Toronto Blue Jays
+2276,2025-09-17,07:10PM,NYM:New York Mets,SDP:San Diego Padres
+2277,2025-09-17,07:40PM,KCR:Kansas City Royals,SEA:Seattle Mariners
+2278,2025-09-17,07:40PM,MIL:Milwaukee Brewers,LAA:Los Angeles Angels
+2279,2025-09-17,07:40PM,MIN:Minnesota Twins,NYY:New York Yankees
+2280,2025-09-17,08:10PM,HOU:Houston Astros,TEX:Texas Rangers
+2281,2025-09-17,08:40PM,COL:Colorado Rockies,MIA:Miami Marlins
+2282,2025-09-17,10:10PM,LAD:Los Angeles Dodgers,PHI:Philadelphia Phillies
+2268,2025-09-17,12:35PM,PIT:Pittsburgh Pirates,CHC:Chicago Cubs
+2283,2025-09-18,01:10PM,DET:Detroit Tigers,CLE:Cleveland Guardians
+2284,2025-09-18,01:10PM,NYM:New York Mets,SDP:San Diego Padres
+2285,2025-09-18,01:10PM,TBR:Tampa Bay Rays,TOR:Toronto Blue Jays
+2286,2025-09-18,01:35PM,BOS:Boston Red Sox,ATH:Athletics
+2287,2025-09-18,02:10PM,KCR:Kansas City Royals,SEA:Seattle Mariners
+2288,2025-09-18,03:10PM,COL:Colorado Rockies,MIA:Miami Marlins
+2289,2025-09-18,07:15PM,BAL:Baltimore Orioles,NYY:New York Yankees
+2290,2025-09-18,07:15PM,CIN:Cincinnati Reds,CHC:Chicago Cubs
+2291,2025-09-18,07:40PM,MIL:Milwaukee Brewers,LAA:Los Angeles Angels
+2292,2025-09-18,10:10PM,LAD:Los Angeles Dodgers,SFG:San Francisco Giants
+2293,2025-09-19,06:40PM,CIN:Cincinnati Reds,CHC:Chicago Cubs
+2294,2025-09-19,06:40PM,DET:Detroit Tigers,ATL:Atlanta Braves
+2295,2025-09-19,06:40PM,PIT:Pittsburgh Pirates,ATH:Athletics
+2296,2025-09-19,07:05PM,BAL:Baltimore Orioles,NYY:New York Yankees
+2297,2025-09-19,07:10PM,NYM:New York Mets,WSN:Washington Nationals
+2298,2025-09-19,07:35PM,TBR:Tampa Bay Rays,BOS:Boston Red Sox
+2299,2025-09-19,07:40PM,CHW:Chicago White Sox,SDP:San Diego Padres
+2300,2025-09-19,07:40PM,KCR:Kansas City Royals,TOR:Toronto Blue Jays
+2301,2025-09-19,08:05PM,TEX:Texas Rangers,MIA:Miami Marlins
+2302,2025-09-19,08:10PM,COL:Colorado Rockies,LAA:Los Angeles Angels
+2303,2025-09-19,08:10PM,HOU:Houston Astros,SEA:Seattle Mariners
+2304,2025-09-19,08:10PM,MIN:Minnesota Twins,CLE:Cleveland Guardians
+2305,2025-09-19,08:15PM,STL:St. Louis Cardinals,MIL:Milwaukee Brewers
+2306,2025-09-19,09:40PM,ARI:Arizona D'Backs,PHI:Philadelphia Phillies
+2307,2025-09-19,10:10PM,LAD:Los Angeles Dodgers,SFG:San Francisco Giants
+2308,2025-09-20,01:10PM,DET:Detroit Tigers,ATL:Atlanta Braves
+2309,2025-09-20,02:10PM,MIN:Minnesota Twins,CLE:Cleveland Guardians
+2310,2025-09-20,04:10PM,NYM:New York Mets,WSN:Washington Nationals
+2311,2025-09-20,06:40PM,CIN:Cincinnati Reds,CHC:Chicago Cubs
+2312,2025-09-20,06:40PM,PIT:Pittsburgh Pirates,ATH:Athletics
+2313,2025-09-20,07:05PM,BAL:Baltimore Orioles,NYY:New York Yankees
+2314,2025-09-20,07:05PM,TBR:Tampa Bay Rays,BOS:Boston Red Sox
+2315,2025-09-20,07:05PM,TEX:Texas Rangers,MIA:Miami Marlins
+2316,2025-09-20,07:10PM,CHW:Chicago White Sox,SDP:San Diego Padres
+2317,2025-09-20,07:10PM,HOU:Houston Astros,SEA:Seattle Mariners
+2318,2025-09-20,07:10PM,KCR:Kansas City Royals,TOR:Toronto Blue Jays
+2319,2025-09-20,07:10PM,MIN:Minnesota Twins,CLE:Cleveland Guardians
+2320,2025-09-20,07:15PM,STL:St. Louis Cardinals,MIL:Milwaukee Brewers
+2321,2025-09-20,08:10PM,ARI:Arizona D'Backs,PHI:Philadelphia Phillies
+2322,2025-09-20,08:10PM,COL:Colorado Rockies,LAA:Los Angeles Angels
+2323,2025-09-20,09:10PM,LAD:Los Angeles Dodgers,SFG:San Francisco Giants
+2324,2025-09-21,01:35PM,BAL:Baltimore Orioles,NYY:New York Yankees
+2325,2025-09-21,01:35PM,PIT:Pittsburgh Pirates,ATH:Athletics
+2326,2025-09-21,01:40PM,CIN:Cincinnati Reds,CHC:Chicago Cubs
+2327,2025-09-21,01:40PM,DET:Detroit Tigers,ATL:Atlanta Braves
+2328,2025-09-21,01:40PM,NYM:New York Mets,WSN:Washington Nationals
+2329,2025-09-21,02:10PM,CHW:Chicago White Sox,SDP:San Diego Padres
+2330,2025-09-21,02:10PM,HOU:Houston Astros,SEA:Seattle Mariners
+2331,2025-09-21,02:10PM,KCR:Kansas City Royals,TOR:Toronto Blue Jays
+2332,2025-09-21,02:10PM,MIN:Minnesota Twins,CLE:Cleveland Guardians
+2333,2025-09-21,02:15PM,STL:St. Louis Cardinals,MIL:Milwaukee Brewers
+2334,2025-09-21,02:35PM,TEX:Texas Rangers,MIA:Miami Marlins
+2335,2025-09-21,03:10PM,COL:Colorado Rockies,LAA:Los Angeles Angels
+2336,2025-09-21,04:10PM,ARI:Arizona D'Backs,PHI:Philadelphia Phillies
+2337,2025-09-21,04:10PM,LAD:Los Angeles Dodgers,SFG:San Francisco Giants
+2338,2025-09-21,07:35PM,TBR:Tampa Bay Rays,BOS:Boston Red Sox
+2339,2025-09-22,07:15PM,ATL:Atlanta Braves,WSN:Washington Nationals
+2340,2025-09-22,09:40PM,SDP:San Diego Padres,MIL:Milwaukee Brewers
+2341,2025-09-22,09:45PM,SFG:San Francisco Giants,STL:St. Louis Cardinals
+2342,2025-09-23,06:35PM,BAL:Baltimore Orioles,TBR:Tampa Bay Rays
+2343,2025-09-23,06:40PM,CIN:Cincinnati Reds,PIT:Pittsburgh Pirates
+2344,2025-09-23,06:40PM,CLE:Cleveland Guardians,DET:Detroit Tigers
+2345,2025-09-23,06:45PM,PHI:Philadelphia Phillies,MIA:Miami Marlins
+2346,2025-09-23,07:05PM,NYY:New York Yankees,CHW:Chicago White Sox
+2347,2025-09-23,07:07PM,TOR:Toronto Blue Jays,BOS:Boston Red Sox
+2348,2025-09-23,07:15PM,ATL:Atlanta Braves,WSN:Washington Nationals
+2349,2025-09-23,07:40PM,CHC:Chicago Cubs,NYM:New York Mets
+2350,2025-09-23,08:05PM,TEX:Texas Rangers,MIN:Minnesota Twins
+2351,2025-09-23,09:38PM,LAA:Los Angeles Angels,KCR:Kansas City Royals
+2352,2025-09-23,09:40PM,ARI:Arizona D'Backs,LAD:Los Angeles Dodgers
+2353,2025-09-23,09:40PM,SDP:San Diego Padres,MIL:Milwaukee Brewers
+2354,2025-09-23,09:40PM,SEA:Seattle Mariners,COL:Colorado Rockies
+2355,2025-09-23,09:45PM,SFG:San Francisco Giants,STL:St. Louis Cardinals
+2356,2025-09-23,10:05PM,ATH:Athletics,HOU:Houston Astros
+2358,2025-09-24,04:10PM,SDP:San Diego Padres,MIL:Milwaukee Brewers
+2359,2025-09-24,06:35PM,BAL:Baltimore Orioles,TBR:Tampa Bay Rays
+2360,2025-09-24,06:40PM,CIN:Cincinnati Reds,PIT:Pittsburgh Pirates
+2361,2025-09-24,06:40PM,CLE:Cleveland Guardians,DET:Detroit Tigers
+2362,2025-09-24,06:45PM,PHI:Philadelphia Phillies,MIA:Miami Marlins
+2363,2025-09-24,07:05PM,NYY:New York Yankees,CHW:Chicago White Sox
+2364,2025-09-24,07:07PM,TOR:Toronto Blue Jays,BOS:Boston Red Sox
+2365,2025-09-24,07:40PM,CHC:Chicago Cubs,NYM:New York Mets
+2366,2025-09-24,08:05PM,TEX:Texas Rangers,MIN:Minnesota Twins
+2367,2025-09-24,09:38PM,LAA:Los Angeles Angels,KCR:Kansas City Royals
+2368,2025-09-24,09:40PM,ARI:Arizona D'Backs,LAD:Los Angeles Dodgers
+2369,2025-09-24,09:40PM,SEA:Seattle Mariners,COL:Colorado Rockies
+2370,2025-09-24,09:45PM,SFG:San Francisco Giants,STL:St. Louis Cardinals
+2371,2025-09-24,10:05PM,ATH:Athletics,HOU:Houston Astros
+2357,2025-09-24,12:15PM,ATL:Atlanta Braves,WSN:Washington Nationals
+2373,2025-09-25,01:05PM,BAL:Baltimore Orioles,TBR:Tampa Bay Rays
+2374,2025-09-25,02:35PM,TEX:Texas Rangers,MIN:Minnesota Twins
+2375,2025-09-25,03:35PM,ATH:Athletics,HOU:Houston Astros
+2376,2025-09-25,03:40PM,ARI:Arizona D'Backs,LAD:Los Angeles Dodgers
+2377,2025-09-25,06:05PM,PHI:Philadelphia Phillies,MIA:Miami Marlins
+2378,2025-09-25,06:40PM,CLE:Cleveland Guardians,DET:Detroit Tigers
+2379,2025-09-25,07:05PM,NYY:New York Yankees,CHW:Chicago White Sox
+2380,2025-09-25,07:07PM,TOR:Toronto Blue Jays,BOS:Boston Red Sox
+2381,2025-09-25,07:40PM,CHC:Chicago Cubs,NYM:New York Mets
+2382,2025-09-25,09:38PM,LAA:Los Angeles Angels,KCR:Kansas City Royals
+2383,2025-09-25,09:40PM,SEA:Seattle Mariners,COL:Colorado Rockies
+2372,2025-09-25,12:40PM,CIN:Cincinnati Reds,PIT:Pittsburgh Pirates
+2384,2025-09-26,02:20PM,CHC:Chicago Cubs,STL:St. Louis Cardinals
+2385,2025-09-26,06:45PM,PHI:Philadelphia Phillies,MIN:Minnesota Twins
+2386,2025-09-26,06:45PM,WSN:Washington Nationals,CHW:Chicago White Sox
+2387,2025-09-26,07:05PM,NYY:New York Yankees,BAL:Baltimore Orioles
+2388,2025-09-26,07:07PM,TOR:Toronto Blue Jays,TBR:Tampa Bay Rays
+2389,2025-09-26,07:10PM,BOS:Boston Red Sox,DET:Detroit Tigers
+2390,2025-09-26,07:10PM,CLE:Cleveland Guardians,TEX:Texas Rangers
+2391,2025-09-26,07:10PM,MIA:Miami Marlins,NYM:New York Mets
+2392,2025-09-26,07:15PM,ATL:Atlanta Braves,PIT:Pittsburgh Pirates
+2393,2025-09-26,08:10PM,MIL:Milwaukee Brewers,CIN:Cincinnati Reds
+2394,2025-09-26,09:38PM,LAA:Los Angeles Angels,HOU:Houston Astros
+2395,2025-09-26,09:40PM,SDP:San Diego Padres,ARI:Arizona D'Backs
+2396,2025-09-26,09:40PM,SEA:Seattle Mariners,LAD:Los Angeles Dodgers
+2397,2025-09-26,10:05PM,ATH:Athletics,KCR:Kansas City Royals
+2398,2025-09-26,10:15PM,SFG:San Francisco Giants,COL:Colorado Rockies
+2399,2025-09-27,01:05PM,NYY:New York Yankees,BAL:Baltimore Orioles
+2400,2025-09-27,02:20PM,CHC:Chicago Cubs,STL:St. Louis Cardinals
+2401,2025-09-27,03:07PM,TOR:Toronto Blue Jays,TBR:Tampa Bay Rays
+2402,2025-09-27,04:05PM,SFG:San Francisco Giants,COL:Colorado Rockies
+2403,2025-09-27,04:05PM,WSN:Washington Nationals,CHW:Chicago White Sox
+2404,2025-09-27,04:10PM,BOS:Boston Red Sox,DET:Detroit Tigers
+2405,2025-09-27,04:10PM,MIA:Miami Marlins,NYM:New York Mets
+2406,2025-09-27,06:05PM,PHI:Philadelphia Phillies,MIN:Minnesota Twins
+2407,2025-09-27,06:10PM,CLE:Cleveland Guardians,TEX:Texas Rangers
+2408,2025-09-27,07:10PM,MIL:Milwaukee Brewers,CIN:Cincinnati Reds
+2409,2025-09-27,07:15PM,ATL:Atlanta Braves,PIT:Pittsburgh Pirates
+2410,2025-09-27,08:40PM,SDP:San Diego Padres,ARI:Arizona D'Backs
+2411,2025-09-27,09:38PM,LAA:Los Angeles Angels,HOU:Houston Astros
+2412,2025-09-27,09:40PM,SEA:Seattle Mariners,LAD:Los Angeles Dodgers
+2413,2025-09-27,10:05PM,ATH:Athletics,KCR:Kansas City Royals
+2414,2025-09-28,03:05PM,ATH:Athletics,KCR:Kansas City Royals
+2415,2025-09-28,03:05PM,BOS:Boston Red Sox,DET:Detroit Tigers
+2416,2025-09-28,03:05PM,NYY:New York Yankees,BAL:Baltimore Orioles
+2417,2025-09-28,03:05PM,PHI:Philadelphia Phillies,MIN:Minnesota Twins
+2418,2025-09-28,03:05PM,SFG:San Francisco Giants,COL:Colorado Rockies
+2419,2025-09-28,03:05PM,WSN:Washington Nationals,CHW:Chicago White Sox
+2420,2025-09-28,03:07PM,LAA:Los Angeles Angels,HOU:Houston Astros
+2421,2025-09-28,03:07PM,TOR:Toronto Blue Jays,TBR:Tampa Bay Rays
+2422,2025-09-28,03:10PM,CLE:Cleveland Guardians,TEX:Texas Rangers
+2423,2025-09-28,03:10PM,MIA:Miami Marlins,NYM:New York Mets
+2424,2025-09-28,03:10PM,MIL:Milwaukee Brewers,CIN:Cincinnati Reds
+2425,2025-09-28,03:10PM,SDP:San Diego Padres,ARI:Arizona D'Backs
+2426,2025-09-28,03:10PM,SEA:Seattle Mariners,LAD:Los Angeles Dodgers
+2427,2025-09-28,03:15PM,ATL:Atlanta Braves,PIT:Pittsburgh Pirates
+2428,2025-09-28,03:20PM,CHC:Chicago Cubs,STL:St. Louis Cardinals
