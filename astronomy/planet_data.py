@@ -1,11 +1,9 @@
-import warnings # type: ignore
-warnings.filterwarnings('ignore') # type: ignore
-from datetime import date, timedelta # type: ignore
-import firebase_admin # type: ignore
-from firebase_admin import credentials, firestore # type: ignore
-import os # type: ignore
-from skyfield.api import load # type: ignore
-from skyfield.magnitudelib import planetary_magnitude # type: ignore
+from datetime import date, timedelta
+import firebase_admin
+from firebase_admin import credentials, firestore
+import os
+from skyfield.api import load
+from skyfield.magnitudelib import planetary_magnitude
 
 try:
     os.remove('/Users/trevor/de421.bsp')
@@ -23,7 +21,7 @@ SOLAR_OBJECTS = {
     'Saturn': PLANETS['saturn BARYCENTER'],
     'Uranus': PLANETS['uranus BARYCENTER'],
     'Neptune': PLANETS['neptune BARYCENTER']
-    }
+}
 
 def get_planet_data(planet, name, id, spect):
     ts = load.timescale()
@@ -41,11 +39,13 @@ def get_planet_data(planet, name, id, spect):
     return {
         'id': id,
         'name': name,
-        'rightAscension': ra.hours,
-        'declination': dec.degrees,
-        'magnitude': mag,
-        'spectralType': chr(spect),
-        'distance': float(dist.au)
+        'constellation': "",
+        'distance': float(dist.au),
+        'declination': float(dec.degrees),
+        'rightAscension': float(ra.hours),
+        'magnitude': float(mag),
+        'luminosity': -999.0,
+        'spectralType': chr(spect)
     }
 
 def main():
@@ -62,19 +62,11 @@ def main():
         id += 1.0
         spect += 1
 
-    stars_ref = db.collection('stars')
-    for name in SOLAR_OBJECTS.keys():
-        query = stars_ref.where('name', '==', name)
-        docs = query.get()
-        for doc in docs:
-            doc.reference.delete()
-
-    for data in planet_data:
-        data['rightAscension'] = float(data['rightAscension'])
-        data['declination'] = float(data['declination'])
-        data['magnitude'] = float(data['magnitude'])
+    objects_ref = db.collection('objects')
+    planets_doc = objects_ref.document('planets')
+    planets_doc.delete()
         
-        stars_ref.document(str(int(data['id']))).set(data)
+    objects_ref.document('planets').set({'data': planet_data})
     print('Solar system objects updated in Firestore!')
 
 if __name__ == '__main__':

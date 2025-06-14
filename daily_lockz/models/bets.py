@@ -21,19 +21,15 @@ all_sims['datetime'] = pd.to_datetime(all_sims['time'], format='%I:%M%p')
 all_sims = all_sims.sort_values(by=['datetime','home_team']).reset_index(drop=True)
 all_sims = all_sims.drop(columns=['datetime'])
 
-dailylockz = db.collection('picks')
-existing_docs = dailylockz.stream()
-for doc in existing_docs:
-    doc.reference.delete()
+picks_ref = db.collection('picks')
+picks_doc = picks_ref.document('picks')
+picks_doc.delete()
 
 bets_dict = all_sims.to_dict(orient='records')
 for bet in bets_dict:
     bet['cur_date'] = bet['cur_date'].isoformat()
 
-document_id = 'picksArray'
-dailylockz.document(document_id).set({
-    'picks': bets_dict
-})
+picks_ref.document('picks').set({'data': bets_dict})
 print('Bets uploaded to Firestore.')
 
 os.chdir('trevorAppsWebsites/daily-lockz')
