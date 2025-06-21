@@ -67,7 +67,7 @@ def main():
     planets_doc.delete()
         
     objects_ref.document('planets').set({'data': planet_data})
-    print('Solar system objects updated in Firestore!')
+    print('Solar system objects updated in Firestore.')
 
 if __name__ == '__main__':
     main()
