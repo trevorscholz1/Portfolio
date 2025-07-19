@@ -39,7 +39,7 @@ def get_planet_data(planet, name, id, spect):
     return {
         'id': id,
         'name': name,
-        'constellation': "",
+        'constellation': '',
         'distance': float(dist.au),
         'declination': float(dec.degrees),
         'rightAscension': float(ra.hours),

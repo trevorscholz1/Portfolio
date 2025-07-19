@@ -130,12 +130,12 @@ def main():
                 if not fliff['h_spread'].empty and fliff['h_spread'][0] >= (SPREAD['h_spread'].mean() + 0.03):
                     odds = convert(fliff['h_spread'][0])
                     point = fliff['spread_point'][0]
-                    BETS.loc[len(BETS)] = {'sport': sport, 'team': home_team, 'type': 'SPREAD', 'point': point, 'odds': odds, 'time': time}
+                    BETS.loc[len(BETS)] = {'sport': sport, 'team': home_team, 'type': 'SPREAD', 'point': abs(point), 'odds': odds, 'time': time}
                     
                 if not fliff['a_spread'].empty and fliff['a_spread'][0] >= (SPREAD['a_spread'].mean() + 0.03):
                     odds = convert(fliff['a_spread'][0])
                     point = fliff['spread_point'][0]
-                    BETS.loc[len(BETS)] = {'sport': sport, 'team': away_team, 'type': 'SPREAD', 'point': point, 'odds': odds, 'time': time}
+                    BETS.loc[len(BETS)] = {'sport': sport, 'team': away_team, 'type': 'SPREAD', 'point': abs(point), 'odds': odds, 'time': time}
 
             if not fliff.empty:
                 TOTAL = GAME[GAME['total_point'] == fliff['total_point'][0]].reset_index()
