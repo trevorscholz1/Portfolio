@@ -124,289 +124,876 @@
 126,England FA-Cup,2025-08-02,10:00,4e6ac124:Punjab United,bf17ada4:Crowborough
 127,England FA-Cup,2025-08-02,10:00,41431017:Cirencester,a494124a:Highmoor
 129,England FA-Cup,2025-08-02,10:00,38269af5:Melksham,b9bb5e8b:Portchester
-130,England FA-Cup,2025-08-02,10:00,a1543700:Raynes Park,54e428dd:Forest Row
-131,England FA-Cup,2025-08-02,10:00,a1acea0e:Parkgate FC,48341a40:Eccleshill
-132,England FA-Cup,2025-08-02,10:00,05c8bc89:Corsham Town,1ff96ae5:Slimbridge
-133,England FA-Cup,2025-08-02,10:00,5782545f:Kirkley & Pak.,1f820f64:Cambridge Ct
-134,England FA-Cup,2025-08-02,10:00,e019b170:Saltash,be934956:Torpoint Athletic FC
-135,England FA-Cup,2025-08-02,10:00,c4d82458:Irlam,05c0b0d4:Thackley
-136,England FA-Cup,2025-08-02,10:00,a0263aa3:Three Bridges,f1ca8e27:Shoreham
-137,England FA-Cup,2025-08-02,10:00,04cb71ce:Bexhill United FC,41aeb45a:Sheerwater FC
-138,England FA-Cup,2025-08-02,10:00,cfc6e778:Histon,a95ddbf0:Thetford
-139,England FA-Cup,2025-08-02,10:00,06f4de43:Takeley,d5633f66:Crawley Green
-140,England FA-Cup,2025-08-02,10:00,78fd66d2:Burnham,bb6b177b:Holyport FC
-141,England FA-Cup,2025-08-02,10:00,8726fc8a:Horbury Town,273d208f:Wombwell Town
-142,England FA-Cup,2025-08-02,10:00,e3372d05:Boston Town,6d4ed351:Kimberley Miners Welfare FC
+130,England FA-Cup,2025-08-02,10:00,1d653bcf:Peacehaven,ca3056a6:Harefield United FC
+131,England FA-Cup,2025-08-02,10:00,c522fe94:Hallen,8dd11e62:Highworth
+132,England FA-Cup,2025-08-02,10:00,a1543700:Raynes Park,54e428dd:Forest Row
+133,England FA-Cup,2025-08-02,10:00,7599473c:Paulton,fdf07616:Hamble Club
+134,England FA-Cup,2025-08-02,10:00,d509b648:Abbey,0bdfe722:Corinthian
+135,England FA-Cup,2025-08-02,10:00,beeaafda:Hassocks,62ee4b5c:Rayners Lane FC
+136,England FA-Cup,2025-08-02,10:00,a4f3c5ca:Golcar United FC,8505d703:Ramsbottom
+137,England FA-Cup,2025-08-02,10:00,39260309:Trafford,c1687c98:Barnoldswick
+138,England FA-Cup,2025-08-02,10:00,cd2eebff:Cinderford,b8eb223a:Amersham Town FC
+139,England FA-Cup,2025-08-02,10:00,e7c023eb:Fakenham,d46965c7:Wroxham
+140,England FA-Cup,2025-08-02,10:00,9c348bd3:City Liverpool,37c07d86:Euxton Villa
+141,England FA-Cup,2025-08-02,10:00,d9a9d0c4:Bideford,235a0bad:Wellington
+142,England FA-Cup,2025-08-02,10:00,5e20c807:RC Warwick,03cc9336:Droitwich Spa
 143,England FA-Cup,2025-08-02,10:00,d6258730:Wythenshawe Town FC,bc42dbff:Prestwich Heys AFC
-144,England FA-Cup,2025-08-02,10:00,c522fe94:Hallen,8dd11e62:Highworth
-145,England FA-Cup,2025-08-02,10:00,e35051fe:Milton United FC,7f3a0611:Didcot Town
-146,England FA-Cup,2025-08-02,10:00,d509b648:Abbey,0bdfe722:Corinthian
-147,England FA-Cup,2025-08-02,10:00,a4f3c5ca:Golcar United FC,8505d703:Ramsbottom
-148,England FA-Cup,2025-08-02,10:00,39260309:Trafford,c1687c98:Barnoldswick
-149,England FA-Cup,2025-08-02,10:00,cd2eebff:Cinderford,b8eb223a:Amersham Town FC
-150,England FA-Cup,2025-08-02,10:00,e7c023eb:Fakenham,d46965c7:Wroxham
-151,England FA-Cup,2025-08-02,10:00,9c348bd3:City Liverpool,37c07d86:Euxton Villa
-152,England FA-Cup,2025-08-02,10:00,5e20c807:RC Warwick,03cc9336:Droitwich Spa
-153,England FA-Cup,2025-08-02,10:00,1d653bcf:Peacehaven,ca3056a6:Harefield United FC
-155,England FA-Cup,2025-08-02,10:00,a56c00fb:Bishop AL,3dd03e79:Whickham
-156,England FA-Cup,2025-08-02,10:00,f8c28259:Oadby Town,5f17a87d:Newark FC
-157,England FA-Cup,2025-08-02,10:00,9b5f5ba2:Harrowby United FC,5091b0a3:Bourne Town FC
-158,England FA-Cup,2025-08-02,10:00,fea74374:Bradford PA,2bf3ce84:Mossley
-159,England FA-Cup,2025-08-02,10:00,6c72992e:Mildenhall,9d2882b4:Downham Town FC
-160,England FA-Cup,2025-08-02,10:00,f56e10fd:Balham,4fdd2721:Faversham
-161,England FA-Cup,2025-08-02,10:00,d9a9d0c4:Bideford,235a0bad:Wellington
-162,England FA-Cup,2025-08-02,10:00,8bd6c45a:Eastbourne T,360e223a:Ashford
-163,England FA-Cup,2025-08-02,10:00,b95111bb:SC Inkberrow FC,88b9c0e6:Studley FC
-164,England FA-Cup,2025-08-02,10:00,2a3bd9a7:Dunstable,4fce24b5:Gr. Wakering
-165,England FA-Cup,2025-08-02,10:00,6a45c443:Daventry Town,a55589fa:Nirvana
-166,England FA-Cup,2025-08-02,10:00,e90d6cd6:Winsford Utd,1525ad79:West Didsbury
-167,England FA-Cup,2025-08-02,10:00,b822d8b7:Biggleswade FC,16af3fc1:Welwyn Garden
-168,England FA-Cup,2025-08-02,10:00,ec940df5:Haverhill Rov,e1b8d29b:Wisbech
-169,England FA-Cup,2025-08-02,10:00,647f02ca:Leighton Town,a5346ef3:Benfleet FC
-170,England FA-Cup,2025-08-02,10:00,edbb7f49:Hartpury University,e489d347:Tuffley
-171,England FA-Cup,2025-08-02,10:00,bd324020:Glossop NE,8cd10831:FC St Helens
-172,England FA-Cup,2025-08-02,10:00,c50b2ef4:St. Neots,202c986b:Great Yarmouth
-173,England FA-Cup,2025-08-02,10:00,94e90942:Penistone,14123a80:Padiham
-174,England FA-Cup,2025-08-02,10:00,b6c1f39d:Bradford Town,c5b06e34:Bournemouth
-175,England FA-Cup,2025-08-02,10:00,dfbab0a1:Baffins Milton,103a8391:Shaftesbury
-176,England FA-Cup,2025-08-02,10:00,cbc02110:Bury,ecb0351a:South Liverpool FC
-177,England FA-Cup,2025-08-02,10:00,beeaafda:Hassocks,62ee4b5c:Rayners Lane FC
-178,England FA-Cup,2025-08-02,10:00,7599473c:Paulton,fdf07616:Hamble Club
-179,England FA-Cup,2025-08-02,10:00,a72c7b0b:Redcar Athletic FC,696c420b:North Ferriby FC
-181,England FA-Cup,2025-08-02,10:00,9b96bd27:Lydney,9a02e66f:Wootton Basset
-182,England FA-Cup,2025-08-02,10:00,c4c44344:Snodland Town,d8dc356f:Broadfields
-183,England FA-Cup,2025-08-02,10:00,fc8e01ae:Benfield,ae7c0205:Pontefract
-184,England FA-Cup,2025-08-02,10:00,7a97ce29:Westbury Utd,15a2486a:Sherborne Town
-185,England FA-Cup,2025-08-02,10:00,83328109:Cockfosters FC,541eb2b3:Kings Langley
-186,England FA-Cup,2025-08-02,10:00,ca07d679:Colney Heath,f034ffd5:Woodford 2017
-187,England FA-Cup,2025-08-02,10:00,7cb039af:Marske Utd,4ca8da55:Carlisle City FC
-188,England FA-Cup,2025-08-02,10:00,9d333d4d:Kempston,3625eed4:Arlesey
-189,England FA-Cup,2025-08-02,10:00,3c6029ea:Seaford Town,2b275f24:Sutton AFC
-190,England FA-Cup,2025-08-02,10:00,4361d7f9:Witham,123c1e03:Frenford
-191,England FA-Cup,2025-08-02,10:00,b1853103:Baldock,c1bd7719:Little Oakley FC
-192,England FA-Cup,2025-08-02,10:00,905151b8:Lingfield FC,47ab32b3:Whitstable
-193,England FA-Cup,2025-08-02,10:00,82917d99:Pilkington,2b52c7d2:Longridge
-194,England FA-Cup,2025-08-02,10:00,ab9e500c:Tavistock,67eb4d7c:St. Austell
-195,England FA-Cup,2025-08-02,10:00,1069b646:East Grinstead,7c676798:Eastbourne Utd
-196,England FA-Cup,2025-08-02,10:00,45e81884:Beaconsfield,73ed98c8:Larkhall
-197,England FA-Cup,2025-08-02,10:00,7b6d7d4b:Whitley Bay,84d89f98:Heaton Stannington
-198,England FA-Cup,2025-08-02,10:00,34c2d664:Fisher,298c8071:Camberley
-199,England FA-Cup,2025-08-02,10:00,637a268c:Wick & Barnham United FC,746055cb:VCD Athletic
-200,England FA-Cup,2025-08-02,10:00,1efbc6eb:Charnock,8ed14386:Burscough
-201,England FA-Cup,2025-08-02,10:00,f8c64351:Stowmarket,8068a873:Ely City
-202,England FA-Cup,2025-08-02,10:00,109addf7:Boldmere,168e2664:Abbey Hulton Utd
-203,England FA-Cup,2025-08-02,10:00,32203553:Leverstock,fbf2a231:Ilford
-204,England FA-Cup,2025-08-02,10:00,b35b6762:Biggleswade U,27c01030:Newport Pagnel
-205,England FA-Cup,2025-08-02,10:00,e22c1459:Barking,d26c48f2:Grays
-207,England FA-Cup,2025-08-02,10:00,bbbad8d0:Binfield FC,edd0e873:Winslow Utd
-208,England FA-Cup,2025-08-02,10:00,c899c248:Portishead Town FC,60a307b4:Windsor & Eton
-209,England FA-Cup,2025-08-02,10:00,1aa130c4:Handsworth,57aa388d:Silsden
-210,England FA-Cup,2025-08-02,10:00,59b0aa9e:South Park,46f4e0b0:Newhaven
-211,England FA-Cup,2025-08-02,10:00,59331535:Cribbs,597dfb7c:Easington
-212,England FA-Cup,2025-08-02,10:00,4eaed6d4:Redhill FC,680ed164:Nth Greenford
-213,England FA-Cup,2025-08-02,10:00,03cb80f2:Milton Keynes Irish FC,8768fd23:Heybridge
-214,England FA-Cup,2025-08-02,10:00,665ff87c:Harwich & Parkeston FC,4acff3a3:AFC Dunstable
-215,England FA-Cup,2025-08-02,10:00,dfdd0f12:Guisborough,5f241f9b:Consett
-216,England FA-Cup,2025-08-02,10:00,e8979067:Maldon&Tiptree,9c6644e9:Buckhurst Hill FC
-217,England FA-Cup,2025-08-02,10:00,995840b9:Christchurch,5912b229:Bemerton Heath
-218,England FA-Cup,2025-08-02,10:00,54ff9fcc:Hythe,d73312d0:Littlehampton Town FC
-219,England FA-Cup,2025-08-02,10:00,517eb5d9:Knaresborough,2b59cdb7:Bridlington
-220,England FA-Cup,2025-08-02,10:00,ac3c6798:Bashley,4c7eb323:East Cowes Vics
-221,England FA-Cup,2025-08-02,10:00,95ffbc0a:Longlevens,69cc703d:Fairford
-222,England FA-Cup,2025-08-02,10:00,1fde7c7d:Rossington Main FC,39c736dd:Moulton
-223,England FA-Cup,2025-08-02,10:00,2618e808:Falmouth Town AFC,e00cce0f:Helston Athletic
-224,England FA-Cup,2025-08-02,10:00,8a398a68:Sidmouth Town,c00e3065:Ivybridge Town FC
+144,England FA-Cup,2025-08-02,10:00,a56c00fb:Bishop AL,3dd03e79:Whickham
+145,England FA-Cup,2025-08-02,10:00,dfbab0a1:Baffins Milton,103a8391:Shaftesbury
+146,England FA-Cup,2025-08-02,10:00,f8c28259:Oadby Town,5f17a87d:Newark FC
+147,England FA-Cup,2025-08-02,10:00,9b5f5ba2:Harrowby United FC,5091b0a3:Bourne Town FC
+148,England FA-Cup,2025-08-02,10:00,fea74374:Bradford PA,2bf3ce84:Mossley
+149,England FA-Cup,2025-08-02,10:00,6c72992e:Mildenhall,9d2882b4:Downham Town FC
+150,England FA-Cup,2025-08-02,10:00,f56e10fd:Balham,4fdd2721:Faversham
+151,England FA-Cup,2025-08-02,10:00,ab9e500c:Tavistock,67eb4d7c:St. Austell
+152,England FA-Cup,2025-08-02,10:00,59331535:Cribbs,597dfb7c:Easington
+153,England FA-Cup,2025-08-02,10:00,03cb80f2:Milton Keynes Irish FC,8768fd23:Heybridge
+155,England FA-Cup,2025-08-02,10:00,665ff87c:Harwich & Parkeston FC,4acff3a3:AFC Dunstable
+156,England FA-Cup,2025-08-02,10:00,59b0aa9e:South Park,46f4e0b0:Newhaven
+157,England FA-Cup,2025-08-02,10:00,e35051fe:Milton United FC,7f3a0611:Didcot Town
+158,England FA-Cup,2025-08-02,10:00,9b96bd27:Lydney,9a02e66f:Wootton Basset
+159,England FA-Cup,2025-08-02,10:00,c4c44344:Snodland Town,d8dc356f:Broadfields
+160,England FA-Cup,2025-08-02,10:00,fc8e01ae:Benfield,ae7c0205:Pontefract
+161,England FA-Cup,2025-08-02,10:00,7a97ce29:Westbury Utd,15a2486a:Sherborne Town
+162,England FA-Cup,2025-08-02,10:00,83328109:Cockfosters FC,541eb2b3:Kings Langley
+163,England FA-Cup,2025-08-02,10:00,a72c7b0b:Redcar Athletic FC,696c420b:North Ferriby FC
+164,England FA-Cup,2025-08-02,10:00,ca07d679:Colney Heath,f034ffd5:Woodford 2017
+165,England FA-Cup,2025-08-02,10:00,7cb039af:Marske Utd,4ca8da55:Carlisle City FC
+166,England FA-Cup,2025-08-02,10:00,9d333d4d:Kempston,3625eed4:Arlesey
+167,England FA-Cup,2025-08-02,10:00,3c6029ea:Seaford Town,2b275f24:Sutton AFC
+168,England FA-Cup,2025-08-02,10:00,4361d7f9:Witham,123c1e03:Frenford
+169,England FA-Cup,2025-08-02,10:00,b1853103:Baldock,c1bd7719:Little Oakley FC
+170,England FA-Cup,2025-08-02,10:00,cbc02110:Bury,ecb0351a:South Liverpool FC
+171,England FA-Cup,2025-08-02,10:00,a1acea0e:Parkgate FC,48341a40:Eccleshill
+172,England FA-Cup,2025-08-02,10:00,05c8bc89:Corsham Town,1ff96ae5:Slimbridge
+173,England FA-Cup,2025-08-02,10:00,5782545f:Kirkley & Pak.,1f820f64:Cambridge Ct
+174,England FA-Cup,2025-08-02,10:00,e019b170:Saltash,be934956:Torpoint Athletic FC
+175,England FA-Cup,2025-08-02,10:00,c4d82458:Irlam,05c0b0d4:Thackley
+176,England FA-Cup,2025-08-02,10:00,a0263aa3:Three Bridges,f1ca8e27:Shoreham
+177,England FA-Cup,2025-08-02,10:00,04cb71ce:Bexhill United FC,41aeb45a:Sheerwater FC
+178,England FA-Cup,2025-08-02,10:00,cfc6e778:Histon,a95ddbf0:Thetford
+179,England FA-Cup,2025-08-02,10:00,06f4de43:Takeley,d5633f66:Crawley Green
+181,England FA-Cup,2025-08-02,10:00,78fd66d2:Burnham,bb6b177b:Holyport FC
+182,England FA-Cup,2025-08-02,10:00,8726fc8a:Horbury Town,273d208f:Wombwell Town
+183,England FA-Cup,2025-08-02,10:00,e3372d05:Boston Town,6d4ed351:Kimberley Miners Welfare FC
+184,England FA-Cup,2025-08-02,10:00,8a398a68:Sidmouth Town,c00e3065:Ivybridge Town FC
+185,England FA-Cup,2025-08-02,10:00,32203553:Leverstock,fbf2a231:Ilford
+186,England FA-Cup,2025-08-02,10:00,647f02ca:Leighton Town,a5346ef3:Benfleet FC
+187,England FA-Cup,2025-08-02,10:00,34c2d664:Fisher,298c8071:Camberley
+188,England FA-Cup,2025-08-02,10:00,7b6d7d4b:Whitley Bay,84d89f98:Heaton Stannington
+189,England FA-Cup,2025-08-02,10:00,ec940df5:Haverhill Rov,e1b8d29b:Wisbech
+190,England FA-Cup,2025-08-02,10:00,4eaed6d4:Redhill FC,680ed164:Nth Greenford
+191,England FA-Cup,2025-08-02,10:00,82917d99:Pilkington,2b52c7d2:Longridge
+192,England FA-Cup,2025-08-02,10:00,b822d8b7:Biggleswade FC,16af3fc1:Welwyn Garden
+193,England FA-Cup,2025-08-02,10:00,e90d6cd6:Winsford Utd,1525ad79:West Didsbury
+194,England FA-Cup,2025-08-02,10:00,f8c64351:Stowmarket,8068a873:Ely City
+195,England FA-Cup,2025-08-02,10:00,1efbc6eb:Charnock,8ed14386:Burscough
+196,England FA-Cup,2025-08-02,10:00,dfdd0f12:Guisborough,5f241f9b:Consett
+197,England FA-Cup,2025-08-02,10:00,6a45c443:Daventry Town,a55589fa:Nirvana
+198,England FA-Cup,2025-08-02,10:00,2a3bd9a7:Dunstable,4fce24b5:Gr. Wakering
+199,England FA-Cup,2025-08-02,10:00,e8979067:Maldon&Tiptree,9c6644e9:Buckhurst Hill FC
+200,England FA-Cup,2025-08-02,10:00,95ffbc0a:Longlevens,69cc703d:Fairford
+201,England FA-Cup,2025-08-02,10:00,ac3c6798:Bashley,4c7eb323:East Cowes Vics
+202,England FA-Cup,2025-08-02,10:00,517eb5d9:Knaresborough,2b59cdb7:Bridlington
+203,England FA-Cup,2025-08-02,10:00,b95111bb:SC Inkberrow FC,88b9c0e6:Studley FC
+204,England FA-Cup,2025-08-02,10:00,995840b9:Christchurch,5912b229:Bemerton Heath
+205,England FA-Cup,2025-08-02,10:00,54ff9fcc:Hythe,d73312d0:Littlehampton Town FC
+207,England FA-Cup,2025-08-02,10:00,8bd6c45a:Eastbourne T,360e223a:Ashford
+208,England FA-Cup,2025-08-02,10:00,94e90942:Penistone,14123a80:Padiham
+209,England FA-Cup,2025-08-02,10:00,c50b2ef4:St. Neots,202c986b:Great Yarmouth
+210,England FA-Cup,2025-08-02,10:00,1069b646:East Grinstead,7c676798:Eastbourne Utd
+211,England FA-Cup,2025-08-02,10:00,45e81884:Beaconsfield,73ed98c8:Larkhall
+212,England FA-Cup,2025-08-02,10:00,c899c248:Portishead Town FC,60a307b4:Windsor & Eton
+213,England FA-Cup,2025-08-02,10:00,bd324020:Glossop NE,8cd10831:FC St Helens
+214,England FA-Cup,2025-08-02,10:00,637a268c:Wick & Barnham United FC,746055cb:VCD Athletic
+215,England FA-Cup,2025-08-02,10:00,2618e808:Falmouth Town AFC,e00cce0f:Helston Athletic
+216,England FA-Cup,2025-08-02,10:00,edbb7f49:Hartpury University,e489d347:Tuffley
+217,England FA-Cup,2025-08-02,10:00,905151b8:Lingfield FC,47ab32b3:Whitstable
+218,England FA-Cup,2025-08-02,10:00,109addf7:Boldmere,168e2664:Abbey Hulton Utd
+219,England FA-Cup,2025-08-02,10:00,b35b6762:Biggleswade U,27c01030:Newport Pagnel
+220,England FA-Cup,2025-08-02,10:00,bbbad8d0:Binfield FC,edd0e873:Winslow Utd
+221,England FA-Cup,2025-08-02,10:00,1fde7c7d:Rossington Main FC,39c736dd:Moulton
+222,England FA-Cup,2025-08-02,10:00,e22c1459:Barking,d26c48f2:Grays
+223,England FA-Cup,2025-08-02,10:00,1aa130c4:Handsworth,57aa388d:Silsden
+224,England FA-Cup,2025-08-02,10:00,b6c1f39d:Bradford Town,c5b06e34:Bournemouth
 225,England FA-Cup,2025-08-02,10:30,69d91082:Jersey Bulls FC,775cbc63:Erith & Belv.
 226,England FA-Cup,2025-08-03,08:00,b441e777:Stansfeld O&BC,5f40f1aa:Harrow Borough
 227,England FA-Cup,2025-08-03,10:00,6e09f654:Little Common,683b71d8:Southall
-228,England FA-Cup,2025-08-03,10:00,eeba4604:Hallam,75115000:Lower Breck
-229,England FA-Cup,2025-08-03,10:00,6484e504:Hilltop FC,3dbf7d6e:Deal Town
+228,England FA-Cup,2025-08-03,10:00,6484e504:Hilltop FC,3dbf7d6e:Deal Town
+229,England FA-Cup,2025-08-03,10:00,eeba4604:Hallam,75115000:Lower Breck
 230,England FA-Cup,2025-08-03,11:00,66c5f006:Northwich Vic,00f3d715:Campion
-231,England FA-Cup,2025-08-04,14:45,2a655d60:Sutton Common,ced81fa4:Guildford
-233,England FA-Cup,2025-08-04,14:45,e4255a1f:Phoenix Sports,7c79be7c:Leatherhead
-234,England FA-Cup,2025-08-04,14:45,88b9c0e6:Studley FC,b95111bb:SC Inkberrow FC
-235,England FA-Cup,2025-08-05,14:30,c601e522:Brixham AFC,02c5a520:Street FC
-236,England FA-Cup,2025-08-05,14:30,d723bdc0:Shepton Mallet,1935a580:Newquay
-237,England FA-Cup,2025-08-05,14:30,ca3056a6:Harefield United FC,1d653bcf:Peacehaven
-238,England FA-Cup,2025-08-05,14:30,59213a14:Laverstock & Ford FC,17135aa9:Cowes Sports
-239,England FA-Cup,2025-08-05,14:45,d46965c7:Wroxham,e7c023eb:Fakenham
-240,England FA-Cup,2025-08-05,14:45,a95ddbf0:Thetford,cfc6e778:Histon
-241,England FA-Cup,2025-08-05,14:45,123c1e03:Frenford,4361d7f9:Witham
-242,England FA-Cup,2025-08-05,14:45,bf17ada4:Crowborough,4e6ac124:Punjab United
-243,England FA-Cup,2025-08-05,14:45,35e5e699:Albion Sports,bc2a4a0d:Sheffield FC
-244,England FA-Cup,2025-08-05,14:45,fe2e7bc0:Bristol Manor,2bed3866:Mangotsfield
-245,England FA-Cup,2025-08-05,14:45,16af3fc1:Welwyn Garden,b822d8b7:Biggleswade FC
+231,England FA-Cup,2025-08-04,14:45,88b9c0e6:Studley FC,b95111bb:SC Inkberrow FC
+233,England FA-Cup,2025-08-04,14:45,2a655d60:Sutton Common,ced81fa4:Guildford
+234,England FA-Cup,2025-08-04,14:45,e4255a1f:Phoenix Sports,7c79be7c:Leatherhead
+235,England FA-Cup,2025-08-05,14:30,ca3056a6:Harefield United FC,1d653bcf:Peacehaven
+236,England FA-Cup,2025-08-05,14:30,59213a14:Laverstock & Ford FC,17135aa9:Cowes Sports
+237,England FA-Cup,2025-08-05,14:30,d723bdc0:Shepton Mallet,1935a580:Newquay
+238,England FA-Cup,2025-08-05,14:30,c601e522:Brixham AFC,02c5a520:Street FC
+239,England FA-Cup,2025-08-05,14:45,4fdd2721:Faversham,f56e10fd:Balham
+240,England FA-Cup,2025-08-05,14:45,69d1486e:Corinthian,821f5b2b:Horley Town
+241,England FA-Cup,2025-08-05,14:45,bf17ada4:Crowborough,4e6ac124:Punjab United
+242,England FA-Cup,2025-08-05,14:45,123c1e03:Frenford,4361d7f9:Witham
+243,England FA-Cup,2025-08-05,14:45,d46965c7:Wroxham,e7c023eb:Fakenham
+244,England FA-Cup,2025-08-05,14:45,487a9456:Gresley,27ff1887:Eastwood Community FC
+245,England FA-Cup,2025-08-05,14:45,c15c8453:Brantham,397656f5:Walthamstow
 246,England FA-Cup,2025-08-05,14:45,798d6e7a:Woodbridge,e59da1a5:Cornard United FC
-247,England FA-Cup,2025-08-05,14:45,c4aa160b:Concord Rang.,ea71499b:Harpenden
-248,England FA-Cup,2025-08-05,14:45,69d1486e:Corinthian,821f5b2b:Horley Town
-249,England FA-Cup,2025-08-05,14:45,c15c8453:Brantham,397656f5:Walthamstow
-250,England FA-Cup,2025-08-05,14:45,a8089e36:Barton Town OB,8b451211:L'borough Uni
-251,England FA-Cup,2025-08-05,14:45,8cd10831:FC St Helens,bd324020:Glossop NE
-252,England FA-Cup,2025-08-05,14:45,487a9456:Gresley,27ff1887:Eastwood Community FC
-253,England FA-Cup,2025-08-05,14:45,d834b0f8:Harlow Town FC,bb4c43c0:Saffron Walden
+247,England FA-Cup,2025-08-05,14:45,5f241f9b:Consett,dfdd0f12:Guisborough
+248,England FA-Cup,2025-08-05,14:45,fe2e7bc0:Bristol Manor,2bed3866:Mangotsfield
+249,England FA-Cup,2025-08-05,14:45,541eb2b3:Kings Langley,83328109:Cockfosters FC
+250,England FA-Cup,2025-08-05,14:45,d834b0f8:Harlow Town FC,bb4c43c0:Saffron Walden
+251,England FA-Cup,2025-08-05,14:45,a494124a:Highmoor,41431017:Cirencester
+252,England FA-Cup,2025-08-05,14:45,9a3ed555:Bedfont Sports,e752a3bb:Guernsey FC
+253,England FA-Cup,2025-08-05,14:45,3b54a4f4:Soham Town,dbc75ffa:March Town United FC
 254,England FA-Cup,2025-08-05,14:45,9d2882b4:Downham Town FC,6c72992e:Mildenhall
-255,England FA-Cup,2025-08-05,14:45,bbbaafbd:Abingdon Utd,a2bb1880:Aylesbury VD
-256,England FA-Cup,2025-08-05,14:45,3dbf7d6e:Deal Town,6484e504:Hilltop FC
-257,England FA-Cup,2025-08-05,14:45,3b54a4f4:Soham Town,dbc75ffa:March Town United FC
-259,England FA-Cup,2025-08-05,14:45,5ba45bf8:Northallerton,c36e8f44:West Allotment Celtic
-260,England FA-Cup,2025-08-05,14:45,9a3ed555:Bedfont Sports,e752a3bb:Guernsey FC
-261,England FA-Cup,2025-08-05,14:45,a494124a:Highmoor,41431017:Cirencester
-262,England FA-Cup,2025-08-05,14:45,c1bd7719:Little Oakley FC,b1853103:Baldock
-263,England FA-Cup,2025-08-05,14:45,2b52c7d2:Longridge,82917d99:Pilkington
-264,England FA-Cup,2025-08-05,14:45,360e223a:Ashford,8bd6c45a:Eastbourne T
-265,England FA-Cup,2025-08-05,14:45,541eb2b3:Kings Langley,83328109:Cockfosters FC
-266,England FA-Cup,2025-08-05,14:45,4c989f6a:Virginia Water,1ff54516:Thornbury
-267,England FA-Cup,2025-08-05,14:45,5f241f9b:Consett,dfdd0f12:Guisborough
-268,England FA-Cup,2025-08-05,14:45,103a8391:Shaftesbury,dfbab0a1:Baffins Milton
-269,England FA-Cup,2025-08-05,14:45,141901ee:Wormley Rovers FC,942c64e0:Enfield 1893
-270,England FA-Cup,2025-08-05,14:45,a5346ef3:Benfleet FC,647f02ca:Leighton Town
-271,England FA-Cup,2025-08-05,14:45,4fdd2721:Faversham,f56e10fd:Balham
-272,England FA-Cup,2025-08-05,14:45,273d208f:Wombwell Town,8726fc8a:Horbury Town
-273,England FA-Cup,2025-08-05,14:45,b9bb5e8b:Portchester,38269af5:Melksham
+255,England FA-Cup,2025-08-05,14:45,3dbf7d6e:Deal Town,6484e504:Hilltop FC
+256,England FA-Cup,2025-08-05,14:45,5ba45bf8:Northallerton,c36e8f44:West Allotment Celtic
+257,England FA-Cup,2025-08-05,14:45,141901ee:Wormley Rovers FC,942c64e0:Enfield 1893
+259,England FA-Cup,2025-08-05,14:45,4c989f6a:Virginia Water,1ff54516:Thornbury
+260,England FA-Cup,2025-08-05,14:45,a5346ef3:Benfleet FC,647f02ca:Leighton Town
+261,England FA-Cup,2025-08-05,14:45,a95ddbf0:Thetford,cfc6e778:Histon
+262,England FA-Cup,2025-08-05,14:45,8cd10831:FC St Helens,bd324020:Glossop NE
+263,England FA-Cup,2025-08-05,14:45,a8089e36:Barton Town OB,8b451211:L'borough Uni
+264,England FA-Cup,2025-08-05,14:45,16af3fc1:Welwyn Garden,b822d8b7:Biggleswade FC
+265,England FA-Cup,2025-08-05,14:45,103a8391:Shaftesbury,dfbab0a1:Baffins Milton
+266,England FA-Cup,2025-08-05,14:45,c1bd7719:Little Oakley FC,b1853103:Baldock
+267,England FA-Cup,2025-08-05,14:45,bbbaafbd:Abingdon Utd,a2bb1880:Aylesbury VD
+268,England FA-Cup,2025-08-05,14:45,b9bb5e8b:Portchester,38269af5:Melksham
+269,England FA-Cup,2025-08-05,14:45,273d208f:Wombwell Town,8726fc8a:Horbury Town
+270,England FA-Cup,2025-08-05,14:45,c4aa160b:Concord Rang.,ea71499b:Harpenden
+271,England FA-Cup,2025-08-05,14:45,35e5e699:Albion Sports,bc2a4a0d:Sheffield FC
+272,England FA-Cup,2025-08-05,14:45,360e223a:Ashford,8bd6c45a:Eastbourne T
+273,England FA-Cup,2025-08-05,14:45,2b52c7d2:Longridge,82917d99:Pilkington
 274,England FA-Cup,2025-08-06,14:30,fd990599:Clevedon Town,d1f3cd8a:Kidlington
-275,England FA-Cup,2025-08-06,14:45,9a02e66f:Wootton Basset,9b96bd27:Lydney
-276,England FA-Cup,2025-08-06,14:45,e84ae6e6:AFC Liverpool,912dc50a:Abbey Hey
-277,England FA-Cup,2025-08-06,14:45,3dd03e79:Whickham,a56c00fb:Bishop AL
-278,England FA-Cup,2025-08-06,14:45,15a78178:Sporting BU,905f5877:Erith Town
-279,England FA-Cup,2025-08-06,14:45,23a5ee10:Holmesdale FC,f219726a:Tunbridge Well
-280,England FA-Cup,2025-08-06,14:45,683b71d8:Southall,6e09f654:Little Common
-281,England FA-Cup,2025-08-06,14:45,1525ad79:West Didsbury,e90d6cd6:Winsford Utd
+275,England FA-Cup,2025-08-06,14:45,15a78178:Sporting BU,905f5877:Erith Town
+276,England FA-Cup,2025-08-06,14:45,3dd03e79:Whickham,a56c00fb:Bishop AL
+277,England FA-Cup,2025-08-06,14:45,1525ad79:West Didsbury,e90d6cd6:Winsford Utd
+278,England FA-Cup,2025-08-06,14:45,683b71d8:Southall,6e09f654:Little Common
+279,England FA-Cup,2025-08-06,14:45,9a02e66f:Wootton Basset,9b96bd27:Lydney
+280,England FA-Cup,2025-08-06,14:45,e84ae6e6:AFC Liverpool,912dc50a:Abbey Hey
+281,England FA-Cup,2025-08-06,14:45,23a5ee10:Holmesdale FC,f219726a:Tunbridge Well
 282,England FA-Cup,2025-08-12,14:45,2b59cdb7:Bridlington,517eb5d9:Knaresborough
-284,England FA-Cup,2025-08-15,14:45,02fa4e29:Epsom & Ewell FC,59b0aa9e:South Park
-285,England FA-Cup,2025-08-15,14:45,fec0bcae:Atherton,bc42dbff:Prestwich Heys AFC
-286,England FA-Cup,2025-08-15,14:45,c5432bfb:Pickering,f648f064:Easington Colliery AFC
-287,England FA-Cup,2025-08-15,14:45,995840b9:Christchurch,d1ac93bf:Tadley Calleva
-288,England FA-Cup,2025-08-15,14:45,ec3067fc:Lye Town FC,5e20c807:RC Warwick
+284,England FA-Cup,2025-08-15,14:45,995840b9:Christchurch,d1ac93bf:Tadley Calleva
+285,England FA-Cup,2025-08-15,14:45,02fa4e29:Epsom & Ewell FC,59b0aa9e:South Park
+286,England FA-Cup,2025-08-15,14:45,fec0bcae:Atherton,bc42dbff:Prestwich Heys AFC
+287,England FA-Cup,2025-08-15,14:45,ec3067fc:Lye Town FC,5e20c807:RC Warwick
+288,England FA-Cup,2025-08-15,14:45,c5432bfb:Pickering,f648f064:Easington Colliery AFC
 289,England FA-Cup,2025-08-16,07:00,69d91082:Jersey Bulls FC,34c2d664:Fisher
-290,England FA-Cup,2025-08-16,10:00,168e2664:Abbey Hulton Utd,db4fe607:Coventry Utd
-291,England FA-Cup,2025-08-16,10:00,1525ad79:West Didsbury,cebc7525:Brighouse Town
-292,England FA-Cup,2025-08-16,10:00,fdca0ffb:Bedworth Utd,f148da9b:Atherstone
-293,England FA-Cup,2025-08-16,10:00,bc2a4a0d:Sheffield FC,85533b44:Bootle FC
-294,England FA-Cup,2025-08-16,10:00,83328109:Cockfosters FC,c1bd7719:Little Oakley FC
-295,England FA-Cup,2025-08-16,10:00,0e497b8d:Merstham,4fdd2721:Faversham
-296,England FA-Cup,2025-08-16,10:00,69d1486e:Corinthian,d1edcaa6:Egham Town
-297,England FA-Cup,2025-08-16,10:00,c4d82458:Irlam,8a89e248:Chadderton FC
-298,England FA-Cup,2025-08-16,10:00,4088f2dd:Pershore Town FC,c8ce7522:Coleshill
-299,England FA-Cup,2025-08-16,10:00,cbf1c547:Marlow,bbbad8d0:Binfield FC
-300,England FA-Cup,2025-08-16,10:00,c601e522:Brixham AFC,3bc89541:Mousehole AFC
-301,England FA-Cup,2025-08-16,10:00,9143fed5:Shepshed,6e15d9ef:Clay Cross Town
-302,England FA-Cup,2025-08-16,10:00,9a02e66f:Wootton Basset,b8eb223a:Amersham Town FC
-303,England FA-Cup,2025-08-16,10:00,d1e812e6:Blackstones FC,1a9ae966:Grimsby Boro
-304,England FA-Cup,2025-08-16,10:00,c10a18e7:Alport,177c26fa:Runcorn
-305,England FA-Cup,2025-08-16,10:00,1e6a4a15:Northampton Sileby Rangers FC,ced7338e:Corby Town
-306,England FA-Cup,2025-08-16,10:00,fd4e4cac:Brightlingsea,2422a597:Hullbridge
-307,England FA-Cup,2025-08-16,10:00,69cc703d:Fairford,62534f56:Roman Glass
-308,England FA-Cup,2025-08-16,10:00,1fa5410a:Lancing FC,ca3056a6:Harefield United FC
-310,England FA-Cup,2025-08-16,10:00,9384d0a4:Sutton C'field,c3badeb5:Newcastle Town
-311,England FA-Cup,2025-08-16,10:00,d83c33b1:Hastings Utd,5f40f1aa:Harrow Borough
-312,England FA-Cup,2025-08-16,10:00,647f02ca:Leighton Town,b35b6762:Biggleswade U
-313,England FA-Cup,2025-08-16,10:00,03cb80f2:Milton Keynes Irish FC,3625eed4:Arlesey
-314,England FA-Cup,2025-08-16,10:00,28a78514:Flackwell H,e489d347:Tuffley
+290,England FA-Cup,2025-08-16,10:00,4088f2dd:Pershore Town FC,c8ce7522:Coleshill
+291,England FA-Cup,2025-08-16,10:00,34f35ec0:Newmarket,36bd8261:Felixstowe
+292,England FA-Cup,2025-08-16,10:00,1e6a4a15:Northampton Sileby Rangers FC,ced7338e:Corby Town
+293,England FA-Cup,2025-08-16,10:00,d1e812e6:Blackstones FC,1a9ae966:Grimsby Boro
+294,England FA-Cup,2025-08-16,10:00,9a02e66f:Wootton Basset,b8eb223a:Amersham Town FC
+295,England FA-Cup,2025-08-16,10:00,9143fed5:Shepshed,6e15d9ef:Clay Cross Town
+296,England FA-Cup,2025-08-16,10:00,c601e522:Brixham AFC,3bc89541:Mousehole AFC
+297,England FA-Cup,2025-08-16,10:00,cbf1c547:Marlow,bbbad8d0:Binfield FC
+298,England FA-Cup,2025-08-16,10:00,fd4e4cac:Brightlingsea,2422a597:Hullbridge
+299,England FA-Cup,2025-08-16,10:00,c4d82458:Irlam,8a89e248:Chadderton FC
+300,England FA-Cup,2025-08-16,10:00,69d1486e:Corinthian,d1edcaa6:Egham Town
+301,England FA-Cup,2025-08-16,10:00,0e497b8d:Merstham,4fdd2721:Faversham
+302,England FA-Cup,2025-08-16,10:00,bc2a4a0d:Sheffield FC,85533b44:Bootle FC
+303,England FA-Cup,2025-08-16,10:00,fdca0ffb:Bedworth Utd,f148da9b:Atherstone
+304,England FA-Cup,2025-08-16,10:00,e2225bcd:Alton Town FC,ed3b57a3:Supermarine
+305,England FA-Cup,2025-08-16,10:00,168e2664:Abbey Hulton Utd,db4fe607:Coventry Utd
+306,England FA-Cup,2025-08-16,10:00,7ab048b4:Basford Utd,d444a3c2:Hucknall Town FC
+307,England FA-Cup,2025-08-16,10:00,83328109:Cockfosters FC,c1bd7719:Little Oakley FC
+308,England FA-Cup,2025-08-16,10:00,6c72992e:Mildenhall,d46965c7:Wroxham
+310,England FA-Cup,2025-08-16,10:00,8a398a68:Sidmouth Town,be934956:Torpoint Athletic FC
+311,England FA-Cup,2025-08-16,10:00,73d6d7cf:Risborough Rangers,4c989f6a:Virginia Water
+312,England FA-Cup,2025-08-16,10:00,06f4de43:Takeley,03ca571f:Bowers/Pitsea
+313,England FA-Cup,2025-08-16,10:00,746055cb:VCD Athletic,1b5aaa66:Sittingbourne
+314,England FA-Cup,2025-08-16,10:00,a39704ce:Ascot United,b1363a5e:Glebe
 315,England FA-Cup,2025-08-16,10:00,e9107eb0:Lutterworth,280b8b95:Chasetown FC
-316,England FA-Cup,2025-08-16,10:00,a39704ce:Ascot United,b1363a5e:Glebe
-317,England FA-Cup,2025-08-16,10:00,746055cb:VCD Athletic,1b5aaa66:Sittingbourne
-318,England FA-Cup,2025-08-16,10:00,06f4de43:Takeley,03ca571f:Bowers/Pitsea
-319,England FA-Cup,2025-08-16,10:00,8a398a68:Sidmouth Town,be934956:Torpoint Athletic FC
-320,England FA-Cup,2025-08-16,10:00,6c72992e:Mildenhall,d46965c7:Wroxham
-321,England FA-Cup,2025-08-16,10:00,a8089e36:Barton Town OB,54d36ce1:Carlton
-322,England FA-Cup,2025-08-16,10:00,ae7c0205:Pontefract,2385c881:Blyth Spartans
-323,England FA-Cup,2025-08-16,10:00,1b5fa461:Khalsa,b95111bb:SC Inkberrow FC
-324,England FA-Cup,2025-08-16,10:00,8a79714f:Witton,e84ae6e6:AFC Liverpool
-325,England FA-Cup,2025-08-16,10:00,16af3fc1:Welwyn Garden,b0f2c259:Waltham Abbey
-326,England FA-Cup,2025-08-16,10:00,103a8391:Shaftesbury,8b0a9f67:Thatcham
-327,England FA-Cup,2025-08-16,10:00,a56c00fb:Bishop AL,4b6d3e04:Horden CW
-328,England FA-Cup,2025-08-16,10:00,cfc6e778:Histon,798d6e7a:Woodbridge
-329,England FA-Cup,2025-08-16,10:00,0eeb3a15:Hitchin,d26c48f2:Grays
-330,England FA-Cup,2025-08-16,10:00,a494124a:Highmoor,7f3a0611:Didcot Town
-331,England FA-Cup,2025-08-16,10:00,fef07ac6:Mickleover,cb9661c9:Matlock Town
-332,England FA-Cup,2025-08-16,10:00,04cb71ce:Bexhill United FC,a1543700:Raynes Park
-333,England FA-Cup,2025-08-16,10:00,9e411767:Aycliffe,403b8413:Newcastle Blue Star FC
-334,England FA-Cup,2025-08-16,10:00,218697c2:Cobham,422d7787:Margate
-336,England FA-Cup,2025-08-16,10:00,9407702a:Nantwich Town,1efbc6eb:Charnock
-337,England FA-Cup,2025-08-16,10:00,948d87ed:Hadley,e8979067:Maldon&Tiptree
-338,England FA-Cup,2025-08-16,10:00,f970e6e0:Hayes&Yeading,2a655d60:Sutton Common
-339,England FA-Cup,2025-08-16,10:00,336350ae:Ardley,78fd66d2:Burnham
-340,England FA-Cup,2025-08-16,10:00,8cd10831:FC St Helens,fa1a47cf:Atherton LR
-341,England FA-Cup,2025-08-16,10:00,8a96d570:Barnstaple,ab9e500c:Tavistock
-342,England FA-Cup,2025-08-16,10:00,9ec91479:Wst Auckland,2b59cdb7:Bridlington
-343,England FA-Cup,2025-08-16,10:00,f4eb3e9b:Thornaby,64041a1f:Dunston
-344,England FA-Cup,2025-08-16,10:00,6a3a63d1:Ashford Utd,23a5ee10:Holmesdale FC
-345,England FA-Cup,2025-08-16,10:00,230cd2d1:Belper Town,8d6cd286:Kidsgrove
-346,England FA-Cup,2025-08-16,10:00,273d208f:Wombwell Town,a1acea0e:Parkgate FC
-347,England FA-Cup,2025-08-16,10:00,7c79be7c:Leatherhead,fdcb2b69:Westfield
-348,England FA-Cup,2025-08-16,10:00,e1f78fc3:Gorleston,bce68537:Walsham
-349,England FA-Cup,2025-08-16,10:00,2618e808:Falmouth Town AFC,d9a9d0c4:Bideford
+316,England FA-Cup,2025-08-16,10:00,da6303ff:Frome Town,1935a580:Newquay
+317,England FA-Cup,2025-08-16,10:00,28a78514:Flackwell H,e489d347:Tuffley
+318,England FA-Cup,2025-08-16,10:00,03cb80f2:Milton Keynes Irish FC,3625eed4:Arlesey
+319,England FA-Cup,2025-08-16,10:00,647f02ca:Leighton Town,b35b6762:Biggleswade U
+320,England FA-Cup,2025-08-16,10:00,d83c33b1:Hastings Utd,5f40f1aa:Harrow Borough
+321,England FA-Cup,2025-08-16,10:00,9384d0a4:Sutton C'field,c3badeb5:Newcastle Town
+322,England FA-Cup,2025-08-16,10:00,1fa5410a:Lancing FC,ca3056a6:Harefield United FC
+323,England FA-Cup,2025-08-16,10:00,69cc703d:Fairford,62534f56:Roman Glass
+324,England FA-Cup,2025-08-16,10:00,a494124a:Highmoor,7f3a0611:Didcot Town
+325,England FA-Cup,2025-08-16,10:00,ae7c0205:Pontefract,2385c881:Blyth Spartans
+326,England FA-Cup,2025-08-16,10:00,f970e6e0:Hayes&Yeading,2a655d60:Sutton Common
+327,England FA-Cup,2025-08-16,10:00,948d87ed:Hadley,e8979067:Maldon&Tiptree
+328,England FA-Cup,2025-08-16,10:00,9407702a:Nantwich Town,1efbc6eb:Charnock
+329,England FA-Cup,2025-08-16,10:00,218697c2:Cobham,422d7787:Margate
+330,England FA-Cup,2025-08-16,10:00,9e411767:Aycliffe,403b8413:Newcastle Blue Star FC
+331,England FA-Cup,2025-08-16,10:00,04cb71ce:Bexhill United FC,a1543700:Raynes Park
+332,England FA-Cup,2025-08-16,10:00,fef07ac6:Mickleover,cb9661c9:Matlock Town
+333,England FA-Cup,2025-08-16,10:00,8cd10831:FC St Helens,fa1a47cf:Atherton LR
+334,England FA-Cup,2025-08-16,10:00,0eeb3a15:Hitchin,d26c48f2:Grays
+336,England FA-Cup,2025-08-16,10:00,cfc6e778:Histon,798d6e7a:Woodbridge
+337,England FA-Cup,2025-08-16,10:00,a56c00fb:Bishop AL,4b6d3e04:Horden CW
+338,England FA-Cup,2025-08-16,10:00,103a8391:Shaftesbury,8b0a9f67:Thatcham
+339,England FA-Cup,2025-08-16,10:00,16af3fc1:Welwyn Garden,b0f2c259:Waltham Abbey
+340,England FA-Cup,2025-08-16,10:00,8a79714f:Witton,e84ae6e6:AFC Liverpool
+341,England FA-Cup,2025-08-16,10:00,1b5fa461:Khalsa,b95111bb:SC Inkberrow FC
+342,England FA-Cup,2025-08-16,10:00,a8089e36:Barton Town OB,54d36ce1:Carlton
+343,England FA-Cup,2025-08-16,10:00,e1f78fc3:Gorleston,bce68537:Walsham
+344,England FA-Cup,2025-08-16,10:00,c10a18e7:Alport,177c26fa:Runcorn
+345,England FA-Cup,2025-08-16,10:00,336350ae:Ardley,78fd66d2:Burnham
+346,England FA-Cup,2025-08-16,10:00,a0263aa3:Three Bridges,25bb9f33:Horsham YMCA
+347,England FA-Cup,2025-08-16,10:00,2b52c7d2:Longridge,20223719:AFC Emley
+348,England FA-Cup,2025-08-16,10:00,d56a53c1:Barton,c15c8453:Brantham
+349,England FA-Cup,2025-08-16,10:00,6a45c443:Daventry Town,7554d3b4:Bottesford
 350,England FA-Cup,2025-08-16,10:00,a2bb1880:Aylesbury VD,4d069c8a:Oldland Abbotonians FC
-351,England FA-Cup,2025-08-16,10:00,6a45c443:Daventry Town,7554d3b4:Bottesford
-352,England FA-Cup,2025-08-16,10:00,d56a53c1:Barton,c15c8453:Brantham
-353,England FA-Cup,2025-08-16,10:00,2b52c7d2:Longridge,20223719:AFC Emley
-354,England FA-Cup,2025-08-16,10:00,a0263aa3:Three Bridges,25bb9f33:Horsham YMCA
-355,England FA-Cup,2025-08-16,10:00,82cfb72a:Winchester,ac3c6798:Bashley
-356,England FA-Cup,2025-08-16,10:00,5f17a87d:Newark FC,e3372d05:Boston Town
-357,England FA-Cup,2025-08-16,10:00,4fce24b5:Gr. Wakering,b3676d44:Redbridge
-358,England FA-Cup,2025-08-16,10:00,2c7f18b0:Steyning Town,13ccec38:Hendon
-359,England FA-Cup,2025-08-16,10:00,4fc71cb6:Sawbridgeworth,27ac0a6b:Eynesbury
-360,England FA-Cup,2025-08-16,10:00,afb379f1:Hertford Town,ea71499b:Harpenden
-362,England FA-Cup,2025-08-16,10:00,85dd0a2f:Hythe & Dibden FC,d865081e:New Milton Town
-363,England FA-Cup,2025-08-16,10:00,1f535bea:Tilbury,4acff3a3:AFC Dunstable
-364,England FA-Cup,2025-08-16,10:00,524cc306:Hinckley AFC,456a2ba8:Long Eaton
-365,England FA-Cup,2025-08-16,10:00,39260309:Trafford,00f3d715:Campion
-366,England FA-Cup,2025-08-16,10:00,f0a37569:Mulbarton,1f820f64:Cambridge Ct
-367,England FA-Cup,2025-08-16,10:00,1fde7c7d:Rossington Main FC,d7204c1c:Newark Town FC
-368,England FA-Cup,2025-08-16,10:00,0c421caf:Haringey,fb1591bd:Stanway Rovers
-369,England FA-Cup,2025-08-16,10:00,c8e8c154:Knaphill,e55c6443:Hollands
-370,England FA-Cup,2025-08-16,10:00,2b61b745:Fareham Town,a3b240a5:Hartley
-371,England FA-Cup,2025-08-16,10:00,8871589e:Tooting & M.,8ad6bf1a:Croydon
-372,England FA-Cup,2025-08-16,10:00,da6303ff:Frome Town,1935a580:Newquay
-373,England FA-Cup,2025-08-16,10:00,b6c1f39d:Bradford Town,7a97ce29:Westbury Utd
-374,England FA-Cup,2025-08-16,10:00,905f5877:Erith Town,683b71d8:Southall
-375,England FA-Cup,2025-08-16,10:00,dfdd0f12:Guisborough,a72c7b0b:Redcar Athletic FC
-376,England FA-Cup,2025-08-16,10:00,45ecbb46:Tower Hamlets,918a5784:Hanworth
-377,England FA-Cup,2025-08-16,10:00,64c31d0e:Moneyfields,b9bb5e8b:Portchester
+351,England FA-Cup,2025-08-16,10:00,2618e808:Falmouth Town AFC,d9a9d0c4:Bideford
+352,England FA-Cup,2025-08-16,10:00,1525ad79:West Didsbury,cebc7525:Brighouse Town
+353,England FA-Cup,2025-08-16,10:00,7c79be7c:Leatherhead,fdcb2b69:Westfield
+354,England FA-Cup,2025-08-16,10:00,273d208f:Wombwell Town,a1acea0e:Parkgate FC
+355,England FA-Cup,2025-08-16,10:00,230cd2d1:Belper Town,8d6cd286:Kidsgrove
+356,England FA-Cup,2025-08-16,10:00,6a3a63d1:Ashford Utd,23a5ee10:Holmesdale FC
+357,England FA-Cup,2025-08-16,10:00,f4eb3e9b:Thornaby,64041a1f:Dunston
+358,England FA-Cup,2025-08-16,10:00,9ec91479:Wst Auckland,2b59cdb7:Bridlington
+359,England FA-Cup,2025-08-16,10:00,8a96d570:Barnstaple,ab9e500c:Tavistock
+360,England FA-Cup,2025-08-16,10:00,0c421caf:Haringey,fb1591bd:Stanway Rovers
+362,England FA-Cup,2025-08-16,10:00,4fc71cb6:Sawbridgeworth,27ac0a6b:Eynesbury
+363,England FA-Cup,2025-08-16,10:00,afb379f1:Hertford Town,ea71499b:Harpenden
+364,England FA-Cup,2025-08-16,10:00,85dd0a2f:Hythe & Dibden FC,d865081e:New Milton Town
+365,England FA-Cup,2025-08-16,10:00,1f535bea:Tilbury,4acff3a3:AFC Dunstable
+366,England FA-Cup,2025-08-16,10:00,524cc306:Hinckley AFC,456a2ba8:Long Eaton
+367,England FA-Cup,2025-08-16,10:00,82cfb72a:Winchester,ac3c6798:Bashley
+368,England FA-Cup,2025-08-16,10:00,f0a37569:Mulbarton,1f820f64:Cambridge Ct
+369,England FA-Cup,2025-08-16,10:00,1fde7c7d:Rossington Main FC,d7204c1c:Newark Town FC
+370,England FA-Cup,2025-08-16,10:00,2c7f18b0:Steyning Town,13ccec38:Hendon
+371,England FA-Cup,2025-08-16,10:00,09eb8c99:Birtley Town FC,59233365:Shildon
+372,England FA-Cup,2025-08-16,10:00,c8e8c154:Knaphill,e55c6443:Hollands
+373,England FA-Cup,2025-08-16,10:00,2b61b745:Fareham Town,a3b240a5:Hartley
+374,England FA-Cup,2025-08-16,10:00,b6c1f39d:Bradford Town,7a97ce29:Westbury Utd
+375,England FA-Cup,2025-08-16,10:00,1bfb24c7:W'borough T,5091b0a3:Bourne Town FC
+376,England FA-Cup,2025-08-16,10:00,0bdfe722:Corinthian,a1064ee6:Sevenoaks
+377,England FA-Cup,2025-08-16,10:00,4361d7f9:Witham,4a5e33cc:Tring Athletic
 378,England FA-Cup,2025-08-16,10:00,fbec31be:Ware,fbf2a231:Ilford
-379,England FA-Cup,2025-08-16,10:00,57aa388d:Silsden,8505d703:Ramsbottom
-380,England FA-Cup,2025-08-16,10:00,faf2153c:Belper United FC,3ce5f9b7:Hanley Town
-381,England FA-Cup,2025-08-16,10:00,c522fe94:Hallen,6361b4d5:Bishops Cleeve
+379,England FA-Cup,2025-08-16,10:00,b56da2c8:Sphinx,8f955b4e:Dudley Town FC
+380,England FA-Cup,2025-08-16,10:00,cf643a92:Skegness Town AFC,94378dd9:Lincoln Utd
+381,England FA-Cup,2025-08-16,10:00,2bed3866:Mangotsfield,59331535:Cribbs
 382,England FA-Cup,2025-08-16,10:00,fe0e252b:Stalybridge,cbc02110:Bury
-383,England FA-Cup,2025-08-16,10:00,2bed3866:Mangotsfield,59331535:Cribbs
-384,England FA-Cup,2025-08-16,10:00,cf643a92:Skegness Town AFC,94378dd9:Lincoln Utd
-385,England FA-Cup,2025-08-16,10:00,b56da2c8:Sphinx,8f955b4e:Dudley Town FC
-386,England FA-Cup,2025-08-16,10:00,3c6029ea:Seaford Town,401c21da:AFC Whyteleafe
-388,England FA-Cup,2025-08-16,10:00,09eb8c99:Birtley Town FC,59233365:Shildon
-389,England FA-Cup,2025-08-16,10:00,84d89f98:Heaton Stannington,7cb039af:Marske Utd
-390,England FA-Cup,2025-08-16,10:00,883cecf1:Edgware Town,47ab32b3:Whitstable
-391,England FA-Cup,2025-08-16,10:00,73d6d7cf:Risborough Rangers,4c989f6a:Virginia Water
-392,England FA-Cup,2025-08-16,10:00,7ab048b4:Basford Utd,d444a3c2:Hucknall Town FC
-393,England FA-Cup,2025-08-16,10:00,34f35ec0:Newmarket,36bd8261:Felixstowe
-394,England FA-Cup,2025-08-16,10:00,cce0c5d3:Congleton,14123a80:Padiham
-395,England FA-Cup,2025-08-16,10:00,c1fe83df:Sherwood,cdb9a4a5:Anstey
-396,England FA-Cup,2025-08-16,10:00,d834b0f8:Harlow Town FC,f034ffd5:Woodford 2017
-397,England FA-Cup,2025-08-16,10:00,9a3ed555:Bedfont Sports,1a91ea5d:Kingstonian
-398,England FA-Cup,2025-08-16,10:00,0772d8c3:Wythenshawe Amateurs,1782aadf:Vauxhall Motors FC
-399,England FA-Cup,2025-08-16,10:00,beeaafda:Hassocks,a2480d20:Beckenham Town
-400,England FA-Cup,2025-08-16,10:00,6c4ff7a2:Malvern,317cf5a7:Worcester Raiders FC
-401,England FA-Cup,2025-08-16,10:00,67dbcda9:Exmouth,1d996a65:Buckland Athl.
-402,England FA-Cup,2025-08-16,10:00,e2225bcd:Alton Town FC,ed3b57a3:Supermarine
-403,England FA-Cup,2025-08-16,10:00,8068a873:Ely City,ec940df5:Haverhill Rov
-404,England FA-Cup,2025-08-16,10:00,1bfb24c7:W'borough T,5091b0a3:Bourne Town FC
-405,England FA-Cup,2025-08-16,10:00,dbc75ffa:March Town United FC,5e4c7673:Ipswich Wanderers
-406,England FA-Cup,2025-08-16,10:00,5ba45bf8:Northallerton,c427cb14:Kendal Town
-407,England FA-Cup,2025-08-16,10:00,0bdfe722:Corinthian,a1064ee6:Sevenoaks
-408,England FA-Cup,2025-08-16,10:00,4361d7f9:Witham,4a5e33cc:Tring Athletic
-409,England FA-Cup,2025-08-16,10:00,08a8aa15:Horndean FC,59213a14:Laverstock & Ford FC
-410,England FA-Cup,2025-08-16,10:00,bf17ada4:Crowborough,3dbf7d6e:Deal Town
-411,England FA-Cup,2025-08-16,10:00,fd990599:Clevedon Town,3fd10f76:Thame United
-412,England FA-Cup,2025-08-16,10:00,c6d5afe2:Sheppey,7c676798:Eastbourne Utd
-414,England FA-Cup,2025-08-16,10:00,a70cb02f:Coton Green,27ff1887:Eastwood Community FC
-415,England FA-Cup,2025-08-16,10:00,e2a21e1b:Lowestoft,c50b2ef4:St. Neots
-416,England FA-Cup,2025-08-16,10:00,360e223a:Ashford,c4c44344:Snodland Town
-417,England FA-Cup,2025-08-16,10:00,92bbdde1:Stoneham,7599473c:Paulton
-418,England FA-Cup,2025-08-16,10:00,fea74374:Bradford PA,05a63aba:Avro
-419,England FA-Cup,2025-08-16,10:00,c899c248:Portishead Town FC,1ff96ae5:Slimbridge
-420,England FA-Cup,2025-08-17,09:00,eeba4604:Hallam,9c348bd3:City Liverpool
-421,England FA-Cup,2025-08-17,09:00,e242eb46:Hackney Wick,2ca652c2:Bognor Regis
-422,England FA-Cup,2025-08-17,10:00,942c64e0:Enfield 1893,3a978ab7:Biggleswade
-423,England FA-Cup,2025-08-17,10:00,e6bfe0e7:Wokingham & Emmbrook FC,73ed98c8:Larkhall
-424,England FA-Cup,2025-08-17,10:00,d73312d0:Littlehampton Town FC,680ed164:Nth Greenford
-425,England FA-Cup,2025-08-19,00:00,59b0aa9e:South Park,02fa4e29:Epsom & Ewell FC
-426,England FA-Cup,2025-08-20,00:00,f648f064:Easington Colliery AFC,c5432bfb:Pickering
+383,England FA-Cup,2025-08-16,10:00,c522fe94:Hallen,6361b4d5:Bishops Cleeve
+384,England FA-Cup,2025-08-16,10:00,faf2153c:Belper United FC,3ce5f9b7:Hanley Town
+385,England FA-Cup,2025-08-16,10:00,3c6029ea:Seaford Town,401c21da:AFC Whyteleafe
+386,England FA-Cup,2025-08-16,10:00,57aa388d:Silsden,8505d703:Ramsbottom
+388,England FA-Cup,2025-08-16,10:00,8871589e:Tooting & M.,8ad6bf1a:Croydon
+389,England FA-Cup,2025-08-16,10:00,64c31d0e:Moneyfields,b9bb5e8b:Portchester
+390,England FA-Cup,2025-08-16,10:00,45ecbb46:Tower Hamlets,918a5784:Hanworth
+391,England FA-Cup,2025-08-16,10:00,dfdd0f12:Guisborough,a72c7b0b:Redcar Athletic FC
+392,England FA-Cup,2025-08-16,10:00,905f5877:Erith Town,683b71d8:Southall
+393,England FA-Cup,2025-08-16,10:00,39260309:Trafford,00f3d715:Campion
+394,England FA-Cup,2025-08-16,10:00,5f17a87d:Newark FC,e3372d05:Boston Town
+395,England FA-Cup,2025-08-16,10:00,4fce24b5:Gr. Wakering,b3676d44:Redbridge
+396,England FA-Cup,2025-08-16,10:00,dbc75ffa:March Town United FC,5e4c7673:Ipswich Wanderers
+397,England FA-Cup,2025-08-16,10:00,cce0c5d3:Congleton,14123a80:Padiham
+398,England FA-Cup,2025-08-16,10:00,c1fe83df:Sherwood,cdb9a4a5:Anstey
+399,England FA-Cup,2025-08-16,10:00,d834b0f8:Harlow Town FC,f034ffd5:Woodford 2017
+400,England FA-Cup,2025-08-16,10:00,9a3ed555:Bedfont Sports,1a91ea5d:Kingstonian
+401,England FA-Cup,2025-08-16,10:00,beeaafda:Hassocks,a2480d20:Beckenham Town
+402,England FA-Cup,2025-08-16,10:00,6c4ff7a2:Malvern,317cf5a7:Worcester Raiders FC
+403,England FA-Cup,2025-08-16,10:00,67dbcda9:Exmouth,1d996a65:Buckland Athl.
+404,England FA-Cup,2025-08-16,10:00,8068a873:Ely City,ec940df5:Haverhill Rov
+405,England FA-Cup,2025-08-16,10:00,883cecf1:Edgware Town,47ab32b3:Whitstable
+406,England FA-Cup,2025-08-16,10:00,c899c248:Portishead Town FC,1ff96ae5:Slimbridge
+407,England FA-Cup,2025-08-16,10:00,5ba45bf8:Northallerton,c427cb14:Kendal Town
+408,England FA-Cup,2025-08-16,10:00,fea74374:Bradford PA,05a63aba:Avro
+409,England FA-Cup,2025-08-16,10:00,92bbdde1:Stoneham,7599473c:Paulton
+410,England FA-Cup,2025-08-16,10:00,360e223a:Ashford,c4c44344:Snodland Town
+411,England FA-Cup,2025-08-16,10:00,e2a21e1b:Lowestoft,c50b2ef4:St. Neots
+412,England FA-Cup,2025-08-16,10:00,a70cb02f:Coton Green,27ff1887:Eastwood Community FC
+414,England FA-Cup,2025-08-16,10:00,c6d5afe2:Sheppey,7c676798:Eastbourne Utd
+415,England FA-Cup,2025-08-16,10:00,84d89f98:Heaton Stannington,7cb039af:Marske Utd
+416,England FA-Cup,2025-08-16,10:00,08a8aa15:Horndean FC,59213a14:Laverstock & Ford FC
+417,England FA-Cup,2025-08-16,10:00,fd990599:Clevedon Town,3fd10f76:Thame United
+418,England FA-Cup,2025-08-16,10:00,bf17ada4:Crowborough,3dbf7d6e:Deal Town
+419,England FA-Cup,2025-08-17,09:00,eeba4604:Hallam,9c348bd3:City Liverpool
+420,England FA-Cup,2025-08-17,09:00,e242eb46:Hackney Wick,2ca652c2:Bognor Regis
+421,England FA-Cup,2025-08-17,10:00,d73312d0:Littlehampton Town FC,680ed164:Nth Greenford
+422,England FA-Cup,2025-08-17,10:00,e6bfe0e7:Wokingham & Emmbrook FC,73ed98c8:Larkhall
+423,England FA-Cup,2025-08-17,10:00,942c64e0:Enfield 1893,3a978ab7:Biggleswade
+424,England FA-Cup,2025-08-18,14:45,ed3b57a3:Supermarine,e2225bcd:Alton Town FC
+425,England FA-Cup,2025-08-19,14:30,59233365:Shildon,09eb8c99:Birtley Town FC
+426,England FA-Cup,2025-08-19,14:45,b3676d44:Redbridge,4fce24b5:Gr. Wakering
+427,England FA-Cup,2025-08-19,14:45,59b0aa9e:South Park,02fa4e29:Epsom & Ewell FC
+428,England FA-Cup,2025-08-19,14:45,b0f2c259:Waltham Abbey,16af3fc1:Welwyn Garden
+429,England FA-Cup,2025-08-19,14:45,8505d703:Ramsbottom,57aa388d:Silsden
+430,England FA-Cup,2025-08-19,14:45,422d7787:Margate,218697c2:Cobham
+431,England FA-Cup,2025-08-19,14:45,03ca571f:Bowers/Pitsea,06f4de43:Takeley
+432,England FA-Cup,2025-08-19,14:45,cbc02110:Bury,fe0e252b:Stalybridge
+433,England FA-Cup,2025-08-19,14:45,0772d8c3:Wythenshawe Amateurs,1782aadf:Vauxhall Motors FC
+434,England FA-Cup,2025-08-19,14:45,ac3c6798:Bashley,82cfb72a:Winchester
+435,England FA-Cup,2025-08-19,14:45,94378dd9:Lincoln Utd,cf643a92:Skegness Town AFC
+436,England FA-Cup,2025-08-19,14:45,36bd8261:Felixstowe,34f35ec0:Newmarket
+437,England FA-Cup,2025-08-19,14:45,bce68537:Walsham,e1f78fc3:Gorleston
+438,England FA-Cup,2025-08-19,14:45,e3372d05:Boston Town,5f17a87d:Newark FC
+440,England FA-Cup,2025-08-19,14:45,c427cb14:Kendal Town,5ba45bf8:Northallerton
+441,England FA-Cup,2025-08-19,15:00,2b59cdb7:Bridlington,9ec91479:Wst Auckland
+442,England FA-Cup,2025-08-20,14:30,a72c7b0b:Redcar Athletic FC,dfdd0f12:Guisborough
+443,England FA-Cup,2025-08-20,14:45,d26c48f2:Grays,0eeb3a15:Hitchin
+444,England FA-Cup,2025-08-20,14:45,f034ffd5:Woodford 2017,d834b0f8:Harlow Town FC
+445,England FA-Cup,2025-08-20,14:45,e55c6443:Hollands,c8e8c154:Knaphill
+446,England FA-Cup,2025-08-20,14:45,683b71d8:Southall,905f5877:Erith Town
+447,England FA-Cup,2025-08-20,14:45,f648f064:Easington Colliery AFC,c5432bfb:Pickering
+448,England FA-Cup,2025-08-20,14:45,fbf2a231:Ilford,fbec31be:Ware
+449,England FA-Cup,2025-08-26,14:45,d1edcaa6:Egham Town,69d1486e:Corinthian
+451,England FA-Cup,2025-08-30,10:00,15df0b1b:Aveley,237a7862:Hashtag Utd
+452,England FA-Cup,2025-08-30,10:00,d06d7955:Sudbury,6c72992e:Mildenhall
+453,England FA-Cup,2025-08-30,10:00,39b14bc5:Uxbridge,aea94879:Welling United
+454,England FA-Cup,2025-08-30,10:00,2574f878:Evesham Utd,ece9bace:Bromsgrove
+455,England FA-Cup,2025-08-30,10:00,526a6c40:Worcester City,280b8b95:Chasetown FC
+456,England FA-Cup,2025-08-30,10:00,9a02e66f:Wootton Basset,be934956:Torpoint Athletic FC
+457,England FA-Cup,2025-08-30,10:00,7f3a0611:Didcot Town,a11187d4:Poole
+458,England FA-Cup,2025-08-30,10:00,6361b4d5:Bishops Cleeve,f3a2ba41:Wimborne
+459,England FA-Cup,2025-08-30,10:00,2618e808:Falmouth Town AFC,c601e522:Brixham AFC
+460,England FA-Cup,2025-08-30,10:00,3dbf7d6e:Deal Town,218697c2:Cobham
+461,England FA-Cup,2025-08-30,10:00,f21f8649:Halesowen,545b8a92:Stratford
+462,England FA-Cup,2025-08-30,10:00,8a79714f:Witton,59233365:Shildon
+463,England FA-Cup,2025-08-30,10:00,4fdd2721:Faversham,d83c33b1:Hastings Utd
+464,England FA-Cup,2025-08-30,10:00,02fa4e29:Epsom & Ewell FC,73d6d7cf:Risborough Rangers
+465,England FA-Cup,2025-08-30,10:00,3be23b97:Tiverton Town,3842cbd0:Taunton Town
+466,England FA-Cup,2025-08-30,10:00,aeb9ca22:Hebburn,2b52c7d2:Longridge
+467,England FA-Cup,2025-08-30,10:00,c8ce7522:Coleshill,317cf5a7:Worcester Raiders FC
+468,England FA-Cup,2025-08-30,10:00,1b5aaa66:Sittingbourne,8ad6bf1a:Croydon
+469,England FA-Cup,2025-08-30,10:00,a56c00fb:Bishop AL,8a89e248:Chadderton FC
+470,England FA-Cup,2025-08-30,10:00,e3372d05:Boston Town,1b5fa461:Khalsa
+471,England FA-Cup,2025-08-30,10:00,bcf7f64e:Folkestone,a1064ee6:Sevenoaks
+472,England FA-Cup,2025-08-30,10:00,9d313acf:Rushall,f148da9b:Atherstone
+473,England FA-Cup,2025-08-30,10:00,83ef77d0:Brentwood,647f02ca:Leighton Town
+474,England FA-Cup,2025-08-30,10:00,f60cbb9d:Billericay,d56a53c1:Barton
+475,England FA-Cup,2025-08-30,10:00,d8149ca8:Chertsey,3fd10f76:Thame United
+477,England FA-Cup,2025-08-30,10:00,3e317057:Warrington,2c979558:Bamber Bridge
+478,England FA-Cup,2025-08-30,10:00,5091b0a3:Bourne Town FC,9143fed5:Shepshed
+479,England FA-Cup,2025-08-30,10:00,0523f0dd:Morpeth,ae7c0205:Pontefract
+480,England FA-Cup,2025-08-30,10:00,69cc703d:Fairford,7b3a21e4:Sholing FC
+481,England FA-Cup,2025-08-30,10:00,942c64e0:Enfield 1893,fbf2a231:Ilford
+482,England FA-Cup,2025-08-30,10:00,c8e8c154:Knaphill,e242eb46:Hackney Wick
+483,England FA-Cup,2025-08-30,10:00,456a2ba8:Long Eaton,31a305e0:Kettering Town
+484,England FA-Cup,2025-08-30,10:00,b3676d44:Redbridge,df2696aa:Royston
+485,England FA-Cup,2025-08-30,10:00,78fd66d2:Burnham,69d91082:Jersey Bulls FC
+486,England FA-Cup,2025-08-30,10:00,cdc6f1ba:Cheshunt FC,5f058d60:Leiston
+487,England FA-Cup,2025-08-30,10:00,62c27386:Redditch Utd,cf643a92:Skegness Town AFC
+488,England FA-Cup,2025-08-30,10:00,a0263aa3:Three Bridges,f5d99ab5:Walton & Hers.
+489,England FA-Cup,2025-08-30,10:00,832dc86b:Gloucester,b9bb5e8b:Portchester
+490,England FA-Cup,2025-08-30,10:00,9a3ed555:Bedfont Sports,d73312d0:Littlehampton Town FC
+491,England FA-Cup,2025-08-30,10:00,0cbdf3fc:Berkhamsted,f9f7568b:St. Ives Town
+492,England FA-Cup,2025-08-30,10:00,57aa388d:Silsden,85533b44:Bootle FC
+493,England FA-Cup,2025-08-30,10:00,5c88e4eb:Parkway,da6303ff:Frome Town
+494,England FA-Cup,2025-08-30,10:00,a1543700:Raynes Park,6a3a63d1:Ashford Utd
+495,England FA-Cup,2025-08-30,10:00,9384d0a4:Sutton C'field,168e2664:Abbey Hulton Utd
+496,England FA-Cup,2025-08-30,10:00,ab9e500c:Tavistock,ed3b57a3:Supermarine
+497,England FA-Cup,2025-08-30,10:00,85dd0a2f:Hythe & Dibden FC,59213a14:Laverstock & Ford FC
+498,England FA-Cup,2025-08-30,10:00,ee7e1f51:Workington,fe0e252b:Stalybridge
+499,England FA-Cup,2025-08-30,10:00,45ecbb46:Tower Hamlets,a39704ce:Ascot United
+500,England FA-Cup,2025-08-30,10:00,d1ac93bf:Tadley Calleva,6dc6688d:Weymouth
+501,England FA-Cup,2025-08-30,10:00,76dbcc9a:Potters Bar,0eeb3a15:Hitchin
+503,England FA-Cup,2025-08-30,10:00,103a8391:Shaftesbury,67dbcda9:Exmouth
+504,England FA-Cup,2025-08-30,10:00,f8c56541:Rylands,430d5511:Guiseley
+505,England FA-Cup,2025-08-30,10:00,41ad6a2e:Real Bedford,034e0831:Bishop's
+506,England FA-Cup,2025-08-30,10:00,69e73431:Cray,eb9ee060:Hanwell
+507,England FA-Cup,2025-08-30,10:00,fd4e4cac:Brightlingsea,24aaaeb6:Bury Town
+508,England FA-Cup,2025-08-30,10:00,2c7f18b0:Steyning Town,1fa5410a:Lancing FC
+509,England FA-Cup,2025-08-30,10:00,927f22b5:Bracknell,d4547110:Dartford
+510,England FA-Cup,2025-08-30,10:00,2dd4700c:Hednesford,7ab048b4:Basford Utd
+511,England FA-Cup,2025-08-30,10:00,28a78514:Flackwell H,0178d199:Lewes FC
+512,England FA-Cup,2025-08-30,10:00,27ff1887:Eastwood Community FC,1a9ae966:Grimsby Boro
+513,England FA-Cup,2025-08-30,10:00,f3bb7341:Chatham Town,cbf1c547:Marlow
+514,England FA-Cup,2025-08-30,10:00,4361d7f9:Witham,e2a21e1b:Lowestoft
+515,England FA-Cup,2025-08-30,10:00,03ca571f:Bowers/Pitsea,afb379f1:Hertford Town
+516,England FA-Cup,2025-08-30,10:00,403b8413:Newcastle Blue Star FC,84d89f98:Heaton Stannington
+517,England FA-Cup,2025-08-30,10:00,e8979067:Maldon&Tiptree,276c9299:Canvey
+518,England FA-Cup,2025-08-30,10:00,8b60d748:Ilkeston,9997d9c3:Spalding
+519,England FA-Cup,2025-08-30,10:00,27ac0a6b:Eynesbury,3625eed4:Arlesey
+520,England FA-Cup,2025-08-30,10:00,3ce5f9b7:Hanley Town,b1dea8b9:Stourbridge
+521,England FA-Cup,2025-08-30,10:00,39260309:Trafford,f2d6b769:Stockton Town
+522,England FA-Cup,2025-08-30,10:00,34f35ec0:Newmarket,f034ffd5:Woodford 2017
+523,England FA-Cup,2025-08-30,10:00,2621920d:Havant & W'ville,8bdee328:Chichester
+524,England FA-Cup,2025-08-30,10:00,cb9661c9:Matlock Town,7554d3b4:Bottesford
+525,England FA-Cup,2025-08-30,10:00,7a97ce29:Westbury Utd,dd903901:Yate Town
+526,England FA-Cup,2025-08-30,10:00,5b03fc2d:Alvechurch,92ed4b3c:Barwell
+527,England FA-Cup,2025-08-30,10:00,273d208f:Wombwell Town,da844a1a:Stocksbridge
+529,England FA-Cup,2025-08-30,10:00,3b47a2b5:Harborough,2ef75ba1:Leek Town
+530,England FA-Cup,2025-08-30,10:00,0a10f621:Quorn,c1fe83df:Sherwood
+531,England FA-Cup,2025-08-30,10:00,54d36ce1:Carlton,0497b125:Cleethorpes
+532,England FA-Cup,2025-08-30,10:00,82cfb72a:Winchester,2b61b745:Fareham Town
+533,England FA-Cup,2025-08-30,10:00,1ff96ae5:Slimbridge,0476c053:Dorchester
+534,England FA-Cup,2025-08-30,10:00,cfc6e778:Histon,f0a37569:Mulbarton
+535,England FA-Cup,2025-08-30,10:00,dbc75ffa:March Town United FC,e1f78fc3:Gorleston
+536,England FA-Cup,2025-08-30,10:00,c427cb14:Kendal Town,64041a1f:Dunston
+537,England FA-Cup,2025-08-30,10:00,c5432bfb:Pickering,a72c7b0b:Redcar Athletic FC
+538,England FA-Cup,2025-08-30,10:00,eeba4604:Hallam,753274ac:Ashton Utd
+539,England FA-Cup,2025-08-30,10:00,fb1591bd:Stanway Rovers,83328109:Cockfosters FC
+540,England FA-Cup,2025-08-30,10:00,e44c15dd:Dulwich Hamlet,47ab32b3:Whitstable
+541,England FA-Cup,2025-08-30,10:00,b0681010:Hungerford,92bbdde1:Stoneham
+542,England FA-Cup,2025-08-30,10:00,0f2ac378:Ramsgate,942ba9cb:Cray Valley
+543,England FA-Cup,2025-08-30,10:00,2bed3866:Mangotsfield,d7dbae42:Banbury
+544,England FA-Cup,2025-08-30,10:00,9ec91479:Wst Auckland,0772d8c3:Wythenshawe Amateurs
+545,England FA-Cup,2025-08-30,10:00,a2bb1880:Aylesbury VD,dfecd529:St Albans City
+546,England FA-Cup,2025-08-30,10:00,bfc0fcdc:Hyde United,2bc597a8:Prescot
+547,England FA-Cup,2025-08-30,10:00,905f5877:Erith Town,5ca387d3:Farnham Town
+548,England FA-Cup,2025-08-30,10:00,e6bfe0e7:Wokingham & Emmbrook FC,3d4e80d3:Burgess Hill
+549,England FA-Cup,2025-08-30,10:00,1fde7c7d:Rossington Main FC,a3b1d6fb:United of Man
+550,England FA-Cup,2025-08-30,10:00,f970e6e0:Hayes&Yeading,65038f3e:Whitehawk
+551,England FA-Cup,2025-08-30,10:00,8d6cd286:Kidsgrove,5e20c807:RC Warwick
+552,England FA-Cup,2025-08-30,10:00,3e0743ad:Stamford,b56da2c8:Sphinx
+553,England FA-Cup,2025-08-30,10:00,fa1a47cf:Atherton LR,fec0bcae:Atherton
+555,England FA-Cup,2025-08-30,10:00,1525ad79:West Didsbury,177c26fa:Runcorn
+556,England FA-Cup,2025-08-30,10:00,05a63aba:Avro,9407702a:Nantwich Town
+557,England FA-Cup,2025-08-30,10:00,8d7f0947:Carshalton,32a87154:Wingate
+558,England FA-Cup,2025-08-30,10:00,ced7338e:Corby Town,521d0055:Gainsborough
+559,England FA-Cup,2025-08-30,10:00,d0684a25:Needham,1f535bea:Tilbury
+560,England FA-Cup,2025-08-30,10:00,ec940df5:Haverhill Rov,b0f2c259:Waltham Abbey
+561,England FA-Cup,2025-08-30,10:00,6aad0791:Lancaster,287d30c7:Whitby Town
+562,England FA-Cup,2025-08-30,10:00,c9638571:Gosport,150ca7e0:Basingstoke
+563,England FA-Cup,2025-08-30,10:00,fdcb2b69:Westfield,c6d5afe2:Sheppey
+564,England FA-Cup,2025-08-30,10:00,360e223a:Ashford,401c21da:AFC Whyteleafe
+0,England FA-Community-Shield,2025-08-10,10:00,47c64c55:Crystal Palace,822bd0ba:Liverpool
+0,England EFL-Cup,2025-07-29,14:30,2e91bf26:Barnet,6c15d7e1:Newport County
+1,England EFL-Cup,2025-08-05,14:45,9172ba36:Acc'ton Stanley,4a04a02b:Oldham Athletic
+3,England EFL-Cup,2025-08-12,14:00,fb10988f:Swansea City,0cd8eef2:Crawley Town
+4,England EFL-Cup,2025-08-12,14:30,6c15d7e1:Newport County,e3c537a1:Millwall
+5,England EFL-Cup,2025-08-12,14:30,c6ce4b54:Stockport,f13a527f:Crewe Alexandra
+6,England EFL-Cup,2025-08-12,14:30,8efa4cdf:Barrow,22df8478:Preston
+7,England EFL-Cup,2025-08-12,14:30,7f59c601:Middlesbrough,03d10d77:Doncaster
+8,England EFL-Cup,2025-08-12,14:45,ce786972:Chesterfield,13cb8449:Mansfield Town
+9,England EFL-Cup,2025-08-12,14:45,17892952:Stoke City,d96bbc04:Walsall
+10,England EFL-Cup,2025-08-12,14:45,7a8db6d4:Charlton Ath,aca0450a:Stevenage
+11,England EFL-Cup,2025-08-12,14:45,5f01284a:Gillingham,8b9bf22a:AFC Wimbledon
+12,England EFL-Cup,2025-08-12,14:45,75fae011:Cardiff City,1b295b25:Swindon Town
+13,England EFL-Cup,2025-08-12,14:45,32a1480e:Plymouth Argyle,a757999c:QPR
+14,England EFL-Cup,2025-08-12,14:45,9172ba36:Acc'ton Stanley,d6e6321c:P'borough Utd
+15,England EFL-Cup,2025-08-12,14:45,e59ddc76:Wigan Athletic,3b27de1f:Notts County
+16,England EFL-Cup,2025-08-12,14:45,590e9120:Leyton Orient,43c2583e:Wycombe
+17,England EFL-Cup,2025-08-12,14:45,f7e3dfe9:Coventry City,e297cd13:Luton Town
+18,England EFL-Cup,2025-08-12,14:45,76ffc013:Portsmouth,b0ac61ff:Reading
+19,England EFL-Cup,2025-08-12,14:45,4cefb8c7:Salford City,375d66f1:Rotherham Utd
+20,England EFL-Cup,2025-08-12,14:45,93493607:Bristol City,fcf5b1e1:MK Dons
+21,England EFL-Cup,2025-08-12,14:45,802d1b47:Harrogate,d76b7bed:Lincoln City
+22,England EFL-Cup,2025-08-12,14:45,60c6b05f:West Brom,26ab47ee:Derby County
+23,England EFL-Cup,2025-08-12,14:45,2abfe087:Watford,1c781004:Norwich City
+24,England EFL-Cup,2025-08-12,14:45,654f3ca6:Bristol Rovers,41da1cf3:Cambridge Utd
+25,England EFL-Cup,2025-08-12,14:45,604617a2:Oxford United,b17b8146:Colchester Utd
+26,England EFL-Cup,2025-08-12,14:45,a18a87d7:Grimsby Town,b435dbf5:Shrewsbury
+27,England EFL-Cup,2025-08-12,14:45,7cbf5cb4:Blackpool,62657aa0:Port Vale
+29,England EFL-Cup,2025-08-12,14:45,986a26c1:Northampton,33c895d4:Southampton
+30,England EFL-Cup,2025-08-12,14:45,dad7970b:Wrexham,bd8769d1:Hull City
+31,England EFL-Cup,2025-08-12,14:45,e090f40b:Blackburn,3148d79f:Bradford City
+32,England EFL-Cup,2025-08-12,15:00,6a9477ca:Bromley,b74092de:Ipswich Town
+33,England EFL-Cup,2025-08-13,14:45,f5922ca5:Huddersfield,a2d435b3:Leicester City
+34,England EFL-Cup,2025-08-13,14:45,293cb36b:Barnsley,d6a369a2:Fleetwood Town
+35,England EFL-Cup,2025-08-13,14:45,445d3104:Bolton,bba7d733:Sheffield Weds
+36,England EFL-Cup,2025-08-13,14:45,7c4744f7:Cheltenham,05791fbc:Exeter City
+37,England EFL-Cup,2025-08-13,15:00,ec79b7c2:Birmingham City,1df6b87e:Sheffield Utd
+38,England EFL-Cup,2025-08-19,14:45,22327064:Tranmere Rovers,b09787c5:Burton Albion
+40,England EFL-Cup,2025-08-26,14:00,b0ac61ff:Reading,8b9bf22a:AFC Wimbledon
+41,England EFL-Cup,2025-08-26,14:30,8cec06e1:Wolves,7c21e445:West Ham
+42,England EFL-Cup,2025-08-26,14:30,41da1cf3:Cambridge Utd,7a8db6d4:Charlton Ath
+43,England EFL-Cup,2025-08-26,14:45,6a9477ca:Bromley,43c2583e:Wycombe
+44,England EFL-Cup,2025-08-26,14:45,75fae011:Cardiff City,7c4744f7:Cheltenham
+45,England EFL-Cup,2025-08-26,14:45,4ba7cbea:Bournemouth,cd051869:Brentford
+46,England EFL-Cup,2025-08-26,14:45,b09787c5:Burton Albion,d76b7bed:Lincoln City
+47,England EFL-Cup,2025-08-26,14:45,9172ba36:Acc'ton Stanley,03d10d77:Doncaster
+48,England EFL-Cup,2025-08-26,14:45,8ef52968:Sunderland,f5922ca5:Huddersfield
+49,England EFL-Cup,2025-08-26,14:45,e59ddc76:Wigan Athletic,c6ce4b54:Stockport
+50,England EFL-Cup,2025-08-26,14:45,1c781004:Norwich City,33c895d4:Southampton
+51,England EFL-Cup,2025-08-26,14:45,ec79b7c2:Birmingham City,62657aa0:Port Vale
+52,England EFL-Cup,2025-08-26,14:45,17892952:Stoke City,3148d79f:Bradford City
+53,England EFL-Cup,2025-08-26,14:45,fb10988f:Swansea City,32a1480e:Plymouth Argyle
+54,England EFL-Cup,2025-08-26,14:45,e3c537a1:Millwall,f7e3dfe9:Coventry City
+55,England EFL-Cup,2025-08-26,14:45,22df8478:Preston,dad7970b:Wrexham
+56,England EFL-Cup,2025-08-26,14:45,293cb36b:Barnsley,375d66f1:Rotherham Utd
+57,England EFL-Cup,2025-08-26,14:45,943e8050:Burnley,26ab47ee:Derby County
+58,England EFL-Cup,2025-08-26,15:00,bba7d733:Sheffield Weds,5bfb9659:Leeds United
+59,England EFL-Cup,2025-08-27,14:45,604617a2:Oxford United,d07537b9:Brighton
+60,England EFL-Cup,2025-08-27,14:45,fd962109:Fulham,93493607:Bristol City
+61,England EFL-Cup,2025-08-27,14:45,d3fd31cc:Everton,13cb8449:Mansfield Town
+62,England EFL-Cup,2025-08-27,15:00,a18a87d7:Grimsby Town,19538871:Manchester Utd
+0,Spain Copa-del-Rey,2024-10-09,11:30,0d19ebfb:San Tirso SD,98a34819:Selaya FC
+1,Spain Copa-del-Rey,2024-10-09,12:30,60e96961:CD Sonseca,a5582a79:CP Parla Escuela
+2,Spain Copa-del-Rey,2024-10-09,13:00,60453880:Astur CF,5cc8faeb:CD Promesas EDF
+3,Spain Copa-del-Rey,2024-10-09,13:00,8f4dc73e:CD Baztán,bd27e156:Ontiñena CF
+4,Spain Copa-del-Rey,2024-10-09,13:00,850aaa78:UD San Pedro,ad98cfcb:Ceuta 6dJun
+5,Spain Copa-del-Rey,2024-10-09,13:30,a5ddc149:CD Villamuriel,33f40f8e:CD Aurrerá de Vitoria
+6,Spain Copa-del-Rey,2024-10-09,14:00,805d60ed:EF Dolorense,2febfdd7:Manises CF
+7,Spain Copa-del-Rey,2024-10-09,14:30,ed01bb97:UE Vic,fb07fd02:CF Sporting de Mahón
+8,Spain Copa-del-Rey,2024-10-09,14:30,f4158051:CD Gévora,30ca2005:UD Playas de Sotavento
+9,Spain Copa-del-Rey,2024-10-09,15:00,a3c3c40a:Chiclana,2c490303:Melilla CD
+10,Spain Copa-del-Rey,2024-10-29,14:00,63505675:Compostela,8d6fd021:Alavés
+11,Spain Copa-del-Rey,2024-10-29,14:00,a5ddc149:CD Villamuriel,98e8af82:Rayo Vallecano
+12,Spain Copa-del-Rey,2024-10-29,15:00,eb74e9e0:Guijuelo,bec758d0:Ourense CF
+13,Spain Copa-del-Rey,2024-10-29,16:00,47ce7abb:UD Lanzarote,dee3bbc8:Racing Sant
+14,Spain Copa-del-Rey,2024-10-29,16:00,99249528:Real Jaén,ee7c297c:Cádiz
+15,Spain Copa-del-Rey,2024-10-29,16:00,dc8390fa:UD Poblense,2a8183b3:Villarreal
+16,Spain Copa-del-Rey,2024-10-29,16:00,60453880:Astur CF,17859612:Valladolid
+17,Spain Copa-del-Rey,2024-10-29,16:00,08f4680b:CE L'Hospitalet,800303a0:Zaragoza
+18,Spain Copa-del-Rey,2024-10-30,15:00,b9dcfe40:Utebo,5b9f913c:Unionistas Sal
+19,Spain Copa-del-Rey,2024-10-30,13:30,07de294e:Europa,b7e3e46e:Albacete
+20,Spain Copa-del-Rey,2024-10-30,14:00,3b147c89:Las Rozas CF,ad2be733:Sevilla
+21,Spain Copa-del-Rey,2024-10-30,14:00,6d15185b:Ciudad de Lucena,7c6f2c78:Leganés
+22,Spain Copa-del-Rey,2024-10-30,14:00,71e8cebc:Ibiza,d5de8ff3:Gimnàstic
+23,Spain Copa-del-Rey,2024-10-30,14:00,043933e8:UE Olot,6009ff35:Córdoba
+25,Spain Copa-del-Rey,2024-10-30,14:30,a4615984:CD Móstoles URJC,d9fac124:Burgos
+26,Spain Copa-del-Rey,2024-10-30,14:30,efbf6a9b:Langreo,8740efb9:Orihuela
+27,Spain Copa-del-Rey,2024-10-30,14:30,a3ebe635:SD Beasain,bbd9ac49:Cartagena
+28,Spain Copa-del-Rey,2024-10-30,14:30,7da065c5:Bergantiños FC,c7ea3cd1:Marbella
+29,Spain Copa-del-Rey,2024-10-30,15:00,2358159b:UE Sant Andreu,3640715c:CD Mirandés
+30,Spain Copa-del-Rey,2024-10-30,15:00,22c1c21c:UM Escobedo,ffbaa3d2:Ponferradina
+31,Spain Copa-del-Rey,2024-10-30,15:00,ff4ed90c:Llagostera,c6c493e6:Huesca
+32,Spain Copa-del-Rey,2024-10-30,15:00,5e8c6a2f:Lleida,fd5b8bef:Barakaldo
+33,Spain Copa-del-Rey,2024-10-30,15:00,31f1bcca:UD Logroñés,bea5c710:Eibar
+34,Spain Copa-del-Rey,2024-10-30,15:00,76d8bafa:Numancia,bb9efd50:Sporting Gijón
+35,Spain Copa-del-Rey,2024-10-30,15:00,d6133833:CD Laredo,dd8f1ff9:Yeclano
+36,Spain Copa-del-Rey,2024-10-30,15:00,768c8a85:CD Cortes,a0435291:Granada
+37,Spain Copa-del-Rey,2024-10-30,15:00,64a0f1a9:UD Salamanca B,045c971f:Alcorcón
+38,Spain Copa-del-Rey,2024-10-30,15:00,c0235a2f:Juventud Torremolinos CF,e36fc5db:Zamora
+39,Spain Copa-del-Rey,2024-10-30,15:30,e8fba31e:CD Coria,6c8b07df:Elche
+40,Spain Copa-del-Rey,2024-10-30,15:30,7202b84f:Cacereño,801b52b3:Gimn Segoviana
+41,Spain Copa-del-Rey,2024-10-30,15:30,27624e4d:UB Conquense,c187b7ab:Ibiza
+42,Spain Copa-del-Rey,2024-10-30,16:30,06994e5c:Club Deportivo Atlético Paso,fa36ed9b:Eldense
+43,Spain Copa-del-Rey,2024-10-30,16:00,78f0837b:Águilas,9eef2995:Castellón
+44,Spain Copa-del-Rey,2024-10-30,16:00,c4c866db:UD Sanse,78ecf4bb:Almería
+45,Spain Copa-del-Rey,2024-10-30,16:00,850aaa78:UD San Pedro,f25da7fb:Celta Vigo
+46,Spain Copa-del-Rey,2024-10-30,16:00,12b17f5e:CD Extremadura,9024a00a:Girona
+47,Spain Copa-del-Rey,2024-10-31,14:00,4eaa9116:Barbastro,5f70a1fa:Amorebieta
+48,Spain Copa-del-Rey,2024-10-31,14:00,0d19ebfb:San Tirso SD,a8661628:Espanyol
+49,Spain Copa-del-Rey,2024-10-31,14:00,ed01bb97:UE Vic,db3b9613:Atlético Madrid
+51,Spain Copa-del-Rey,2024-10-31,15:00,56f17f26:Real Ávila CF,ab358912:Oviedo
+52,Spain Copa-del-Rey,2024-10-31,15:00,59e199e5:Tudelano,b6fdf69d:CD Minera
+53,Spain Copa-del-Rey,2024-10-31,15:30,36783279:CD Don Benito,73178cb3:FC Andorra
+54,Spain Copa-del-Rey,2024-10-31,16:00,fa667d74:UD Llanera,38bf50d2:Leonesa
+55,Spain Copa-del-Rey,2024-10-31,16:00,bd27e156:Ontiñena CF,0049d422:Las Palmas
+56,Spain Copa-del-Rey,2024-10-31,16:00,edaa7ef2:CD Estepona,1c896955:Málaga
+57,Spain Copa-del-Rey,2024-10-31,16:00,ff8db3c1:CD Alfaro,27cc9c62:Tenerife
+58,Spain Copa-del-Rey,2024-10-31,16:00,f4158051:CD Gévora,fc536746:Betis
+59,Spain Copa-del-Rey,2024-10-31,16:00,8a1df7f4:CD Cuarte,962428a8:Racing Ferrol
+60,Spain Copa-del-Rey,2024-11-05,13:00,a3c3c40a:Chiclana,03c57e2b:Osasuna
+61,Spain Copa-del-Rey,2024-11-06,13:00,c653e8bf:Xerez,3a3ca6c0:AD Ceuta
+62,Spain Copa-del-Rey,2024-11-14,12:00,2da7552b:SD Ejea,4222a514:Hércules
+63,Spain Copa-del-Rey,2024-11-19,14:00,5f79c4a9:Pontevedra,9800b6a1:Levante
+64,Spain Copa-del-Rey,2024-11-21,15:00,76f7c0e6:FC Jove Español San Vicente,e31d1cd9:Real Sociedad
+65,Spain Copa-del-Rey,2024-11-26,13:00,a5582a79:CP Parla Escuela,dcc91a7b:Valencia
+66,Spain Copa-del-Rey,2024-11-26,13:00,2febfdd7:Manises CF,7848bd64:Getafe
+67,Spain Copa-del-Rey,2024-12-03,13:00,56f17f26:Real Ávila CF,17859612:Valladolid
+68,Spain Copa-del-Rey,2024-12-03,14:00,dd8f1ff9:Yeclano,6c8b07df:Elche
+69,Spain Copa-del-Rey,2024-12-03,15:00,64a0f1a9:UD Salamanca B,f25da7fb:Celta Vigo
+70,Spain Copa-del-Rey,2024-12-03,15:00,4eaa9116:Barbastro,a8661628:Espanyol
+71,Spain Copa-del-Rey,2024-12-03,15:00,800303a0:Zaragoza,a0435291:Granada
+72,Spain Copa-del-Rey,2024-12-03,15:15,07de294e:Europa,0049d422:Las Palmas
+73,Spain Copa-del-Rey,2024-12-04,13:00,2358159b:UE Sant Andreu,fc536746:Betis
+74,Spain Copa-del-Rey,2024-12-04,13:00,5b9f913c:Unionistas Sal,98e8af82:Rayo Vallecano
+75,Spain Copa-del-Rey,2024-12-04,13:00,d5de8ff3:Gimnàstic,c6c493e6:Huesca
+77,Spain Copa-del-Rey,2024-12-04,14:00,ee7c297c:Cádiz,fa36ed9b:Eldense
+78,Spain Copa-del-Rey,2024-12-04,14:00,bec758d0:Ourense CF,2a60ed82:La Coruña
+79,Spain Copa-del-Rey,2024-12-04,14:00,38bf50d2:Leonesa,78ecf4bb:Almería
+80,Spain Copa-del-Rey,2024-12-04,14:30,dee3bbc8:Racing Sant,bb9efd50:Sporting Gijón
+81,Spain Copa-del-Rey,2024-12-04,15:00,5f79c4a9:Pontevedra,2a8183b3:Villarreal
+82,Spain Copa-del-Rey,2024-12-04,15:00,2da7552b:SD Ejea,dcc91a7b:Valencia
+83,Spain Copa-del-Rey,2024-12-04,15:00,edaa7ef2:CD Estepona,7c6f2c78:Leganés
+84,Spain Copa-del-Rey,2024-12-04,15:00,e36fc5db:Zamora,27cc9c62:Tenerife
+85,Spain Copa-del-Rey,2024-12-04,15:00,31f1bcca:UD Logroñés,9024a00a:Girona
+86,Spain Copa-del-Rey,2024-12-05,13:00,8740efb9:Orihuela,7848bd64:Getafe
+87,Spain Copa-del-Rey,2024-12-05,13:00,7202b84f:Cacereño,db3b9613:Atlético Madrid
+88,Spain Copa-del-Rey,2024-12-05,13:00,3a3ca6c0:AD Ceuta,03c57e2b:Osasuna
+89,Spain Copa-del-Rey,2024-12-05,14:00,ffbaa3d2:Ponferradina,9eef2995:Castellón
+90,Spain Copa-del-Rey,2024-12-05,14:00,c7ea3cd1:Marbella,d9fac124:Burgos
+91,Spain Copa-del-Rey,2024-12-05,14:00,fd5b8bef:Barakaldo,962428a8:Racing Ferrol
+92,Spain Copa-del-Rey,2024-12-05,14:00,73178cb3:FC Andorra,bbd9ac49:Cartagena
+93,Spain Copa-del-Rey,2024-12-05,15:00,b6fdf69d:CD Minera,8d6fd021:Alavés
+94,Spain Copa-del-Rey,2024-12-05,15:00,27624e4d:UB Conquense,e31d1cd9:Real Sociedad
+95,Spain Copa-del-Rey,2024-12-05,15:00,043933e8:UE Olot,ad2be733:Sevilla
+96,Spain Copa-del-Rey,2025-01-03,13:00,a0435291:Granada,7848bd64:Getafe
+97,Spain Copa-del-Rey,2025-01-03,13:00,962428a8:Racing Ferrol,98e8af82:Rayo Vallecano
+98,Spain Copa-del-Rey,2025-01-03,13:00,5f79c4a9:Pontevedra,2aa12281:Mallorca
+99,Spain Copa-del-Rey,2025-01-04,10:30,27cc9c62:Tenerife,03c57e2b:Osasuna
+100,Spain Copa-del-Rey,2025-01-04,09:30,c6c493e6:Huesca,fc536746:Betis
+101,Spain Copa-del-Rey,2025-01-04,11:30,78ecf4bb:Almería,ad2be733:Sevilla
+103,Spain Copa-del-Rey,2025-01-04,13:00,4eaa9116:Barbastro,206d90db:Barcelona
+104,Spain Copa-del-Rey,2025-01-04,15:30,c7ea3cd1:Marbella,db3b9613:Atlético Madrid
+105,Spain Copa-del-Rey,2025-01-04,15:30,31f1bcca:UD Logroñés,2b390eca:Athletic Club
+106,Spain Copa-del-Rey,2025-01-05,06:00,6c8b07df:Elche,0049d422:Las Palmas
+107,Spain Copa-del-Rey,2025-01-05,06:00,bec758d0:Ourense CF,17859612:Valladolid
+108,Spain Copa-del-Rey,2025-01-05,09:30,bbd9ac49:Cartagena,7c6f2c78:Leganés
+109,Spain Copa-del-Rey,2025-01-05,09:30,dee3bbc8:Racing Sant,f25da7fb:Celta Vigo
+110,Spain Copa-del-Rey,2025-01-05,09:30,ffbaa3d2:Ponferradina,e31d1cd9:Real Sociedad
+111,Spain Copa-del-Rey,2025-01-06,13:00,b6fdf69d:CD Minera,53a2f082:Real Madrid
+112,Spain Copa-del-Rey,2025-01-07,15:00,fa36ed9b:Eldense,dcc91a7b:Valencia
+113,Spain Copa-del-Rey,2025-01-14,15:00,bec758d0:Ourense CF,dcc91a7b:Valencia
+114,Spain Copa-del-Rey,2025-01-15,13:30,78ecf4bb:Almería,7c6f2c78:Leganés
+115,Spain Copa-del-Rey,2025-01-15,13:30,5f79c4a9:Pontevedra,7848bd64:Getafe
+116,Spain Copa-del-Rey,2025-01-15,15:00,206d90db:Barcelona,fc536746:Betis
+117,Spain Copa-del-Rey,2025-01-15,15:30,6c8b07df:Elche,db3b9613:Atlético Madrid
+118,Spain Copa-del-Rey,2025-01-16,13:30,2b390eca:Athletic Club,03c57e2b:Osasuna
+119,Spain Copa-del-Rey,2025-01-16,13:30,e31d1cd9:Real Sociedad,98e8af82:Rayo Vallecano
+120,Spain Copa-del-Rey,2025-01-16,15:30,53a2f082:Real Madrid,f25da7fb:Celta Vigo
+121,Spain Copa-del-Rey,2025-02-04,15:30,db3b9613:Atlético Madrid,7848bd64:Getafe
+122,Spain Copa-del-Rey,2025-02-05,15:00,7c6f2c78:Leganés,53a2f082:Real Madrid
+123,Spain Copa-del-Rey,2025-02-06,13:30,e31d1cd9:Real Sociedad,03c57e2b:Osasuna
+124,Spain Copa-del-Rey,2025-02-06,15:30,dcc91a7b:Valencia,206d90db:Barcelona
+125,Spain Copa-del-Rey,2025-02-25,15:30,206d90db:Barcelona,db3b9613:Atlético Madrid
+126,Spain Copa-del-Rey,2025-02-26,15:30,e31d1cd9:Real Sociedad,53a2f082:Real Madrid
+127,Spain Copa-del-Rey,2025-04-01,15:30,53a2f082:Real Madrid,e31d1cd9:Real Sociedad
+129,Spain Copa-del-Rey,2025-04-02,15:30,db3b9613:Atlético Madrid,206d90db:Barcelona
+130,Spain Copa-del-Rey,2025-04-26,16:00,206d90db:Barcelona,53a2f082:Real Madrid
+0,Spain Supercopa-de-Espana,2025-01-08,14:00,2b390eca:Athletic Club,206d90db:Barcelona
+1,Spain Supercopa-de-Espana,2025-01-09,14:00,53a2f082:Real Madrid,2aa12281:Mallorca
+2,Spain Supercopa-de-Espana,2025-01-12,14:00,53a2f082:Real Madrid,206d90db:Barcelona
+0,France Coupe-de-France,2024-11-10,16:30,1ad3bd9b:Jeunesse Évol.,6640d390:CS Moulien
+1,France Coupe-de-France,2024-11-15,13:00,3196586b:Les Herbiers,7a54bb4f:Ajaccio
+2,France Coupe-de-France,2024-11-15,14:00,056a5a75:Paris FC,34e7850d:Quevilly-Rouen
+3,France Coupe-de-France,2024-11-15,14:00,dc1dd993:Angoulême,9130bd3b:Rodez Aveyron
+4,France Coupe-de-France,2024-11-16,07:45,77021edb:Av. Bayonne,e5b6b0c1:Pau FC
+5,France Coupe-de-France,2024-11-16,07:45,ecb514d5:C' Chartres,74229020:Caen
+6,France Coupe-de-France,2024-11-16,07:45,980524a2:FCSR Obernai,f83960ae:Metz
+7,France Coupe-de-France,2024-11-16,13:00,76ca939d:RC Saint-Joseph,00a535a2:Samaritaine
+8,France Coupe-de-France,2024-11-16,08:00,7b576c8b:US Crépy-en-Valois,ff7706bc:Diables Noirs de Combani
+9,France Coupe-de-France,2024-11-16,08:00,a0dfd307:Houilles AC,98973a5c:US Boulogne
+10,France Coupe-de-France,2024-11-16,08:00,0be0fa09:Chaumont FC,6e65ebe0:Monts d'Or Azergues Foot
+11,France Coupe-de-France,2024-11-16,08:00,410c7de5:CS Feytiat,d9676424:Clermont Foot
+12,France Coupe-de-France,2024-11-16,08:00,6710dee7:FC Freyming,6283be2c:Bastia
+13,France Coupe-de-France,2024-11-16,08:00,1b379b16:AS Ginglin-Cesson,b7109505:US Alençon
+14,France Coupe-de-France,2024-11-16,08:00,9a526aa9:USC Corte,6b355862:Linas-Montl.
+15,France Coupe-de-France,2024-11-16,09:00,6cf1edac:CG Haubourdin,e83d13db:Red Star
+16,France Coupe-de-France,2024-11-16,09:30,db9f975e:US Raon,0a03ba6d:ASC Biesheim
+17,France Coupe-de-France,2024-11-16,09:30,82e26422:Ruffiac Malestroit Foot,d2c87802:Lorient
+18,France Coupe-de-France,2024-11-16,10:00,81f60c85:St Philbert Reorthe,cd4a4fe5:SA Mérignac
+19,France Coupe-de-France,2024-11-16,10:30,e5b472a1:SP Milizac,0c1c166a:Dinan-Léhon
+20,France Coupe-de-France,2024-11-16,11:00,1b2fb5e6:Agde,e6255587:SO Romorantin
+21,France Coupe-de-France,2024-11-16,11:00,8e13e62e:Olympique Saumur FC,4d987358:US Concarneau
+22,France Coupe-de-France,2024-11-16,11:00,261e0a76:FC Grandvillars,8dfb7350:Dijon
+23,France Coupe-de-France,2024-11-16,11:00,f35581a8:Saint-Colomban Locminé,277cdbe7:Sablé
+25,France Coupe-de-France,2024-11-16,11:00,3ac615e7:Sarre-Union,89ff5424:Thaon
+26,France Coupe-de-France,2024-11-16,11:00,55e4f8f2:ESB Marboz,4eb023fd:Cluses-Scionzier FC
+27,France Coupe-de-France,2024-11-16,11:00,52807106:Vannes,cd5d7aa6:Le Mans
+28,France Coupe-de-France,2024-11-16,11:30,ffa2218a:US Nousseviller,dc17fded:SR Colmar
+29,France Coupe-de-France,2024-11-16,11:30,70f96e85:Istres,7e3a857a:ES Cannet-Rocheville
+30,France Coupe-de-France,2024-11-16,12:00,4a0ff629:Beauvais-Oise,b0b9782c:US Chantilly
+31,France Coupe-de-France,2024-11-16,12:00,9d88064b:Stade Béthunois FC,1740a29b:Dunkerque
+32,France Coupe-de-France,2024-11-16,12:00,5ea316dc:FC Saint-Lô Manche,64b0854d:SU Dives
+33,France Coupe-de-France,2024-11-16,12:00,32146a01:FC Espaly,04ab9043:FC Biars Bretenoux
+34,France Coupe-de-France,2024-11-16,12:00,d929fedb:Arras Football,259d3345:Valenciennes
+35,France Coupe-de-France,2024-11-16,12:00,da35c480:Fleury 91,25622401:Amiens
+36,France Coupe-de-France,2024-11-16,12:00,46c5732c:JA Drancy,e0be2f05:US Pays de Cassel
+37,France Coupe-de-France,2024-11-16,12:00,5dca7789:Gueugnon,b9cd3c9a:Sochaux
+38,France Coupe-de-France,2024-11-16,12:00,801e28af:FC Vesoul,c94d9135:Annecy
+39,France Coupe-de-France,2024-11-16,12:00,49cf900f:Alès OL,efab6f24:Stade Beaucairois
+40,France Coupe-de-France,2024-11-16,12:00,0fd70875:FC Foron,54195385:Troyes
+41,France Coupe-de-France,2024-11-16,12:00,5deb1d8a:AS St-Just St-Rambert,b4461076:Bourgoin-Jal.
+42,France Coupe-de-France,2024-11-16,12:00,39981dae:USPF Saint-Philbert-de-Grand-Lieu,773a9b0d:Thouars Foot 79
+43,France Coupe-de-France,2024-11-16,12:00,eef68dd6:Perpignan Canet FC,47d0a8b1:Versailles
+44,France Coupe-de-France,2024-11-16,12:00,cdf22ccc:Gallia Club Lucciana,6f4d0e0b:Px-Mézières
+45,France Coupe-de-France,2024-11-16,12:00,121dcdda:Colomiers,fc2d8fd5:Vierzon Foot 18
+46,France Coupe-de-France,2024-11-16,12:00,ca43de55:OC Cesson,da8d9837:TA Rennes
+47,France Coupe-de-France,2024-11-16,12:00,d607afc4:GFA Rumilly Vallières,5498a6ec:Jura Dolois Foot
+48,France Coupe-de-France,2024-11-16,12:00,29f5eff9:Épinal,e88fc6e5:Nancy
+49,France Coupe-de-France,2024-11-16,12:00,4003a380:AS Vitré,66cc304a:Stade Laval
+51,France Coupe-de-France,2024-11-16,12:00,5f56a9a6:Fontenay,30ca6b5e:ESOF La Roche-sur-Yon
+52,France Coupe-de-France,2024-11-16,12:00,2d3f9f8f:AS Guereins Genouilleux,b45f9287:UF Mâcon
+53,France Coupe-de-France,2024-11-16,12:00,e2f6ddd0:Montagnarde,c96d05af:Tours FC
+54,France Coupe-de-France,2024-11-16,12:30,40aa7280:Grenoble,33382a12:Villefranche
+55,France Coupe-de-France,2024-11-16,12:30,872d9edd:FC Serquigny Nassandres,d41b5f53:Guingamp
+56,France Coupe-de-France,2024-11-16,12:30,943aa94a:Boulay,b970b500:US Thionville Lusitanos
+57,France Coupe-de-France,2024-11-16,12:30,b009da4f:CS Blénod,3e5be65a:FCSR Haguenau
+58,France Coupe-de-France,2024-11-16,13:00,f3c0bf70:Cazaux Olympique,064ce3d8:La Roche VF
+59,France Coupe-de-France,2024-11-16,13:00,41dff222:Valence FC,c29fb6f0:US Marignane
+60,France Coupe-de-France,2024-11-16,13:00,ec9aa446:ES Grau-du-Roi,69a82db6:Cannes
+61,France Coupe-de-France,2024-11-16,13:00,1c629a75:Calais Beau Marais,433dc32c:AC Paris 15
+62,France Coupe-de-France,2024-11-16,13:00,c9861678:FC Comtal,67256fb4:Le Puy Foot 43
+63,France Coupe-de-France,2024-11-16,13:00,61d9850e:Niort,48dd5b1b:Orléans
+64,France Coupe-de-France,2024-11-17,08:00,c03d8fa1:RC Labourse,04ec4e3f:FC 93
+65,France Coupe-de-France,2024-11-17,08:00,685324a1:AS Montferrand,1b719877:L'Union
+66,France Coupe-de-France,2024-11-17,08:00,0248ac2f:AS Mutzig,d4066387:FA Illkirch-Graffenstaden
+67,France Coupe-de-France,2024-11-17,08:00,e19e38f9:Avenir Mourenxois,ecaa1753:FC Marmande 47
+68,France Coupe-de-France,2024-11-17,08:00,759d2c27:CO Les Ulis,c910d41e:RC Calais
+69,France Coupe-de-France,2024-11-17,08:00,36acd614:Saint-Omer,b9bc39f0:US Noyelles-sous-Lens
+70,France Coupe-de-France,2024-11-17,08:00,ae943665:CO Briochin,040e70e5:US Saint-Malo
+71,France Coupe-de-France,2024-11-17,08:00,ce12cdbb:USE Couzeix-Chaptelat,c42b00f3:Sauveteurs Brivois
+72,France Coupe-de-France,2024-11-17,08:00,14a18add:Anstaing Chereng,65d4f9f5:FCM Aubervilliers
+73,France Coupe-de-France,2024-11-17,08:00,d0f01f06:FC Fief-Gesté,61193ee7:US Monnaie
+74,France Coupe-de-France,2024-11-16,19:00,f855efb6:AS Dragon,2293229f:US Avranches
+75,France Coupe-de-France,2024-11-17,08:00,2deb7262:ES Beaumont Saint-Cyr,f42c5b3a:FC Ecureuils Merignac-Arlac
+77,France Coupe-de-France,2024-11-17,08:00,8ac4a7d3:Le Touquet,e80f03f6:FC Porto Portugais
+78,France Coupe-de-France,2024-11-17,08:00,a9bf77e5:Maladrerie OS,aa16cc5d:US Bolbec
+79,France Coupe-de-France,2024-11-17,08:00,b6c2f7cc:SC Anduzien,815ac9e3:Ht Lyonnais
+80,France Coupe-de-France,2024-11-17,08:00,b14dcf80:FC Hettange-Grande,d6dbeb95:Lunéville
+81,France Coupe-de-France,2024-11-17,08:00,0c145733:Lempdes SF,83fd5273:Carnoux FC
+82,France Coupe-de-France,2024-11-17,08:00,755da2d9:Étoile Maritime FC,91e68ea5:USSA Vertou
+83,France Coupe-de-France,2024-11-17,08:00,4fe67df5:FC Valdahon Vercel,3df0eb96:Jura Sud Foot
+84,France Coupe-de-France,2024-11-17,08:00,6dc6f493:Ol. Valence,e95faa7f:Arles-Avignon
+85,France Coupe-de-France,2024-11-17,08:00,011245be:SO Chambéry Foot,29916c51:FC Saint-Cyr Collonges au Mont d'Or
+86,France Coupe-de-France,2024-11-17,08:00,30ab494c:RC Roubaix,16058c00:Neuilly-sur-Marne SFC
+87,France Coupe-de-France,2024-11-17,08:00,41247cac:Paimpolais,f3522e08:Stade Briochin
+88,France Coupe-de-France,2024-11-17,08:00,70e50a84:FC Raismes,ef26825d:SC Feignies
+89,France Coupe-de-France,2024-11-17,08:00,eeda7c96:FC Liancourt Clermont,fc1c07db:Bretigny Foot CS
+90,France Coupe-de-France,2024-11-17,07:30,07bb3d02:St Pierroise,0d650ddf:Saint-Denis FC
+91,France Coupe-de-France,2024-11-17,11:00,f7fd9106:FC Bressuire,123f3efe:Bordeaux
+92,France Coupe-de-France,2024-11-17,11:00,87df6232:FC Allobroges Asafia,82e8a66d:Martigues
+94,France Coupe-de-France,2024-11-20,14:00,9a526aa9:USC Corte,ff7706bc:Diables Noirs de Combani
+96,France Coupe-de-France,2024-11-23,14:00,236a1372:Aigles d'Or,16d603bf:AS Etoile de Matoury
+98,France Coupe-de-France,2024-11-29,13:00,f3522e08:Stade Briochin,040e70e5:US Saint-Malo
+99,France Coupe-de-France,2024-11-29,13:00,48dd5b1b:Orléans,064ce3d8:La Roche VF
+100,France Coupe-de-France,2024-11-29,13:30,db9f975e:US Raon,f83960ae:Metz
+101,France Coupe-de-France,2024-11-29,13:30,6283be2c:Bastia,e88fc6e5:Nancy
+102,France Coupe-de-France,2024-11-29,14:00,1c629a75:Calais Beau Marais,25622401:Amiens
+103,France Coupe-de-France,2024-11-29,14:00,011245be:SO Chambéry Foot,8dfb7350:Dijon
+104,France Coupe-de-France,2024-11-30,07:30,74229020:Caen,aa16cc5d:US Bolbec
+105,France Coupe-de-France,2024-11-30,07:30,61193ee7:US Monnaie,d2c87802:Lorient
+106,France Coupe-de-France,2024-11-30,08:00,66cc304a:Stade Laval,4d987358:US Concarneau
+107,France Coupe-de-France,2024-11-30,08:00,dc1dd993:Angoulême,d9676424:Clermont Foot
+108,France Coupe-de-France,2024-11-30,08:00,0248ac2f:AS Mutzig,1ad3bd9b:Jeunesse Évol.
+109,France Coupe-de-France,2024-11-30,08:30,04ec4e3f:FC 93,e83d13db:Red Star
+110,France Coupe-de-France,2024-11-30,08:30,39981dae:USPF Saint-Philbert-de-Grand-Lieu,e5b6b0c1:Pau FC
+111,France Coupe-de-France,2024-11-30,08:30,65d4f9f5:FCM Aubervilliers,1740a29b:Dunkerque
+112,France Coupe-de-France,2024-11-30,09:00,eeda7c96:FC Liancourt Clermont,34e7850d:Quevilly-Rouen
+113,France Coupe-de-France,2024-11-30,14:00,16d603bf:AS Etoile de Matoury,b970b500:US Thionville Lusitanos
+114,France Coupe-de-France,2024-11-30,10:00,259d3345:Valenciennes,16058c00:Neuilly-sur-Marne SFC
+115,France Coupe-de-France,2024-11-30,10:00,3df0eb96:Jura Sud Foot,c94d9135:Annecy
+116,France Coupe-de-France,2024-11-30,11:00,d607afc4:GFA Rumilly Vallières,6e65ebe0:Monts d'Or Azergues Foot
+117,France Coupe-de-France,2024-11-30,11:00,4eb023fd:Cluses-Scionzier FC,54195385:Troyes
+118,France Coupe-de-France,2024-11-30,11:00,1b2fb5e6:Agde,67256fb4:Le Puy Foot 43
+119,France Coupe-de-France,2024-11-30,11:00,dc17fded:SR Colmar,3e5be65a:FCSR Haguenau
+120,France Coupe-de-France,2024-11-30,11:00,70f96e85:Istres,40aa7280:Grenoble
+121,France Coupe-de-France,2024-11-30,12:00,c96d05af:Tours FC,ca43de55:OC Cesson
+122,France Coupe-de-France,2024-11-30,12:00,1b719877:L'Union,47d0a8b1:Versailles
+124,France Coupe-de-France,2024-11-30,12:00,b45f9287:UF Mâcon,b9cd3c9a:Sochaux
+125,France Coupe-de-France,2024-11-30,12:00,30ca6b5e:ESOF La Roche-sur-Yon,76ca939d:RC Saint-Joseph
+126,France Coupe-de-France,2024-11-30,12:00,b4461076:Bourgoin-Jal.,6dc6f493:Ol. Valence
+127,France Coupe-de-France,2024-11-30,12:00,0c1c166a:Dinan-Léhon,d41b5f53:Guingamp
+128,France Coupe-de-France,2024-11-30,12:00,83fd5273:Carnoux FC,815ac9e3:Ht Lyonnais
+129,France Coupe-de-France,2024-11-30,12:00,cd4a4fe5:SA Mérignac,2deb7262:ES Beaumont Saint-Cyr
+130,France Coupe-de-France,2024-11-30,12:00,8ac4a7d3:Le Touquet,c910d41e:RC Calais
+131,France Coupe-de-France,2024-11-30,12:00,41dff222:Valence FC,82e8a66d:Martigues
+132,France Coupe-de-France,2024-11-30,12:00,49cf900f:Alès OL,69a82db6:Cannes
+133,France Coupe-de-France,2024-11-30,12:00,cd5d7aa6:Le Mans,f35581a8:Saint-Colomban Locminé
+134,France Coupe-de-France,2024-11-30,12:30,1b379b16:AS Ginglin-Cesson,deac08c7:FC Rouen
+135,France Coupe-de-France,2024-11-30,14:00,ecaa1753:FC Marmande 47,fc2d8fd5:Vierzon Foot 18
+136,France Coupe-de-France,2024-11-30,14:00,64b0854d:SU Dives,f855efb6:AS Dragon
+137,France Coupe-de-France,2024-12-01,07:30,ce12cdbb:USE Couzeix-Chaptelat,32146a01:FC Espaly
+138,France Coupe-de-France,2024-12-01,07:30,ef26825d:SC Feignies,cdf22ccc:Gallia Club Lucciana
+139,France Coupe-de-France,2024-12-01,07:45,98973a5c:US Boulogne,4a0ff629:Beauvais-Oise
+140,France Coupe-de-France,2024-12-01,08:00,b9bc39f0:US Noyelles-sous-Lens,46c5732c:JA Drancy
+141,France Coupe-de-France,2024-12-01,09:00,d6dbeb95:Lunéville,89ff5424:Thaon
+142,France Coupe-de-France,2024-12-01,07:00,0d650ddf:Saint-Denis FC,91e68ea5:USSA Vertou
+143,France Coupe-de-France,2024-12-01,11:00,123f3efe:Bordeaux,3196586b:Les Herbiers
+145,France Coupe-de-France,2024-12-20,14:45,3e5be65a:FCSR Haguenau,98973a5c:US Boulogne
+146,France Coupe-de-France,2024-12-20,14:45,cd4a4fe5:SA Mérignac,66cc304a:Stade Laval
+147,France Coupe-de-France,2024-12-20,14:45,6283be2c:Bastia,76ca939d:RC Saint-Joseph
+148,France Coupe-de-France,2024-12-20,14:45,32146a01:FC Espaly,8dfb7350:Dijon
+149,France Coupe-de-France,2024-12-20,14:45,54195385:Troyes,f83960ae:Metz
+150,France Coupe-de-France,2024-12-20,14:45,6e65ebe0:Monts d'Or Azergues Foot,c94d9135:Annecy
+151,France Coupe-de-France,2024-12-20,15:00,deac08c7:FC Rouen,cb188c0c:Lille
+152,France Coupe-de-France,2024-12-21,09:30,815ac9e3:Ht Lyonnais,3f8c4b5f:Toulouse
+153,France Coupe-de-France,2024-12-21,09:30,b4461076:Bourgoin-Jal.,82e8a66d:Martigues
+154,France Coupe-de-France,2024-12-21,09:30,f3522e08:Stade Briochin,5c2737db:Le Havre
+155,France Coupe-de-France,2024-12-21,09:30,064ce3d8:La Roche VF,fb08dbb3:Brest
+156,France Coupe-de-France,2024-12-21,09:30,69a82db6:Cannes,40aa7280:Grenoble
+157,France Coupe-de-France,2024-12-21,09:30,64b0854d:SU Dives,0d650ddf:Saint-Denis FC
+158,France Coupe-de-France,2024-12-21,12:00,89ff5424:Thaon,25622401:Amiens
+159,France Coupe-de-France,2024-12-21,12:00,c96d05af:Tours FC,d2c87802:Lorient
+160,France Coupe-de-France,2024-12-21,12:00,ef26825d:SC Feignies,d53c0b06:Lyon
+161,France Coupe-de-France,2024-12-21,12:00,67256fb4:Le Puy Foot 43,281b0e73:Montpellier
+162,France Coupe-de-France,2024-12-21,12:00,9a526aa9:USC Corte,132ebc33:Nice
+163,France Coupe-de-France,2024-12-21,12:00,46c5732c:JA Drancy,d7a486cd:Nantes
+164,France Coupe-de-France,2024-12-21,15:00,c910d41e:RC Calais,c0d3eab4:Strasbourg
+165,France Coupe-de-France,2024-12-22,08:45,123f3efe:Bordeaux,b3072e00:Rennes
+166,France Coupe-de-France,2024-12-22,08:45,d298ef2c:Saint-Étienne,5725cc7b:Marseille
+167,France Coupe-de-France,2024-12-22,08:45,0248ac2f:AS Mutzig,7fdd64e0:Reims
+168,France Coupe-de-France,2024-12-22,08:45,5ae09109:Auxerre,1740a29b:Dunkerque
+169,France Coupe-de-France,2024-12-22,08:45,1b719877:L'Union,fd6114db:Monaco
+171,France Coupe-de-France,2024-12-22,11:30,b970b500:US Thionville Lusitanos,259d3345:Valenciennes
+172,France Coupe-de-France,2024-12-22,11:30,d41b5f53:Guingamp,74229020:Caen
+173,France Coupe-de-France,2024-12-22,11:30,39981dae:USPF Saint-Philbert-de-Grand-Lieu,34e7850d:Quevilly-Rouen
+174,France Coupe-de-France,2024-12-22,11:30,ecaa1753:FC Marmande 47,cd5d7aa6:Le Mans
+175,France Coupe-de-France,2024-12-22,11:30,04ec4e3f:FC 93,69236f98:Angers
+176,France Coupe-de-France,2024-12-22,11:30,b9cd3c9a:Sochaux,d9676424:Clermont Foot
+177,France Coupe-de-France,2024-12-22,15:00,fd4e0f7d:Lens,e2d8892c:Paris S-G
+179,France Coupe-de-France,2025-01-14,14:45,64b0854d:SU Dives,67256fb4:Le Puy Foot 43
+180,France Coupe-de-France,2025-01-14,14:45,6283be2c:Bastia,132ebc33:Nice
+181,France Coupe-de-France,2025-01-14,14:45,cd5d7aa6:Le Mans,259d3345:Valenciennes
+182,France Coupe-de-France,2025-01-14,14:45,7fdd64e0:Reims,fd6114db:Monaco
+183,France Coupe-de-France,2025-01-14,14:45,d41b5f53:Guingamp,b9cd3c9a:Sochaux
+184,France Coupe-de-France,2025-01-14,15:10,5725cc7b:Marseille,cb188c0c:Lille
+185,France Coupe-de-France,2025-01-15,12:00,b4461076:Bourgoin-Jal.,d53c0b06:Lyon
+186,France Coupe-de-France,2025-01-15,12:30,54195385:Troyes,b3072e00:Rennes
+187,France Coupe-de-France,2025-01-15,12:30,34e7850d:Quevilly-Rouen,69236f98:Angers
+188,France Coupe-de-France,2025-01-15,12:30,89ff5424:Thaon,c0d3eab4:Strasbourg
+189,France Coupe-de-France,2025-01-15,12:30,f3522e08:Stade Briochin,c94d9135:Annecy
+190,France Coupe-de-France,2025-01-15,12:30,3f8c4b5f:Toulouse,66cc304a:Stade Laval
+191,France Coupe-de-France,2025-01-15,12:30,69a82db6:Cannes,d2c87802:Lorient
+192,France Coupe-de-France,2025-01-15,12:30,fb08dbb3:Brest,d7a486cd:Nantes
+193,France Coupe-de-France,2025-01-15,15:00,32146a01:FC Espaly,e2d8892c:Paris S-G
+194,France Coupe-de-France,2025-01-22,11:00,3e5be65a:FCSR Haguenau,1740a29b:Dunkerque
+196,France Coupe-de-France,2025-02-04,13:00,54195385:Troyes,fb08dbb3:Brest
+197,France Coupe-de-France,2025-02-04,13:00,cb188c0c:Lille,1740a29b:Dunkerque
+198,France Coupe-de-France,2025-02-04,15:10,cd5d7aa6:Le Mans,e2d8892c:Paris S-G
+199,France Coupe-de-France,2025-02-05,14:45,3f8c4b5f:Toulouse,d41b5f53:Guingamp
+200,France Coupe-de-France,2025-02-05,14:45,c0d3eab4:Strasbourg,69236f98:Angers
+201,France Coupe-de-France,2025-02-05,14:45,f3522e08:Stade Briochin,132ebc33:Nice
+202,France Coupe-de-France,2025-02-05,14:45,69a82db6:Cannes,64b0854d:SU Dives
+203,France Coupe-de-France,2025-02-06,15:00,b4461076:Bourgoin-Jal.,7fdd64e0:Reims
+205,France Coupe-de-France,2025-02-25,15:00,69a82db6:Cannes,d41b5f53:Guingamp
+206,France Coupe-de-France,2025-02-25,15:00,69236f98:Angers,7fdd64e0:Reims
+207,France Coupe-de-France,2025-02-26,13:00,fb08dbb3:Brest,1740a29b:Dunkerque
+208,France Coupe-de-France,2025-02-26,15:10,f3522e08:Stade Briochin,e2d8892c:Paris S-G
+210,France Coupe-de-France,2025-04-01,15:10,1740a29b:Dunkerque,e2d8892c:Paris S-G
+211,France Coupe-de-France,2025-04-02,15:00,69a82db6:Cannes,7fdd64e0:Reims
+213,France Coupe-de-France,2025-05-24,15:00,e2d8892c:Paris S-G,7fdd64e0:Reims
+0,France Trophee-des-Champions,2025-01-05,11:30,e2d8892c:Paris S-G,fd6114db:Monaco
+0,Germany DFB-Pokal,2025-08-15,12:00,eb4b278c:Saarbrücken,e18a73da:Magdeburg
+1,Germany DFB-Pokal,2025-08-15,12:00,a5e62940:Großaspach,c7a9f859:Leverkusen
+2,Germany DFB-Pokal,2025-08-15,12:00,9d24af26:FC Gütersloh 2000,7a41008f:Union Berlin
+3,Germany DFB-Pokal,2025-08-15,14:45,247c4b67:Arminia,62add3bf:Werder Bremen
+4,Germany DFB-Pokal,2025-08-16,07:00,1bfc385f:Berliner FC Dynamo,b42c6323:Bochum
+5,Germany DFB-Pokal,2025-08-16,07:00,87ebdc12:FK Pirmasens,26790c6a:Hamburger SV
+6,Germany DFB-Pokal,2025-08-16,09:30,b404f71e:Eintracht Norderstedt,54864664:St. Pauli
+7,Germany DFB-Pokal,2025-08-16,09:30,a4134f68:Bahlinger SC,18d9d2a7:Heidenheim
+8,Germany DFB-Pokal,2025-08-16,09:30,27ad7d4b:SV Hemelingen,4eaa11d7:Wolfsburg
+9,Germany DFB-Pokal,2025-08-16,09:30,bc31a6e4:Hansa Rostock,033ea6b8:Hoffenheim
+10,Germany DFB-Pokal,2025-08-16,09:30,d2bbc6d8:FV Illertissen,6f2c108c:Nürnberg
+11,Germany DFB-Pokal,2025-08-16,09:30,c241ee1a:Sandhausen,acbb6a5b:RB Leipzig
+12,Germany DFB-Pokal,2025-08-16,12:00,57ea79cd:Lübeck,6a6967fc:Darmstadt 98
+13,Germany DFB-Pokal,2025-08-16,12:00,7675ab36:Energie Cottbus,60b5e41f:Hannover 96
+14,Germany DFB-Pokal,2025-08-16,12:00,1573023f:Sportfreunde Lotte,a486e511:Freiburg
+15,Germany DFB-Pokal,2025-08-17,07:00,827a03db:Viktoria Köln,d9f93f02:Paderborn 07
+16,Germany DFB-Pokal,2025-08-17,07:00,2386405d:FV Engers 07,f0ac8ee6:Eint Frankfurt
+17,Germany DFB-Pokal,2025-08-17,09:30,408f18dd:RSV Eintracht Teltow,73a27a73:Kaiserslautern
+18,Germany DFB-Pokal,2025-08-17,09:30,b4043eb2:SV Atlas,32f3ee20:Gladbach
+19,Germany DFB-Pokal,2025-08-17,09:30,8d6241c4:Meuselwitz,33ba9d7b:Karlsruher
+20,Germany DFB-Pokal,2025-08-17,09:30,5cb328f2:Jahn R'burg,bc357bf7:Köln
+21,Germany DFB-Pokal,2025-08-17,09:30,914123ac:Blau-Weiß Lohne,12192a4c:Greuther Fürth
+22,Germany DFB-Pokal,2025-08-17,09:30,473affe3:Loko Leipzig,c539e393:Schalke 04
+23,Germany DFB-Pokal,2025-08-17,12:00,89a86c55:Homburg,2ac661d9:Holstein Kiel
+25,Germany DFB-Pokal,2025-08-17,12:00,d69d0df7:Hallescher,0cdc4311:Augsburg
+26,Germany DFB-Pokal,2025-08-17,12:00,291257b3:Ulm,fe686760:Elversberg
+27,Germany DFB-Pokal,2025-08-18,12:00,c4375806:Schweinfurt,b1278397:Düsseldorf
+28,Germany DFB-Pokal,2025-08-18,12:00,bbcef8c7:Preußen Münster,2818f8bc:Hertha BSC
+29,Germany DFB-Pokal,2025-08-18,12:00,ac36c181:Dresden,a224b06a:Mainz 05
+30,Germany DFB-Pokal,2025-08-18,14:45,28147f65:Rot-Weiss Essen,add600ae:Dortmund
+31,Germany DFB-Pokal,2025-08-26,14:45,8107958d:BTSV,598bc722:Stuttgart
+32,Germany DFB-Pokal,2025-08-27,14:45,432f2430:Wehen,054efa67:Bayern Munich
+0,Germany Franz-Beckenbauer-Supercup,2025-08-16,14:30,598bc722:Stuttgart,054efa67:Bayern Munich
+0,Italy Coppa-Italia,2025-08-09,14:30,f201f5dd:Virtus Entella,d8be8b3e:Ternana
+1,Italy Coppa-Italia,2025-08-10,13:30,4e5f8b9a:Padova,2591250b:Vicenza Virtus
+2,Italy Coppa-Italia,2025-08-10,14:30,b985784c:Pescara,94420866:Rimini
+3,Italy Coppa-Italia,2025-08-10,14:30,62c1762e:Audace Cerignola,2fe3a344:Avellino
+5,Italy Coppa-Italia,2025-08-15,12:00,a3d88bd8:Empoli,19008e93:Reggiana
+6,Italy Coppa-Italia,2025-08-15,12:30,e2befd26:Sassuolo,b964e6bb:Catanzaro
+7,Italy Coppa-Italia,2025-08-15,14:45,ffcbe334:Lecce,9144bbcf:Juve Stabia
+8,Italy Coppa-Italia,2025-08-15,15:15,658bf2de:Genoa,2591250b:Vicenza Virtus
+9,Italy Coppa-Italia,2025-08-16,12:00,af5d5982:Venezia,db80f322:Mantova
+10,Italy Coppa-Italia,2025-08-16,12:30,28c9c3cd:Como,13dabbde:Südtirol
+11,Italy Coppa-Italia,2025-08-16,14:45,c4260e09:Cagliari,f201f5dd:Virtus Entella
+12,Italy Coppa-Italia,2025-08-16,15:15,9aad3a77:Cremonese,ee058a17:Palermo
+13,Italy Coppa-Italia,2025-08-17,12:00,21680aa4:Monza,6a7ad59d:Frosinone
+14,Italy Coppa-Italia,2025-08-17,12:30,eab4234c:Parma,b985784c:Pescara
+15,Italy Coppa-Italia,2025-08-17,14:45,283f2557:Cesena,4cceedfc:Pisa
+16,Italy Coppa-Italia,2025-08-17,15:15,dc56fe14:Milan,01baa639:Bari
+17,Italy Coppa-Italia,2025-08-18,12:00,62c1762e:Audace Cerignola,0e72edf2:Hellas Verona
+18,Italy Coppa-Italia,2025-08-18,12:30,68449f6d:Spezia,8ff9e3b3:Sampdoria
+19,Italy Coppa-Italia,2025-08-18,14:45,04eea015:Udinese,379ce81a:Carrarese
+20,Italy Coppa-Italia,2025-08-18,15:15,105360fe:Torino,71a3700b:Modena
+22,Italy Coppa-Italia,2025-09-24,00:00,28c9c3cd:Como,e2befd26:Sassuolo
+23,Italy Coppa-Italia,2025-09-24,00:00,c4260e09:Cagliari,6a7ad59d:Frosinone
+24,Italy Coppa-Italia,2025-09-24,00:00,0e72edf2:Hellas Verona,af5d5982:Venezia
+25,Italy Coppa-Italia,2025-09-24,00:00,dc56fe14:Milan,ffcbe334:Lecce
+26,Italy Coppa-Italia,2025-09-24,00:00,eab4234c:Parma,68449f6d:Spezia
+27,Italy Coppa-Italia,2025-09-24,00:00,105360fe:Torino,4cceedfc:Pisa
+28,Italy Coppa-Italia,2025-09-24,00:00,658bf2de:Genoa,a3d88bd8:Empoli
+29,Italy Coppa-Italia,2025-09-24,00:00,04eea015:Udinese,ee058a17:Palermo
+0,Italy Supercoppa-Italiana,2025-01-02,14:00,d609edc0:Inter,922493f3:Atalanta
+1,Italy Supercoppa-Italiana,2025-01-03,14:00,e0652b02:Juventus,dc56fe14:Milan
+2,Italy Supercoppa-Italiana,2025-01-06,14:00,d609edc0:Inter,dc56fe14:Milan
