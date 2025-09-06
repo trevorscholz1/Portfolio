@@ -53,12 +53,16 @@ def main():
     load_dotenv()
     DATE = date.today()
     DATESEED = int(str(DATE).replace('-', ''))
-    if DATESEED % 2 == 0:
+    key = DATESEED % 3  
+    if key == 0:
         API_KEY = os.getenv('ODDS_API_KEY')
         BODY += 'USING MAIN'
-    else:
+    elif key == 1:
         API_KEY = os.getenv('ODDS_BACKUP_KEY')
         BODY += 'USING BACKUP'
+    else:
+        API_KEY = os.getenv('ODDS_DEMO_KEY')
+        BODY += 'USING DEMO'
 
     ACTIVE_SPORTS = []
     SPORTS = ['baseball_mlb','basketball_nba','basketball_ncaab','americanfootball_ncaaf','americanfootball_nfl','icehockey_nhl','soccer_usa_mls']
@@ -143,8 +147,7 @@ def main():
                     duplicate = (
                         (placed['sport'] == sport) &
                         (placed['team'] == team) &
-                        (placed['type'] == btype) &
-                        (placed['date_placed'] == today)
+                        (placed['type'] == btype)
                     ).any()
 
                 if not duplicate:

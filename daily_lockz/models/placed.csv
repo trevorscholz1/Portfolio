@@ -1,31 +1,28 @@
 sport,team,type,date_placed
-americanfootball_ncaaf,South Florida Bulls,ML,2025-08-27
-americanfootball_ncaaf,Lafayette Leopards,ML,2025-08-27
-americanfootball_ncaaf,Akron Zips,ML,2025-08-27
-americanfootball_ncaaf,St. Francis (PA) Red Flash,SPREAD,2025-08-27
-americanfootball_ncaaf,Buffalo Bulls,ML,2025-08-27
-americanfootball_ncaaf,Stephen F. Austin Lumberjacks,ML,2025-08-27
-americanfootball_ncaaf,Miami (OH) RedHawks,ML,2025-08-27
-americanfootball_ncaaf,Stony Brook Seawolves,ML,2025-08-27
-americanfootball_ncaaf,Kennesaw State Owls,ML,2025-08-27
-americanfootball_ncaaf,Western Michigan Broncos,ML,2025-08-27
-americanfootball_ncaaf,Illinois Fighting Illini,SPREAD,2025-08-27
-americanfootball_ncaaf,Ball State Cardinals,ML,2025-08-27
-americanfootball_ncaaf,Florida Atlantic Owls,ML,2025-08-27
-americanfootball_ncaaf,Northwestern Wildcats,ML,2025-08-27
-americanfootball_ncaaf,Northwestern Wildcats,SPREAD,2025-08-27
-americanfootball_ncaaf,Toledo Rockets,ML,2025-08-27
-americanfootball_ncaaf,Old Dominion Monarchs,ML,2025-08-27
-americanfootball_ncaaf,Florida State Seminoles,ML,2025-08-27
-americanfootball_ncaaf,South Dakota Coyotes,ML,2025-08-27
-americanfootball_ncaaf,Penn State Nittany Lions,SPREAD,2025-08-27
-americanfootball_ncaaf,Illinois State Redbirds,SPREAD,2025-08-27
-americanfootball_ncaaf,North Dakota Fighting Hawks,ML,2025-08-27
-baseball_mlb,Arizona Diamondbacks,UNDER,2025-08-27
-baseball_mlb,Philadelphia Phillies,OVER,2025-08-27
-americanfootball_nfl,Dallas Cowboys,ML,2025-08-28
-baseball_mlb,Atlanta Braves,ML,2025-08-28
-baseball_mlb,Chicago White Sox,ML,2025-08-28
 americanfootball_nfl,Dallas Cowboys,ML,2025-08-29
 baseball_mlb,St. Louis Cardinals,UNDER,2025-08-29
 baseball_mlb,New York Yankees,SPREAD,2025-08-29
+americanfootball_nfl,Cleveland Browns,ML,2025-08-30
+baseball_mlb,Oakland Athletics,ML,2025-08-30
+baseball_mlb,Oakland Athletics,SPREAD,2025-08-30
+baseball_mlb,Arizona Diamondbacks,SPREAD,2025-08-30
+americanfootball_ncaaf,UConn Huskies,ML,2025-08-31
+americanfootball_ncaaf,Missouri State Bears,ML,2025-08-31
+baseball_mlb,Pittsburgh Pirates,ML,2025-09-01
+baseball_mlb,Cleveland Guardians,ML,2025-09-01
+baseball_mlb,Colorado Rockies,ML,2025-09-01
+americanfootball_ncaaf,UAB Blazers,ML,2025-09-02
+baseball_mlb,Atlanta Braves,UNDER,2025-09-02
+americanfootball_nfl,Tennessee Titans,ML,2025-09-03
+americanfootball_nfl,Houston Texans,SPREAD,2025-09-03
+americanfootball_ncaaf,Stanford Cardinal,ML,2025-09-04
+americanfootball_nfl,Atlanta Falcons,ML,2025-09-04
+americanfootball_nfl,Indianapolis Colts,ML,2025-09-04
+americanfootball_nfl,Miami Dolphins,ML,2025-09-04
+americanfootball_nfl,New York Jets,ML,2025-09-04
+americanfootball_nfl,Chicago Bears,ML,2025-09-04
+baseball_mlb,Washington Nationals,ML,2025-09-04
+americanfootball_ncaaf,LIU Sharks,ML,2025-09-05
+americanfootball_nfl,Minnesota Vikings,ML,2025-09-05
+baseball_mlb,Texas Rangers,OVER,2025-09-05
+soccer_usa_mls,FC Dallas,ML,2025-09-05
