@@ -1,28 +1,29 @@
 sport,team,type,date_placed
-americanfootball_nfl,Dallas Cowboys,ML,2025-08-29
-baseball_mlb,St. Louis Cardinals,UNDER,2025-08-29
-baseball_mlb,New York Yankees,SPREAD,2025-08-29
-americanfootball_nfl,Cleveland Browns,ML,2025-08-30
-baseball_mlb,Oakland Athletics,ML,2025-08-30
-baseball_mlb,Oakland Athletics,SPREAD,2025-08-30
-baseball_mlb,Arizona Diamondbacks,SPREAD,2025-08-30
-americanfootball_ncaaf,UConn Huskies,ML,2025-08-31
-americanfootball_ncaaf,Missouri State Bears,ML,2025-08-31
-baseball_mlb,Pittsburgh Pirates,ML,2025-09-01
-baseball_mlb,Cleveland Guardians,ML,2025-09-01
-baseball_mlb,Colorado Rockies,ML,2025-09-01
-americanfootball_ncaaf,UAB Blazers,ML,2025-09-02
-baseball_mlb,Atlanta Braves,UNDER,2025-09-02
-americanfootball_nfl,Tennessee Titans,ML,2025-09-03
-americanfootball_nfl,Houston Texans,SPREAD,2025-09-03
-americanfootball_ncaaf,Stanford Cardinal,ML,2025-09-04
-americanfootball_nfl,Atlanta Falcons,ML,2025-09-04
-americanfootball_nfl,Indianapolis Colts,ML,2025-09-04
-americanfootball_nfl,Miami Dolphins,ML,2025-09-04
-americanfootball_nfl,New York Jets,ML,2025-09-04
-americanfootball_nfl,Chicago Bears,ML,2025-09-04
-baseball_mlb,Washington Nationals,ML,2025-09-04
 americanfootball_ncaaf,LIU Sharks,ML,2025-09-05
 americanfootball_nfl,Minnesota Vikings,ML,2025-09-05
 baseball_mlb,Texas Rangers,OVER,2025-09-05
 soccer_usa_mls,FC Dallas,ML,2025-09-05
+americanfootball_nfl,Denver Broncos,SPREAD,2025-09-06
+americanfootball_ncaaf,Delaware Blue Hens,ML,2025-09-07
+americanfootball_ncaaf,Texas A&M Aggies,ML,2025-09-07
+baseball_mlb,New York Mets,SPREAD,2025-09-07
+americanfootball_ncaaf,Arkansas State Red Wolves,ML,2025-09-08
+baseball_mlb,Oakland Athletics,ML,2025-09-08
+americanfootball_ncaaf,Kent State Golden Flashes,ML,2025-09-09
+baseball_mlb,Pittsburgh Pirates,UNDER,2025-09-09
+soccer_usa_mls,D.C. United,ML,2025-09-09
+soccer_usa_mls,St. Louis City SC,ML,2025-09-09
+americanfootball_nfl,Cleveland Browns,ML,2025-09-10
+americanfootball_nfl,Carolina Panthers,ML,2025-09-10
+soccer_usa_mls,Chicago Fire,ML,2025-09-10
+soccer_usa_mls,San Jose Earthquakes,OVER,2025-09-10
+americanfootball_ncaaf,South Florida Bulls,ML,2025-09-11
+americanfootball_nfl,New York Giants,ML,2025-09-11
+americanfootball_nfl,Kansas City Chiefs,ML,2025-09-11
+soccer_usa_mls,Orlando City SC,ML,2025-09-11
+soccer_usa_mls,Austin FC,OVER,2025-09-11
+americanfootball_ncaaf,Eastern Kentucky Colonels,ML,2025-09-12
+americanfootball_nfl,Jacksonville Jaguars,ML,2025-09-12
+americanfootball_nfl,Tennessee Titans,ML,2025-09-12
+americanfootball_nfl,Seattle Seahawks,ML,2025-09-12
+americanfootball_nfl,Las Vegas Raiders,ML,2025-09-12

@@ -6,7 +6,7 @@ import pandas as pd
 import pytz
 import requests
 
-PLACED_PATH = '/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv'
+PATH = '/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv'
 
 def convert(decimal):
     if decimal >= 2.0:
@@ -29,7 +29,7 @@ def convert_time(utc):
     return est_time.strftime('%Y-%m-%d %H:%M:%S %Z%z'), is_today
 
 def load_placed():
-    placed = pd.read_csv(PLACED_PATH)
+    placed = pd.read_csv(PATH)
     placed['date_placed'] = pd.to_datetime(placed['date_placed'], errors='coerce').dt.date
 
     return placed
@@ -39,7 +39,7 @@ def save_placed(placed):
 
     cutoff = date.today() - timedelta(days=7)
     placed = placed[placed['date_placed'] >= cutoff]
-    placed.to_csv(PLACED_PATH, index=False)
+    placed.to_csv(PATH, index=False)
 
 def main():
     BODY = ''
@@ -53,7 +53,7 @@ def main():
     load_dotenv()
     DATE = date.today()
     DATESEED = int(str(DATE).replace('-', ''))
-    key = DATESEED % 3  
+    key = DATESEED % 3
     if key == 0:
         API_KEY = os.getenv('ODDS_API_KEY')
         BODY += 'USING MAIN'
