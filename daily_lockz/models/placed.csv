@@ -1,29 +1,29 @@
-sport,team,type,date_placed
-americanfootball_ncaaf,LIU Sharks,ML,2025-09-05
-americanfootball_nfl,Minnesota Vikings,ML,2025-09-05
-baseball_mlb,Texas Rangers,OVER,2025-09-05
-soccer_usa_mls,FC Dallas,ML,2025-09-05
-americanfootball_nfl,Denver Broncos,SPREAD,2025-09-06
-americanfootball_ncaaf,Delaware Blue Hens,ML,2025-09-07
-americanfootball_ncaaf,Texas A&M Aggies,ML,2025-09-07
-baseball_mlb,New York Mets,SPREAD,2025-09-07
-americanfootball_ncaaf,Arkansas State Red Wolves,ML,2025-09-08
-baseball_mlb,Oakland Athletics,ML,2025-09-08
-americanfootball_ncaaf,Kent State Golden Flashes,ML,2025-09-09
-baseball_mlb,Pittsburgh Pirates,UNDER,2025-09-09
-soccer_usa_mls,D.C. United,ML,2025-09-09
-soccer_usa_mls,St. Louis City SC,ML,2025-09-09
-americanfootball_nfl,Cleveland Browns,ML,2025-09-10
-americanfootball_nfl,Carolina Panthers,ML,2025-09-10
-soccer_usa_mls,Chicago Fire,ML,2025-09-10
-soccer_usa_mls,San Jose Earthquakes,OVER,2025-09-10
-americanfootball_ncaaf,South Florida Bulls,ML,2025-09-11
-americanfootball_nfl,New York Giants,ML,2025-09-11
-americanfootball_nfl,Kansas City Chiefs,ML,2025-09-11
-soccer_usa_mls,Orlando City SC,ML,2025-09-11
-soccer_usa_mls,Austin FC,OVER,2025-09-11
-americanfootball_ncaaf,Eastern Kentucky Colonels,ML,2025-09-12
-americanfootball_nfl,Jacksonville Jaguars,ML,2025-09-12
-americanfootball_nfl,Tennessee Titans,ML,2025-09-12
-americanfootball_nfl,Seattle Seahawks,ML,2025-09-12
-americanfootball_nfl,Las Vegas Raiders,ML,2025-09-12
+sport,team,type,time,date_placed
+americanfootball_ncaaf,Northern Illinois Huskies,ML,2025-09-20 16:15:00 EDT-0400,2025-09-17
+americanfootball_ncaaf,Kennesaw State Owls,ML,2025-09-20 18:00:00 EDT-0400,2025-09-17
+americanfootball_ncaaf,South Carolina Gamecocks,ML,2025-09-20 19:00:00 EDT-0400,2025-09-17
+americanfootball_nfl,Miami Dolphins,ML,2025-09-18 20:15:00 EDT-0400,2025-09-17
+americanfootball_nfl,Carolina Panthers,ML,2025-09-21 13:00:00 EDT-0400,2025-09-17
+americanfootball_nfl,Cleveland Browns,ML,2025-09-21 13:00:00 EDT-0400,2025-09-17
+americanfootball_nfl,Las Vegas Raiders,ML,2025-09-21 13:00:00 EDT-0400,2025-09-17
+americanfootball_nfl,New York Jets,ML,2025-09-21 13:00:00 EDT-0400,2025-09-17
+americanfootball_nfl,Tennessee Titans,ML,2025-09-21 13:01:00 EDT-0400,2025-09-17
+americanfootball_nfl,Los Angeles Rams,ML,2025-09-21 13:01:00 EDT-0400,2025-09-17
+americanfootball_nfl,Denver Broncos,ML,2025-09-21 16:05:00 EDT-0400,2025-09-17
+americanfootball_nfl,Denver Broncos,SPREAD,2025-09-21 16:05:00 EDT-0400,2025-09-17
+americanfootball_nfl,New Orleans Saints,ML,2025-09-21 16:05:00 EDT-0400,2025-09-17
+americanfootball_nfl,Chicago Bears,SPREAD,2025-09-21 16:25:00 EDT-0400,2025-09-17
+baseball_mlb,Cleveland Guardians,ML,2025-09-18 13:11:00 EDT-0400,2025-09-17
+baseball_mlb,Kansas City Royals,OVER,2025-09-18 14:11:00 EDT-0400,2025-09-17
+baseball_mlb,Baltimore Orioles,ML,2025-09-18 19:16:00 EDT-0400,2025-09-17
+baseball_mlb,Los Angeles Angels,ML,2025-09-18 19:41:00 EDT-0400,2025-09-17
+soccer_usa_mls,Charlotte FC,OVER,2025-09-27 19:30:00 EDT-0400,2025-09-17
+soccer_usa_mls,Chicago Fire,ML,2025-09-27 20:30:00 EDT-0400,2025-09-17
+soccer_usa_mls,Colorado Rapids,ML,2025-09-27 21:30:00 EDT-0400,2025-09-17
+soccer_usa_mls,Sporting Kansas City,ML,2025-09-27 22:30:00 EDT-0400,2025-09-17
+americanfootball_ncaaf,Syracuse Orange,ML,2025-09-20 12:00:00 EDT-0400,2025-09-18
+americanfootball_nfl,New York Jets,SPREAD,2025-09-21 13:00:00 EDT-0400,2025-09-18
+americanfootball_nfl,Chicago Bears,ML,2025-09-21 16:25:00 EDT-0400,2025-09-18
+americanfootball_nfl,New York Giants,ML,2025-09-21 20:21:00 EDT-0400,2025-09-18
+baseball_mlb,Los Angeles Dodgers,SPREAD,2025-09-19 22:11:00 EDT-0400,2025-09-18
+americanfootball_nfl,Arizona Cardinals,ML,2025-09-21 16:26:00 EDT-0400,2025-09-19
