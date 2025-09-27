@@ -28,7 +28,7 @@ def convert_time(utc):
     now_est = dt.now(est_zone)
     is_today = est_time.date() == now_est.date()
 
-    return est_time.strftime("%Y-%m-%d %H:%M:%S %Z%z"), is_today
+    return est_time, is_today
 
 
 def load_placed():
@@ -184,15 +184,24 @@ def main():
 
             def add_bet(team, btype, point, odds, time):
                 today = date.today()
-
                 duplicate = False
+
                 if not placed.empty:
-                    duplicate = (
+                    placed_times = pd.to_datetime(
+                        placed["time"], errors="coerce", utc=True
+                    )
+                    placed_times = placed_times.dt.tz_convert("US/Eastern")
+
+                    mask = (
                         (placed["sport"] == sport)
                         & (placed["team"] == team)
                         & (placed["type"] == btype)
-                        & (placed["time"] == time)
-                    ).any()
+                    )
+
+                    for placed_time in placed_times[mask]:
+                        if abs(time - placed_time) <= timedelta(minutes=15):
+                            duplicate = True
+                            break
 
                 if not duplicate:
                     BETS.loc[len(BETS)] = {
