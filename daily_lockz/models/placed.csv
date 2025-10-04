@@ -1,32 +1,64 @@
 sport,team,type,time,date_placed
-americanfootball_nfl,Arizona Cardinals,ML,2025-09-21 16:26:00 EDT-0400,2025-09-19
-americanfootball_nfl,Cleveland Browns,SPREAD,2025-09-21 13:00:00 EDT-0400,2025-09-20
-americanfootball_nfl,Detroit Lions,ML,2025-09-22 20:15:00 EDT-0400,2025-09-20
-americanfootball_nfl,New Orleans Saints,ML,2025-09-28 13:00:00 EDT-0400,2025-09-20
-americanfootball_nfl,Cleveland Browns,ML,2025-09-28 13:01:00 EDT-0400,2025-09-20
-americanfootball_nfl,Tennessee Titans,ML,2025-09-28 13:01:00 EDT-0400,2025-09-20
-americanfootball_nfl,New York Giants,ML,2025-09-28 13:01:00 EDT-0400,2025-09-20
-americanfootball_nfl,Tampa Bay Buccaneers,SPREAD,2025-09-28 13:01:00 EDT-0400,2025-09-20
-baseball_mlb,Detroit Tigers,OVER,2025-09-21 13:41:00 EDT-0400,2025-09-20
-soccer_usa_mls,Portland Timbers,ML,2025-09-24 22:30:00 EDT-0400,2025-09-20
-americanfootball_ncaaf,Oklahoma State Cowboys,ML,2025-09-27 15:30:00 EDT-0400,2025-09-21
-americanfootball_ncaaf,Ole Miss Rebels,SPREAD,2025-09-27 15:30:00 EDT-0400,2025-09-21
-americanfootball_ncaaf,LSU Tigers,SPREAD,2025-09-27 15:30:00 EDT-0400,2025-09-21
-baseball_mlb,Washington Nationals,ML,2025-09-22 19:16:00 EDT-0400,2025-09-21
-americanfootball_ncaaf,Utah State Aggies,ML,2025-09-27 12:45:00 EDT-0400,2025-09-22
-americanfootball_ncaaf,Akron Zips,ML,2025-09-27 15:30:00 EDT-0400,2025-09-22
-baseball_mlb,Miami Marlins,ML,2025-09-23 18:46:00 EDT-0400,2025-09-22
-baseball_mlb,Chicago White Sox,ML,2025-09-23 19:06:00 EDT-0400,2025-09-22
-americanfootball_ncaaf,Rhode Island Rams,ML,2025-09-27 18:30:00 EDT-0400,2025-09-23
-americanfootball_ncaaf,Florida Atlantic Owls,ML,2025-09-27 19:00:00 EDT-0400,2025-09-23
-baseball_mlb,Atlanta Braves,SPREAD,2025-09-24 12:16:00 EDT-0400,2025-09-23
-baseball_mlb,Miami Marlins,ML,2025-09-24 18:46:00 EDT-0400,2025-09-23
-baseball_mlb,Arizona Diamondbacks,ML,2025-09-24 21:41:00 EDT-0400,2025-09-23
-americanfootball_ncaaf,Georgia Southern Eagles,ML,2025-09-27 13:30:00 EDT-0400,2025-09-24
-americanfootball_nfl,Cleveland Browns,ML,2025-09-28 13:00:00 EDT-0400,2025-09-24
-baseball_mlb,Baltimore Orioles,ML,2025-09-26 19:06:00 EDT-0400,2025-09-25
-baseball_mlb,San Diego Padres,SPREAD,2025-09-26 21:41:00 EDT-0400,2025-09-25
-soccer_usa_mls,Los Angeles FC,ML,2025-10-05 21:00:00 EDT-0400,2025-09-25
-americanfootball_nfl,Dallas Cowboys,ML,2025-09-28 20:21:00 EDT-0400,2025-09-26
-americanfootball_nfl,Cincinnati Bengals,ML,2025-09-29 20:15:00 EDT-0400,2025-09-26
-baseball_mlb,Baltimore Orioles,ML,2025-09-27 13:06:00 EDT-0400,2025-09-26
+americanfootball_nfl,Dallas Cowboys,ML,2025-09-28 20:21:00-0400,2025-09-26
+americanfootball_nfl,Cincinnati Bengals,ML,2025-09-29 20:15:00-0400,2025-09-26
+baseball_mlb,Baltimore Orioles,ML,2025-09-27 13:06:00-0400,2025-09-26
+americanfootball_nfl,Indianapolis Colts,ML,2025-09-28 16:06:00-04:00,2025-09-27
+baseball_mlb,Colorado Rockies,ML,2025-09-28 15:06:00-04:00,2025-09-27
+baseball_mlb,Pittsburgh Pirates,UNDER,2025-09-28 15:16:00-04:00,2025-09-27
+soccer_usa_mls,New England Revolution,ML,2025-10-04 19:30:00-04:00,2025-09-27
+americanfootball_ncaaf,Charlotte 49ers,ML,2025-10-03 19:00:00-04:00,2025-09-28
+americanfootball_ncaaf,Kentucky Wildcats,ML,2025-10-04 12:00:00-04:00,2025-09-28
+americanfootball_nfl,Denver Broncos,ML,2025-10-05 12:01:00-04:00,2025-09-28
+americanfootball_nfl,Las Vegas Raiders,ML,2025-10-05 12:01:00-04:00,2025-09-28
+americanfootball_nfl,New England Patriots,ML,2025-10-05 19:21:00-04:00,2025-09-28
+soccer_usa_mls,Toronto FC,ML,2025-10-08 22:30:00-04:00,2025-09-28
+americanfootball_ncaaf,West Virginia Mountaineers,ML,2025-10-03 22:30:00-04:00,2025-09-29
+americanfootball_ncaaf,Ball State Cardinals,ML,2025-10-04 12:00:00-04:00,2025-09-29
+americanfootball_ncaaf,Boston College Eagles,UNDER,2025-10-04 12:00:00-04:00,2025-09-29
+americanfootball_ncaaf,Purdue Boilermakers,ML,2025-10-04 12:00:00-04:00,2025-09-29
+americanfootball_ncaaf,Wisconsin Badgers,ML,2025-10-04 12:00:00-04:00,2025-09-29
+americanfootball_ncaaf,Boise State Broncos,ML,2025-10-04 15:30:00-04:00,2025-09-29
+americanfootball_ncaaf,Eastern Michigan Eagles,ML,2025-10-04 15:30:00-04:00,2025-09-29
+americanfootball_ncaaf,UCLA Bruins,ML,2025-10-04 15:30:00-04:00,2025-09-29
+americanfootball_ncaaf,Wyoming Cowboys,ML,2025-10-04 19:00:00-04:00,2025-09-29
+americanfootball_ncaaf,Minnesota Golden Gophers,ML,2025-10-04 19:30:00-04:00,2025-09-29
+americanfootball_nfl,Las Vegas Raiders,ML,2025-10-05 13:01:00-04:00,2025-09-29
+americanfootball_nfl,New Orleans Saints,ML,2025-10-05 13:01:00-04:00,2025-09-29
+americanfootball_nfl,Tennessee Titans,ML,2025-10-05 16:06:00-04:00,2025-09-29
+americanfootball_nfl,New England Patriots,ML,2025-10-05 20:21:00-04:00,2025-09-29
+baseball_mlb,Cincinnati Reds,ML,2025-09-30 21:08:00-04:00,2025-09-29
+soccer_usa_mls,San Jose Earthquakes,ML,2025-10-05 18:00:00-04:00,2025-09-29
+soccer_usa_mls,Atlanta United FC,ML,2025-10-11 19:30:00-04:00,2025-09-29
+americanfootball_ncaaf,North Carolina Tar Heels,ML,2025-10-04 12:00:00-04:00,2025-09-30
+americanfootball_ncaaf,Oklahoma State Cowboys,ML,2025-10-04 15:00:00-04:00,2025-09-30
+americanfootball_ncaaf,Vanderbilt Commodores,ML,2025-10-04 15:30:00-04:00,2025-09-30
+americanfootball_ncaaf,Florida Gators,ML,2025-10-04 15:30:00-04:00,2025-09-30
+americanfootball_ncaaf,Georgia State Panthers,ML,2025-10-04 15:30:00-04:00,2025-09-30
+americanfootball_ncaaf,Arkansas State Red Wolves,ML,2025-10-04 16:00:00-04:00,2025-09-30
+americanfootball_ncaaf,Houston Cougars,ML,2025-10-04 19:00:00-04:00,2025-09-30
+americanfootball_ncaaf,Colorado Buffaloes,ML,2025-10-04 19:30:00-04:00,2025-09-30
+americanfootball_ncaaf,Mississippi State Bulldogs,ML,2025-10-04 19:30:00-04:00,2025-09-30
+americanfootball_ncaaf,Tulsa Golden Hurricane,ML,2025-10-04 20:00:00-04:00,2025-09-30
+americanfootball_nfl,Denver Broncos,ML,2025-10-05 13:01:00-04:00,2025-09-30
+americanfootball_nfl,Seattle Seahawks,ML,2025-10-05 16:06:00-04:00,2025-09-30
+americanfootball_nfl,Cincinnati Bengals,ML,2025-10-05 16:26:00-04:00,2025-09-30
+americanfootball_nfl,Jacksonville Jaguars,ML,2025-10-06 20:16:00-04:00,2025-09-30
+americanfootball_ncaaf,Sam Houston State Bearkats,ML,2025-10-02 21:00:00-04:00,2025-10-01
+americanfootball_ncaaf,Western Kentucky Hilltoppers,SPREAD,2025-10-03 19:00:00-04:00,2025-10-01
+americanfootball_ncaaf,Syracuse Orange,ML,2025-10-04 15:30:00-04:00,2025-10-01
+americanfootball_ncaaf,South Alabama Jaguars,ML,2025-10-04 19:00:00-04:00,2025-10-01
+americanfootball_ncaaf,Nevada Wolf Pack,ML,2025-10-04 22:30:00-04:00,2025-10-01
+americanfootball_nfl,Seattle Seahawks,SPREAD,2025-10-05 16:06:00-04:00,2025-10-01
+americanfootball_nfl,Washington Commanders,ML,2025-10-05 16:26:00-04:00,2025-10-01
+americanfootball_nfl,Washington Commanders,SPREAD,2025-10-05 16:26:00-04:00,2025-10-01
+americanfootball_nfl,New York Giants,ML,2025-10-09 20:16:00-04:00,2025-10-01
+americanfootball_ncaaf,Air Force Falcons,ML,2025-10-04 12:00:00-04:00,2025-10-02
+americanfootball_ncaaf,Kansas State Wildcats,ML,2025-10-04 12:00:00-04:00,2025-10-02
+americanfootball_ncaaf,Akron Zips,ML,2025-10-04 15:30:00-04:00,2025-10-02
+americanfootball_ncaaf,UL Monroe Warhawks,ML,2025-10-04 15:30:00-04:00,2025-10-02
+americanfootball_ncaaf,Michigan State Spartans,ML,2025-10-04 16:00:00-04:00,2025-10-02
+americanfootball_nfl,New York Jets,ML,2025-10-05 13:01:00-04:00,2025-10-02
+americanfootball_ncaaf,UMass Minutemen,ML,2025-10-04 14:30:00-04:00,2025-10-03
+americanfootball_ncaaf,Coastal Carolina Chanticleers,ML,2025-10-04 18:00:00-04:00,2025-10-03
+americanfootball_nfl,Cleveland Browns,ML,2025-10-05 09:31:00-04:00,2025-10-03
+soccer_usa_mls,Los Angeles FC,SPREAD,2025-10-05 21:00:00-04:00,2025-10-03
