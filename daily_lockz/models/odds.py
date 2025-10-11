@@ -199,7 +199,7 @@ def main():
                     )
 
                     for placed_time in placed_times[mask]:
-                        if abs(time - placed_time) <= timedelta(minutes=15):
+                        if abs(time - placed_time) <= timedelta(minutes=75):
                             duplicate = True
                             break
 
