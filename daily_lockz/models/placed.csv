@@ -1,62 +1,46 @@
 sport,team,type,time,date_placed
-americanfootball_ncaaf,UMass Minutemen,ML,2025-10-04 14:30:00-04:00,2025-10-03
-americanfootball_ncaaf,Coastal Carolina Chanticleers,ML,2025-10-04 18:00:00-04:00,2025-10-03
-americanfootball_nfl,Cleveland Browns,ML,2025-10-05 09:31:00-04:00,2025-10-03
-soccer_usa_mls,Los Angeles FC,SPREAD,2025-10-05 21:00:00-04:00,2025-10-03
-americanfootball_ncaaf,East Carolina Pirates,ML,2025-10-09 19:30:00-04:00,2025-10-04
-americanfootball_ncaaf,Indiana Hoosiers,ML,2025-10-11 15:30:00-04:00,2025-10-04
-americanfootball_nfl,Carolina Panthers,ML,2025-10-12 13:01:00-04:00,2025-10-04
-americanfootball_nfl,Cleveland Browns,ML,2025-10-12 13:01:00-04:00,2025-10-04
-americanfootball_nfl,Las Vegas Raiders,SPREAD,2025-10-12 16:06:00-04:00,2025-10-04
-americanfootball_nfl,Cincinnati Bengals,ML,2025-10-12 16:26:00-04:00,2025-10-04
-baseball_mlb,Toronto Blue Jays,OVER,2025-10-05 16:09:00-04:00,2025-10-04
-baseball_mlb,Los Angeles Dodgers,UNDER,2025-10-06 18:09:00-04:00,2025-10-04
-americanfootball_ncaaf,Middle Tennessee Blue Raiders,SPREAD,2025-10-08 19:30:00-04:00,2025-10-05
-americanfootball_ncaaf,Illinois Fighting Illini,ML,2025-10-11 12:00:00-04:00,2025-10-05
-americanfootball_ncaaf,Stanford Cardinal,ML,2025-10-11 12:00:00-04:00,2025-10-05
-americanfootball_ncaaf,Eastern Michigan Eagles,SPREAD,2025-10-11 13:00:00-04:00,2025-10-05
-americanfootball_ncaaf,Northwestern Wildcats,ML,2025-10-11 15:30:00-04:00,2025-10-05
-americanfootball_ncaaf,Texas Longhorns,ML,2025-10-11 15:30:00-04:00,2025-10-05
-americanfootball_ncaaf,Arkansas Razorbacks,ML,2025-10-11 16:15:00-04:00,2025-10-05
-americanfootball_ncaaf,NC State Wolfpack,ML,2025-10-11 17:30:00-04:00,2025-10-05
-americanfootball_ncaaf,Coastal Carolina Chanticleers,OVER,2025-10-11 19:00:00-04:00,2025-10-05
-baseball_mlb,Chicago Cubs,ML,2025-10-06 21:09:00-04:00,2025-10-05
-americanfootball_ncaaf,Missouri Tigers,ML,2025-10-11 12:00:00-04:00,2025-10-06
-americanfootball_ncaaf,NC State Wolfpack,ML,2025-10-11 15:30:00-04:00,2025-10-06
-americanfootball_ncaaf,Kansas Jayhawks,ML,2025-10-11 19:30:00-04:00,2025-10-06
-americanfootball_ncaaf,Kansas Jayhawks,SPREAD,2025-10-11 19:30:00-04:00,2025-10-06
-americanfootball_ncaaf,South Carolina Gamecocks,ML,2025-10-11 19:45:00-04:00,2025-10-06
-americanfootball_nfl,New York Jets,ML,2025-10-12 08:31:00-04:00,2025-10-06
-americanfootball_nfl,Atlanta Falcons,ML,2025-10-13 19:15:00-04:00,2025-10-06
-soccer_usa_mls,Toronto FC,ML,2025-10-18 18:00:00-04:00,2025-10-06
-americanfootball_ncaaf,Kennesaw State Owls,ML,2025-10-09 19:00:00-04:00,2025-10-07
-americanfootball_ncaaf,Sam Houston State Bearkats,ML,2025-10-09 20:00:00-04:00,2025-10-07
-americanfootball_ncaaf,Rutgers Scarlet Knights,ML,2025-10-10 21:00:00-04:00,2025-10-07
-americanfootball_ncaaf,Charlotte 49ers,ML,2025-10-11 12:00:00-04:00,2025-10-07
-americanfootball_ncaaf,Pittsburgh Panthers,ML,2025-10-11 12:00:00-04:00,2025-10-07
-americanfootball_ncaaf,Oklahoma State Cowboys,ML,2025-10-11 12:00:00-04:00,2025-10-07
-americanfootball_ncaaf,Eastern Michigan Eagles,ML,2025-10-11 13:00:00-04:00,2025-10-07
-americanfootball_ncaaf,Virginia Tech Hokies,ML,2025-10-11 15:30:00-04:00,2025-10-07
-americanfootball_ncaaf,Boston College Eagles,ML,2025-10-11 19:30:00-04:00,2025-10-07
-americanfootball_nfl,New Orleans Saints,ML,2025-10-12 13:00:00-04:00,2025-10-07
-americanfootball_nfl,Arizona Cardinals,ML,2025-10-12 13:01:00-04:00,2025-10-07
-americanfootball_ncaaf,UCF Knights,ML,2025-10-11 12:00:00-04:00,2025-10-08
-americanfootball_ncaaf,Louisiana Ragin Cajuns,ML,2025-10-11 12:00:00-04:00,2025-10-08
-americanfootball_ncaaf,Air Force Falcons,ML,2025-10-11 15:30:00-04:00,2025-10-08
-americanfootball_ncaaf,Colorado Buffaloes,ML,2025-10-11 15:30:00-04:00,2025-10-08
-americanfootball_ncaaf,New Mexico Lobos,ML,2025-10-11 21:45:00-04:00,2025-10-08
-americanfootball_nfl,Baltimore Ravens,ML,2025-10-12 13:01:00-04:00,2025-10-08
-americanfootball_nfl,Miami Dolphins,ML,2025-10-12 13:01:00-04:00,2025-10-08
-americanfootball_nfl,Tennessee Titans,ML,2025-10-12 16:06:00-04:00,2025-10-08
-icehockey_nhl,Boston Bruins,SPREAD,2025-10-09 19:10:00-04:00,2025-10-08
-icehockey_nhl,Seattle Kraken,SPREAD,2025-10-09 22:10:00-04:00,2025-10-08
-americanfootball_ncaaf,North Texas Mean Green,ML,2025-10-10 19:30:00-04:00,2025-10-09
-americanfootball_ncaaf,Marshall Thundering Herd,ML,2025-10-11 15:30:00-04:00,2025-10-09
-americanfootball_ncaaf,Florida Gators,ML,2025-10-11 19:00:00-04:00,2025-10-09
-americanfootball_ncaaf,Rice Owls,ML,2025-10-11 19:30:00-04:00,2025-10-09
 americanfootball_ncaaf,Bowling Green Falcons,ML,2025-10-11 12:00:00-04:00,2025-10-10
 americanfootball_ncaaf,Purdue Boilermakers,ML,2025-10-11 19:30:00-04:00,2025-10-10
 americanfootball_ncaaf,Nevada Wolf Pack,ML,2025-10-11 22:30:00-04:00,2025-10-10
 americanfootball_ncaaf,Tulsa Golden Hurricane,ML,2025-10-16 19:30:00-04:00,2025-10-10
 basketball_nba,New Orleans Pelicans,ML,2025-10-22 20:10:00-04:00,2025-10-10
 soccer_usa_mls,Atlanta United FC,ML,2025-10-11 19:30:00-04:00,2025-10-10
+americanfootball_nfl,Kansas City Chiefs,ML,2025-10-12 20:20:00-04:00,2025-10-11
+baseball_mlb,Seattle Mariners,ML,2025-10-12 20:03:00-04:00,2025-10-11
+americanfootball_ncaaf,Eastern Michigan Eagles,ML,2025-10-18 12:00:00-04:00,2025-10-12
+americanfootball_ncaaf,Arizona State Sun Devils,ML,2025-10-18 16:00:00-04:00,2025-10-12
+americanfootball_ncaaf,Rutgers Scarlet Knights,ML,2025-10-18 18:30:00-04:00,2025-10-12
+americanfootball_ncaaf,Oklahoma State Cowboys,ML,2025-10-18 20:00:00-04:00,2025-10-12
+americanfootball_nfl,New Orleans Saints,ML,2025-10-19 13:01:00-04:00,2025-10-12
+americanfootball_nfl,Chicago Bears,ML,2025-10-13 20:16:00-04:00,2025-10-12
+americanfootball_nfl,Cincinnati Bengals,ML,2025-10-16 20:16:00-04:00,2025-10-13
+americanfootball_nfl,Arizona Cardinals,ML,2025-10-19 16:26:00-04:00,2025-10-13
+americanfootball_nfl,Minnesota Vikings,ML,2025-10-19 13:00:00-04:00,2025-10-14
+americanfootball_nfl,Tennessee Titans,ML,2025-10-19 13:00:00-04:00,2025-10-14
+americanfootball_ncaaf,North Carolina Tar Heels,ML,2025-10-17 22:30:00-04:00,2025-10-15
+americanfootball_ncaaf,North Carolina Tar Heels,UNDER,2025-10-17 22:30:00-04:00,2025-10-15
+americanfootball_ncaaf,Arizona Wildcats,ML,2025-10-18 12:00:00-04:00,2025-10-15
+americanfootball_ncaaf,Northern Illinois Huskies,ML,2025-10-18 15:30:00-04:00,2025-10-15
+americanfootball_ncaaf,Wisconsin Badgers,ML,2025-10-18 15:30:00-04:00,2025-10-15
+americanfootball_nfl,Las Vegas Raiders,ML,2025-10-19 13:00:00-04:00,2025-10-15
+americanfootball_nfl,Houston Texans,ML,2025-10-20 22:00:00-04:00,2025-10-15
+americanfootball_nfl,Minnesota Vikings,ML,2025-10-23 20:15:00-04:00,2025-10-15
+americanfootball_ncaaf,Louisville Cardinals,ML,2025-10-17 19:00:00-04:00,2025-10-16
+americanfootball_ncaaf,Minnesota Golden Gophers,ML,2025-10-17 20:00:00-04:00,2025-10-16
+americanfootball_ncaaf,UMass Minutemen,ML,2025-10-18 14:30:00-04:00,2025-10-16
+americanfootball_ncaaf,Arkansas Razorbacks,ML,2025-10-18 15:30:00-04:00,2025-10-16
+americanfootball_ncaaf,Michigan State Spartans,ML,2025-10-18 15:30:00-04:00,2025-10-16
+americanfootball_ncaaf,UAB Blazers,ML,2025-10-18 16:00:00-04:00,2025-10-16
+americanfootball_ncaaf,Washington State Cougars,ML,2025-10-18 18:30:00-04:00,2025-10-16
+americanfootball_ncaaf,Kentucky Wildcats,ML,2025-10-18 19:00:00-04:00,2025-10-16
+americanfootball_ncaaf,Maryland Terrapins,ML,2025-10-18 19:00:00-04:00,2025-10-16
+americanfootball_ncaaf,Florida Atlantic Owls,ML,2025-10-18 19:30:00-04:00,2025-10-16
+americanfootball_ncaaf,Stanford Cardinal,ML,2025-10-18 22:30:00-04:00,2025-10-16
+americanfootball_ncaaf,Arizona Wildcats,UNDER,2025-10-18 12:00:00-04:00,2025-10-17
+americanfootball_ncaaf,Army Black Knights,ML,2025-10-18 12:00:00-04:00,2025-10-17
+americanfootball_ncaaf,Washington Huskies,ML,2025-10-18 12:00:00-04:00,2025-10-17
+americanfootball_ncaaf,South Carolina Gamecocks,ML,2025-10-18 12:45:00-04:00,2025-10-17
+americanfootball_ncaaf,Kent State Golden Flashes,ML,2025-10-18 14:00:00-04:00,2025-10-17
+americanfootball_ncaaf,Tennessee Volunteers,ML,2025-10-18 19:30:00-04:00,2025-10-17
+americanfootball_ncaaf,Syracuse Orange,ML,2025-10-18 19:30:00-04:00,2025-10-17
+americanfootball_ncaaf,Lafayette Leopards,ML,2025-10-18 22:00:00-04:00,2025-10-17
