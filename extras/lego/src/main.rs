@@ -12,7 +12,7 @@ struct LegoSet {
     theme_id: u16,
     num_parts: u32,
     set_img_url: Option<String>,
-    set_url: Option<String>
+    set_url: Option<String>,
 }
 
 #[derive(Deserialize, Debug)]
@@ -27,7 +27,8 @@ async fn main() -> Result<(), Error> {
     let api_key = env::var("API_KEY").expect("API_KEY must be set");
     let mut all_sets = Vec::new();
     let mut next_url = Some(format!(
-        "https://rebrickable.com/api/v3/lego/sets/?page_size=1000&key={}", api_key
+        "https://rebrickable.com/api/v3/lego/sets/?page_size=1000&key={}",
+        api_key
     ));
 
     while let Some(url) = next_url {
