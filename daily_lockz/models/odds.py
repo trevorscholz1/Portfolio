@@ -7,6 +7,7 @@ import pytz
 import requests
 
 PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
+EDGE = 0.01
 
 
 def convert(decimal):
@@ -14,6 +15,10 @@ def convert(decimal):
         return "+" + str(int((decimal - 1) * 100))
     else:
         return int(-100 / (decimal - 1))
+
+
+def implied_prob(decimal):
+    return 1 / decimal
 
 
 def convert_time(utc):
@@ -226,14 +231,14 @@ def main():
                         f"SKIPPED {sport} {team} {btype} {point} {odds} {time}"
                     )
 
-            if not fliff["h_ml"].empty and fliff["h_ml"][0] >= (
-                GAME["h_ml"].mean() + 0.05
+            if not fliff["h_ml"].empty and implied_prob(fliff["h_ml"][0]) <= (
+                implied_prob(GAME["h_ml"].mean()) - EDGE
             ):
                 odds = convert(fliff["h_ml"][0])
                 add_bet(home_team, "ML", 0, odds, time)
 
-            if not fliff["a_ml"].empty and fliff["a_ml"][0] >= (
-                GAME["a_ml"].mean() + 0.05
+            if not fliff["a_ml"].empty and implied_prob(fliff["a_ml"][0]) <= (
+                implied_prob(GAME["a_ml"].mean()) - EDGE
             ):
                 odds = convert(fliff["a_ml"][0])
                 add_bet(away_team, "ML", 0, odds, time)
@@ -245,16 +250,16 @@ def main():
             else:
                 SPREAD = []
             if len(SPREAD) > 1:
-                if not fliff["h_spread"].empty and fliff["h_spread"][0] >= (
-                    SPREAD["h_spread"].mean() + 0.05
-                ):
+                if not fliff["h_spread"].empty and implied_prob(
+                    fliff["h_spread"][0]
+                ) <= (implied_prob(SPREAD["h_spread"].mean()) - EDGE):
                     odds = convert(fliff["h_spread"][0])
                     point = fliff["spread_point"][0]
                     add_bet(home_team, "SPREAD", abs(point), odds, time)
 
-                if not fliff["a_spread"].empty and fliff["a_spread"][0] >= (
-                    SPREAD["a_spread"].mean() + 0.05
-                ):
+                if not fliff["a_spread"].empty and implied_prob(
+                    fliff["a_spread"][0]
+                ) <= (implied_prob(SPREAD["a_spread"].mean()) - EDGE):
                     odds = convert(fliff["a_spread"][0])
                     point = fliff["spread_point"][0]
                     add_bet(away_team, "SPREAD", abs(point), odds, time)
@@ -266,15 +271,15 @@ def main():
             else:
                 TOTAL = []
             if len(TOTAL) > 1:
-                if not fliff["over"].empty and fliff["over"][0] >= (
-                    TOTAL["over"].mean() + 0.05
+                if not fliff["over"].empty and implied_prob(fliff["over"][0]) <= (
+                    implied_prob(TOTAL["over"].mean()) - EDGE
                 ):
                     odds = convert(fliff["over"][0])
                     point = fliff["total_point"][0]
                     add_bet(home_team, "OVER", point, odds, time)
 
-                if not fliff["under"].empty and fliff["under"][0] >= (
-                    TOTAL["under"].mean() + 0.05
+                if not fliff["under"].empty and implied_prob(fliff["under"][0]) <= (
+                    implied_prob(TOTAL["under"].mean()) - EDGE
                 ):
                     odds = convert(fliff["under"][0])
                     point = fliff["total_point"][0]
