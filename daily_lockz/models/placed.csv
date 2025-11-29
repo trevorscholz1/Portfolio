@@ -1,87 +1,4 @@
 sport,team,type,time,date_placed
-americanfootball_ncaaf,Colorado State Rams,ML,2025-11-15 15:00:00-05:00,2025-11-14
-americanfootball_ncaaf,Iowa Hawkeyes,SPREAD,2025-11-15 15:30:00-05:00,2025-11-14
-americanfootball_ncaaf,Michigan State Spartans,ML,2025-11-15 15:30:00-05:00,2025-11-14
-americanfootball_ncaaf,Middle Tennessee Blue Raiders,ML,2025-11-15 15:30:00-05:00,2025-11-14
-americanfootball_ncaaf,Purdue Boilermakers,ML,2025-11-15 19:00:00-05:00,2025-11-14
-americanfootball_ncaaf,Mississippi State Bulldogs,ML,2025-11-15 19:45:00-05:00,2025-11-14
-americanfootball_nfl,Chicago Bears,SPREAD,2025-11-16 13:00:00-05:00,2025-11-14
-americanfootball_nfl,Denver Broncos,ML,2025-11-16 16:25:00-05:00,2025-11-14
-basketball_ncaab,Old Dominion Monarchs,ML,2025-11-15 18:00:00-05:00,2025-11-14
-icehockey_nhl,St Louis Blues,ML,2025-11-15 20:00:00-05:00,2025-11-14
-americanfootball_ncaaf,Ball State Cardinals,ML,2025-11-22 14:00:00-05:00,2025-11-16
-americanfootball_ncaaf,Nevada Wolf Pack,ML,2025-11-22 14:00:00-05:00,2025-11-16
-americanfootball_ncaaf,UAB Blazers,ML,2025-11-22 15:00:00-05:00,2025-11-16
-americanfootball_ncaaf,North Carolina Tar Heels,ML,2025-11-22 15:30:00-05:00,2025-11-16
-americanfootball_ncaaf,Coastal Carolina Chanticleers,ML,2025-11-22 16:15:00-05:00,2025-11-16
-americanfootball_ncaaf,UL Monroe Warhawks,ML,2025-11-22 17:00:00-05:00,2025-11-16
-americanfootball_ncaaf,Western Kentucky Hilltoppers,ML,2025-11-22 19:45:00-05:00,2025-11-16
-americanfootball_ncaaf,UCLA Bruins,ML,2025-11-22 22:30:00-05:00,2025-11-16
-americanfootball_nfl,Houston Texans,ML,2025-11-20 20:15:00-05:00,2025-11-16
-americanfootball_nfl,New York Jets,ML,2025-11-23 13:00:00-05:00,2025-11-16
-americanfootball_nfl,Tennessee Titans,ML,2025-11-23 13:00:00-05:00,2025-11-16
-basketball_nba,Milwaukee Bucks,ML,2025-11-17 19:00:00-05:00,2025-11-16
-basketball_nba,Indiana Pacers,ML,2025-11-17 19:00:00-05:00,2025-11-16
-basketball_nba,Los Angeles Clippers,ML,2025-11-17 19:10:00-05:00,2025-11-16
-basketball_nba,Charlotte Hornets,ML,2025-11-17 19:30:00-05:00,2025-11-16
-basketball_nba,Dallas Mavericks,ML,2025-11-17 20:00:00-05:00,2025-11-16
-basketball_nba,New Orleans Pelicans,ML,2025-11-17 20:10:00-05:00,2025-11-16
-basketball_nba,Chicago Bulls,ML,2025-11-17 21:10:00-05:00,2025-11-16
-basketball_ncaab,Florida A&M Rattlers,UNDER,2025-11-17 18:30:00-05:00,2025-11-16
-icehockey_nhl,Vancouver Canucks,ML,2025-11-17 19:10:00-05:00,2025-11-16
-icehockey_nhl,Florida Panthers,SPREAD,2025-11-17 19:10:00-05:00,2025-11-16
-americanfootball_ncaaf,Delaware Blue Hens,ML,2025-11-22 12:00:00-05:00,2025-11-17
-americanfootball_ncaaf,Missouri Tigers,ML,2025-11-22 12:00:00-05:00,2025-11-17
-americanfootball_ncaaf,Arkansas Razorbacks,ML,2025-11-22 15:30:00-05:00,2025-11-17
-americanfootball_ncaaf,Kentucky Wildcats,ML,2025-11-22 15:30:00-05:00,2025-11-17
-americanfootball_ncaaf,Kansas State Wildcats,ML,2025-11-22 16:00:00-05:00,2025-11-17
-americanfootball_ncaaf,Oklahoma State Cowboys,ML,2025-11-22 16:00:00-05:00,2025-11-17
-americanfootball_ncaaf,Coastal Carolina Chanticleers,UNDER,2025-11-22 16:15:00-05:00,2025-11-17
-americanfootball_ncaaf,Colorado Buffaloes,ML,2025-11-22 20:00:00-05:00,2025-11-17
-americanfootball_nfl,Carolina Panthers,ML,2025-11-24 20:15:00-05:00,2025-11-17
-basketball_nba,Brooklyn Nets,ML,2025-11-18 19:40:00-05:00,2025-11-17
-basketball_nba,Utah Jazz,ML,2025-11-18 22:40:00-05:00,2025-11-17
-basketball_ncaab,Hampton Pirates,ML,2025-11-18 19:00:00-05:00,2025-11-17
-basketball_ncaab,Jacksonville Dolphins,ML,2025-11-18 19:00:00-05:00,2025-11-17
-basketball_ncaab,Georgia Southern Eagles,UNDER,2025-11-18 19:30:00-05:00,2025-11-17
-basketball_ncaab,Abilene Christian Wildcats,UNDER,2025-11-18 20:00:00-05:00,2025-11-17
-basketball_ncaab,Monmouth Hawks,UNDER,2025-11-18 21:00:00-05:00,2025-11-17
-basketball_ncaab,Idaho State Bengals,ML,2025-11-18 22:00:00-05:00,2025-11-17
-americanfootball_ncaaf,Hawaii Rainbow Warriors,SPREAD,2025-11-21 22:30:00-05:00,2025-11-18
-americanfootball_ncaaf,Virginia Tech Hokies,ML,2025-11-22 12:00:00-05:00,2025-11-18
-americanfootball_ncaaf,Nevada Wolf Pack,UNDER,2025-11-22 14:00:00-05:00,2025-11-18
-americanfootball_ncaaf,Liberty Flames,ML,2025-11-22 15:00:00-05:00,2025-11-18
-americanfootball_ncaaf,USC Trojans,ML,2025-11-22 15:30:00-05:00,2025-11-18
-americanfootball_ncaaf,Maryland Terrapins,ML,2025-11-22 16:00:00-05:00,2025-11-18
-americanfootball_nfl,Pittsburgh Steelers,ML,2025-11-23 13:00:00-05:00,2025-11-18
-americanfootball_nfl,Pittsburgh Steelers,SPREAD,2025-11-23 13:00:00-05:00,2025-11-18
-americanfootball_nfl,New York Giants,ML,2025-11-23 13:00:00-05:00,2025-11-18
-basketball_nba,New Orleans Pelicans,ML,2025-11-19 20:00:00-05:00,2025-11-18
-basketball_nba,Washington Wizards,ML,2025-11-19 20:00:00-05:00,2025-11-18
-basketball_nba,Sacramento Kings,ML,2025-11-19 20:00:00-05:00,2025-11-18
-americanfootball_ncaaf,Louisville Cardinals,SPREAD,2025-11-22 12:00:00-05:00,2025-11-19
-americanfootball_ncaaf,Maryland Terrapins,SPREAD,2025-11-22 16:00:00-05:00,2025-11-19
-americanfootball_ncaaf,Pittsburgh Panthers,ML,2025-11-22 19:00:00-05:00,2025-11-19
-americanfootball_nfl,Baltimore Ravens,OVER,2025-11-23 13:00:00-05:00,2025-11-19
-americanfootball_nfl,Cincinnati Bengals,ML,2025-11-23 13:00:00-05:00,2025-11-19
-americanfootball_nfl,Cincinnati Bengals,ML,2025-11-27 20:20:00-05:00,2025-11-19
-basketball_ncaab,Arizona St Sun Devils,UNDER,2025-11-21 00:00:00-05:00,2025-11-19
-icehockey_nhl,Chicago Blackhawks,OVER,2025-11-20 20:10:00-05:00,2025-11-19
-americanfootball_ncaaf,Ohio State Buckeyes,SPREAD,2025-11-22 12:00:00-05:00,2025-11-20
-americanfootball_ncaaf,Ohio State Buckeyes,OVER,2025-11-22 12:00:00-05:00,2025-11-20
-americanfootball_ncaaf,Michigan State Spartans,ML,2025-11-22 15:30:00-05:00,2025-11-20
-americanfootball_ncaaf,Tulane Green Wave,UNDER,2025-11-22 15:45:00-05:00,2025-11-20
-americanfootball_ncaaf,Michigan Wolverines,SPREAD,2025-11-22 16:00:00-05:00,2025-11-20
-americanfootball_ncaaf,Rice Owls,ML,2025-11-22 19:30:00-05:00,2025-11-20
-americanfootball_ncaaf,Cincinnati Bearcats,SPREAD,2025-11-22 20:00:00-05:00,2025-11-20
-americanfootball_ncaaf,Washington Huskies,UNDER,2025-11-22 22:30:00-05:00,2025-11-20
-americanfootball_nfl,Arizona Cardinals,SPREAD,2025-11-23 16:05:00-05:00,2025-11-20
-americanfootball_nfl,New Orleans Saints,ML,2025-11-23 16:25:00-05:00,2025-11-20
-basketball_nba,Indiana Pacers,ML,2025-11-21 19:00:00-05:00,2025-11-20
-basketball_nba,Washington Wizards,ML,2025-11-21 19:40:00-05:00,2025-11-20
-basketball_nba,New Orleans Pelicans,UNDER,2025-11-21 20:40:00-05:00,2025-11-20
-basketball_nba,Portland Trail Blazers,ML,2025-11-21 22:10:00-05:00,2025-11-20
-basketball_ncaab,Evansville Purple Aces,UNDER,2025-11-21 20:00:00-05:00,2025-11-20
 americanfootball_ncaaf,Tulsa Golden Hurricane,ML,2025-11-22 12:00:00-05:00,2025-11-21
 americanfootball_ncaaf,Rutgers Scarlet Knights,SPREAD,2025-11-22 12:00:00-05:00,2025-11-21
 americanfootball_ncaaf,Samford Bulldogs,UNDER,2025-11-22 12:00:00-05:00,2025-11-21
@@ -93,3 +10,94 @@ americanfootball_ncaaf,Pittsburgh Panthers,UNDER,2025-11-22 19:00:00-05:00,2025-
 americanfootball_ncaaf,Texas A&M Aggies,ML,2025-11-28 19:30:00-05:00,2025-11-21
 basketball_nba,Sacramento Kings,ML,2025-11-22 22:10:00-05:00,2025-11-21
 basketball_ncaab,UL Monroe Warhawks,UNDER,2025-11-22 19:00:00-05:00,2025-11-21
+americanfootball_ncaaf,Memphis Tigers,ML,2025-11-27 19:30:00-05:00,2025-11-22
+americanfootball_nfl,Indianapolis Colts,UNDER,2025-11-23 13:00:00-05:00,2025-11-22
+americanfootball_nfl,San Francisco 49ers,OVER,2025-11-24 20:15:00-05:00,2025-11-22
+basketball_nba,Toronto Raptors,ML,2025-11-23 18:10:00-05:00,2025-11-22
+icehockey_nhl,Colorado Avalanche,ML,2025-11-23 19:10:00-05:00,2025-11-22
+americanfootball_ncaaf,Bowling Green Falcons,SPREAD,2025-11-25 16:30:00-05:00,2025-11-23
+americanfootball_ncaaf,UMass Minutemen,OVER,2025-11-25 16:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Kansas Jayhawks,ML,2025-11-28 12:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Utah Utes,UNDER,2025-11-28 12:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Mississippi State Bulldogs,ML,2025-11-28 12:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Colorado State Rams,ML,2025-11-28 15:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Georgia Tech Yellow Jackets,OVER,2025-11-28 15:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Temple Owls,ML,2025-11-28 15:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Utah State Aggies,ML,2025-11-28 16:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Utah State Aggies,SPREAD,2025-11-28 16:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Utah State Aggies,OVER,2025-11-28 16:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Miami Hurricanes,UNDER,2025-11-29 12:00:00-05:00,2025-11-23
+americanfootball_ncaaf,UAB Blazers,UNDER,2025-11-29 15:00:00-05:00,2025-11-23
+americanfootball_ncaaf,Auburn Tigers,OVER,2025-11-29 15:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Rutgers Scarlet Knights,OVER,2025-11-29 15:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Troy Trojans,SPREAD,2025-11-29 15:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Troy Trojans,UNDER,2025-11-29 15:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Vanderbilt Commodores,ML,2025-11-29 15:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Washington State Cougars,ML,2025-11-29 18:30:00-05:00,2025-11-23
+americanfootball_ncaaf,Maryland Terrapins,SPREAD,2025-11-29 19:00:00-05:00,2025-11-23
+americanfootball_nfl,Los Angeles Chargers,OVER,2025-11-30 16:25:00-05:00,2025-11-23
+basketball_nba,Cleveland Cavaliers,UNDER,2025-11-24 19:10:00-05:00,2025-11-23
+basketball_nba,Indiana Pacers,ML,2025-11-24 19:10:00-05:00,2025-11-23
+basketball_nba,Brooklyn Nets,ML,2025-11-24 19:40:00-05:00,2025-11-23
+basketball_nba,Chicago Bulls,SPREAD,2025-11-24 20:10:00-05:00,2025-11-23
+basketball_nba,Memphis Grizzlies,ML,2025-11-24 20:10:00-05:00,2025-11-23
+basketball_nba,Milwaukee Bucks,OVER,2025-11-24 20:10:00-05:00,2025-11-23
+basketball_nba,Phoenix Suns,ML,2025-11-24 21:40:00-05:00,2025-11-23
+basketball_nba,Phoenix Suns,OVER,2025-11-24 21:40:00-05:00,2025-11-23
+basketball_nba,Sacramento Kings,ML,2025-11-24 22:10:00-05:00,2025-11-23
+basketball_ncaab,Bethune-Cookman Wildcats,UNDER,2025-11-24 14:00:00-05:00,2025-11-23
+basketball_ncaab,USC Trojans,ML,2025-11-24 17:00:00-05:00,2025-11-23
+basketball_ncaab,Bradley Braves,ML,2025-11-24 19:00:00-05:00,2025-11-23
+icehockey_nhl,St Louis Blues,UNDER,2025-11-24 19:10:00-05:00,2025-11-23
+americanfootball_ncaaf,Texas Longhorns,ML,2025-11-28 19:30:00-05:00,2025-11-25
+americanfootball_ncaaf,Pittsburgh Panthers,ML,2025-11-29 12:00:00-05:00,2025-11-25
+americanfootball_ncaaf,Jacksonville State Gamecocks,OVER,2025-11-29 14:00:00-05:00,2025-11-25
+americanfootball_ncaaf,Washington Huskies,ML,2025-11-29 15:30:00-05:00,2025-11-25
+americanfootball_nfl,Green Bay Packers,SPREAD,2025-11-27 13:00:00-05:00,2025-11-25
+americanfootball_nfl,New York Giants,UNDER,2025-12-01 20:15:00-05:00,2025-11-25
+basketball_ncaab,Belmont Bruins,ML,2025-11-26 13:30:00-05:00,2025-11-25
+basketball_ncaab,Saint Mary's Gaels,ML,2025-11-26 19:30:00-05:00,2025-11-25
+icehockey_nhl,Florida Panthers,OVER,2025-11-26 19:10:00-05:00,2025-11-25
+americanfootball_ncaaf,New Mexico Lobos,ML,2025-11-28 15:30:00-05:00,2025-11-26
+americanfootball_ncaaf,Oklahoma State Cowboys,ML,2025-11-29 12:00:00-05:00,2025-11-26
+americanfootball_ncaaf,Michigan Wolverines,ML,2025-11-29 12:00:00-05:00,2025-11-26
+americanfootball_ncaaf,UCF Knights,ML,2025-11-29 13:00:00-05:00,2025-11-26
+americanfootball_ncaaf,Louisiana Tech Bulldogs,UNDER,2025-11-29 14:00:00-05:00,2025-11-26
+americanfootball_ncaaf,Wisconsin Badgers,ML,2025-11-29 15:30:00-05:00,2025-11-26
+americanfootball_ncaaf,Auburn Tigers,ML,2025-11-29 19:30:00-05:00,2025-11-26
+americanfootball_nfl,New York Jets,SPREAD,2025-11-30 13:00:00-05:00,2025-11-26
+americanfootball_nfl,Cleveland Browns,ML,2025-11-30 13:00:00-05:00,2025-11-26
+americanfootball_nfl,Tennessee Titans,ML,2025-11-30 13:00:00-05:00,2025-11-26
+americanfootball_nfl,Pittsburgh Steelers,ML,2025-11-30 16:25:00-05:00,2025-11-26
+americanfootball_nfl,Las Vegas Raiders,ML,2025-11-30 16:25:00-05:00,2025-11-26
+americanfootball_nfl,Washington Commanders,ML,2025-11-30 20:20:00-05:00,2025-11-26
+basketball_ncaab,Colorado Buffaloes,UNDER,2025-11-27 14:00:00-05:00,2025-11-26
+basketball_ncaab,Florida Gators,OVER,2025-11-27 15:00:00-05:00,2025-11-26
+americanfootball_ncaaf,Georgia Tech Yellow Jackets,ML,2025-11-28 15:30:00-05:00,2025-11-27
+americanfootball_ncaaf,UAB Blazers,SPREAD,2025-11-29 15:00:00-05:00,2025-11-27
+americanfootball_ncaaf,Cincinnati Bearcats,ML,2025-11-29 15:30:00-05:00,2025-11-27
+americanfootball_ncaaf,LSU Tigers,ML,2025-11-29 15:30:00-05:00,2025-11-27
+americanfootball_ncaaf,Virginia Tech Hokies,ML,2025-11-29 19:01:00-05:00,2025-11-27
+americanfootball_ncaaf,Alabama Crimson Tide,UNDER,2025-11-29 19:30:00-05:00,2025-11-27
+americanfootball_ncaaf,Nevada Wolf Pack,ML,2025-11-29 21:00:00-05:00,2025-11-27
+americanfootball_ncaaf,Fresno State Bulldogs,SPREAD,2025-11-29 22:30:00-05:00,2025-11-27
+americanfootball_nfl,Minnesota Vikings,ML,2025-11-30 16:05:00-05:00,2025-11-27
+americanfootball_nfl,New York Giants,ML,2025-12-01 20:15:00-05:00,2025-11-27
+basketball_nba,Phoenix Suns,ML,2025-11-28 21:40:00-05:00,2025-11-27
+basketball_nba,Memphis Grizzlies,ML,2025-11-28 22:10:00-05:00,2025-11-27
+basketball_ncaab,Oklahoma Sooners,SPREAD,2025-11-28 14:00:00-05:00,2025-11-27
+icehockey_nhl,Nashville Predators,SPREAD,2025-11-28 20:00:00-05:00,2025-11-27
+americanfootball_ncaaf,Toledo Rockets,UNDER,2025-11-29 12:00:00-05:00,2025-11-28
+americanfootball_ncaaf,Colorado Buffaloes,ML,2025-11-29 12:00:00-05:00,2025-11-28
+americanfootball_ncaaf,Kentucky Wildcats,ML,2025-11-29 12:00:00-05:00,2025-11-28
+americanfootball_ncaaf,Kentucky Wildcats,SPREAD,2025-11-29 12:00:00-05:00,2025-11-28
+americanfootball_ncaaf,West Virginia Mountaineers,ML,2025-11-29 12:00:00-05:00,2025-11-28
+americanfootball_ncaaf,Washington Huskies,SPREAD,2025-11-29 15:30:00-05:00,2025-11-28
+americanfootball_ncaaf,Vanderbilt Commodores,SPREAD,2025-11-29 15:30:00-05:00,2025-11-28
+americanfootball_ncaaf,Coastal Carolina Chanticleers,ML,2025-11-29 15:45:00-05:00,2025-11-28
+americanfootball_ncaaf,Oregon State Beavers,SPREAD,2025-11-29 18:30:00-05:00,2025-11-28
+americanfootball_ncaaf,UCLA Bruins,UNDER,2025-11-29 19:30:00-05:00,2025-11-28
+americanfootball_nfl,Carolina Panthers,ML,2025-11-30 13:00:00-05:00,2025-11-28
+americanfootball_nfl,Buffalo Bills,SPREAD,2025-11-30 16:25:00-05:00,2025-11-28
+americanfootball_nfl,Detroit Lions,ML,2025-12-04 20:15:00-05:00,2025-11-28
+basketball_nba,Boston Celtics,ML,2025-11-29 17:10:00-05:00,2025-11-28
