@@ -10,15 +10,38 @@ PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
 EDGE = 0.01
 
 
-def convert(decimal):
+def convert(prob):
+    decimal = 1 / prob
+
     if decimal >= 2.0:
         return "+" + str(int((decimal - 1) * 100))
     else:
         return int(-100 / (decimal - 1))
 
 
-def implied_prob(decimal):
-    return 1 / decimal
+def normalize(outcome0, outcome1):
+    outcome0 = 1 / outcome0
+    outcome1 = 1 / outcome1
+
+    margin = (outcome0 + outcome1) % 1
+    vig = margin / 2
+    outcome0 -= vig
+    outcome1 -= vig
+
+    return outcome0, outcome1
+
+
+def soccer_normalize(outcome0, outcome1, outcome2):
+    outcome0 = 1 / outcome0
+    outcome1 = 1 / outcome1
+    outcome2 = 1 / outcome2
+
+    margin = (outcome0 + outcome1 + outcome2) % 1
+    vig = margin / 3
+    outcome0 -= vig
+    outcome1 -= vig
+
+    return outcome0, outcome1
 
 
 def convert_time(utc):
@@ -158,30 +181,79 @@ def main():
                         or outcomes[0]["name"] == "Over"
                     ):
                         if market["key"] == "h2h":
-                            GAME.at[index, "h_ml"] = outcomes[0]["price"]
-                            GAME.at[index, "a_ml"] = outcomes[1]["price"]
+                            if "soccer" in sport:
+                                if outcomes[1]["name"] == "Draw":
+                                    price0, price1 = soccer_normalize(
+                                        outcomes[0]["price"],
+                                        outcomes[2]["price"],
+                                        outcomes[1]["price"],
+                                    )
+                                elif outcomes[2]["name"] == "Draw":
+                                    price0, price1 = soccer_normalize(
+                                        outcomes[0]["price"],
+                                        outcomes[1]["price"],
+                                        outcomes[2]["price"],
+                                    )
+                            else:
+                                price0, price1 = normalize(
+                                    outcomes[0]["price"], outcomes[1]["price"]
+                                )
+                            GAME.at[index, "h_ml"] = price0
+                            GAME.at[index, "a_ml"] = price1
                         elif market["key"] == "spreads":
-                            GAME.at[index, "h_spread"] = outcomes[0]["price"]
-                            GAME.at[index, "a_spread"] = outcomes[1]["price"]
+                            price0, price1 = normalize(
+                                outcomes[0]["price"], outcomes[1]["price"]
+                            )
+                            GAME.at[index, "h_spread"] = price0
+                            GAME.at[index, "a_spread"] = price1
                             GAME.at[index, "spread_point"] = outcomes[0]["point"]
                         elif market["key"] == "totals":
-                            GAME.at[index, "over"] = outcomes[0]["price"]
-                            GAME.at[index, "under"] = outcomes[1]["price"]
+                            price0, price1 = normalize(
+                                outcomes[0]["price"], outcomes[1]["price"]
+                            )
+                            GAME.at[index, "over"] = price0
+                            GAME.at[index, "under"] = price1
                             GAME.at[index, "total_point"] = outcomes[0]["point"]
                     elif (
                         outcomes[1]["name"] == home_team
                         or outcomes[1]["name"] == "Over"
                     ):
                         if market["key"] == "h2h":
-                            GAME.at[index, "h_ml"] = outcomes[1]["price"]
-                            GAME.at[index, "a_ml"] = outcomes[0]["price"]
+                            if "soccer" in sport:
+                                if outcomes[1]["name"] == "Draw":
+                                    price0, price1 = soccer_normalize(
+                                        outcomes[0]["price"],
+                                        outcomes[2]["price"],
+                                        outcomes[1]["price"],
+                                    )
+                                elif outcomes[2]["name"] == "Draw":
+                                    price0, price1 = soccer_normalize(
+                                        outcomes[0]["price"],
+                                        outcomes[1]["price"],
+                                        outcomes[2]["price"],
+                                    )
+                            else:
+                                price0, price1 = normalize(
+                                    outcomes[0]["price"], outcomes[1]["price"]
+                                )
+                            price0, price1 = normalize(
+                                outcomes[0]["price"], outcomes[1]["price"]
+                            )
+                            GAME.at[index, "h_ml"] = price1
+                            GAME.at[index, "a_ml"] = price0
                         elif market["key"] == "spreads":
-                            GAME.at[index, "h_spread"] = outcomes[1]["price"]
-                            GAME.at[index, "a_spread"] = outcomes[0]["price"]
+                            price0, price1 = normalize(
+                                outcomes[0]["price"], outcomes[1]["price"]
+                            )
+                            GAME.at[index, "h_spread"] = price1
+                            GAME.at[index, "a_spread"] = price0
                             GAME.at[index, "spread_point"] = outcomes[1]["point"]
                         elif market["key"] == "totals":
-                            GAME.at[index, "over"] = outcomes[1]["price"]
-                            GAME.at[index, "under"] = outcomes[0]["price"]
+                            price0, price1 = normalize(
+                                outcomes[0]["price"], outcomes[1]["price"]
+                            )
+                            GAME.at[index, "over"] = price1
+                            GAME.at[index, "under"] = price0
                             GAME.at[index, "total_point"] = outcomes[1]["point"]
                 index += 1
 
@@ -231,14 +303,14 @@ def main():
                         f"SKIPPED {sport} {team} {btype} {point} {odds} {time}"
                     )
 
-            if not fliff["h_ml"].empty and implied_prob(fliff["h_ml"][0]) <= (
-                implied_prob(GAME["h_ml"].mean()) - EDGE
+            if not fliff["h_ml"].empty and fliff["h_ml"][0] <= (
+                GAME["h_ml"].mean() - EDGE
             ):
                 odds = convert(fliff["h_ml"][0])
                 add_bet(home_team, "ML", 0, odds, time)
 
-            if not fliff["a_ml"].empty and implied_prob(fliff["a_ml"][0]) <= (
-                implied_prob(GAME["a_ml"].mean()) - EDGE
+            if not fliff["a_ml"].empty and fliff["a_ml"][0] <= (
+                GAME["a_ml"].mean() - EDGE
             ):
                 odds = convert(fliff["a_ml"][0])
                 add_bet(away_team, "ML", 0, odds, time)
@@ -250,16 +322,16 @@ def main():
             else:
                 SPREAD = []
             if len(SPREAD) > 1:
-                if not fliff["h_spread"].empty and implied_prob(
-                    fliff["h_spread"][0]
-                ) <= (implied_prob(SPREAD["h_spread"].mean()) - EDGE):
+                if not fliff["h_spread"].empty and fliff["h_spread"][0] <= (
+                    SPREAD["h_spread"].mean() - EDGE
+                ):
                     odds = convert(fliff["h_spread"][0])
                     point = fliff["spread_point"][0]
                     add_bet(home_team, "SPREAD", abs(point), odds, time)
 
-                if not fliff["a_spread"].empty and implied_prob(
-                    fliff["a_spread"][0]
-                ) <= (implied_prob(SPREAD["a_spread"].mean()) - EDGE):
+                if not fliff["a_spread"].empty and fliff["a_spread"][0] <= (
+                    SPREAD["a_spread"].mean() - EDGE
+                ):
                     odds = convert(fliff["a_spread"][0])
                     point = fliff["spread_point"][0]
                     add_bet(away_team, "SPREAD", abs(point), odds, time)
@@ -271,15 +343,15 @@ def main():
             else:
                 TOTAL = []
             if len(TOTAL) > 1:
-                if not fliff["over"].empty and implied_prob(fliff["over"][0]) <= (
-                    implied_prob(TOTAL["over"].mean()) - EDGE
+                if not fliff["over"].empty and fliff["over"][0] <= (
+                    TOTAL["over"].mean() - EDGE
                 ):
                     odds = convert(fliff["over"][0])
                     point = fliff["total_point"][0]
                     add_bet(home_team, "OVER", point, odds, time)
 
-                if not fliff["under"].empty and implied_prob(fliff["under"][0]) <= (
-                    implied_prob(TOTAL["under"].mean()) - EDGE
+                if not fliff["under"].empty and fliff["under"][0] <= (
+                    TOTAL["under"].mean() - EDGE
                 ):
                     odds = convert(fliff["under"][0])
                     point = fliff["total_point"][0]
