@@ -10,9 +10,7 @@ PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
 EDGE = 0.01
 
 
-def convert(prob):
-    decimal = 1 / prob
-
+def convert(decimal):
     if decimal >= 2.0:
         return "+" + str(int((decimal - 1) * 100))
     else:
@@ -200,6 +198,9 @@ def main():
                                 )
                             GAME.at[index, "h_ml"] = price0
                             GAME.at[index, "a_ml"] = price1
+
+                            GAME.at[index, "h_ml_raw"] = outcomes[0]["price"]
+                            GAME.at[index, "a_ml_raw"] = outcomes[1]["price"]
                         elif market["key"] == "spreads":
                             price0, price1 = normalize(
                                 outcomes[0]["price"], outcomes[1]["price"]
@@ -207,6 +208,9 @@ def main():
                             GAME.at[index, "h_spread"] = price0
                             GAME.at[index, "a_spread"] = price1
                             GAME.at[index, "spread_point"] = outcomes[0]["point"]
+
+                            GAME.at[index, "h_spread_raw"] = outcomes[0]["price"]
+                            GAME.at[index, "a_spread_raw"] = outcomes[1]["price"]
                         elif market["key"] == "totals":
                             price0, price1 = normalize(
                                 outcomes[0]["price"], outcomes[1]["price"]
@@ -214,6 +218,9 @@ def main():
                             GAME.at[index, "over"] = price0
                             GAME.at[index, "under"] = price1
                             GAME.at[index, "total_point"] = outcomes[0]["point"]
+
+                            GAME.at[index, "over_raw"] = outcomes[0]["price"]
+                            GAME.at[index, "under_raw"] = outcomes[1]["price"]
                     elif (
                         outcomes[1]["name"] == home_team
                         or outcomes[1]["name"] == "Over"
@@ -236,11 +243,11 @@ def main():
                                 price0, price1 = normalize(
                                     outcomes[0]["price"], outcomes[1]["price"]
                                 )
-                            price0, price1 = normalize(
-                                outcomes[0]["price"], outcomes[1]["price"]
-                            )
                             GAME.at[index, "h_ml"] = price1
                             GAME.at[index, "a_ml"] = price0
+
+                            GAME.at[index, "h_ml_raw"] = outcomes[1]["price"]
+                            GAME.at[index, "a_ml_raw"] = outcomes[0]["price"]
                         elif market["key"] == "spreads":
                             price0, price1 = normalize(
                                 outcomes[0]["price"], outcomes[1]["price"]
@@ -248,6 +255,9 @@ def main():
                             GAME.at[index, "h_spread"] = price1
                             GAME.at[index, "a_spread"] = price0
                             GAME.at[index, "spread_point"] = outcomes[1]["point"]
+
+                            GAME.at[index, "h_spread_raw"] = outcomes[1]["price"]
+                            GAME.at[index, "a_spread_raw"] = outcomes[0]["price"]
                         elif market["key"] == "totals":
                             price0, price1 = normalize(
                                 outcomes[0]["price"], outcomes[1]["price"]
@@ -255,6 +265,9 @@ def main():
                             GAME.at[index, "over"] = price1
                             GAME.at[index, "under"] = price0
                             GAME.at[index, "total_point"] = outcomes[1]["point"]
+
+                            GAME.at[index, "over_raw"] = outcomes[1]["price"]
+                            GAME.at[index, "under_raw"] = outcomes[0]["price"]
                 index += 1
 
             fliff = GAME[GAME["book"] == "fliff"].reset_index()
@@ -306,13 +319,13 @@ def main():
             if not fliff["h_ml"].empty and fliff["h_ml"][0] <= (
                 GAME["h_ml"].mean() - EDGE
             ):
-                odds = convert(fliff["h_ml"][0])
+                odds = convert(fliff["h_ml_raw"][0])
                 add_bet(home_team, "ML", 0, odds, time)
 
             if not fliff["a_ml"].empty and fliff["a_ml"][0] <= (
                 GAME["a_ml"].mean() - EDGE
             ):
-                odds = convert(fliff["a_ml"][0])
+                odds = convert(fliff["a_ml_raw"][0])
                 add_bet(away_team, "ML", 0, odds, time)
 
             if not fliff.empty:
@@ -325,14 +338,14 @@ def main():
                 if not fliff["h_spread"].empty and fliff["h_spread"][0] <= (
                     SPREAD["h_spread"].mean() - EDGE
                 ):
-                    odds = convert(fliff["h_spread"][0])
+                    odds = convert(fliff["h_spread_raw"][0])
                     point = fliff["spread_point"][0]
                     add_bet(home_team, "SPREAD", abs(point), odds, time)
 
                 if not fliff["a_spread"].empty and fliff["a_spread"][0] <= (
                     SPREAD["a_spread"].mean() - EDGE
                 ):
-                    odds = convert(fliff["a_spread"][0])
+                    odds = convert(fliff["a_spread_raw"][0])
                     point = fliff["spread_point"][0]
                     add_bet(away_team, "SPREAD", abs(point), odds, time)
 
@@ -346,14 +359,14 @@ def main():
                 if not fliff["over"].empty and fliff["over"][0] <= (
                     TOTAL["over"].mean() - EDGE
                 ):
-                    odds = convert(fliff["over"][0])
+                    odds = convert(fliff["over_raw"][0])
                     point = fliff["total_point"][0]
                     add_bet(home_team, "OVER", point, odds, time)
 
                 if not fliff["under"].empty and fliff["under"][0] <= (
                     TOTAL["under"].mean() - EDGE
                 ):
-                    odds = convert(fliff["under"][0])
+                    odds = convert(fliff["under_raw"][0])
                     point = fliff["total_point"][0]
                     add_bet(away_team, "UNDER", point, odds, time)
 
