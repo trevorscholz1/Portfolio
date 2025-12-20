@@ -63,22 +63,54 @@ def get_kalshi_prices(league_id):
     response = requests.get(url)
     data = response.json()["events"]
 
-    prices = []
+    prices = pd.DataFrame(
+        columns=[
+            "team0_ticker",
+            "team0_code",
+            "team0_name",
+            "team0_side",
+            "team0_price",
+            "team1_ticker",
+            "team1_code",
+            "team1_name",
+            "team1_side",
+            "team1_price",
+        ]
+    )
     for item in data[::-1]:
-        prices.append(
-            {
-                item["markets"][0]["ticker"]: (
-                    f"{item['markets'][0]['yes_ask'] + 2}&YES"
-                    if item["markets"][0]["yes_ask"] <= item["markets"][1]["no_ask"]
-                    else f"{item['markets'][1]['no_ask'] + 2}&NO"
-                ),
-                item["markets"][1]["ticker"]: (
-                    f"{item['markets'][1]['yes_ask'] + 2}&YES"
-                    if item["markets"][1]["yes_ask"] <= item["markets"][0]["no_ask"]
-                    else f"{item['markets'][0]['no_ask'] + 2}&NO"
-                ),
-            }
+        game = pd.DataFrame(
+            [
+                {
+                    "team0_ticker": item["markets"][0]["ticker"],
+                    "team0_code": item["markets"][0]["ticker"].split("-")[-1],
+                    "team0_name": item["markets"][0]["yes_sub_title"],
+                    "team0_side": (
+                        "YES"
+                        if item["markets"][0]["yes_ask"] <= item["markets"][1]["no_ask"]
+                        else "NO"
+                    ),
+                    "team0_price": (
+                        (item["markets"][0]["yes_ask"] + 2)
+                        if item["markets"][0]["yes_ask"] <= item["markets"][1]["no_ask"]
+                        else (item["markets"][1]["no_ask"] + 2)
+                    ),
+                    "team1_ticker": item["markets"][1]["ticker"],
+                    "team1_code": item["markets"][1]["ticker"].split("-")[-1],
+                    "team1_name": item["markets"][1]["yes_sub_title"],
+                    "team1_side": (
+                        "YES"
+                        if item["markets"][1]["yes_ask"] <= item["markets"][0]["no_ask"]
+                        else "NO"
+                    ),
+                    "team1_price": (
+                        (item["markets"][1]["yes_ask"] + 2)
+                        if item["markets"][1]["yes_ask"] <= item["markets"][0]["no_ask"]
+                        else (item["markets"][0]["no_ask"] + 2)
+                    ),
+                }
+            ]
         )
+        prices = pd.concat([prices, game], ignore_index=True)
     return prices
 
 
@@ -91,65 +123,93 @@ def get_sports_odds(league_id):
 
 def main():
     bets = pd.DataFrame(columns=["ticker", "side", "price"])
-    sports = [["NCAAB", "KXNCAAMBGAME"], ["NBA", "KXNBAGAME"], ["NCAAF", "KXNCAAFGAME"]]
+    sports = [
+        ["MLB", "KXMLBGAME"],
+        ["NBA", "KXNBAGAME"],
+        ["NCAAB", "KXNCAAMBGAME"],
+        ["NCAAF", "KXNCAAFGAME"],
+        ["NFL", "KXNFLGAME"],
+        ["NHL", "KXNHLGAME"],
+    ]
 
     for sport in sports:
         odds_data = get_sports_odds(sport[0])
         kalshi_prices = get_kalshi_prices(sport[1])
 
         GAMES_MATCHED = 0
-        matched = []
 
-        for matchup in kalshi_prices:
+        for matchup in odds_data["data"]:
             game = None
-            teams = list(matchup.keys())
-            team0, team1 = teams[0].split("-")[-1], teams[1].split("-")[-1]
-            print(team0, team1)
+            h_team, a_team = (
+                matchup["teams"]["home"]["names"]["short"],
+                matchup["teams"]["away"]["names"]["short"],
+            )
+            try:
+                h_team_full, a_team_full = (
+                    matchup["teams"]["home"]["names"]["medium"],
+                    matchup["teams"]["away"]["names"]["medium"],
+                )
+            except:
+                h_team_full, a_team_full = "", ""
+            if sport[0] == "NCAAB" or sport[0] == "NCAAF":
+                h_team_full = h_team_full.replace("State", "St.")
+                a_team_full = a_team_full.replace("State", "St.")
+            print(f"{a_team_full} ({a_team}), {h_team_full} ({h_team})")
 
-            for item in odds_data["data"]:
-                if (
-                    team0 in item["teams"]["home"]["names"]["short"]
-                    and team1 in item["teams"]["away"]["names"]["short"]
+            for _, row in kalshi_prices.iterrows():
+                if (h_team == row["team0_code"] and a_team == row["team1_code"]) or (
+                    h_team == row["team1_code"] and a_team == row["team0_code"]
                 ):
-                    print(f"GAME FOUND: {team1} at {team0}")
+                    print(f"GAME FOUND: {a_team} at {h_team}")
                     GAMES_MATCHED += 1
-                    matched.append(item["teams"]["home"]["names"]["short"])
-                    home_team, away_team = teams[0], teams[1]
-                    game = item
+                    if h_team == row["team0_code"]:
+                        home_num, away_num = 0, 1
+                    else:
+                        home_num, away_num = 1, 0
+                    game = row
                     break
                 elif (
-                    team0 in item["teams"]["away"]["names"]["short"]
-                    and team1 in item["teams"]["home"]["names"]["short"]
+                    h_team_full == row["team0_name"]
+                    and a_team_full == row["team1_name"]
+                ) or (
+                    h_team_full == row["team1_name"]
+                    and a_team_full == row["team0_name"]
                 ):
-                    print(f"GAME FOUND: {team0} at {team1}")
+                    print(f"GAME FOUND: {a_team_full} at {h_team_full}")
                     GAMES_MATCHED += 1
-                    matched.append(item["teams"]["home"]["names"]["short"])
-                    home_team, away_team = teams[1], teams[0]
-                    game = item
+                    if h_team_full == row["team0_name"]:
+                        home_num, away_num = 0, 1
+                    else:
+                        home_num, away_num = 1, 0
+                    game = row
                     break
 
             if game is None:
-                print(f"Skipped {team0} vs {team1}")
+                print(f"Skipped {a_team} vs {h_team}")
                 continue
 
             fair_home_odds = convert(
-                game["odds"]["points-home-game-ml-home"]["fairOdds"]
+                matchup["odds"]["points-home-game-ml-home"]["fairOdds"]
             )
             fair_away_odds = convert(
-                game["odds"]["points-away-game-ml-away"]["fairOdds"]
+                matchup["odds"]["points-away-game-ml-away"]["fairOdds"]
             )
-            home_price = int(matchup[home_team].split("&")[0])
-            away_price = int(matchup[away_team].split("&")[0])
+            home_price = game[f"team{home_num}_price"]
+            away_price = game[f"team{away_num}_price"]
 
             print(fair_home_odds, home_price)
             print(fair_away_odds, away_price)
             if (home_price / 100) < fair_home_odds:
-                side = matchup[home_team].split("&")[-1]
+                side = game[f"team{home_num}_side"]
                 bet = pd.DataFrame(
                     [
                         {
-                            "ticker": home_team if side == "YES" else away_team,
-                            "side": matchup[home_team].split("&")[-1],
+                            "ticker": (
+                                game[f"team{home_num}_ticker"]
+                                if side == "YES"
+                                else game[f"team{away_num}_ticker"]
+                            ),
+                            "side": side,
                             "price": home_price,
                         }
                     ]
@@ -159,12 +219,16 @@ def main():
                     ignore_index=True,
                 )
             if (away_price / 100) < fair_away_odds:
-                side = matchup[away_team].split("&")[-1]
+                side = game[f"team{away_num}_side"]
                 bet = pd.DataFrame(
                     [
                         {
-                            "ticker": away_team if side == "YES" else home_team,
-                            "side": matchup[away_team].split("&")[-1],
+                            "ticker": (
+                                game[f"team{away_num}_ticker"]
+                                if side == "YES"
+                                else game[f"team{home_num}_ticker"]
+                            ),
+                            "side": side,
                             "price": away_price,
                         }
                     ]
@@ -175,13 +239,6 @@ def main():
                 )
 
         print(len(odds_data["data"]), GAMES_MATCHED)
-        print(
-            [
-                item["teams"]["home"]["names"]["short"]
-                for item in odds_data["data"]
-                if item["teams"]["home"]["names"]["short"] not in matched
-            ]
-        )
         print()
 
     private_key = load_private_key(PRIVATE_KEY_PATH)

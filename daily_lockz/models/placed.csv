@@ -1,95 +1,4 @@
 sport,team,type,time,date_placed
-americanfootball_ncaaf,Army Black Knights,ML,2025-12-13 15:00:00-05:00,2025-12-06
-americanfootball_nfl,Atlanta Falcons,SPREAD,2025-12-07 13:00:00-05:00,2025-12-06
-americanfootball_nfl,Atlanta Falcons,OVER,2025-12-07 13:00:00-05:00,2025-12-06
-americanfootball_nfl,Tennessee Titans,ML,2025-12-07 13:00:00-05:00,2025-12-06
-americanfootball_nfl,Jacksonville Jaguars,ML,2025-12-07 13:00:00-05:00,2025-12-06
-americanfootball_nfl,New York Jets,ML,2025-12-07 13:00:00-05:00,2025-12-06
-americanfootball_nfl,New Orleans Saints,ML,2025-12-07 13:00:00-05:00,2025-12-06
-americanfootball_nfl,Las Vegas Raiders,OVER,2025-12-07 16:05:00-05:00,2025-12-06
-americanfootball_nfl,Houston Texans,ML,2025-12-07 20:20:00-05:00,2025-12-06
-americanfootball_nfl,Los Angeles Chargers,ML,2025-12-08 20:15:00-05:00,2025-12-06
-americanfootball_nfl,Atlanta Falcons,ML,2025-12-11 20:15:00-05:00,2025-12-06
-americanfootball_nfl,Arizona Cardinals,UNDER,2025-12-14 13:00:00-05:00,2025-12-06
-americanfootball_nfl,Buffalo Bills,UNDER,2025-12-14 13:00:00-05:00,2025-12-06
-americanfootball_nfl,New York Jets,ML,2025-12-14 13:00:00-05:00,2025-12-06
-americanfootball_nfl,Tennessee Titans,ML,2025-12-14 16:25:00-05:00,2025-12-06
-basketball_nba,Philadelphia 76ers,ML,2025-12-07 19:40:00-05:00,2025-12-06
-basketball_ncaab,Saint Mary's Gaels,UNDER,2025-12-07 14:00:00-05:00,2025-12-06
-basketball_ncaab,Sacred Heart Pioneers,ML,2025-12-07 14:00:00-05:00,2025-12-06
-basketball_ncaab,Manhattan Jaspers,ML,2025-12-07 14:00:00-05:00,2025-12-06
-basketball_ncaab,Belmont Bruins,SPREAD,2025-12-07 16:30:00-05:00,2025-12-06
-basketball_ncaab,Texas A&M Aggies,OVER,2025-12-07 17:00:00-05:00,2025-12-06
-basketball_ncaab,Cornell Big Red,SPREAD,2025-12-07 19:00:00-05:00,2025-12-06
-icehockey_nhl,Carolina Hurricanes,SPREAD,2025-12-07 17:10:00-05:00,2025-12-06
-americanfootball_ncaaf,Washington Huskies,OVER,2025-12-13 20:00:00-05:00,2025-12-07
-americanfootball_nfl,Los Angeles Chargers,SPREAD,2025-12-08 20:15:00-05:00,2025-12-07
-americanfootball_nfl,Atlanta Falcons,SPREAD,2025-12-11 20:15:00-05:00,2025-12-07
-americanfootball_nfl,Cleveland Browns,ML,2025-12-14 13:00:00-05:00,2025-12-07
-americanfootball_nfl,Chicago Bears,SPREAD,2025-12-14 13:00:00-05:00,2025-12-07
-americanfootball_nfl,Cleveland Browns,UNDER,2025-12-14 13:00:00-05:00,2025-12-07
-americanfootball_nfl,Jacksonville Jaguars,SPREAD,2025-12-14 13:00:00-05:00,2025-12-07
-americanfootball_nfl,Tennessee Titans,UNDER,2025-12-14 16:25:00-05:00,2025-12-07
-americanfootball_nfl,Minnesota Vikings,ML,2025-12-14 20:20:00-05:00,2025-12-07
-americanfootball_nfl,Miami Dolphins,UNDER,2025-12-15 20:15:00-05:00,2025-12-07
-basketball_nba,Miami Heat,ML,2025-12-09 18:10:00-05:00,2025-12-07
-basketball_nba,Toronto Raptors,ML,2025-12-09 20:30:00-05:00,2025-12-07
-basketball_ncaab,New Orleans Privateers,SPREAD,2025-12-08 20:00:00-05:00,2025-12-07
-basketball_ncaab,New Orleans Privateers,OVER,2025-12-08 20:00:00-05:00,2025-12-07
-basketball_ncaab,Miss Valley St Delta Devils,SPREAD,2025-12-08 20:00:00-05:00,2025-12-07
-basketball_ncaab,Southern Jaguars,UNDER,2025-12-08 20:00:00-05:00,2025-12-07
-icehockey_nhl,Toronto Maple Leafs,SPREAD,2025-12-08 19:30:00-05:00,2025-12-07
-icehockey_nhl,Vancouver Canucks,ML,2025-12-08 22:00:00-05:00,2025-12-07
-americanfootball_ncaaf,Boise State Broncos,UNDER,2025-12-13 20:00:00-05:00,2025-12-08
-americanfootball_ncaaf,Delaware Blue Hens,SPREAD,2025-12-17 20:30:00-05:00,2025-12-08
-americanfootball_nfl,Baltimore Ravens,SPREAD,2025-12-14 13:00:00-05:00,2025-12-08
-americanfootball_nfl,Indianapolis Colts,UNDER,2025-12-14 16:25:00-05:00,2025-12-08
-basketball_nba,Oklahoma City Thunder,ML,2025-12-10 19:30:00-05:00,2025-12-08
-basketball_nba,San Antonio Spurs,ML,2025-12-10 22:00:00-05:00,2025-12-08
-basketball_ncaab,San José St Spartans,SPREAD,2025-12-09 22:00:00-05:00,2025-12-08
-icehockey_nhl,Pittsburgh Penguins,SPREAD,2025-12-09 19:00:00-05:00,2025-12-08
-icehockey_nhl,Columbus Blue Jackets,ML,2025-12-09 19:30:00-05:00,2025-12-08
-icehockey_nhl,Boston Bruins,ML,2025-12-09 20:00:00-05:00,2025-12-08
-icehockey_nhl,Boston Bruins,SPREAD,2025-12-09 20:00:00-05:00,2025-12-08
-icehockey_nhl,Buffalo Sabres,SPREAD,2025-12-09 21:00:00-05:00,2025-12-08
-icehockey_nhl,Nashville Predators,ML,2025-12-09 21:30:00-05:00,2025-12-08
-americanfootball_nfl,Kansas City Chiefs,ML,2025-12-14 13:00:00-05:00,2025-12-09
-americanfootball_nfl,Kansas City Chiefs,SPREAD,2025-12-14 13:00:00-05:00,2025-12-09
-americanfootball_nfl,New York Giants,OVER,2025-12-14 13:00:00-05:00,2025-12-09
-americanfootball_nfl,Los Angeles Rams,ML,2025-12-14 16:25:00-05:00,2025-12-09
-americanfootball_nfl,Indianapolis Colts,SPREAD,2025-12-14 16:25:00-05:00,2025-12-09
-americanfootball_nfl,Tennessee Titans,SPREAD,2025-12-14 16:25:00-05:00,2025-12-09
-americanfootball_nfl,San Francisco 49ers,OVER,2025-12-14 16:25:00-05:00,2025-12-09
-basketball_ncaab,GW Revolutionaries,SPREAD,2025-12-10 19:00:00-05:00,2025-12-09
-basketball_ncaab,Delaware Blue Hens,UNDER,2025-12-10 19:00:00-05:00,2025-12-09
-basketball_ncaab,Notre Dame Fighting Irish,OVER,2025-12-10 19:00:00-05:00,2025-12-09
-basketball_ncaab,Wisconsin Badgers,UNDER,2025-12-10 21:00:00-05:00,2025-12-09
-americanfootball_ncaaf,Louisiana Ragin Cajuns,SPREAD,2025-12-17 20:30:00-05:00,2025-12-10
-americanfootball_ncaaf,Missouri State Bears,SPREAD,2025-12-18 21:00:00-05:00,2025-12-10
-americanfootball_ncaaf,Kennesaw State Owls,SPREAD,2025-12-19 11:00:00-05:00,2025-12-10
-americanfootball_nfl,Arizona Cardinals,SPREAD,2025-12-14 13:00:00-05:00,2025-12-10
-americanfootball_nfl,New York Jets,SPREAD,2025-12-14 13:00:00-05:00,2025-12-10
-americanfootball_nfl,Las Vegas Raiders,ML,2025-12-14 13:00:00-05:00,2025-12-10
-americanfootball_nfl,Green Bay Packers,UNDER,2025-12-14 16:25:00-05:00,2025-12-10
-basketball_nba,New Orleans Pelicans,ML,2025-12-11 20:10:00-05:00,2025-12-10
-basketball_ncaab,North Dakota St Bison,ML,2025-12-11 21:30:00-05:00,2025-12-10
-icehockey_nhl,Carolina Hurricanes,SPREAD,2025-12-11 19:10:00-05:00,2025-12-10
-icehockey_nhl,Dallas Stars,UNDER,2025-12-11 20:10:00-05:00,2025-12-10
-americanfootball_ncaaf,Jacksonville State Gamecocks,ML,2025-12-16 21:00:00-05:00,2025-12-11
-americanfootball_ncaaf,Jacksonville State Gamecocks,SPREAD,2025-12-16 21:00:00-05:00,2025-12-11
-americanfootball_ncaaf,South Florida Bulls,SPREAD,2025-12-17 17:00:00-05:00,2025-12-11
-americanfootball_nfl,Arizona Cardinals,ML,2025-12-14 13:00:00-05:00,2025-12-11
-americanfootball_nfl,Baltimore Ravens,ML,2025-12-14 13:00:00-05:00,2025-12-11
-americanfootball_nfl,New Orleans Saints,ML,2025-12-14 16:25:00-05:00,2025-12-11
-americanfootball_nfl,Miami Dolphins,ML,2025-12-15 20:15:00-05:00,2025-12-11
-basketball_nba,Atlanta Hawks,ML,2025-12-12 19:10:00-05:00,2025-12-11
-basketball_nba,Charlotte Hornets,ML,2025-12-12 19:10:00-05:00,2025-12-11
-basketball_nba,Charlotte Hornets,OVER,2025-12-12 19:10:00-05:00,2025-12-11
-basketball_nba,Indiana Pacers,SPREAD,2025-12-12 19:10:00-05:00,2025-12-11
-basketball_nba,Brooklyn Nets,ML,2025-12-12 20:40:00-05:00,2025-12-11
-basketball_ncaab,Maryland-Eastern Shore Hawks,SPREAD,2025-12-12 19:00:00-05:00,2025-12-11
-basketball_ncaab,Maryland-Eastern Shore Hawks,UNDER,2025-12-12 19:00:00-05:00,2025-12-11
-icehockey_nhl,St Louis Blues,ML,2025-12-12 20:10:00-05:00,2025-12-11
 americanfootball_ncaaf,Delaware Blue Hens,OVER,2025-12-17 20:30:00-05:00,2025-12-12
 americanfootball_ncaaf,Arkansas State Red Wolves,ML,2025-12-18 21:00:00-05:00,2025-12-12
 americanfootball_ncaaf,Alabama Crimson Tide,SPREAD,2025-12-19 20:00:00-05:00,2025-12-12
@@ -115,3 +24,69 @@ icehockey_nhl,New York Rangers,ML,2025-12-13 19:00:00-05:00,2025-12-12
 icehockey_nhl,Chicago Blackhawks,ML,2025-12-13 20:00:00-05:00,2025-12-12
 icehockey_nhl,Chicago Blackhawks,SPREAD,2025-12-13 20:00:00-05:00,2025-12-12
 icehockey_nhl,Chicago Blackhawks,OVER,2025-12-13 20:00:00-05:00,2025-12-12
+americanfootball_ncaaf,Old Dominion Monarchs,ML,2025-12-17 17:00:00-05:00,2025-12-13
+americanfootball_ncaaf,Alabama Crimson Tide,UNDER,2025-12-19 20:00:00-05:00,2025-12-13
+americanfootball_ncaaf,Tulane Green Wave,ML,2025-12-20 15:30:00-05:00,2025-12-13
+americanfootball_ncaaf,Toledo Rockets,ML,2025-12-23 14:00:00-05:00,2025-12-13
+americanfootball_ncaaf,Southern Mississippi Golden Eagles,ML,2025-12-23 17:30:00-05:00,2025-12-13
+americanfootball_nfl,New England Patriots,ML,2025-12-14 13:00:00-05:00,2025-12-13
+americanfootball_nfl,New Orleans Saints,SPREAD,2025-12-14 16:25:00-05:00,2025-12-13
+americanfootball_nfl,Seattle Seahawks,ML,2025-12-14 16:25:00-05:00,2025-12-13
+americanfootball_nfl,Minnesota Vikings,SPREAD,2025-12-14 20:20:00-05:00,2025-12-13
+americanfootball_nfl,Cincinnati Bengals,UNDER,2025-12-21 13:00:00-05:00,2025-12-13
+americanfootball_nfl,Los Angeles Chargers,SPREAD,2025-12-21 13:00:00-05:00,2025-12-13
+americanfootball_nfl,Tennessee Titans,SPREAD,2025-12-21 13:00:00-05:00,2025-12-13
+americanfootball_nfl,Tennessee Titans,OVER,2025-12-21 13:00:00-05:00,2025-12-13
+americanfootball_nfl,Minnesota Vikings,SPREAD,2025-12-21 13:00:00-05:00,2025-12-13
+americanfootball_nfl,Pittsburgh Steelers,ML,2025-12-21 16:25:00-05:00,2025-12-13
+americanfootball_nfl,Pittsburgh Steelers,SPREAD,2025-12-21 16:25:00-05:00,2025-12-13
+basketball_nba,Charlotte Hornets,SPREAD,2025-12-14 15:40:00-05:00,2025-12-13
+basketball_nba,Milwaukee Bucks,UNDER,2025-12-14 18:10:00-05:00,2025-12-13
+basketball_nba,Portland Trail Blazers,ML,2025-12-14 21:10:00-05:00,2025-12-13
+basketball_ncaab,Vermont Catamounts,ML,2025-12-14 14:00:00-05:00,2025-12-13
+basketball_ncaab,UAB Blazers,SPREAD,2025-12-14 15:00:00-05:00,2025-12-13
+basketball_ncaab,Fort Wayne Mastodons,ML,2025-12-14 17:00:00-05:00,2025-12-13
+basketball_ncaab,Kent State Golden Flashes,ML,2025-12-14 17:00:00-05:00,2025-12-13
+basketball_ncaab,Wake Forest Demon Deacons,ML,2025-12-14 17:00:00-05:00,2025-12-13
+basketball_ncaab,USC Trojans,ML,2025-12-14 19:30:00-05:00,2025-12-13
+americanfootball_ncaaf,Old Dominion Monarchs,SPREAD,2025-12-17 17:00:00-05:00,2025-12-16
+americanfootball_ncaaf,Old Dominion Monarchs,UNDER,2025-12-17 17:00:00-05:00,2025-12-16
+americanfootball_ncaaf,Delaware Blue Hens,ML,2025-12-17 20:30:00-05:00,2025-12-16
+americanfootball_ncaaf,Kennesaw State Owls,ML,2025-12-19 11:00:00-05:00,2025-12-16
+americanfootball_ncaaf,Memphis Tigers,ML,2025-12-19 14:30:00-05:00,2025-12-16
+americanfootball_ncaaf,James Madison Dukes,ML,2025-12-20 19:30:00-05:00,2025-12-16
+americanfootball_ncaaf,UNLV Rebels,ML,2025-12-23 21:00:00-05:00,2025-12-16
+americanfootball_ncaaf,Hawaii Rainbow Warriors,ML,2025-12-24 20:00:00-05:00,2025-12-16
+americanfootball_nfl,Washington Commanders,OVER,2025-12-20 17:00:00-05:00,2025-12-16
+americanfootball_nfl,Cleveland Browns,ML,2025-12-21 13:00:00-05:00,2025-12-16
+americanfootball_nfl,Cincinnati Bengals,ML,2025-12-21 13:00:00-05:00,2025-12-16
+americanfootball_nfl,Dallas Cowboys,ML,2025-12-21 13:00:00-05:00,2025-12-16
+americanfootball_nfl,Tennessee Titans,ML,2025-12-21 13:00:00-05:00,2025-12-16
+americanfootball_nfl,New York Giants,ML,2025-12-21 13:00:00-05:00,2025-12-16
+americanfootball_nfl,Minnesota Vikings,UNDER,2025-12-21 13:00:00-05:00,2025-12-16
+americanfootball_nfl,New Orleans Saints,SPREAD,2025-12-21 13:00:00-05:00,2025-12-16
+americanfootball_nfl,Atlanta Falcons,ML,2025-12-21 16:05:00-05:00,2025-12-16
+americanfootball_nfl,Las Vegas Raiders,ML,2025-12-21 16:25:00-05:00,2025-12-16
+basketball_nba,Minnesota Timberwolves,OVER,2025-12-17 20:10:00-05:00,2025-12-16
+basketball_ncaab,Xavier Musketeers,ML,2025-12-17 18:30:00-05:00,2025-12-16
+basketball_ncaab,Quinnipiac Bobcats,SPREAD,2025-12-17 19:00:00-05:00,2025-12-16
+basketball_ncaab,Robert Morris Colonials,ML,2025-12-17 19:00:00-05:00,2025-12-16
+basketball_ncaab,Cleveland St Vikings,ML,2025-12-17 19:30:00-05:00,2025-12-16
+basketball_ncaab,Kennesaw St Owls,SPREAD,2025-12-17 19:30:00-05:00,2025-12-16
+americanfootball_ncaaf,Miami Hurricanes,ML,2025-12-20 12:00:00-05:00,2025-12-17
+americanfootball_nfl,Jacksonville Jaguars,ML,2025-12-21 16:05:00-05:00,2025-12-17
+americanfootball_nfl,Baltimore Ravens,ML,2025-12-21 20:20:00-05:00,2025-12-17
+basketball_ncaab,Eastern Illinois Panthers,ML,2025-12-18 18:30:00-05:00,2025-12-17
+americanfootball_ncaaf,New Mexico Lobos,UNDER,2025-12-26 16:30:00-05:00,2025-12-18
+americanfootball_ncaaf,Florida International Panthers,SPREAD,2025-12-26 20:00:00-05:00,2025-12-18
+americanfootball_nfl,Chicago Bears,ML,2025-12-20 20:20:00-05:00,2025-12-18
+americanfootball_nfl,New York Giants,SPREAD,2025-12-21 13:00:00-05:00,2025-12-18
+icehockey_nhl,Dallas Stars,SPREAD,2025-12-19 22:00:00-05:00,2025-12-18
+icehockey_nhl,Anaheim Ducks,OVER,2025-12-19 22:00:00-05:00,2025-12-18
+americanfootball_ncaaf,Cincinnati Bearcats,ML,2026-01-02 16:30:00-05:00,2025-12-19
+americanfootball_ncaaf,Wake Forest Demon Deacons,SPREAD,2026-01-02 20:00:00-05:00,2025-12-19
+americanfootball_nfl,Washington Commanders,SPREAD,2025-12-20 17:00:00-05:00,2025-12-19
+americanfootball_nfl,Carolina Panthers,ML,2025-12-21 13:00:00-05:00,2025-12-19
+basketball_nba,Portland Trail Blazers,UNDER,2025-12-20 22:10:00-05:00,2025-12-19
+basketball_ncaab,Howard Bison,ML,2025-12-20 14:00:00-05:00,2025-12-19
+icehockey_nhl,Calgary Flames,OVER,2025-12-20 22:00:00-05:00,2025-12-19
