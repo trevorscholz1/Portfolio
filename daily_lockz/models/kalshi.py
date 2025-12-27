@@ -243,7 +243,29 @@ def main():
 
     private_key = load_private_key(PRIVATE_KEY_PATH)
 
+    placed_bets = pd.read_csv("kalshi_placed.csv")
+    skipped_bets = pd.DataFrame(columns=["ticker", "side"])
     for _, row in bets.iterrows():
+        if (
+            (placed_bets["ticker"] == row["ticker"])
+            & (placed_bets["side"] == row["side"])
+        ).any():
+            skipped_bets = pd.concat(
+                [
+                    skipped_bets,
+                    pd.DataFrame(
+                        [
+                            {
+                                "ticker": row["ticker"],
+                                "side": row["side"],
+                            }
+                        ]
+                    ),
+                ],
+                ignore_index=True,
+            )
+            continue
+
         payload = {
             "ticker": row["ticker"],
             "side": row["side"].lower(),
@@ -263,7 +285,9 @@ def main():
         )
         print(response.json())
 
-    print(bets)
+    bets.to_csv("kalshi_placed.csv", mode="a")
+    print(bets, "\n")
+    print(skipped_bets)
 
 
 if __name__ == "__main__":
