@@ -243,7 +243,9 @@ def main():
 
     private_key = load_private_key(PRIVATE_KEY_PATH)
 
-    placed_bets = pd.read_csv("kalshi_placed.csv")
+    placed_bets = pd.read_csv(
+        "/Users/trevor/trevorscholz1/daily_lockz/models/kalshi_placed.csv"
+    )
     skipped_bets = pd.DataFrame(columns=["ticker", "side"])
     for _, row in bets.iterrows():
         if (
@@ -285,7 +287,12 @@ def main():
         )
         print(response.json())
 
-    bets.to_csv("kalshi_placed.csv", mode="a")
+    bets[["ticker", "side"]].to_csv(
+        "/Users/trevor/trevorscholz1/daily_lockz/models/kalshi_placed.csv",
+        mode="a",
+        header=False,
+        index=False,
+    )
     print(bets, "\n")
     print(skipped_bets)
 
