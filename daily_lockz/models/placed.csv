@@ -1,36 +1,5 @@
 sport,team,type,time,date_placed
-americanfootball_nfl,Minnesota Vikings,ML,2025-12-25 16:30:00-05:00,2025-12-24
-americanfootball_nfl,Minnesota Vikings,SPREAD,2025-12-25 16:30:00-05:00,2025-12-24
-americanfootball_nfl,New York Jets,ML,2025-12-28 13:00:00-05:00,2025-12-24
-americanfootball_ncaaf,Iowa Hawkeyes,SPREAD,2025-12-31 12:00:00-05:00,2025-12-25
-americanfootball_nfl,Arizona Cardinals,ML,2025-12-28 13:00:00-05:00,2025-12-25
-americanfootball_nfl,Cleveland Browns,ML,2025-12-28 13:00:00-05:00,2025-12-25
-americanfootball_nfl,Indianapolis Colts,ML,2025-12-28 13:00:00-05:00,2025-12-25
-americanfootball_nfl,Miami Dolphins,ML,2025-12-28 13:00:00-05:00,2025-12-25
-americanfootball_nfl,Chicago Bears,ML,2025-12-28 20:20:00-05:00,2025-12-25
-icehockey_nhl,New York Rangers,ML,2025-12-27 18:00:00-05:00,2025-12-25
-icehockey_nhl,New York Rangers,SPREAD,2025-12-27 18:00:00-05:00,2025-12-25
-icehockey_nhl,Winnipeg Jets,SPREAD,2025-12-27 19:00:00-05:00,2025-12-25
-icehockey_nhl,Minnesota Wild,UNDER,2025-12-27 19:00:00-05:00,2025-12-25
-americanfootball_ncaaf,Utah Utes,SPREAD,2025-12-31 15:30:00-05:00,2025-12-26
-americanfootball_nfl,New York Giants,SPREAD,2025-12-28 16:05:00-05:00,2025-12-26
-icehockey_nhl,New York Rangers,UNDER,2025-12-27 18:00:00-05:00,2025-12-26
-americanfootball_nfl,Atlanta Falcons,ML,2025-12-29 20:15:00-05:00,2025-12-27
-basketball_nba,Orlando Magic,ML,2025-12-29 19:40:00-05:00,2025-12-28
-basketball_ncaab,Lipscomb Bisons,SPREAD,2025-12-29 19:00:00-05:00,2025-12-28
-basketball_ncaab,UNC Wilmington Seahawks,ML,2025-12-29 19:00:00-05:00,2025-12-28
-americanfootball_nfl,New York Giants,ML,2026-01-04 13:00:00-05:00,2025-12-30
-basketball_ncaab,Furman Paladins,ML,2025-12-31 12:00:00-05:00,2025-12-30
-basketball_ncaab,Buffalo Bulls,ML,2025-12-31 13:00:00-05:00,2025-12-30
-basketball_ncaab,VCU Rams,ML,2025-12-31 14:00:00-05:00,2025-12-30
-basketball_ncaab,Lafayette Leopards,ML,2025-12-31 15:00:00-05:00,2025-12-30
-basketball_ncaab,St. John's Red Storm,ML,2025-12-31 20:00:07-05:00,2025-12-30
-americanfootball_nfl,Seattle Seahawks,ML,2026-01-03 20:00:00-05:00,2025-12-31
-americanfootball_nfl,Seattle Seahawks,SPREAD,2026-01-03 20:00:00-05:00,2025-12-31
-americanfootball_nfl,Minnesota Vikings,ML,2026-01-04 13:00:00-05:00,2025-12-31
-americanfootball_nfl,Arizona Cardinals,ML,2026-01-04 16:25:00-05:00,2025-12-31
-americanfootball_nfl,New York Jets,ML,2026-01-04 16:25:00-05:00,2025-12-31
-basketball_ncaab,Jacksonville Dolphins,ML,2026-01-01 14:00:00-05:00,2025-12-31
-basketball_ncaab,Arkansas-Little Rock Trojans,SPREAD,2026-01-01 18:00:00-05:00,2025-12-31
-basketball_ncaab,North Florida Ospreys,ML,2026-01-01 20:00:00-05:00,2025-12-31
-basketball_ncaab,Cal Poly Mustangs,ML,2026-01-01 22:00:00-05:00,2025-12-31
+americanfootball_nfl,Los Angeles Chargers,ML,2026-01-11 20:00:00-05:00,2026-01-07
+icehockey_nhl,New York Islanders,ML,2026-01-08 20:00:00-05:00,2026-01-07
+icehockey_nhl,Ottawa Senators,SPREAD,2026-01-08 21:00:00-05:00,2026-01-07
+americanfootball_nfl,Los Angeles Chargers,SPREAD,2026-01-11 20:00:00-05:00,2026-01-10
