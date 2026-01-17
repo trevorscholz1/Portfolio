@@ -1,5 +1,6 @@
 sport,team,type,time,date_placed
-americanfootball_nfl,Los Angeles Chargers,ML,2026-01-11 20:00:00-05:00,2026-01-07
-icehockey_nhl,New York Islanders,ML,2026-01-08 20:00:00-05:00,2026-01-07
-icehockey_nhl,Ottawa Senators,SPREAD,2026-01-08 21:00:00-05:00,2026-01-07
 americanfootball_nfl,Los Angeles Chargers,SPREAD,2026-01-11 20:00:00-05:00,2026-01-10
+americanfootball_nfl,Denver Broncos,ML,2026-01-17 16:30:00-05:00,2026-01-13
+icehockey_nhl,Los Angeles Kings,SPREAD,2026-01-14 22:00:00-05:00,2026-01-13
+icehockey_nhl,Seattle Kraken,ML,2026-01-15 20:00:00-05:00,2026-01-14
+icehockey_nhl,Calgary Flames,SPREAD,2026-01-17 15:00:00-05:00,2026-01-16
