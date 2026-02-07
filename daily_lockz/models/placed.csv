@@ -1,10 +1,4 @@
 sport,team,type,time,date_placed
-americanfootball_nfl,Denver Broncos,ML,2026-01-25 15:00:00-05:00,2026-01-24
-basketball_nba,Brooklyn Nets,SPREAD,2026-01-25 21:10:00-05:00,2026-01-24
-basketball_ncaab,UIC Flames,OVER,2026-01-27 20:00:00-05:00,2026-01-26
-basketball_nba,Utah Jazz,SPREAD,2026-01-28 21:10:00-05:00,2026-01-27
-basketball_ncaab,Missouri St Bears,ML,2026-01-28 20:00:00-05:00,2026-01-27
-icehockey_nhl,Chicago Blackhawks,SPREAD,2026-01-30 20:30:00-05:00,2026-01-29
 basketball_nba,Charlotte Hornets,ML,2026-01-31 12:10:00-05:00,2026-01-30
 basketball_ncaab,NC State Wolfpack,SPREAD,2026-01-31 12:00:13-05:00,2026-01-30
 basketball_ncaab,Georgetown Hoyas,SPREAD,2026-01-31 12:00:19-05:00,2026-01-30
@@ -33,3 +27,30 @@ icehockey_nhl,Nashville Predators,SPREAD,2026-01-31 19:00:00-05:00,2026-01-30
 icehockey_nhl,Ottawa Senators,SPREAD,2026-01-31 19:00:00-05:00,2026-01-30
 icehockey_nhl,Dallas Stars,UNDER,2026-01-31 21:00:00-05:00,2026-01-30
 icehockey_nhl,Boston Bruins,UNDER,2026-02-01 18:40:00-05:00,2026-01-30
+basketball_nba,Los Angeles Clippers,SPREAD,2026-02-01 20:10:00-05:00,2026-01-31
+basketball_nba,Brooklyn Nets,ML,2026-02-03 19:40:00-05:00,2026-02-02
+basketball_ncaab,VCU Rams,SPREAD,2026-02-03 19:00:00-05:00,2026-02-02
+icehockey_nhl,Philadelphia Flyers,OVER,2026-02-03 19:00:00-05:00,2026-02-02
+icehockey_nhl,Edmonton Oilers,OVER,2026-02-03 20:30:00-05:00,2026-02-02
+basketball_nba,Atlanta Hawks,SPREAD,2026-02-05 19:40:00-05:00,2026-02-04
+basketball_nba,Houston Rockets,ML,2026-02-05 20:10:00-05:00,2026-02-04
+basketball_nba,Los Angeles Lakers,OVER,2026-02-05 22:10:00-05:00,2026-02-04
+basketball_ncaab,UNC Wilmington Seahawks,ML,2026-02-05 19:00:00-05:00,2026-02-04
+basketball_ncaab,UNC Wilmington Seahawks,OVER,2026-02-05 19:00:00-05:00,2026-02-04
+basketball_ncaab,Western Illinois Leathernecks,ML,2026-02-05 20:30:00-05:00,2026-02-04
+basketball_ncaab,Long Beach St 49ers,ML,2026-02-05 22:00:00-05:00,2026-02-04
+basketball_ncaab,Davidson Wildcats,OVER,2026-02-06 18:00:00-05:00,2026-02-05
+basketball_ncaab,Alabama Crimson Tide,SPREAD,2026-02-07 16:00:59-05:00,2026-02-05
+americanfootball_nfl,Seattle Seahawks,ML,2026-02-08 18:30:00-05:00,2026-02-06
+basketball_nba,Oklahoma City Thunder,ML,2026-02-07 15:40:00-05:00,2026-02-06
+basketball_nba,San Antonio Spurs,ML,2026-02-07 18:10:00-05:00,2026-02-06
+basketball_nba,Los Angeles Lakers,ML,2026-02-07 20:40:00-05:00,2026-02-06
+basketball_nba,Sacramento Kings,SPREAD,2026-02-07 22:10:00-05:00,2026-02-06
+basketball_ncaab,Campbell Fighting Camels,UNDER,2026-02-07 14:00:00-05:00,2026-02-06
+basketball_ncaab,Gardner-Webb Bulldogs,ML,2026-02-07 14:00:00-05:00,2026-02-06
+basketball_ncaab,Utah Utes,SPREAD,2026-02-07 14:30:22-05:00,2026-02-06
+basketball_ncaab,CSU Fullerton Titans,ML,2026-02-07 19:00:00-05:00,2026-02-06
+basketball_ncaab,UTEP Miners,ML,2026-02-07 21:00:00-05:00,2026-02-06
+soccer_usa_mls,New York Red Bulls,UNDER,2026-02-21 19:30:00-05:00,2026-02-06
+soccer_usa_mls,New England Revolution,UNDER,2026-02-21 20:30:00-05:00,2026-02-06
+soccer_usa_mls,Sporting Kansas City,SPREAD,2026-02-21 22:30:00-05:00,2026-02-06

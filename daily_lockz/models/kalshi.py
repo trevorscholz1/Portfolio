@@ -272,11 +272,11 @@ def main():
             "ticker": row["ticker"],
             "side": row["side"].lower(),
             "action": "buy",
-            "count": 3,
+            "count": 4,
             "type": "limit",
             (row["side"].lower() + "_price"): row["price"],
             "time_in_force": "good_till_canceled",
-            "buy_max_cost": (row["price"] * 3),
+            "buy_max_cost": (row["price"] * 4),
         }
 
         response = post(

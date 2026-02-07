@@ -7,7 +7,7 @@ import pytz
 import requests
 
 PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
-EDGE = 0.01
+EDGE = 0.013
 
 
 def convert(decimal):
