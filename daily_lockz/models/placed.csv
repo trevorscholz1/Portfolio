@@ -1,30 +1,4 @@
 sport,team,type,time,date_placed
-americanfootball_nfl,Seattle Seahawks,ML,2026-02-08 18:30:00-05:00,2026-02-06
-basketball_nba,Oklahoma City Thunder,ML,2026-02-07 15:40:00-05:00,2026-02-06
-basketball_nba,San Antonio Spurs,ML,2026-02-07 18:10:00-05:00,2026-02-06
-basketball_nba,Los Angeles Lakers,ML,2026-02-07 20:40:00-05:00,2026-02-06
-basketball_nba,Sacramento Kings,SPREAD,2026-02-07 22:10:00-05:00,2026-02-06
-basketball_ncaab,Campbell Fighting Camels,UNDER,2026-02-07 14:00:00-05:00,2026-02-06
-basketball_ncaab,Gardner-Webb Bulldogs,ML,2026-02-07 14:00:00-05:00,2026-02-06
-basketball_ncaab,Utah Utes,SPREAD,2026-02-07 14:30:22-05:00,2026-02-06
-basketball_ncaab,CSU Fullerton Titans,ML,2026-02-07 19:00:00-05:00,2026-02-06
-basketball_ncaab,UTEP Miners,ML,2026-02-07 21:00:00-05:00,2026-02-06
-soccer_usa_mls,New York Red Bulls,UNDER,2026-02-21 19:30:00-05:00,2026-02-06
-soccer_usa_mls,New England Revolution,UNDER,2026-02-21 20:30:00-05:00,2026-02-06
-soccer_usa_mls,Sporting Kansas City,SPREAD,2026-02-21 22:30:00-05:00,2026-02-06
-basketball_nba,Toronto Raptors,SPREAD,2026-02-08 15:10:00-05:00,2026-02-07
-basketball_nba,Brooklyn Nets,ML,2026-02-09 19:40:00-05:00,2026-02-08
-basketball_nba,Portland Trail Blazers,ML,2026-02-09 22:10:00-05:00,2026-02-08
-basketball_nba,Portland Trail Blazers,SPREAD,2026-02-09 22:10:00-05:00,2026-02-08
-basketball_nba,Orlando Magic,SPREAD,2026-02-11 19:00:00-05:00,2026-02-10
-basketball_nba,Oklahoma City Thunder,ML,2026-02-11 21:00:00-05:00,2026-02-10
-basketball_ncaab,Buffalo Bulls,ML,2026-02-11 19:00:00-05:00,2026-02-10
-basketball_ncaab,Kent State Golden Flashes,OVER,2026-02-11 19:00:00-05:00,2026-02-10
-basketball_ncaab,Kansas St Wildcats,OVER,2026-02-11 21:00:00-05:00,2026-02-10
-basketball_nba,Portland Trail Blazers,ML,2026-02-12 21:10:00-05:00,2026-02-11
-basketball_ncaab,Merrimack Warriors,OVER,2026-02-12 19:00:00-05:00,2026-02-11
-basketball_ncaab,Canisius Golden Griffins,OVER,2026-02-13 19:00:00-05:00,2026-02-12
-basketball_ncaab,Siena Saints,ML,2026-02-13 19:00:00-05:00,2026-02-12
 basketball_ncaab,Michigan Wolverines,SPREAD,2026-02-14 12:45:00-05:00,2026-02-13
 basketball_ncaab,Liberty Flames,UNDER,2026-02-14 14:00:00-05:00,2026-02-13
 basketball_ncaab,Tenn-Martin Skyhawks,SPREAD,2026-02-14 16:30:00-05:00,2026-02-13
@@ -32,3 +6,34 @@ basketball_ncaab,SIU-Edwardsville Cougars,OVER,2026-02-14 16:30:00-05:00,2026-02
 basketball_ncaab,Wofford Terriers,ML,2026-02-14 17:00:00-05:00,2026-02-13
 basketball_ncaab,Hawai'i Rainbow Warriors,ML,2026-02-14 20:00:00-05:00,2026-02-13
 basketball_ncaab,Oral Roberts Golden Eagles,OVER,2026-02-14 20:00:00-05:00,2026-02-13
+basketball_ncaab,South Florida Bulls,ML,2026-02-15 14:00:00-05:00,2026-02-14
+basketball_ncaab,LIU Sharks,OVER,2026-02-16 19:00:00-05:00,2026-02-15
+basketball_nba,Orlando Magic,ML,2026-02-19 22:10:00-05:00,2026-02-16
+basketball_ncaab,New Mexico Lobos,OVER,2026-02-17 21:00:00-05:00,2026-02-16
+basketball_nba,Charlotte Hornets,SPREAD,2026-02-19 19:10:00-05:00,2026-02-17
+basketball_nba,New York Knicks,SPREAD,2026-02-19 19:40:00-05:00,2026-02-17
+basketball_ncaab,Bradley Braves,UNDER,2026-02-18 19:00:00-05:00,2026-02-17
+basketball_ncaab,Northern Kentucky Norse,OVER,2026-02-18 19:00:00-05:00,2026-02-17
+basketball_ncaab,Queens University Royals,ML,2026-02-18 19:00:00-05:00,2026-02-17
+basketball_ncaab,UTSA Roadrunners,OVER,2026-02-18 20:00:00-05:00,2026-02-17
+basketball_nba,Indiana Pacers,SPREAD,2026-02-19 19:00:00-05:00,2026-02-18
+basketball_ncaab,North Florida Ospreys,ML,2026-02-19 19:00:00-05:00,2026-02-18
+basketball_ncaab,William & Mary Tribe,ML,2026-02-19 19:00:00-05:00,2026-02-18
+basketball_ncaab,IUPUI Jaguars,ML,2026-02-19 19:00:00-05:00,2026-02-18
+basketball_ncaab,Idaho State Bengals,OVER,2026-02-19 21:00:00-05:00,2026-02-18
+soccer_usa_mls,Atlanta United FC,SPREAD,2026-02-21 16:45:00-05:00,2026-02-18
+soccer_usa_mls,Philadelphia Union,UNDER,2026-02-21 19:30:00-05:00,2026-02-18
+basketball_nba,Phoenix Suns,ML,2026-02-21 17:10:00-05:00,2026-02-20
+basketball_ncaab,Fordham Rams,OVER,2026-02-21 14:00:00-05:00,2026-02-20
+basketball_ncaab,Pittsburgh Panthers,ML,2026-02-21 14:00:32-05:00,2026-02-20
+basketball_ncaab,Louisville Cardinals,SPREAD,2026-02-21 14:15:42-05:00,2026-02-20
+basketball_ncaab,Florida Int'l Golden Panthers,OVER,2026-02-21 15:00:00-05:00,2026-02-20
+basketball_ncaab,Charleston Cougars,OVER,2026-02-21 16:00:00-05:00,2026-02-20
+basketball_ncaab,Georgia St Panthers,OVER,2026-02-21 16:00:00-05:00,2026-02-20
+basketball_ncaab,Western Kentucky Hilltoppers,UNDER,2026-02-21 16:00:00-05:00,2026-02-20
+basketball_ncaab,Utah Tech Trailblazers,UNDER,2026-02-21 17:00:00-05:00,2026-02-20
+basketball_ncaab,Richmond Spiders,ML,2026-02-21 18:00:00-05:00,2026-02-20
+basketball_ncaab,St. Bonaventure Bonnies,UNDER,2026-02-21 18:00:00-05:00,2026-02-20
+basketball_ncaab,Grand Canyon Antelopes,ML,2026-02-21 20:00:00-05:00,2026-02-20
+soccer_usa_mls,D.C. United,SPREAD,2026-02-21 19:30:00-05:00,2026-02-20
+soccer_usa_mls,Chicago Fire,SPREAD,2026-02-21 20:30:00-05:00,2026-02-20
