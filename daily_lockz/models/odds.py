@@ -7,7 +7,7 @@ import pytz
 import requests
 
 PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
-EDGE = 0.013
+EDGE = 0.02
 
 
 def convert(decimal):
@@ -317,13 +317,13 @@ def main():
                     )
 
             if not fliff["h_ml"].empty and fliff["h_ml"][0] <= (
-                GAME["h_ml"].mean() - EDGE
+                GAME["h_ml"].median() - EDGE
             ):
                 odds = convert(fliff["h_ml_raw"][0])
                 add_bet(home_team, "ML", 0, odds, time)
 
             if not fliff["a_ml"].empty and fliff["a_ml"][0] <= (
-                GAME["a_ml"].mean() - EDGE
+                GAME["a_ml"].median() - EDGE
             ):
                 odds = convert(fliff["a_ml_raw"][0])
                 add_bet(away_team, "ML", 0, odds, time)
@@ -336,14 +336,14 @@ def main():
                 SPREAD = []
             if len(SPREAD) > 1:
                 if not fliff["h_spread"].empty and fliff["h_spread"][0] <= (
-                    SPREAD["h_spread"].mean() - EDGE
+                    SPREAD["h_spread"].median() - EDGE
                 ):
                     odds = convert(fliff["h_spread_raw"][0])
                     point = fliff["spread_point"][0]
                     add_bet(home_team, "SPREAD", abs(point), odds, time)
 
                 if not fliff["a_spread"].empty and fliff["a_spread"][0] <= (
-                    SPREAD["a_spread"].mean() - EDGE
+                    SPREAD["a_spread"].median() - EDGE
                 ):
                     odds = convert(fliff["a_spread_raw"][0])
                     point = fliff["spread_point"][0]
@@ -357,14 +357,14 @@ def main():
                 TOTAL = []
             if len(TOTAL) > 1:
                 if not fliff["over"].empty and fliff["over"][0] <= (
-                    TOTAL["over"].mean() - EDGE
+                    TOTAL["over"].median() - EDGE
                 ):
                     odds = convert(fliff["over_raw"][0])
                     point = fliff["total_point"][0]
                     add_bet(home_team, "OVER", point, odds, time)
 
                 if not fliff["under"].empty and fliff["under"][0] <= (
-                    TOTAL["under"].mean() - EDGE
+                    TOTAL["under"].median() - EDGE
                 ):
                     odds = convert(fliff["under_raw"][0])
                     point = fliff["total_point"][0]
