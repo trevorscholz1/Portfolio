@@ -2,7 +2,7 @@ daily_lockz/models/data/
 daily_lockz/scout/downloads/
 spotify/data/
 extras/lego/target
-daily_lockz/models/node_modules/
+node_modules/
 .cache
 .DS_Store
 .env
@@ -12,5 +12,4 @@ soccer_sims.csv
 config.json
 data.csv
 data_w_genres.csv
-config.json
 README.md
