@@ -86,26 +86,30 @@ def get_kalshi_prices(league_id):
                     "team0_name": item["markets"][0]["yes_sub_title"],
                     "team0_side": (
                         "YES"
-                        if item["markets"][0]["yes_ask"] <= item["markets"][1]["no_ask"]
+                        if item["markets"][0]["yes_ask_dollars"]
+                        <= item["markets"][1]["no_ask_dollars"]
                         else "NO"
                     ),
                     "team0_price": (
-                        (item["markets"][0]["yes_ask"] + 2)
-                        if item["markets"][0]["yes_ask"] <= item["markets"][1]["no_ask"]
-                        else (item["markets"][1]["no_ask"] + 2)
+                        float(item["markets"][0]["yes_ask_dollars"]) + 0.02
+                        if item["markets"][0]["yes_ask_dollars"]
+                        <= item["markets"][1]["no_ask_dollars"]
+                        else float(item["markets"][1]["no_ask_dollars"]) + 0.02
                     ),
                     "team1_ticker": item["markets"][1]["ticker"],
                     "team1_code": item["markets"][1]["ticker"].split("-")[-1],
                     "team1_name": item["markets"][1]["yes_sub_title"],
                     "team1_side": (
                         "YES"
-                        if item["markets"][1]["yes_ask"] <= item["markets"][0]["no_ask"]
+                        if item["markets"][1]["yes_ask_dollars"]
+                        <= item["markets"][0]["no_ask_dollars"]
                         else "NO"
                     ),
                     "team1_price": (
-                        (item["markets"][1]["yes_ask"] + 2)
-                        if item["markets"][1]["yes_ask"] <= item["markets"][0]["no_ask"]
-                        else (item["markets"][0]["no_ask"] + 2)
+                        float(item["markets"][1]["yes_ask_dollars"]) + 0.02
+                        if item["markets"][1]["yes_ask_dollars"]
+                        <= item["markets"][0]["no_ask_dollars"]
+                        else float(item["markets"][0]["no_ask_dollars"]) + 0.02
                     ),
                 }
             ]
@@ -199,7 +203,7 @@ def main():
 
             print(fair_home_odds, home_price)
             print(fair_away_odds, away_price)
-            if (home_price / 100) < fair_home_odds:
+            if (home_price) < fair_home_odds:
                 side = game[f"team{home_num}_side"]
                 bet = pd.DataFrame(
                     [
@@ -218,7 +222,7 @@ def main():
                     [bets, bet],
                     ignore_index=True,
                 )
-            if (away_price / 100) < fair_away_odds:
+            if (away_price) < fair_away_odds:
                 side = game[f"team{away_num}_side"]
                 bet = pd.DataFrame(
                     [
@@ -274,9 +278,9 @@ def main():
             "action": "buy",
             "count": 8,
             "type": "limit",
-            (row["side"].lower() + "_price"): row["price"],
+            (row["side"].lower() + "_price"): round(row["price"] * 100),
             "time_in_force": "good_till_canceled",
-            "buy_max_cost": (row["price"] * 8),
+            "buy_max_cost": round(row["price"] * 800),
         }
 
         response = post(

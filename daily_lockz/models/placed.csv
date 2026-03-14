@@ -1,13 +1,4 @@
 sport,team,type,time,date_placed
-basketball_ncaab,Austin Peay Governors,ML,2026-02-28 14:00:00-05:00,2026-02-27
-basketball_ncaab,Towson Tigers,ML,2026-02-28 14:00:00-05:00,2026-02-27
-basketball_ncaab,Grambling St Tigers,ML,2026-02-28 19:30:00-05:00,2026-02-27
-soccer_usa_mls,Chicago Fire,OVER,2026-02-28 14:30:00-05:00,2026-02-27
-basketball_nba,New York Knicks,ML,2026-03-01 13:10:00-05:00,2026-02-28
-basketball_ncaab,Fairfield Stags,ML,2026-03-01 14:00:00-05:00,2026-02-28
-basketball_ncaab,UNC Wilmington Seahawks,ML,2026-03-01 19:00:00-05:00,2026-02-28
-soccer_usa_mls,Inter Miami CF,SPREAD,2026-03-01 19:00:00-05:00,2026-02-28
-soccer_usa_mls,San Diego FC,SPREAD,2026-03-01 21:15:00-05:00,2026-02-28
 basketball_ncaab,Air Force Falcons,OVER,2026-03-03 21:00:00-05:00,2026-03-02
 soccer_usa_mls,Colorado Rapids,OVER,2026-03-07 21:30:00-05:00,2026-03-02
 basketball_ncaab,Cleveland St Vikings,ML,2026-03-04 19:00:00-05:00,2026-03-03
@@ -16,3 +7,5 @@ basketball_nba,Los Angeles Clippers,SPREAD,2026-03-06 21:40:00-05:00,2026-03-05
 basketball_ncaab,Stony Brook Seawolves,OVER,2026-03-07 12:00:00-05:00,2026-03-06
 soccer_usa_mls,Orlando City SC,SPREAD,2026-03-07 14:30:00-05:00,2026-03-06
 soccer_usa_mls,Atlanta United FC,SPREAD,2026-03-07 19:30:00-05:00,2026-03-06
+basketball_nba,Los Angeles Lakers,SPREAD,2026-03-08 15:40:00-04:00,2026-03-07
+basketball_ncaab,Utah Utes,ML,2026-03-10 15:00:33-04:00,2026-03-09
