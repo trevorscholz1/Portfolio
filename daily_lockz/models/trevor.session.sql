@@ -1,1 +1,0 @@
-DROP TABLE soccer_games;

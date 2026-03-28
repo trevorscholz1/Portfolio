@@ -1,15 +1,18 @@
-const admin = require('firebase-admin');
-const fs = require('fs');
-const path = require('path');
+const admin = require("firebase-admin");
+const fs = require("fs");
+const path = require("path");
 
 admin.initializeApp({
-  credential: admin.credential.cert('../../../Documents/GoogleCerts/daily-lockz-firebase-adminsdk-os684-05417a328a.json'),
-  databaseURL: 'https://daily-lockz.firebaseio.com'
+  credential: admin.credential.cert(
+    "../../../Documents/GoogleCerts/daily-lockz-firebase-adminsdk-os684-05417a328a.json",
+  ),
+  databaseURL: "https://daily-lockz.firebaseio.com",
 });
 
 const db = admin.firestore();
-const blogPostsDirectory = '../../../trevorAppsWebsites/daily-lockz/src/blog-posts';
-const allowedExtensions = ['.md'];
+const blogPostsDirectory =
+  "../../../trevorAppsWebsites/daily-lockz/src/blog-posts";
+const allowedExtensions = [".md"];
 
 fs.readdir(blogPostsDirectory, (err, files) => {
   if (err) {
@@ -23,19 +26,20 @@ fs.readdir(blogPostsDirectory, (err, files) => {
     if (allowedExtensions.includes(fileExtension)) {
       const filePath = path.join(blogPostsDirectory, file);
 
-      fs.readFile(filePath, 'utf8', (err, data) => {
+      fs.readFile(filePath, "utf8", (err, data) => {
         if (err) {
           console.error(err);
           return;
         }
 
-        const blogPostRef = db.collection('blog-posts').doc(file);
+        const blogPostRef = db.collection("blog-posts").doc(file);
         blogPostRef.get().then((doc) => {
           if (doc.exists) {
             if (doc.data().content === data) {
               console.log(`Skipping ${file} (no changes detected)`);
             } else {
-              blogPostRef.set({ content: data })
+              blogPostRef
+                .set({ content: data })
                 .then(() => {
                   console.log(`Updated ${file} in Firestore`);
                 })
@@ -44,7 +48,8 @@ fs.readdir(blogPostsDirectory, (err, files) => {
                 });
             }
           } else {
-            blogPostRef.set({ content: data })
+            blogPostRef
+              .set({ content: data })
               .then(() => {
                 console.log(`Uploaded ${file} to Firestore`);
               })

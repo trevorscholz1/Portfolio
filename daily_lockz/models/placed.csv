@@ -1,7 +1,9 @@
-sport,team,type,time,date_placed
-soccer_usa_mls,Chicago Fire,UNDER,2026-03-21 16:30:00-04:00,2026-03-18
-soccer_usa_mls,Nashville SC,SPREAD,2026-03-21 18:15:00-04:00,2026-03-18
-soccer_usa_mls,Houston Dynamo,UNDER,2026-03-21 20:30:00-04:00,2026-03-18
-soccer_usa_mls,San Jose Earthquakes,UNDER,2026-03-21 22:30:00-04:00,2026-03-18
-soccer_usa_mls,New York Red Bulls,UNDER,2026-03-21 19:30:00-04:00,2026-03-20
-soccer_usa_mls,Sporting Kansas City,OVER,2026-03-21 20:30:00-04:00,2026-03-20
+sport,team,type,time,date_placed,book
+basketball_nba,Indiana Pacers,ML,2026-03-25T23:10:00Z,2026-03-24,kalshi
+soccer_brazil_campeonato,Botafogo,ML,2026-04-01T22:30:00Z,2026-03-26,kalshi
+soccer_brazil_campeonato,Fluminense,ML,2026-04-02T00:30:00Z,2026-03-26,kalshi
+soccer_brazil_campeonato,Chapecoense,Over,2026-04-05T19:00:00Z,2026-03-27,fliff
+soccer_brazil_campeonato,Corinthians,Over,2026-04-05T22:30:00Z,2026-03-27,fliff
+soccer_brazil_campeonato,Mirassol,Over,2026-04-05T23:00:00Z,2026-03-27,fliff
+soccer_brazil_campeonato,Grêmio,Over,2026-04-05T23:30:00Z,2026-03-27,fliff
+soccer_germany_bundesliga,Werder Bremen,Under,2026-04-04T13:30:00Z,2026-03-27,fliff
