@@ -1,9 +1,67 @@
 sport,team,type,time,date_placed,book
-basketball_nba,Indiana Pacers,ML,2026-03-25T23:10:00Z,2026-03-24,kalshi
-soccer_brazil_campeonato,Botafogo,ML,2026-04-01T22:30:00Z,2026-03-26,kalshi
-soccer_brazil_campeonato,Fluminense,ML,2026-04-02T00:30:00Z,2026-03-26,kalshi
 soccer_brazil_campeonato,Chapecoense,Over,2026-04-05T19:00:00Z,2026-03-27,fliff
 soccer_brazil_campeonato,Corinthians,Over,2026-04-05T22:30:00Z,2026-03-27,fliff
 soccer_brazil_campeonato,Mirassol,Over,2026-04-05T23:00:00Z,2026-03-27,fliff
 soccer_brazil_campeonato,Grêmio,Over,2026-04-05T23:30:00Z,2026-03-27,fliff
 soccer_germany_bundesliga,Werder Bremen,Under,2026-04-04T13:30:00Z,2026-03-27,fliff
+basketball_nba,Washington Wizards,ML,2026-03-29T22:10:00Z,2026-03-29,kalshi
+soccer_france_ligue_one,RC Lens,Under,2026-04-11T15:00:00Z,2026-03-29,fliff
+soccer_turkey_super_league,Genclerbirligi SK,Over,2026-04-04T11:30:00Z,2026-03-29,fliff
+baseball_mlb,Seattle Mariners,ML,2026-03-29T01:40:56Z,2026-03-29,fliff
+baseball_mlb,Seattle Mariners,Spread,2026-03-29T01:40:56Z,2026-03-29,fliff
+icehockey_nhl,Calgary Flames,Spread,2026-03-29T02:10:00Z,2026-03-29,fliff
+basketball_nba,Memphis Grizzlies,ML,2026-03-31T00:10:00Z,2026-03-29,kalshi
+lacrosse_ncaa,Cornell Big Red,ML,2026-04-04T19:30:00Z,2026-03-29,fliff
+soccer_fifa_world_cup,Iran,ML,2026-06-16T01:00:00Z,2026-03-29,kalshi
+soccer_france_ligue_one,Lorient,Under,2026-04-05T15:15:00Z,2026-03-29,fliff
+soccer_italy_serie_a,Parma,Over,2026-04-12T13:00:00Z,2026-03-29,fliff
+soccer_spain_segunda_division,AD Ceuta FC,ML,2026-04-01T18:00:00Z,2026-03-29,kalshi
+soccer_turkey_super_league,Samsunspor,Over,2026-04-05T11:30:00Z,2026-03-29,fliff
+soccer_turkey_super_league,Antalyaspor,Over,2026-04-05T14:00:00Z,2026-03-29,fliff
+basketball_nba,Brooklyn Nets,ML,2026-03-31T23:40:00Z,2026-03-30,kalshi
+basketball_ncaab,Minnesota Golden Gophers,ML,2026-04-02T02:30:00Z,2026-03-30,kalshi
+icehockey_ahl,Bakersfield Condors,ML,2026-04-02T01:30:00Z,2026-03-30,kalshi
+icehockey_ahl,San Diego Gulls,ML,2026-04-02T02:00:00Z,2026-03-30,kalshi
+icehockey_nhl,New York Islanders,Spread,2026-03-31T23:10:00Z,2026-03-30,fliff
+lacrosse_ncaa,Air Force Falcons,ML,2026-04-04T16:00:00Z,2026-03-30,fliff
+lacrosse_ncaa,Denver Pioneers,ML,2026-04-04T16:00:00Z,2026-03-30,fliff
+lacrosse_ncaa,Robert Morris Colonials,ML,2026-04-04T16:00:00Z,2026-03-30,fliff
+lacrosse_ncaa,Harvard Crimson,ML,2026-04-04T17:00:00Z,2026-03-30,fliff
+lacrosse_ncaa,Saint Joseph's Hawks,ML,2026-04-04T19:00:00Z,2026-03-30,fliff
+mma_mixed_martial_arts,Tresean Gore,ML,2026-04-04T22:00:00Z,2026-03-30,kalshi
+mma_mixed_martial_arts,Manolo Zecchini,ML,2026-04-04T22:00:00Z,2026-03-30,kalshi
+soccer_efl_champ,Queens Park Rangers,Over,2026-04-03T14:00:00Z,2026-03-30,fliff
+soccer_mexico_ligamx,Puebla,Spread,2026-04-04T01:00:00Z,2026-03-30,fliff
+soccer_spain_segunda_division,SD Huesca,ML,2026-04-01T18:00:00Z,2026-03-30,kalshi
+soccer_turkey_super_league,Antalyaspor,Under,2026-04-05T14:00:00Z,2026-03-30,fliff
+soccer_turkey_super_league,Kocaelispor,Over,2026-04-06T17:00:00Z,2026-03-30,fliff
+soccer_usa_mls,Inter Miami CF,Spread,2026-04-04T23:30:00Z,2026-03-30,fliff
+icehockey_nhl,Colorado Avalanche,Spread,2026-04-02T00:40:00Z,2026-03-31,fliff
+mma_mixed_martial_arts,Tresean Gore,ML,2026-04-04T22:45:00Z,2026-03-31,kalshi
+soccer_fifa_world_cup,Iran,ML,2026-06-15T18:00:00Z,2026-03-31,kalshi
+basketball_wncaab,South Carolina Gamecocks,ML,2026-04-03T23:00:00Z,2026-04-01,kalshi
+icehockey_ahl,Lehigh Valley Phantoms,ML,2026-04-03T23:05:00Z,2026-04-01,kalshi
+soccer_china_superleague,Qingdao Hainiu FC,ML,2026-04-04T07:30:00Z,2026-04-01,kalshi
+icehockey_ahl,Abbotsford Canucks,ML,2026-04-05T02:00:00Z,2026-04-02,kalshi
+soccer_argentina_primera_division,Belgrano de Cordoba,ML,2026-04-05T21:00:00Z,2026-04-02,kalshi
+soccer_brazil_campeonato,Santos,ML,2026-04-05T20:30:00Z,2026-04-02,kalshi
+soccer_brazil_campeonato,Palmeiras,ML,2026-04-05T22:30:00Z,2026-04-02,kalshi
+soccer_portugal_primeira_liga,Famalicão,ML,2026-04-04T19:30:00Z,2026-04-02,kalshi
+baseball_mlb,Toronto Blue Jays,Spread,2026-04-04T18:11:00Z,2026-04-03,fliff
+baseball_mlb,Pittsburgh Pirates,Under,2026-04-04T20:06:00Z,2026-04-03,fliff
+baseball_mlb,Boston Red Sox,Under,2026-04-04T20:11:00Z,2026-04-03,fliff
+baseball_mlb,Kansas City Royals,ML,2026-04-04T23:11:00Z,2026-04-03,fliff
+baseball_mlb,Kansas City Royals,Spread,2026-04-04T23:11:00Z,2026-04-03,fliff
+baseball_mlb,Minnesota Twins,Under,2026-04-04T23:11:00Z,2026-04-03,fliff
+baseball_mlb,Colorado Rockies,Over,2026-04-05T00:11:00Z,2026-04-03,fliff
+basketball_nba,Denver Nuggets,ML,2026-04-04T19:10:00Z,2026-04-03,fliff
+basketball_nba,Denver Nuggets,Under,2026-04-04T19:10:00Z,2026-04-03,fliff
+basketball_nba,Miami Heat,Spread,2026-04-04T19:10:00Z,2026-04-03,fliff
+soccer_efl_champ,Hull City,ML,2026-04-06T19:00:00Z,2026-04-03,kalshi
+soccer_germany_bundesliga,Bayer Leverkusen,Under,2026-04-04T13:30:00Z,2026-04-03,fliff
+soccer_germany_bundesliga,Bayern Munich,ML,2026-04-04T13:30:00Z,2026-04-03,fliff
+soccer_mexico_ligamx,Monterrey,Spread,2026-04-04T23:00:00Z,2026-04-03,fliff
+soccer_spain_la_liga,Atlético Madrid,Under,2026-04-04T19:00:00Z,2026-04-03,fliff
+soccer_usa_mls,Minnesota United FC,Spread,2026-04-05T02:30:00Z,2026-04-03,fliff
+soccer_usa_mls,LA Galaxy,Over,2026-04-05T02:30:00Z,2026-04-03,fliff
+soccer_usa_mls,San Jose Earthquakes,Over,2026-04-05T02:30:00Z,2026-04-03,fliff
