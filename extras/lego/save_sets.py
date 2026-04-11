@@ -22,4 +22,4 @@ for i in range(10):
     end_index = min((i + 1) * batch_size, len(data))
     batch_data = data[start_index:end_index]
     sets_ref.document(f"data{i + 1}").set({"data": batch_data})
-    print(f"Uploaded batch data{i + 1} with {len(batch_data)} items.")
+    print(f"Uploaded batch data{i + 1} with {len(batch_data)} items")

@@ -20,7 +20,7 @@ SPORTS_API_KEY = os.getenv("ODDS_API_KEY")
 
 DUPLICATE_PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
 F_EDGE = 0.01
-K_EDGE = 0.025
+K_EDGE = 0.02
 
 COUNT = 8
 
@@ -140,7 +140,7 @@ def game_odds(game, is_kalshi):
                 game_odds.at[index, "h_ml_raw"] = home_row["raw"]
                 game_odds.at[index, "a_ml_raw"] = away_row["raw"]
                 game_odds.at[index, "d_ml_raw"] = (
-                    draw_row["price"] if draw_row is not None else np.nan
+                    draw_row["raw"] if draw_row is not None else np.nan
                 )
 
                 if is_kalshi:
@@ -256,7 +256,7 @@ def kalshi_place_order(kalshi, ticker, raw_price, team, type):
         data = response.json()
         market = data["market"]
         kalshi_price = float(market["yes_ask_dollars"])
-        print(kalshi_price, raw_price)
+        print(kalshi_price, raw_price, team)
         if abs(kalshi_price - float(raw_price)) <= (K_EDGE / 2):
             return True
         else:
@@ -307,7 +307,7 @@ def kalshi_place_order(kalshi, ticker, raw_price, team, type):
             "side": "yes",
             "action": "buy",
             "count": COUNT,
-            "yes_price": int(raw_price * 100) * COUNT,
+            "yes_price": int(raw_price * 100),
         }
 
         private_key = load_private_key(PRIVATE_KEY_PATH)
