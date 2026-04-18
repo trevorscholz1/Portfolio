@@ -19,8 +19,8 @@ PRIVATE_KEY_PATH = os.getenv("KALSHI_KEY_PATH")
 SPORTS_API_KEY = os.getenv("ODDS_API_KEY")
 
 DUPLICATE_PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
-F_EDGE = 0.01
-K_EDGE = 0.02
+F_EDGE = 0.015
+K_EDGE = 0.025
 
 COUNT = 8
 
@@ -79,13 +79,10 @@ def convert_time(utc):
     return est_time, is_today
 
 
-def remove_juice(outcomes, is_kalshi):
+def remove_juice(outcomes):
     outcomes_df = pd.DataFrame(outcomes)
     probs = 1 / outcomes_df["price"]
-    if is_kalshi:
-        fair_probs = probs
-    else:
-        fair_probs = probs / probs.sum()
+    fair_probs = probs / probs.sum()
     return outcomes_df.assign(fair_prob=fair_probs, raw=probs)
 
 
@@ -124,7 +121,7 @@ def game_odds(game, is_kalshi):
         game_odds.at[index, "book"] = book["key"]
         for market in book["markets"]:
             if market["key"] == "h2h":
-                outcomes = remove_juice(market["outcomes"], is_kalshi)
+                outcomes = remove_juice(market["outcomes"])
                 home_row = outcomes[outcomes["name"] == h_team].iloc[0]
                 away_row = outcomes[outcomes["name"] == a_team].iloc[0]
                 if len(outcomes[outcomes["name"] == "Draw"]) > 0:
@@ -151,7 +148,7 @@ def game_odds(game, is_kalshi):
                     )
 
             if market["key"] == "spreads":
-                outcomes = remove_juice(market["outcomes"], is_kalshi)
+                outcomes = remove_juice(market["outcomes"])
                 home_row = outcomes[outcomes["name"] == h_team].iloc[0]
                 away_row = outcomes[outcomes["name"] == a_team].iloc[0]
                 game_odds.at[index, "h_spread"] = home_row["fair_prob"]
@@ -166,7 +163,7 @@ def game_odds(game, is_kalshi):
                     game_odds.at[index, "a_spread_sid"] = away_row["sid"]
 
             if market["key"] == "totals":
-                outcomes = remove_juice(market["outcomes"], is_kalshi)
+                outcomes = remove_juice(market["outcomes"])
                 over_row = outcomes[outcomes["name"] == "Over"].iloc[0]
                 under_row = outcomes[outcomes["name"] == "Under"].iloc[0]
                 game_odds.at[index, "over"] = over_row["fair_prob"]
@@ -331,37 +328,38 @@ def find_value(game_odds, kalshi_game_odds):
     a_team = game_odds["a_team"][0]
     time = game_odds["time"][0]
 
-    h_ml_median = game_odds["h_ml"].median()
-    a_ml_median = game_odds["a_ml"].median()
-    d_ml_median = game_odds["d_ml"].median()
-
     fliff = game_odds[game_odds["book"] == "fliff"]
-    if not fliff.empty:
+    f_game_odds = game_odds[game_odds["book"] != "fliff"]
+    if not fliff.empty and not game_odds.empty:
         fliff = fliff.iloc[0]
 
-        fh_spread_median = game_odds[game_odds["spreads_pt"] == fliff["spreads_pt"]][
-            "h_spread"
-        ].median()
-        fa_spread_median = game_odds[game_odds["spreads_pt"] == fliff["spreads_pt"]][
-            "a_spread"
-        ].median()
+        fh_ml_median = f_game_odds["h_ml"].median()
+        fa_ml_median = f_game_odds["a_ml"].median()
+        fd_ml_median = f_game_odds["d_ml"].median()
 
-        fover_median = game_odds[game_odds["totals_pt"] == fliff["totals_pt"]][
+        fh_spread_median = f_game_odds[
+            f_game_odds["spreads_pt"] == fliff["spreads_pt"]
+        ]["h_spread"].median()
+        fa_spread_median = f_game_odds[
+            f_game_odds["spreads_pt"] == fliff["spreads_pt"]
+        ]["a_spread"].median()
+
+        fover_median = f_game_odds[f_game_odds["totals_pt"] == fliff["totals_pt"]][
             "over"
         ].median()
-        funder_median = game_odds[game_odds["totals_pt"] == fliff["totals_pt"]][
+        funder_median = f_game_odds[f_game_odds["totals_pt"] == fliff["totals_pt"]][
             "under"
         ].median()
 
-        if fliff["h_ml"] < (h_ml_median - F_EDGE):
+        if fliff["h_ml"] < (fh_ml_median - F_EDGE):
             fliff_place_bet(
                 sport, h_team, "ML", 0, convert_odds(fliff["h_ml_raw"]), time
             )
-        if fliff["a_ml"] < (a_ml_median - F_EDGE):
+        if fliff["a_ml"] < (fa_ml_median - F_EDGE):
             fliff_place_bet(
                 sport, a_team, "ML", 0, convert_odds(fliff["a_ml_raw"]), time
             )
-        if fliff["d_ml"] < (d_ml_median - F_EDGE):
+        if fliff["d_ml"] < (fd_ml_median - F_EDGE):
             fliff_place_bet(
                 sport, "Draw", "ML", 0, convert_odds(fliff["d_ml_raw"]), time
             )
@@ -406,9 +404,13 @@ def find_value(game_odds, kalshi_game_odds):
 
     kalshi = kalshi_odds(game_odds["id"][0], kalshi_game_odds)
 
-    if (kalshi is not None) and (not kalshi.empty):
+    if kalshi is not None and not kalshi.empty:
         kalshi = kalshi.reset_index(drop=True)
         kalshi = kalshi.iloc[0]
+
+        kh_ml_median = game_odds["h_ml"].median()
+        ka_ml_median = game_odds["a_ml"].median()
+        kd_ml_median = game_odds["d_ml"].median()
 
         kh_spread_median = game_odds[game_odds["spreads_pt"] == kalshi["spreads_pt"]][
             "h_spread"
@@ -424,7 +426,7 @@ def find_value(game_odds, kalshi_game_odds):
             "under"
         ].median()
 
-        if kalshi["h_ml"] < (h_ml_median - K_EDGE):
+        if kalshi["h_ml"] < (kh_ml_median - K_EDGE):
             kalshi_place_order(
                 kalshi,
                 kalshi["h_ml_sid"],
@@ -432,7 +434,7 @@ def find_value(game_odds, kalshi_game_odds):
                 h_team,
                 "ML",
             )
-        if kalshi["a_ml"] < (a_ml_median - K_EDGE):
+        if kalshi["a_ml"] < (ka_ml_median - K_EDGE):
             kalshi_place_order(
                 kalshi,
                 kalshi["a_ml_sid"],
@@ -440,7 +442,7 @@ def find_value(game_odds, kalshi_game_odds):
                 a_team,
                 "ML",
             )
-        if kalshi["d_ml"] < (d_ml_median - K_EDGE):
+        if kalshi["d_ml"] < (kd_ml_median - K_EDGE):
             kalshi_place_order(
                 kalshi,
                 kalshi["d_ml_sid"],
