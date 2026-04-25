@@ -55,7 +55,7 @@ public class App {
             numWins++;
         }
 
-        return numWins / (double)numSims;
+        return numWins / (double) numSims;
     }
 
     public static void main(String[] args) {

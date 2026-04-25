@@ -19,10 +19,10 @@ PRIVATE_KEY_PATH = os.getenv("KALSHI_KEY_PATH")
 SPORTS_API_KEY = os.getenv("ODDS_API_KEY")
 
 DUPLICATE_PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
-F_EDGE = 0.015
-K_EDGE = 0.025
+F_EDGE = 0.02
+K_EDGE = 0.04
 
-COUNT = 8
+COUNT = 4
 
 
 def get_active_sports():
@@ -32,6 +32,13 @@ def get_active_sports():
     )
     data = response.json()
     for sport in data:
+        try:
+            _ = sport["key"]
+            _ = sport["active"]
+        except:
+            print(sport)
+            continue
+
         if "winner" in sport["key"] or not sport["active"]:
             print(f"SKIPPED SPORT: {sport['key']}")
             continue
@@ -82,7 +89,10 @@ def convert_time(utc):
 def remove_juice(outcomes):
     outcomes_df = pd.DataFrame(outcomes)
     probs = 1 / outcomes_df["price"]
-    fair_probs = probs / probs.sum()
+    if outcomes_df["price"].nunique() == 1 and probs[0] > 0.7:
+        fair_probs = probs
+    else:
+        fair_probs = probs / probs.sum()
     return outcomes_df.assign(fair_prob=fair_probs, raw=probs)
 
 
