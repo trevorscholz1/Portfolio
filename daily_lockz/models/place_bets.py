@@ -318,14 +318,14 @@ def kalshi_place_order(kalshi, ticker, raw_price, team, type):
         }
 
         private_key = load_private_key(PRIVATE_KEY_PATH)
-        response = post(
-            private_key,
-            KALSHI_API_KEY_ID,
-            "/trade-api/v2/portfolio/orders",
-            payload=payload,
-        )
-        print("\n*", response.json(), "*\n")
-        save_bet(kalshi["sport"], team, type, kalshi["time"], "kalshi")
+        # response = post(
+        #     private_key,
+        #     KALSHI_API_KEY_ID,
+        #     "/trade-api/v2/portfolio/orders",
+        #     payload=payload,
+        # )
+        # print("\n*", response.json(), "*\n")
+        # save_bet(kalshi["sport"], team, type, kalshi["time"], "kalshi")
     else:
         print("SKIPPED DUPLICATE", team, type)
 
