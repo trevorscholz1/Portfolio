@@ -19,9 +19,7 @@ PRIVATE_KEY_PATH = os.getenv("KALSHI_KEY_PATH")
 SPORTS_API_KEY = os.getenv("ODDS_API_KEY")
 
 DUPLICATE_PATH = "/Users/trevor/trevorscholz1/daily_lockz/models/placed.csv"
-F_EDGE = 0.02
-K_EDGE = 0.04
-
+EDGE = 0.02
 COUNT = 4
 
 
@@ -36,7 +34,7 @@ def get_active_sports():
             _ = sport["key"]
             _ = sport["active"]
         except:
-            print(sport)
+            print(f"ERROR: {sport}")
             continue
 
         if "winner" in sport["key"] or not sport["active"]:
@@ -47,20 +45,27 @@ def get_active_sports():
     return sports
 
 
-def get_sport_odds(sport):
-    response = requests.get(
-        f"https://api.the-odds-api.com/v4/sports/{sport}/odds/?apiKey={SPORTS_API_KEY}&regions=us,us2&markets=h2h,spreads,totals"
-    )
-    data = response.json()
-    return data
+def fetch_odds(sport):
+    est_zone = pytz.timezone("US/Eastern")
+    est_now = dt.now(est_zone)
+    time_limit = est_now + timedelta(days=7)
+    utc_zone = pytz.timezone("UTC")
+    utc_time = time_limit.astimezone(utc_zone)
 
+    commence_limit = utc_time.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-def get_kalshi_odds(sport):
     response = requests.get(
-        f"https://api.the-odds-api.com/v4/sports/{sport}/odds/?apiKey={SPORTS_API_KEY}&bookmakers=kalshi&includeSids=true&markets=h2h"
+        f"https://api.the-odds-api.com/v4/sports/{sport}/odds/",
+        params={
+            "apiKey": SPORTS_API_KEY,
+            "bookmakers": "pinnacle,fliff,kalshi",
+            "markets": "h2h,spreads,totals",
+            "includeSids": "true",
+            "commenceTimeTo": commence_limit,
+        },
     )
-    data = response.json()
-    return data
+
+    return response.json()
 
 
 def convert_odds(prob):
@@ -84,125 +89,6 @@ def convert_time(utc):
     is_today = est_time.date() == now_est.date()
 
     return est_time, is_today
-
-
-def remove_juice(outcomes):
-    outcomes_df = pd.DataFrame(outcomes)
-    probs = 1 / outcomes_df["price"]
-    if outcomes_df["price"].nunique() == 1 and probs[0] > 0.7:
-        fair_probs = probs
-    else:
-        fair_probs = probs / probs.sum()
-    return outcomes_df.assign(fair_prob=fair_probs, raw=probs)
-
-
-def game_odds(game, is_kalshi):
-    game_odds = pd.DataFrame(
-        columns=[
-            "id",
-            "sport",
-            "h_team",
-            "a_team",
-            "book",
-            "h_ml",
-            "a_ml",
-            "d_ml",
-            "h_spread",
-            "a_spread",
-            "spreads_pt",
-            "over",
-            "under",
-            "totals_pt",
-            "time",
-        ]
-    )
-    index = 0
-
-    h_team = game["home_team"]
-    a_team = game["away_team"]
-
-    for book in game["bookmakers"]:
-        game_odds.at[index, "id"] = game["id"]
-        game_odds.at[index, "sport"] = game["sport_key"]
-        game_odds.at[index, "h_team"] = h_team
-        game_odds.at[index, "a_team"] = a_team
-        game_odds.at[index, "time"] = game["commence_time"]
-
-        game_odds.at[index, "book"] = book["key"]
-        for market in book["markets"]:
-            if market["key"] == "h2h":
-                outcomes = remove_juice(market["outcomes"])
-                home_row = outcomes[outcomes["name"] == h_team].iloc[0]
-                away_row = outcomes[outcomes["name"] == a_team].iloc[0]
-                if len(outcomes[outcomes["name"] == "Draw"]) > 0:
-                    draw_row = outcomes[outcomes["name"] == "Draw"].iloc[0]
-                else:
-                    draw_row = None
-                game_odds.at[index, "h_ml"] = home_row["fair_prob"]
-                game_odds.at[index, "a_ml"] = away_row["fair_prob"]
-                game_odds.at[index, "d_ml"] = (
-                    draw_row["fair_prob"] if draw_row is not None else np.nan
-                )
-
-                game_odds.at[index, "h_ml_raw"] = home_row["raw"]
-                game_odds.at[index, "a_ml_raw"] = away_row["raw"]
-                game_odds.at[index, "d_ml_raw"] = (
-                    draw_row["raw"] if draw_row is not None else np.nan
-                )
-
-                if is_kalshi:
-                    game_odds.at[index, "h_ml_sid"] = home_row["sid"]
-                    game_odds.at[index, "a_ml_sid"] = away_row["sid"]
-                    game_odds.at[index, "d_ml_sid"] = (
-                        draw_row["sid"] if draw_row is not None else np.nan
-                    )
-
-            if market["key"] == "spreads":
-                outcomes = remove_juice(market["outcomes"])
-                home_row = outcomes[outcomes["name"] == h_team].iloc[0]
-                away_row = outcomes[outcomes["name"] == a_team].iloc[0]
-                game_odds.at[index, "h_spread"] = home_row["fair_prob"]
-                game_odds.at[index, "a_spread"] = away_row["fair_prob"]
-                game_odds.at[index, "spreads_pt"] = home_row["point"]
-
-                game_odds.at[index, "h_spread_raw"] = home_row["raw"]
-                game_odds.at[index, "a_spread_raw"] = away_row["raw"]
-
-                if is_kalshi:
-                    game_odds.at[index, "h_spread_sid"] = home_row["sid"]
-                    game_odds.at[index, "a_spread_sid"] = away_row["sid"]
-
-            if market["key"] == "totals":
-                outcomes = remove_juice(market["outcomes"])
-                over_row = outcomes[outcomes["name"] == "Over"].iloc[0]
-                under_row = outcomes[outcomes["name"] == "Under"].iloc[0]
-                game_odds.at[index, "over"] = over_row["fair_prob"]
-                game_odds.at[index, "under"] = under_row["fair_prob"]
-                game_odds.at[index, "totals_pt"] = over_row["point"]
-
-                game_odds.at[index, "over_raw"] = over_row["raw"]
-                game_odds.at[index, "under_raw"] = under_row["raw"]
-
-                if is_kalshi:
-                    game_odds.at[index, "over_sid"] = over_row["sid"]
-                    game_odds.at[index, "under_sid"] = under_row["sid"]
-
-        index += 1
-    return game_odds
-
-
-def kalshi_odds(game_id, kalshi_odds):
-    found = False
-    kalshi = None
-    for game in kalshi_odds:
-        if game["id"] == game_id:
-            found = True
-            kalshi = game
-            break
-    if not found:
-        return kalshi
-    else:
-        return game_odds(game, True)
 
 
 def is_duplicate(sport, team, type, time, book):
@@ -246,6 +132,117 @@ def clean_duplicates():
     placed.to_csv(DUPLICATE_PATH, index=False)
 
 
+def remove_juice(outcomes, is_kalshi):
+    outcomes_df = pd.DataFrame(outcomes)
+    probs = 1 / outcomes_df["price"]
+    if is_kalshi:
+        fair_probs = probs
+    else:
+        fair_probs = probs / probs.sum()
+    return outcomes_df.assign(fair_prob=fair_probs, raw=probs)
+
+
+def game_odds(game):
+    game_odds = pd.DataFrame(
+        columns=[
+            "id",
+            "sport",
+            "h_team",
+            "a_team",
+            "book",
+            "h_ml",
+            "a_ml",
+            "d_ml",
+            "h_spread",
+            "a_spread",
+            "spreads_pt",
+            "over",
+            "under",
+            "totals_pt",
+            "time",
+        ]
+    )
+    index = 0
+
+    h_team = game["home_team"]
+    a_team = game["away_team"]
+
+    for book in game["bookmakers"]:
+        game_odds.at[index, "id"] = game["id"]
+        game_odds.at[index, "sport"] = game["sport_key"]
+        game_odds.at[index, "h_team"] = h_team
+        game_odds.at[index, "a_team"] = a_team
+        game_odds.at[index, "time"] = game["commence_time"]
+
+        game_odds.at[index, "book"] = book["key"]
+        for market in book["markets"]:
+            if market["key"] == "h2h":
+                outcomes = remove_juice(
+                    market["outcomes"], True if book["key"] == "kalshi" else False
+                )
+                home_row = outcomes[outcomes["name"] == h_team].iloc[0]
+                away_row = outcomes[outcomes["name"] == a_team].iloc[0]
+                if len(outcomes[outcomes["name"] == "Draw"]) > 0:
+                    draw_row = outcomes[outcomes["name"] == "Draw"].iloc[0]
+                else:
+                    draw_row = None
+                game_odds.at[index, "h_ml"] = home_row["fair_prob"]
+                game_odds.at[index, "a_ml"] = away_row["fair_prob"]
+                game_odds.at[index, "d_ml"] = (
+                    draw_row["fair_prob"] if draw_row is not None else np.nan
+                )
+
+                game_odds.at[index, "h_ml_raw"] = home_row["raw"]
+                game_odds.at[index, "a_ml_raw"] = away_row["raw"]
+                game_odds.at[index, "d_ml_raw"] = (
+                    draw_row["raw"] if draw_row is not None else np.nan
+                )
+
+                if book["key"] == "kalshi":
+                    game_odds.at[index, "h_ml_sid"] = home_row["sid"]
+                    game_odds.at[index, "a_ml_sid"] = away_row["sid"]
+                    game_odds.at[index, "d_ml_sid"] = (
+                        draw_row["sid"] if draw_row is not None else np.nan
+                    )
+
+            if market["key"] == "spreads":
+                outcomes = remove_juice(
+                    market["outcomes"], True if book["key"] == "kalshi" else False
+                )
+                home_row = outcomes[outcomes["name"] == h_team].iloc[0]
+                away_row = outcomes[outcomes["name"] == a_team].iloc[0]
+                game_odds.at[index, "h_spread"] = home_row["fair_prob"]
+                game_odds.at[index, "a_spread"] = away_row["fair_prob"]
+                game_odds.at[index, "spreads_pt"] = home_row["point"]
+
+                game_odds.at[index, "h_spread_raw"] = home_row["raw"]
+                game_odds.at[index, "a_spread_raw"] = away_row["raw"]
+
+                if book["key"] == "kalshi":
+                    game_odds.at[index, "h_spread_sid"] = home_row["sid"]
+                    game_odds.at[index, "a_spread_sid"] = away_row["sid"]
+
+            if market["key"] == "totals":
+                outcomes = remove_juice(
+                    market["outcomes"], True if book["key"] == "kalshi" else False
+                )
+                over_row = outcomes[outcomes["name"] == "Over"].iloc[0]
+                under_row = outcomes[outcomes["name"] == "Under"].iloc[0]
+                game_odds.at[index, "over"] = over_row["fair_prob"]
+                game_odds.at[index, "under"] = under_row["fair_prob"]
+                game_odds.at[index, "totals_pt"] = over_row["point"]
+
+                game_odds.at[index, "over_raw"] = over_row["raw"]
+                game_odds.at[index, "under_raw"] = under_row["raw"]
+
+                if book["key"] == "kalshi":
+                    game_odds.at[index, "over_sid"] = over_row["sid"]
+                    game_odds.at[index, "under_sid"] = under_row["sid"]
+
+        index += 1
+    return game_odds
+
+
 def fliff_place_bet(sport, team, type, point, odds, time):
     if not is_duplicate(sport, team, type, time, "fliff"):
         est, _ = convert_time(time)
@@ -264,7 +261,7 @@ def kalshi_place_order(kalshi, ticker, raw_price, team, type):
         market = data["market"]
         kalshi_price = float(market["yes_ask_dollars"])
         print(kalshi_price, raw_price, team)
-        if abs(kalshi_price - float(raw_price)) <= (K_EDGE / 2):
+        if abs(kalshi_price - float(raw_price)) <= (EDGE / 2):
             return True
         else:
             return False
@@ -318,63 +315,69 @@ def kalshi_place_order(kalshi, ticker, raw_price, team, type):
         }
 
         private_key = load_private_key(PRIVATE_KEY_PATH)
-        # response = post(
-        #     private_key,
-        #     KALSHI_API_KEY_ID,
-        #     "/trade-api/v2/portfolio/orders",
-        #     payload=payload,
-        # )
-        # print("\n*", response.json(), "*\n")
-        # save_bet(kalshi["sport"], team, type, kalshi["time"], "kalshi")
+        response = post(
+            private_key,
+            KALSHI_API_KEY_ID,
+            "/trade-api/v2/portfolio/orders",
+            payload=payload,
+        )
+        print("\n*", response.json(), "*\n")
+        save_bet(kalshi["sport"], team, type, kalshi["time"], "kalshi")
     else:
         print("SKIPPED DUPLICATE", team, type)
 
 
-def find_value(game_odds, kalshi_game_odds):
-    if len(game_odds) < 1:
+def find_value(game_odds):
+    if len(game_odds) < 1 or game_odds.empty:
         return
+
+    sharp = game_odds[game_odds["book"] == "pinnacle"]
+    if sharp.empty:
+        return
+    else:
+        sharp = sharp.iloc[0]
+
     sport = game_odds["sport"][0]
     h_team = game_odds["h_team"][0]
     a_team = game_odds["a_team"][0]
     time = game_odds["time"][0]
 
+    h_ml_sharp = sharp["h_ml"]
+    a_ml_sharp = sharp["a_ml"]
+    d_ml_sharp = sharp["d_ml"]
+
+    h_spread_sharp = sharp["h_spread"]
+    a_spread_sharp = sharp["a_spread"]
+
+    over_sharp = sharp["over"]
+    under_sharp = sharp["under"]
+
     fliff = game_odds[game_odds["book"] == "fliff"]
-    f_game_odds = game_odds[game_odds["book"] != "fliff"]
-    if not fliff.empty and not game_odds.empty:
+    if not fliff.empty:
         fliff = fliff.iloc[0]
 
-        fh_ml_median = f_game_odds["h_ml"].median()
-        fa_ml_median = f_game_odds["a_ml"].median()
-        fd_ml_median = f_game_odds["d_ml"].median()
-
-        fh_spread_median = f_game_odds[
-            f_game_odds["spreads_pt"] == fliff["spreads_pt"]
-        ]["h_spread"].median()
-        fa_spread_median = f_game_odds[
-            f_game_odds["spreads_pt"] == fliff["spreads_pt"]
-        ]["a_spread"].median()
-
-        fover_median = f_game_odds[f_game_odds["totals_pt"] == fliff["totals_pt"]][
-            "over"
-        ].median()
-        funder_median = f_game_odds[f_game_odds["totals_pt"] == fliff["totals_pt"]][
-            "under"
-        ].median()
-
-        if fliff["h_ml"] < (fh_ml_median - F_EDGE):
+        if fliff["h_ml"] < (h_ml_sharp - EDGE):
             fliff_place_bet(
                 sport, h_team, "ML", 0, convert_odds(fliff["h_ml_raw"]), time
             )
-        if fliff["a_ml"] < (fa_ml_median - F_EDGE):
+        if fliff["a_ml"] < (a_ml_sharp - EDGE):
             fliff_place_bet(
                 sport, a_team, "ML", 0, convert_odds(fliff["a_ml_raw"]), time
             )
-        if fliff["d_ml"] < (fd_ml_median - F_EDGE):
+        if fliff["d_ml"] < (d_ml_sharp - EDGE):
             fliff_place_bet(
-                sport, "Draw", "ML", 0, convert_odds(fliff["d_ml_raw"]), time
+                sport,
+                f"{h_team}***Draw",
+                "ML",
+                0,
+                convert_odds(fliff["d_ml_raw"]),
+                time,
             )
 
-        if fliff["h_spread"] < (fh_spread_median - F_EDGE):
+        if (
+            fliff["h_spread"] < (h_spread_sharp - EDGE)
+            and fliff["spreads_pt"] == sharp["spreads_pt"]
+        ):
             fliff_place_bet(
                 sport,
                 h_team,
@@ -383,7 +386,10 @@ def find_value(game_odds, kalshi_game_odds):
                 convert_odds(fliff["h_spread_raw"]),
                 time,
             )
-        if fliff["a_spread"] < (fa_spread_median - F_EDGE):
+        if (
+            fliff["a_spread"] < (a_spread_sharp - EDGE)
+            and fliff["spreads_pt"] == sharp["spreads_pt"]
+        ):
             fliff_place_bet(
                 sport,
                 a_team,
@@ -393,7 +399,10 @@ def find_value(game_odds, kalshi_game_odds):
                 time,
             )
 
-        if fliff["over"] < (fover_median - F_EDGE):
+        if (
+            fliff["over"] < (over_sharp - EDGE)
+            and fliff["totals_pt"] == sharp["totals_pt"]
+        ):
             fliff_place_bet(
                 sport,
                 h_team,
@@ -402,7 +411,10 @@ def find_value(game_odds, kalshi_game_odds):
                 convert_odds(fliff["over_raw"]),
                 time,
             )
-        if fliff["under"] < (funder_median - F_EDGE):
+        if (
+            fliff["under"] < (under_sharp - EDGE)
+            and fliff["totals_pt"] == sharp["totals_pt"]
+        ):
             fliff_place_bet(
                 sport,
                 h_team,
@@ -412,31 +424,11 @@ def find_value(game_odds, kalshi_game_odds):
                 time,
             )
 
-    kalshi = kalshi_odds(game_odds["id"][0], kalshi_game_odds)
-
-    if kalshi is not None and not kalshi.empty:
-        kalshi = kalshi.reset_index(drop=True)
+    kalshi = game_odds[game_odds["book"] == "kalshi"]
+    if not kalshi.empty:
         kalshi = kalshi.iloc[0]
 
-        kh_ml_median = game_odds["h_ml"].median()
-        ka_ml_median = game_odds["a_ml"].median()
-        kd_ml_median = game_odds["d_ml"].median()
-
-        kh_spread_median = game_odds[game_odds["spreads_pt"] == kalshi["spreads_pt"]][
-            "h_spread"
-        ].median()
-        ka_spread_median = game_odds[game_odds["spreads_pt"] == kalshi["spreads_pt"]][
-            "a_spread"
-        ].median()
-
-        kover_median = game_odds[game_odds["totals_pt"] == kalshi["totals_pt"]][
-            "over"
-        ].median()
-        kunder_median = game_odds[game_odds["totals_pt"] == kalshi["totals_pt"]][
-            "under"
-        ].median()
-
-        if kalshi["h_ml"] < (kh_ml_median - K_EDGE):
+        if kalshi["h_ml"] < (h_ml_sharp - EDGE):
             kalshi_place_order(
                 kalshi,
                 kalshi["h_ml_sid"],
@@ -444,7 +436,7 @@ def find_value(game_odds, kalshi_game_odds):
                 h_team,
                 "ML",
             )
-        if kalshi["a_ml"] < (ka_ml_median - K_EDGE):
+        if kalshi["a_ml"] < (a_ml_sharp - EDGE):
             kalshi_place_order(
                 kalshi,
                 kalshi["a_ml_sid"],
@@ -452,27 +444,24 @@ def find_value(game_odds, kalshi_game_odds):
                 a_team,
                 "ML",
             )
-        if kalshi["d_ml"] < (kd_ml_median - K_EDGE):
+        if kalshi["d_ml"] < (d_ml_sharp - EDGE):
             kalshi_place_order(
                 kalshi,
                 kalshi["d_ml_sid"],
                 round(kalshi["d_ml_raw"], 2),
-                "Draw",
+                f"{h_team}***Draw",
                 "ML",
             )
-        # TODO: Spreads, Totals
 
 
 def main():
     ACTIVE_SPORTS = get_active_sports()
 
     for sport in ACTIVE_SPORTS:
-        time.sleep(1)
+        time.sleep(0.7)
 
         GAME_ODDS = None
-        KALSHI_ODDS = None
-        GAME_ODDS = get_sport_odds(sport)
-        KALSHI_ODDS = get_kalshi_odds(sport)
+        GAME_ODDS = fetch_odds(sport)
 
         print(f"{sport}: {len(GAME_ODDS)} games")
         if GAME_ODDS is not None:
@@ -483,8 +472,8 @@ def main():
                     game_time = game["commence_time"]
                     _, live = convert_time(game_time)
                     if not live:
-                        odds = game_odds(game, False)
-                        find_value(odds, KALSHI_ODDS)
+                        odds = game_odds(game)
+                        find_value(odds)
     clean_duplicates()
 
 
