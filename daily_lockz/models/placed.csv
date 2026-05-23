@@ -1,20 +1,4 @@
 sport,team,type,time,date_placed,book
-baseball_kbo,KT Wiz,ML,2026-05-09T08:00:00Z,2026-05-08,fliff
-baseball_mlb,Los Angeles Dodgers,ML,2026-05-10T01:11:00Z,2026-05-08,fliff
-mma_mixed_martial_arts,Waldo Cortes-Acosta,ML,2026-05-10T02:15:00Z,2026-05-08,fliff
-tennis_wta_italian_open,Coco Gauff,ML,2026-05-09T09:00:00Z,2026-05-08,fliff
-tennis_wta_italian_open,Mirra Andreeva,ML,2026-05-09T15:00:00Z,2026-05-08,fliff
-soccer_mexico_ligamx,Pumas***Draw,ML,2026-05-11T01:15:00Z,2026-05-09,kalshi
-tennis_atp_italian_open,Alexander Zverev,ML,2026-05-10T11:00:00Z,2026-05-09,fliff
-soccer_usa_mls,Real Salt Lake***Draw,ML,2026-05-14T01:30:00Z,2026-05-10,kalshi
-basketball_wnba,Las Vegas Aces,ML,2026-05-14T00:00:00Z,2026-05-12,fliff
-basketball_wnba,Golden State Valkyries,ML,2026-05-14T02:00:00Z,2026-05-12,fliff
-baseball_kbo,Lotte Giants,ML,2026-05-14T09:30:00Z,2026-05-13,fliff
-soccer_saudi_arabia_pro_league,Al-Ettifaq,ML,2026-05-14T18:00:00Z,2026-05-13,kalshi
-soccer_usa_mls,Atlanta United FC,ML,2026-05-16T23:30:00Z,2026-05-13,kalshi
-soccer_usa_mls,Philadelphia Union,ML,2026-05-16T23:30:00Z,2026-05-13,kalshi
-soccer_usa_mls,St. Louis City SC,ML,2026-05-16T23:30:00Z,2026-05-13,kalshi
-soccer_usa_mls,San Jose Earthquakes***Draw,ML,2026-05-17T02:30:00Z,2026-05-13,kalshi
 basketball_nba,Cleveland Cavaliers,Under,2026-05-15T23:10:00Z,2026-05-14,fliff
 mma_mixed_martial_arts,Melquizael Costa,ML,2026-05-17T00:00:00Z,2026-05-14,fliff
 soccer_france_ligue_one,Paris FC,ML,2026-05-17T19:00:00Z,2026-05-14,kalshi
@@ -22,3 +6,17 @@ soccer_spain_segunda_division,CD Castellón***Draw,ML,2026-05-15T18:30:00Z,2026-
 baseball_kbo,Lotte Giants,ML,2026-05-16T08:00:00Z,2026-05-15,fliff
 baseball_kbo,Lotte Giants,Spread,2026-05-16T08:00:00Z,2026-05-15,fliff
 soccer_mexico_ligamx,Guadalajara***Draw,ML,2026-05-17T01:07:00Z,2026-05-15,kalshi
+baseball_mlb,Pittsburgh Pirates,ML,2026-05-17T17:36:00Z,2026-05-16,fliff
+basketball_nba,Oklahoma City Thunder,ML,2026-05-19T00:40:00Z,2026-05-17,fliff
+basketball_wnba,Phoenix Mercury,ML,2026-05-20T02:00:00Z,2026-05-18,fliff
+baseball_mlb,Chicago White Sox,Spread,2026-05-20T20:11:00Z,2026-05-19,fliff
+baseball_mlb,Pittsburgh Pirates,Spread,2026-05-20T23:46:00Z,2026-05-19,fliff
+basketball_wnba,Indiana Fever,ML,2026-05-20T23:00:00Z,2026-05-19,fliff
+basketball_wnba,Phoenix Mercury,ML,2026-05-22T02:00:00Z,2026-05-20,fliff
+soccer_belgium_first_div,KV Mechelen,ML,2026-05-21T18:30:00Z,2026-05-20,kalshi
+tennis_atp_hamburg_open,Camilo Ugo Carabelli,ML,2026-05-21T12:20:00Z,2026-05-20,fliff
+basketball_nba,Cleveland Cavaliers,ML,2026-05-24T00:10:00Z,2026-05-21,fliff
+basketball_wnba,Atlanta Dream,ML,2026-05-22T23:30:00Z,2026-05-21,fliff
+icehockey_nhl,Vegas Golden Knights,Spread,2026-05-23T00:00:00Z,2026-05-21,fliff
+soccer_chile_campeonato,Everton de Viña del Mar***Draw,ML,2026-05-22T19:00:00Z,2026-05-21,kalshi
+soccer_usa_mls,Philadelphia Union,ML,2026-05-24T23:00:00Z,2026-05-21,kalshi
