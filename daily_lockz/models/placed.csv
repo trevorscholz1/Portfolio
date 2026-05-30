@@ -1,22 +1,19 @@
 sport,team,type,time,date_placed,book
-basketball_nba,Cleveland Cavaliers,Under,2026-05-15T23:10:00Z,2026-05-14,fliff
-mma_mixed_martial_arts,Melquizael Costa,ML,2026-05-17T00:00:00Z,2026-05-14,fliff
-soccer_france_ligue_one,Paris FC,ML,2026-05-17T19:00:00Z,2026-05-14,kalshi
-soccer_spain_segunda_division,CD Castellón***Draw,ML,2026-05-15T18:30:00Z,2026-05-14,kalshi
-baseball_kbo,Lotte Giants,ML,2026-05-16T08:00:00Z,2026-05-15,fliff
-baseball_kbo,Lotte Giants,Spread,2026-05-16T08:00:00Z,2026-05-15,fliff
-soccer_mexico_ligamx,Guadalajara***Draw,ML,2026-05-17T01:07:00Z,2026-05-15,kalshi
-baseball_mlb,Pittsburgh Pirates,ML,2026-05-17T17:36:00Z,2026-05-16,fliff
-basketball_nba,Oklahoma City Thunder,ML,2026-05-19T00:40:00Z,2026-05-17,fliff
-basketball_wnba,Phoenix Mercury,ML,2026-05-20T02:00:00Z,2026-05-18,fliff
-baseball_mlb,Chicago White Sox,Spread,2026-05-20T20:11:00Z,2026-05-19,fliff
-baseball_mlb,Pittsburgh Pirates,Spread,2026-05-20T23:46:00Z,2026-05-19,fliff
-basketball_wnba,Indiana Fever,ML,2026-05-20T23:00:00Z,2026-05-19,fliff
-basketball_wnba,Phoenix Mercury,ML,2026-05-22T02:00:00Z,2026-05-20,fliff
-soccer_belgium_first_div,KV Mechelen,ML,2026-05-21T18:30:00Z,2026-05-20,kalshi
-tennis_atp_hamburg_open,Camilo Ugo Carabelli,ML,2026-05-21T12:20:00Z,2026-05-20,fliff
-basketball_nba,Cleveland Cavaliers,ML,2026-05-24T00:10:00Z,2026-05-21,fliff
-basketball_wnba,Atlanta Dream,ML,2026-05-22T23:30:00Z,2026-05-21,fliff
-icehockey_nhl,Vegas Golden Knights,Spread,2026-05-23T00:00:00Z,2026-05-21,fliff
-soccer_chile_campeonato,Everton de Viña del Mar***Draw,ML,2026-05-22T19:00:00Z,2026-05-21,kalshi
-soccer_usa_mls,Philadelphia Union,ML,2026-05-24T23:00:00Z,2026-05-21,kalshi
+soccer_mexico_ligamx,Pumas***Draw,ML,2026-05-25T01:00:00Z,2026-05-23,kalshi
+tennis_atp_french_open,Federico Cinà,ML,2026-05-24T13:00:00Z,2026-05-23,fliff
+tennis_atp_french_open,Novak Djokovic,ML,2026-05-24T16:30:00Z,2026-05-23,fliff
+basketball_wnba,Golden State Valkyries,ML,2026-05-26T02:10:00Z,2026-05-24,fliff
+basketball_nba,Oklahoma City Thunder,ML,2026-05-27T00:40:00Z,2026-05-25,fliff
+tennis_atp_french_open,Facundo Diaz Acosta,ML,2026-05-26T11:00:00Z,2026-05-25,fliff
+tennis_atp_french_open,Ben Shelton,ML,2026-05-28T09:00:00Z,2026-05-26,fliff
+baseball_kbo,Samsung Lions,ML,2026-05-29T09:30:00Z,2026-05-28,fliff
+baseball_ncaa,Oklahoma St Cowboys,ML,2026-05-29T18:00:00Z,2026-05-28,fliff
+baseball_ncaa,Cal Poly Mustangs,ML,2026-05-30T00:00:00Z,2026-05-28,fliff
+baseball_ncaa,Arizona St Sun Devils,ML,2026-05-30T01:00:00Z,2026-05-28,fliff
+mma_mixed_martial_arts,Angela Hill,ML,2026-05-30T09:15:00Z,2026-05-28,kalshi
+mma_mixed_martial_arts,Su Mudaerji,ML,2026-05-30T11:15:00Z,2026-05-28,fliff
+mma_mixed_martial_arts,Jake Matthews,ML,2026-05-30T11:45:00Z,2026-05-28,fliff
+mma_mixed_martial_arts,Cameron Smotherman,ML,2026-05-30T12:15:00Z,2026-05-28,kalshi
+tennis_atp_french_open,Novak Djokovic,ML,2026-05-29T13:30:00Z,2026-05-28,fliff
+basketball_nba,Oklahoma City Thunder,ML,2026-05-31T00:10:00Z,2026-05-29,fliff
+mma_mixed_martial_arts,Alex Perez,ML,2026-05-30T11:15:00Z,2026-05-29,fliff
