@@ -1,19 +1,12 @@
 sport,team,type,time,date_placed,book
-soccer_mexico_ligamx,Pumas***Draw,ML,2026-05-25T01:00:00Z,2026-05-23,kalshi
-tennis_atp_french_open,Federico Cinà,ML,2026-05-24T13:00:00Z,2026-05-23,fliff
-tennis_atp_french_open,Novak Djokovic,ML,2026-05-24T16:30:00Z,2026-05-23,fliff
-basketball_wnba,Golden State Valkyries,ML,2026-05-26T02:10:00Z,2026-05-24,fliff
-basketball_nba,Oklahoma City Thunder,ML,2026-05-27T00:40:00Z,2026-05-25,fliff
-tennis_atp_french_open,Facundo Diaz Acosta,ML,2026-05-26T11:00:00Z,2026-05-25,fliff
-tennis_atp_french_open,Ben Shelton,ML,2026-05-28T09:00:00Z,2026-05-26,fliff
-baseball_kbo,Samsung Lions,ML,2026-05-29T09:30:00Z,2026-05-28,fliff
-baseball_ncaa,Oklahoma St Cowboys,ML,2026-05-29T18:00:00Z,2026-05-28,fliff
-baseball_ncaa,Cal Poly Mustangs,ML,2026-05-30T00:00:00Z,2026-05-28,fliff
-baseball_ncaa,Arizona St Sun Devils,ML,2026-05-30T01:00:00Z,2026-05-28,fliff
-mma_mixed_martial_arts,Angela Hill,ML,2026-05-30T09:15:00Z,2026-05-28,kalshi
-mma_mixed_martial_arts,Su Mudaerji,ML,2026-05-30T11:15:00Z,2026-05-28,fliff
-mma_mixed_martial_arts,Jake Matthews,ML,2026-05-30T11:45:00Z,2026-05-28,fliff
-mma_mixed_martial_arts,Cameron Smotherman,ML,2026-05-30T12:15:00Z,2026-05-28,kalshi
-tennis_atp_french_open,Novak Djokovic,ML,2026-05-29T13:30:00Z,2026-05-28,fliff
 basketball_nba,Oklahoma City Thunder,ML,2026-05-31T00:10:00Z,2026-05-29,fliff
 mma_mixed_martial_arts,Alex Perez,ML,2026-05-30T11:15:00Z,2026-05-29,fliff
+basketball_wnba,Dallas Wings,ML,2026-06-02T00:00:00Z,2026-05-31,fliff
+basketball_wnba,Golden State Valkyries,ML,2026-06-03T02:00:00Z,2026-06-01,fliff
+basketball_wnba,New York Liberty,Under,2026-06-04T00:00:00Z,2026-06-02,fliff
+tennis_atp_french_open,Alexander Zverev,ML,2026-06-05T12:30:00Z,2026-06-02,fliff
+mma_mixed_martial_arts,Edmen Shahbazyan,ML,2026-06-06T21:00:00Z,2026-06-03,kalshi
+basketball_nba,San Antonio Spurs,ML,2026-06-06T00:40:00Z,2026-06-04,fliff
+mma_mixed_martial_arts,Edmen Shahbazyan,ML,2026-06-06T21:00:00Z,2026-06-04,fliff
+basketball_wnba,Minnesota Lynx,ML,2026-06-06T17:00:00Z,2026-06-05,fliff
+basketball_wnba,New York Liberty,ML,2026-06-07T00:00:00Z,2026-06-05,fliff
