@@ -1,12 +1,14 @@
 sport,team,type,time,date_placed,book
-basketball_nba,Oklahoma City Thunder,ML,2026-05-31T00:10:00Z,2026-05-29,fliff
-mma_mixed_martial_arts,Alex Perez,ML,2026-05-30T11:15:00Z,2026-05-29,fliff
-basketball_wnba,Dallas Wings,ML,2026-06-02T00:00:00Z,2026-05-31,fliff
-basketball_wnba,Golden State Valkyries,ML,2026-06-03T02:00:00Z,2026-06-01,fliff
-basketball_wnba,New York Liberty,Under,2026-06-04T00:00:00Z,2026-06-02,fliff
-tennis_atp_french_open,Alexander Zverev,ML,2026-06-05T12:30:00Z,2026-06-02,fliff
-mma_mixed_martial_arts,Edmen Shahbazyan,ML,2026-06-06T21:00:00Z,2026-06-03,kalshi
-basketball_nba,San Antonio Spurs,ML,2026-06-06T00:40:00Z,2026-06-04,fliff
-mma_mixed_martial_arts,Edmen Shahbazyan,ML,2026-06-06T21:00:00Z,2026-06-04,fliff
 basketball_wnba,Minnesota Lynx,ML,2026-06-06T17:00:00Z,2026-06-05,fliff
 basketball_wnba,New York Liberty,ML,2026-06-07T00:00:00Z,2026-06-05,fliff
+basketball_nba,New York Knicks,ML,2026-06-09T00:40:00Z,2026-06-06,fliff
+mma_mixed_martial_arts,Josh Hokit,ML,2026-06-14T22:50:00Z,2026-06-07,fliff
+basketball_wnba,Connecticut Sun,ML,2026-06-10T23:00:00Z,2026-06-09,kalshi
+basketball_wnba,Seattle Storm,ML,2026-06-11T02:00:00Z,2026-06-09,kalshi
+mma_mixed_martial_arts,Justin Gaethje,ML,2026-06-15T03:15:00Z,2026-06-09,fliff
+baseball_npb,Tokyo Yakult Swallows,Spread,2026-06-11T09:00:00Z,2026-06-10,fliff
+baseball_npb,Yomiuri Giants,Spread,2026-06-11T09:00:00Z,2026-06-10,fliff
+basketball_wnba,Phoenix Mercury,ML,2026-06-12T01:10:00Z,2026-06-10,kalshi
+baseball_ncaa,Oklahoma Sooners,ML,2026-06-13T19:00:00Z,2026-06-12,kalshi
+baseball_ncaa,Texas Longhorns,ML,2026-06-14T00:00:00Z,2026-06-12,kalshi
+basketball_wnba,Connecticut Sun,ML,2026-06-13T22:00:00Z,2026-06-12,kalshi
