@@ -1,14 +1,24 @@
 sport,team,type,time,date_placed,book
-basketball_wnba,Minnesota Lynx,ML,2026-06-06T17:00:00Z,2026-06-05,fliff
-basketball_wnba,New York Liberty,ML,2026-06-07T00:00:00Z,2026-06-05,fliff
-basketball_nba,New York Knicks,ML,2026-06-09T00:40:00Z,2026-06-06,fliff
-mma_mixed_martial_arts,Josh Hokit,ML,2026-06-14T22:50:00Z,2026-06-07,fliff
-basketball_wnba,Connecticut Sun,ML,2026-06-10T23:00:00Z,2026-06-09,kalshi
-basketball_wnba,Seattle Storm,ML,2026-06-11T02:00:00Z,2026-06-09,kalshi
-mma_mixed_martial_arts,Justin Gaethje,ML,2026-06-15T03:15:00Z,2026-06-09,fliff
-baseball_npb,Tokyo Yakult Swallows,Spread,2026-06-11T09:00:00Z,2026-06-10,fliff
-baseball_npb,Yomiuri Giants,Spread,2026-06-11T09:00:00Z,2026-06-10,fliff
-basketball_wnba,Phoenix Mercury,ML,2026-06-12T01:10:00Z,2026-06-10,kalshi
 baseball_ncaa,Oklahoma Sooners,ML,2026-06-13T19:00:00Z,2026-06-12,kalshi
 baseball_ncaa,Texas Longhorns,ML,2026-06-14T00:00:00Z,2026-06-12,kalshi
 basketball_wnba,Connecticut Sun,ML,2026-06-13T22:00:00Z,2026-06-12,kalshi
+baseball_ncaa,Ole Miss Rebels,ML,2026-06-14T18:00:00Z,2026-06-13,kalshi
+baseball_ncaa,North Carolina Tar Heels,ML,2026-06-14T23:00:00Z,2026-06-13,kalshi
+baseball_ncaa,Texas Longhorns,ML,2026-06-15T18:00:00Z,2026-06-14,kalshi
+baseball_ncaa,Georgia Bulldogs,ML,2026-06-15T23:00:00Z,2026-06-14,kalshi
+soccer_fifa_world_cup,Ecuador,Spread,2026-06-21T00:00:00Z,2026-06-14,fliff
+baseball_ncaa,West Virginia Mountaineers,ML,2026-06-16T18:00:00Z,2026-06-15,kalshi
+mma_mixed_martial_arts,Andre Lima,ML,2026-06-20T21:00:00Z,2026-06-15,kalshi
+mma_mixed_martial_arts,Gaston Bolanos,ML,2026-06-20T21:00:00Z,2026-06-15,kalshi
+soccer_fifa_world_cup,Spain***Draw,ML,2026-06-21T16:00:00Z,2026-06-15,kalshi
+basketball_wnba,Chicago Sky,ML,2026-06-18T00:00:00Z,2026-06-16,kalshi
+basketball_wnba,Los Angeles Sparks,ML,2026-06-18T02:00:00Z,2026-06-16,kalshi
+mma_mixed_martial_arts,Leon Shahbazyan,ML,2026-06-20T21:00:00Z,2026-06-16,kalshi
+baseball_mlb,Boston Red Sox,Over,2026-06-18T17:36:00Z,2026-06-17,fliff
+soccer_fifa_world_cup,Bosnia & Herzegovina,Spread,2026-06-18T19:00:00Z,2026-06-17,fliff
+soccer_fifa_world_cup,Scotland,ML,2026-06-24T22:00:00Z,2026-06-17,fliff
+baseball_ncaa,Oklahoma Sooners,ML,2026-06-21T00:00:00Z,2026-06-18,fliff
+soccer_fifa_world_cup,Ecuador***Draw,ML,2026-06-25T20:00:00Z,2026-06-18,kalshi
+basketball_wnba,Atlanta Dream,Under,2026-06-20T17:00:00Z,2026-06-19,fliff
+soccer_fifa_world_cup,Uruguay,ML,2026-06-21T22:00:00Z,2026-06-19,fliff
+soccer_fifa_world_cup,Haiti,Spread,2026-06-24T22:00:00Z,2026-06-19,fliff
