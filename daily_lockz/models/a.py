@@ -10,9 +10,9 @@ import requests
 
 load_dotenv()
 KALSHI_API_KEY_ID = os.getenv("KALSHI_API_KEY")
-SPORTS_API_KEY_ID = os.getenv("SPORTS_API_KEY")
-PRIVATE_KEY_PATH = os.getenv("KALSHI_KEY_PATH")
-BASE_URL = "https://api.elections.kalshi.com"
+SPORTS_API_KEY_ID = os.getenv("SGO_API_KEY")
+PRIVATE_KEY_PATH = os.getenv("KALSHI_KEY_PATH_TEST")
+BASE_URL = "https://external-api.demo.kalshi.co/trade-api/v2"
 
 
 def load_private_key(key_path):
@@ -59,7 +59,7 @@ def convert(odds):
 
 
 def get_kalshi_prices(league_id):
-    url = f"https://api.elections.kalshi.com/trade-api/v2/events?status=open&with_nested_markets=True&series_ticker={league_id}"
+    url = f"{BASE_URL}/events?status=open&with_nested_markets=True&series_ticker={league_id}"
     response = requests.get(url)
     data = response.json()["events"]
 
@@ -86,26 +86,30 @@ def get_kalshi_prices(league_id):
                     "team0_name": item["markets"][0]["yes_sub_title"],
                     "team0_side": (
                         "YES"
-                        if item["markets"][0]["yes_ask"] <= item["markets"][1]["no_ask"]
+                        if item["markets"][0]["yes_ask_dollars"]
+                        <= item["markets"][1]["no_ask_dollars"]
                         else "NO"
                     ),
                     "team0_price": (
-                        (item["markets"][0]["yes_ask"] + 2)
-                        if item["markets"][0]["yes_ask"] <= item["markets"][1]["no_ask"]
-                        else (item["markets"][1]["no_ask"] + 2)
+                        (item["markets"][0]["yes_ask_dollars"] + 2)
+                        if item["markets"][0]["yes_ask_dollars"]
+                        <= item["markets"][1]["no_ask_dollars"]
+                        else (item["markets"][1]["no_ask_dollars"] + 2)
                     ),
                     "team1_ticker": item["markets"][1]["ticker"],
                     "team1_code": item["markets"][1]["ticker"].split("-")[-1],
                     "team1_name": item["markets"][1]["yes_sub_title"],
                     "team1_side": (
                         "YES"
-                        if item["markets"][1]["yes_ask"] <= item["markets"][0]["no_ask"]
+                        if item["markets"][1]["yes_ask_dollars"]
+                        <= item["markets"][0]["no_ask_dollars"]
                         else "NO"
                     ),
                     "team1_price": (
-                        (item["markets"][1]["yes_ask"] + 2)
-                        if item["markets"][1]["yes_ask"] <= item["markets"][0]["no_ask"]
-                        else (item["markets"][0]["no_ask"] + 2)
+                        (item["markets"][1]["yes_ask_dollars"] + 2)
+                        if item["markets"][1]["yes_ask_dollars"]
+                        <= item["markets"][0]["no_ask_dollars"]
+                        else (item["markets"][0]["no_ask_dollars"] + 2)
                     ),
                 }
             ]
@@ -115,7 +119,7 @@ def get_kalshi_prices(league_id):
 
 
 def get_sports_odds(league_id):
-    url = f"https://api.sportsgameodds.com/v2/events?leagueID={league_id}&limit=200&oddsAvailable=true&oddID=points-home-game-ml-home&includeOpposingOdds=true&&started=false"
+    url = f"https://api.sportsgameodds.com/v2/events?leagueID={league_id}&limit=200&oddsAvailable=true&oddID=points-home-game-ml-home&includeOpposingOdds=true&started=false"
     headers = {"X-Api-Key": SPORTS_API_KEY_ID}
     response = requests.get(url, headers=headers)
     return response.json()
@@ -199,7 +203,7 @@ def main():
 
             print(fair_home_odds, home_price)
             print(fair_away_odds, away_price)
-            if (home_price / 100) < fair_home_odds:
+            if home_price < fair_home_odds:
                 side = game[f"team{home_num}_side"]
                 bet = pd.DataFrame(
                     [
@@ -218,7 +222,7 @@ def main():
                     [bets, bet],
                     ignore_index=True,
                 )
-            if (away_price / 100) < fair_away_odds:
+            if away_price < fair_away_odds:
                 side = game[f"team{away_num}_side"]
                 bet = pd.DataFrame(
                     [
@@ -272,11 +276,11 @@ def main():
             "ticker": row["ticker"],
             "side": row["side"].lower(),
             "action": "buy",
-            "count": 3,
+            "count": 1,
             "type": "limit",
             (row["side"].lower() + "_price"): row["price"],
             "time_in_force": "good_till_canceled",
-            "buy_max_cost": (row["price"] * 3),
+            "buy_max_cost": (row["price"] * 1),
         }
 
         response = post(

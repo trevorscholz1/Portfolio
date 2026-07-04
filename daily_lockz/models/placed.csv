@@ -1,21 +1,6 @@
 sport,team,type,time,date_placed,book
-basketball_wnba,Atlanta Dream,Under,2026-06-20T17:00:00Z,2026-06-19,fliff
-soccer_fifa_world_cup,Uruguay,ML,2026-06-21T22:00:00Z,2026-06-19,fliff
-soccer_fifa_world_cup,Haiti,Spread,2026-06-24T22:00:00Z,2026-06-19,fliff
-soccer_fifa_world_cup,Scotland,ML,2026-06-24T22:00:00Z,2026-06-20,kalshi
-soccer_fifa_world_cup,Germany,ML,2026-06-25T20:00:00Z,2026-06-20,kalshi
-basketball_wnba,Indiana Fever,Over,2026-06-23T00:10:00Z,2026-06-21,fliff
-basketball_wnba,Phoenix Mercury,ML,2026-06-23T00:10:00Z,2026-06-21,kalshi
-soccer_fifa_world_cup,Spain,Spread,2026-06-27T00:00:00Z,2026-06-21,fliff
-mma_mixed_martial_arts,Charles Johnson,ML,2026-06-27T12:00:00Z,2026-06-22,kalshi
-mma_mixed_martial_arts,Matheus Camilo,ML,2026-06-27T12:00:00Z,2026-06-22,kalshi
-soccer_fifa_world_cup,Jordan***Draw,ML,2026-06-28T02:00:00Z,2026-06-22,kalshi
-basketball_wnba,Chicago Sky,ML,2026-06-25T00:10:00Z,2026-06-23,fliff
-mma_mixed_martial_arts,Ikram Aliskerov,ML,2026-06-27T12:00:00Z,2026-06-23,kalshi
-soccer_fifa_world_cup,Paraguay,Spread,2026-06-26T02:00:00Z,2026-06-23,fliff
-soccer_fifa_world_cup,Algeria***Draw,ML,2026-06-28T02:00:00Z,2026-06-23,fliff
-basketball_wnba,Toronto Tempo,ML,2026-06-25T23:00:00Z,2026-06-24,fliff
-soccer_fifa_world_cup,Cape Verde,Spread,2026-06-27T00:00:00Z,2026-06-24,fliff
 basketball_wnba,Toronto Tempo,ML,2026-06-27T18:00:00Z,2026-06-26,fliff
 basketball_wnba,Toronto Tempo,Spread,2026-06-27T18:00:00Z,2026-06-26,fliff
 mma_mixed_martial_arts,Michal Oleksiejczuk,ML,2026-06-27T16:15:00Z,2026-06-26,fliff
+basketball_wnba,New York Liberty,ML,2026-07-01T00:00:00Z,2026-06-29,fliff
+tennis_atp_wimbledon,Rafael Jodar,ML,2026-07-01T15:30:00Z,2026-06-30,fliff
