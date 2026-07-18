@@ -1,7 +1,6 @@
 sport,team,type,time,date_placed,book
-baseball_mlb,New York Yankees,Spread,2026-07-07T22:41:00Z,2026-07-06,fliff
-baseball_mlb,Cleveland Guardians,Spread,2026-07-08T23:41:00Z,2026-07-07,fliff
-basketball_wnba,Los Angeles Sparks,ML,2026-07-09T02:00:00Z,2026-07-07,kalshi
 mma_mixed_martial_arts,King Green,ML,2026-07-12T01:15:00Z,2026-07-10,fliff
 mma_mixed_martial_arts,Max Holloway,ML,2026-07-12T03:20:00Z,2026-07-10,fliff
 soccer_usa_mls,Seattle Sounders FC***Draw,ML,2026-07-17T02:30:00Z,2026-07-10,kalshi
+baseball_mlb,National League,ML,2026-07-15T00:01:00Z,2026-07-12,kalshi
+basketball_wnba,Dallas Wings,ML,2026-07-17T01:00:00Z,2026-07-15,fliff
