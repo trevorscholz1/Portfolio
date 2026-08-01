@@ -1,12 +1,3 @@
 sport,team,type,time,date_placed,book
-soccer_brazil_campeonato,Chapecoense***Draw,ML,2026-07-23T00:30:00Z,2026-07-19,kalshi
-soccer_mexico_ligamx,Toluca***Draw,ML,2026-07-22T03:05:00Z,2026-07-19,kalshi
-baseball_mlb,Arizona Diamondbacks,ML,2026-07-21T01:41:00Z,2026-07-20,fliff
-baseball_mlb,Arizona Diamondbacks,Over,2026-07-21T01:41:00Z,2026-07-20,fliff
-mma_mixed_martial_arts,Stephen Erceg,ML,2026-07-25T09:00:00Z,2026-07-20,kalshi
-soccer_mexico_ligamx,Tijuana***Draw,ML,2026-07-25T03:00:00Z,2026-07-20,kalshi
-soccer_mexico_ligamx,Atlante FC***Draw,ML,2026-07-25T03:00:00Z,2026-07-21,kalshi
-soccer_mexico_ligamx,Guadalajara***Draw,ML,2026-07-25T23:07:00Z,2026-07-21,kalshi
-soccer_mexico_ligamx,Pachuca***Draw,ML,2026-07-27T01:00:00Z,2026-07-21,kalshi
 baseball_npb,Hokkaido Nippon-Ham Fighters,Spread,2026-07-25T05:00:00Z,2026-07-24,fliff
 soccer_usa_mls,Vancouver Whitecaps FC,ML,2026-07-26T00:30:00Z,2026-07-24,fliff
