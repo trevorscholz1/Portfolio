@@ -2,7 +2,7 @@ import base64
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives.asymmetric import padding
 from cryptography.hazmat.primitives import serialization, hashes
-import datetime
+from datetime import datetime as dt, timedelta, timezone
 from dotenv import load_dotenv
 import os
 import pandas as pd
@@ -11,9 +11,13 @@ from urllib.parse import urlparse
 
 load_dotenv()
 KALSHI_API_KEY_ID = os.getenv("KALSHI_API_KEY")
-SPORTS_API_KEY_ID = os.getenv("SGO_DEMO_KEY")
+SPORTS_API_KEY_ID = os.getenv("SGO_API_KEY")
 PRIVATE_KEY_PATH = os.getenv("KALSHI_KEY_PATH")
 BASE_URL = "https://external-api.kalshi.com/trade-api/v2"
+
+TIME_LIMIT = (
+    dt.now(timezone.utc).date() + timedelta(days=1)
+).isoformat() + "T00:00:00Z"
 
 
 def load_private_key(key_path):
@@ -37,7 +41,7 @@ def create_signature(private_key, timestamp, method, path):
 
 
 def post(private_key, api_key_id, path, payload, base_url=BASE_URL):
-    timestamp = str(int(datetime.datetime.now().timestamp() * 1000))
+    timestamp = str(int(dt.now().timestamp() * 1000))
     sign_path = urlparse(base_url + path).path
     signature = create_signature(private_key, timestamp, "POST", sign_path)
 
@@ -104,7 +108,7 @@ def get_kalshi_prices(league_id):
 
 
 def get_sports_odds(league_id):
-    url = f"https://api.sportsgameodds.com/v2/events?leagueID={league_id}&startsBefore=2026-08-01T00:00:00Z&oddsAvailable=true&oddID=points-home-game-ml-home&includeOpposingOdds=true&started=false"
+    url = f"https://api.sportsgameodds.com/v2/events?leagueID={league_id}&startsBefore={TIME_LIMIT}&oddsAvailable=true&oddID=points-home-game-ml-home&includeOpposingOdds=true&started=false"
     headers = {"X-Api-Key": SPORTS_API_KEY_ID}
     response = requests.get(url, headers=headers)
     return response.json()
@@ -232,7 +236,7 @@ def main():
             "ticker": row["ticker"],
             "side": "bid",
             "count": "1",
-            "price": f"{row["price"]}",
+            "price": row["price"],
             "time_in_force": "good_till_canceled",
             "self_trade_prevention_type": "taker_at_cross",
         }
