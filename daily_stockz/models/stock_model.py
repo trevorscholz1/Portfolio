@@ -128,11 +128,11 @@ def find_crypto(html):
 
 
 async def main():
-    s_html = await get_html(
-        "https://finance.yahoo.com/markets/stocks/most-active/?start=0&count=100",
-        ".tableContainer",
-    )
-    find_stocks(s_html)
+    # s_html = await get_html(
+    #     "https://finance.yahoo.com/markets/stocks/most-active/?start=0&count=100",
+    #     ".tableContainer",
+    # )
+    # find_stocks(s_html)
 
     c_html = await get_html(
         "https://finance.yahoo.com/markets/crypto/most-active/?start=0&count=100",

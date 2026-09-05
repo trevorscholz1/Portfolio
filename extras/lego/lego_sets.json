@@ -12433,7 +12433,7 @@
     "name": "Mayor Manor",
     "year": 2026,
     "theme_id": 721,
-    "num_parts": 0,
+    "num_parts": 1421,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/11383-1/177489.jpg",
     "set_url": "https://rebrickable.com/sets/11383-1/mayor-manor/"
   },
@@ -12451,7 +12451,7 @@
     "name": "Star Trek: U.S.S. Enterprise NCC-1701 Bridge",
     "year": 2026,
     "theme_id": 721,
-    "num_parts": 0,
+    "num_parts": 1701,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/11385-1/178322.jpg",
     "set_url": "https://rebrickable.com/sets/11385-1/star-trek-uss-enterprise-ncc-1701-bridge/"
   },
@@ -12460,7 +12460,7 @@
     "name": "SpongeBob SquarePants: Bikini Bottom",
     "year": 2026,
     "theme_id": 721,
-    "num_parts": 0,
+    "num_parts": 1794,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/11386-1/177653.jpg",
     "set_url": "https://rebrickable.com/sets/11386-1/spongebob-squarepants-bikini-bottom/"
   },
@@ -13723,15 +13723,6 @@
     "num_parts": 1,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/1200-2/4971.jpg",
     "set_url": "https://rebrickable.com/sets/1200-2/lego-town-plan-board-small-plastic/"
-  },
-  {
-    "set_num": "12009-1",
-    "name": "Ninjago: Destiny's Bounty Adventures",
-    "year": 2026,
-    "theme_id": 741,
-    "num_parts": 125,
-    "set_img_url": "https://cdn.rebrickable.com/media/sets/12009-1/176500.jpg",
-    "set_url": "https://rebrickable.com/sets/12009-1/ninjago-destinys-bounty-adventures/"
   },
   {
     "set_num": "1200M-1",
@@ -32202,6 +32193,15 @@
     "set_url": "https://rebrickable.com/sets/2137-1/swamp-boat/"
   },
   {
+    "set_num": "21371-1",
+    "name": "Wallace & Gromit",
+    "year": 2026,
+    "theme_id": 576,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/21371-1/180474.jpg",
+    "set_url": "https://rebrickable.com/sets/21371-1/wallace-gromit/"
+  },
+  {
     "set_num": "21372-1",
     "name": "La Catrina",
     "year": 2026,
@@ -47900,7 +47900,7 @@
   {
     "set_num": "31041-1",
     "name": "Construction Vehicles",
-    "year": 2016,
+    "year": 2015,
     "theme_id": 672,
     "num_parts": 64,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/31041-1/8722.jpg",
@@ -67297,7 +67297,7 @@
     "name": "SpongeBob SquarePants Figure",
     "year": 2026,
     "theme_id": 610,
-    "num_parts": 0,
+    "num_parts": 72,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40858-1/177645.jpg",
     "set_url": "https://rebrickable.com/sets/40858-1/spongebob-squarepants-figure/"
   },
@@ -67306,7 +67306,7 @@
     "name": "Golden Age Superman and Batman Figures",
     "year": 2026,
     "theme_id": 610,
-    "num_parts": 0,
+    "num_parts": 218,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40859-1/179179.jpg",
     "set_url": "https://rebrickable.com/sets/40859-1/golden-age-superman-and-batman-figures/"
   },
@@ -67338,6 +67338,15 @@
     "set_url": "https://rebrickable.com/sets/40861-1/sulley-mike-and-boo-figures/"
   },
   {
+    "set_num": "40862-1",
+    "name": "Holiday Ornament Selection 2",
+    "year": 2026,
+    "theme_id": 227,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/40862-1/180546.jpg",
+    "set_url": "https://rebrickable.com/sets/40862-1/holiday-ornament-selection-2/"
+  },
+  {
     "set_num": "40863-1",
     "name": "Easter Egg Basket",
     "year": 2026,
@@ -67354,6 +67363,24 @@
     "num_parts": 386,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40864-1/163062.jpg",
     "set_url": "https://rebrickable.com/sets/40864-1/fortune-master/"
+  },
+  {
+    "set_num": "40865-1",
+    "name": "Buddy the Elf",
+    "year": 2026,
+    "theme_id": 227,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/40865-1/180558.jpg",
+    "set_url": "https://rebrickable.com/sets/40865-1/buddy-the-elf/"
+  },
+  {
+    "set_num": "40866-1",
+    "name": "Santa's Holiday Sleigh Adventure",
+    "year": 2026,
+    "theme_id": 227,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/40866-1/180563.jpg",
+    "set_url": "https://rebrickable.com/sets/40866-1/santas-holiday-sleigh-adventure/"
   },
   {
     "set_num": "40867-1",
@@ -67408,6 +67435,24 @@
     "num_parts": 286,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40873-1/177060.jpg",
     "set_url": "https://rebrickable.com/sets/40873-1/colorful-lantern/"
+  },
+  {
+    "set_num": "40874-1",
+    "name": "Santa's Holiday Countdown",
+    "year": 2026,
+    "theme_id": 227,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/40874-1/180574.jpg",
+    "set_url": "https://rebrickable.com/sets/40874-1/santas-holiday-countdown/"
+  },
+  {
+    "set_num": "40875-1",
+    "name": "Up-Scaled Mrs. Claus Minifigure",
+    "year": 2026,
+    "theme_id": 227,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/40875-1/180584.jpg",
+    "set_url": "https://rebrickable.com/sets/40875-1/up-scaled-mrs-claus-minifigure/"
   },
   {
     "set_num": "40878-1",
@@ -67585,7 +67630,7 @@
     "name": "Ministry Munchies & The Daily Prophet Stands",
     "year": 2026,
     "theme_id": 246,
-    "num_parts": 0,
+    "num_parts": 150,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40901-1/179626.jpg",
     "set_url": "https://rebrickable.com/sets/40901-1/ministry-munchies-the-daily-prophet-stands/"
   },
@@ -67711,7 +67756,7 @@
     "name": "Gremlins Gizmo and Stripe Figures",
     "year": 2026,
     "theme_id": 610,
-    "num_parts": 0,
+    "num_parts": 230,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40919-1/179192.jpg",
     "set_url": "https://rebrickable.com/sets/40919-1/gremlins-gizmo-and-stripe-figures/"
   },
@@ -68017,7 +68062,7 @@
     "name": "Mini Hogwarts Castle",
     "year": 2026,
     "theme_id": 246,
-    "num_parts": 0,
+    "num_parts": 701,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40975-1/179064.jpg",
     "set_url": "https://rebrickable.com/sets/40975-1/mini-hogwarts-castle/"
   },
@@ -79024,7 +79069,7 @@
     "name": "Friends Advent Calendar 2026",
     "year": 2026,
     "theme_id": 216,
-    "num_parts": 0,
+    "num_parts": 210,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/42698-1/173461.jpg",
     "set_url": "https://rebrickable.com/sets/42698-1/friends-advent-calendar-2026/"
   },
@@ -79879,7 +79924,7 @@
     "name": "Ayrton Senna Helmet",
     "year": 2026,
     "theme_id": 787,
-    "num_parts": 0,
+    "num_parts": 931,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/43024-1/179745.jpg",
     "set_url": "https://rebrickable.com/sets/43024-1/ayrton-senna-helmet/"
   },
@@ -79897,7 +79942,7 @@
     "name": "Nike Air Force 1 x LEGO Set",
     "year": 2026,
     "theme_id": 787,
-    "num_parts": 0,
+    "num_parts": 1093,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/43026-1/179636.jpg",
     "set_url": "https://rebrickable.com/sets/43026-1/nike-air-force-1-x-lego-set/"
   },
@@ -81544,7 +81589,7 @@
     "name": "Disney Princess Advent Calendar 2026",
     "year": 2026,
     "theme_id": 780,
-    "num_parts": 0,
+    "num_parts": 292,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/43298-1/171835.jpg",
     "set_url": "https://rebrickable.com/sets/43298-1/disney-princess-advent-calendar-2026/"
   },
@@ -84766,7 +84811,7 @@
     "name": "Computer Science & AI Kit K-2",
     "year": 2026,
     "theme_id": 507,
-    "num_parts": 0,
+    "num_parts": 276,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/45520-1/166816.jpg",
     "set_url": "https://rebrickable.com/sets/45520-1/computer-science-ai-kit-k-2/"
   },
@@ -109805,7 +109850,7 @@
     "year": 2025,
     "theme_id": 741,
     "num_parts": 0,
-    "set_img_url": "https://cdn.rebrickable.com/media/sets/5010360-1/168426.jpg",
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/5010360-1/170595.jpg",
     "set_url": "https://rebrickable.com/sets/5010360-1/recreate-activity-cards-pets/"
   },
   {
@@ -110403,6 +110448,15 @@
     "set_url": "https://rebrickable.com/sets/5010929-1/unicorn-girl-tote/"
   },
   {
+    "set_num": "5011029-1",
+    "name": "Ninjago: Destiny's Bounty Adventures",
+    "year": 2026,
+    "theme_id": 741,
+    "num_parts": 125,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/5011029-1/176500.jpg",
+    "set_url": "https://rebrickable.com/sets/5011029-1/ninjago-destinys-bounty-adventures/"
+  },
+  {
     "set_num": "5011065-1",
     "name": "Space Arcade Poster",
     "year": 2026,
@@ -110419,6 +110473,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/5011072-1/179673.jpg",
     "set_url": "https://rebrickable.com/sets/5011072-1/ministry-of-magic-phone-booth/"
+  },
+  {
+    "set_num": "5011093-1",
+    "name": "LEGO Harry Potter 25th Anniversary Holiday Baubles",
+    "year": 2026,
+    "theme_id": 738,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/5011093-1/180299.jpg",
+    "set_url": "https://rebrickable.com/sets/5011093-1/lego-harry-potter-25th-anniversary-holiday-baubles/"
   },
   {
     "set_num": "5011-1",
@@ -131203,12 +131266,12 @@
   },
   {
     "set_num": "60337-1",
-    "name": "Passenger Express Train",
+    "name": "Express Passenger Train",
     "year": 2022,
     "theme_id": 66,
     "num_parts": 764,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/60337-1/101607.jpg",
-    "set_url": "https://rebrickable.com/sets/60337-1/passenger-express-train/"
+    "set_url": "https://rebrickable.com/sets/60337-1/express-passenger-train/"
   },
   {
     "set_num": "60338-1",
@@ -132544,12 +132607,12 @@
   },
   {
     "set_num": "60470-1",
-    "name": "Explorers' Arctic Polar Express Train",
+    "name": "Explorer Train",
     "year": 2025,
     "theme_id": 65,
     "num_parts": 1525,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/60470-1/155299.jpg",
-    "set_url": "https://rebrickable.com/sets/60470-1/explorers-arctic-polar-express-train/"
+    "set_url": "https://rebrickable.com/sets/60470-1/explorer-train/"
   },
   {
     "set_num": "6047-1",
@@ -132916,7 +132979,7 @@
     "name": "City Advent Calendar 2026",
     "year": 2026,
     "theme_id": 208,
-    "num_parts": 0,
+    "num_parts": 262,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/60510-1/171840.jpg",
     "set_url": "https://rebrickable.com/sets/60510-1/city-advent-calendar-2026/"
   },
@@ -134896,7 +134959,7 @@
     "name": "Stormer XL",
     "year": 2012,
     "theme_id": 401,
-    "num_parts": 90,
+    "num_parts": 89,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6230-1/46125.jpg",
     "set_url": "https://rebrickable.com/sets/6230-1/stormer-xl/"
   },
@@ -147537,6 +147600,15 @@
     "set_url": "https://rebrickable.com/sets/66687-1/friends-value-pack/"
   },
   {
+    "set_num": "6668941-1",
+    "name": "Trophy",
+    "year": 2026,
+    "theme_id": 776,
+    "num_parts": 41,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6668941-1/180331.jpg",
+    "set_url": "https://rebrickable.com/sets/6668941-1/trophy/"
+  },
+  {
     "set_num": "6669-1",
     "name": "Diesel Daredevil",
     "year": 1991,
@@ -148129,6 +148201,24 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/66804-1/158781.jpg",
     "set_url": "https://rebrickable.com/sets/66804-1/star-wars-the-clone-wars-the-mandalorian-gift-set/"
+  },
+  {
+    "set_num": "6680480-1",
+    "name": "Jolly Roger Mosaic",
+    "year": 2026,
+    "theme_id": 775,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6680480-1/180332.jpg",
+    "set_url": "https://rebrickable.com/sets/6680480-1/jolly-roger-mosaic/"
+  },
+  {
+    "set_num": "6680481-1",
+    "name": "Baroque Works Mosaic",
+    "year": 2026,
+    "theme_id": 775,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6680481-1/180333.jpg",
+    "set_url": "https://rebrickable.com/sets/6680481-1/baroque-works-mosaic/"
   },
   {
     "set_num": "66805-1",
@@ -168516,6 +168606,15 @@
     "set_url": "https://rebrickable.com/sets/722674127455-1/brawls-ps4/"
   },
   {
+    "set_num": "72306-1",
+    "name": "PlayStation",
+    "year": 2026,
+    "theme_id": 301,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/72306-1/180834.jpg",
+    "set_url": "https://rebrickable.com/sets/72306-1/playstation/"
+  },
+  {
     "set_num": "723-1",
     "name": "Diesel Locomotive",
     "year": 1970,
@@ -174721,7 +174820,7 @@
     "name": "Star Wars Advent Calendar 2026",
     "year": 2026,
     "theme_id": 209,
-    "num_parts": 0,
+    "num_parts": 290,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/75456-1/171855.jpg",
     "set_url": "https://rebrickable.com/sets/75456-1/star-wars-advent-calendar-2026/"
   },
@@ -180031,7 +180130,7 @@
     "name": "Super Heroes Marvel Advent Calendar 2026",
     "year": 2026,
     "theme_id": 751,
-    "num_parts": 0,
+    "num_parts": 316,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/76340-1/171859.jpg",
     "set_url": "https://rebrickable.com/sets/76340-1/super-heroes-marvel-advent-calendar-2026/"
   },
@@ -180085,7 +180184,7 @@
     "name": "Doctor Doom Bust",
     "year": 2026,
     "theme_id": 702,
-    "num_parts": 0,
+    "num_parts": 380,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/76345-1/178706.jpg",
     "set_url": "https://rebrickable.com/sets/76345-1/doctor-doom-bust/"
   },
@@ -180166,7 +180265,7 @@
     "name": "Batman Returns Batmobile",
     "year": 2026,
     "theme_id": 697,
-    "num_parts": 0,
+    "num_parts": 2271,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/76355-1/179801.jpg",
     "set_url": "https://rebrickable.com/sets/76355-1/batman-returns-batmobile/"
   },
@@ -181084,7 +181183,7 @@
     "name": "Forbidden Forest: Expecto Patronum",
     "year": 2026,
     "theme_id": 246,
-    "num_parts": 245,
+    "num_parts": 244,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/76475-1/172401.jpg",
     "set_url": "https://rebrickable.com/sets/76475-1/forbidden-forest-expecto-patronum/"
   },
@@ -181093,7 +181192,7 @@
     "name": "The Ministry of Magic – Collectors' Edition",
     "year": 2026,
     "theme_id": 246,
-    "num_parts": 0,
+    "num_parts": 3545,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/76476-1/179336.jpg",
     "set_url": "https://rebrickable.com/sets/76476-1/the-ministry-of-magic-collectors-edition/"
   },
@@ -184180,7 +184279,7 @@
     "name": "Level Crossing Manual",
     "year": 1980,
     "theme_id": 234,
-    "num_parts": 95,
+    "num_parts": 91,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/7834-1/11448.jpg",
     "set_url": "https://rebrickable.com/sets/7834-1/level-crossing-manual/"
   },
@@ -186754,7 +186853,7 @@
     "name": "Gear Set",
     "year": 1970,
     "theme_id": 472,
-    "num_parts": 112,
+    "num_parts": 113,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/801-1/6332.jpg",
     "set_url": "https://rebrickable.com/sets/801-1/gear-set/"
   },
@@ -187438,7 +187537,7 @@
     "name": "Universal Building Set with Motor",
     "year": 1986,
     "theme_id": 21,
-    "num_parts": 188,
+    "num_parts": 189,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/8055-1/8845.jpg",
     "set_url": "https://rebrickable.com/sets/8055-1/universal-building-set-with-motor/"
   },
@@ -212126,7 +212225,7 @@
     "year": 1995,
     "theme_id": 516,
     "num_parts": 40,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/9107-1/180676.jpg",
     "set_url": "https://rebrickable.com/sets/9107-1/small-first-tools-for-technology/"
   },
   {
@@ -220396,7 +220495,7 @@
     "name": "DC Comics Batman: Adventures in Gotham City",
     "year": 2026,
     "theme_id": 761,
-    "num_parts": 0,
+    "num_parts": 5,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/9780241788080-1/163478.jpg",
     "set_url": "https://rebrickable.com/sets/9780241788080-1/dc-comics-batman-adventures-in-gotham-city/"
   },
@@ -221542,6 +221641,15 @@
     "num_parts": 4,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/9780545917278-1/75713.jpg",
     "set_url": "https://rebrickable.com/sets/9780545917278-1/star-wars-epic-space-adventures/"
+  },
+  {
+    "set_num": "9780545925419-1",
+    "name": "Star Wars: Face Off",
+    "year": 2016,
+    "theme_id": 497,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/9780545925419-1/180445.jpg",
+    "set_url": "https://rebrickable.com/sets/9780545925419-1/star-wars-face-off/"
   },
   {
     "set_num": "9780545925426-1",
@@ -225490,7 +225598,7 @@
     "name": "Ninjago: Dragons Rising: Training Time",
     "year": 2025,
     "theme_id": 761,
-    "num_parts": 5,
+    "num_parts": 10,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/9781645887980-1/179441.jpg",
     "set_url": "https://rebrickable.com/sets/9781645887980-1/ninjago-dragons-rising-training-time/"
   },
@@ -228658,7 +228766,7 @@
     "name": "Falcon: Droga do Kapitana Ameryki",
     "year": 2026,
     "theme_id": 761,
-    "num_parts": 0,
+    "num_parts": 32,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/9788325349042-1/173937.jpg",
     "set_url": "https://rebrickable.com/sets/9788325349042-1/falcon-droga-do-kapitana-ameryki/"
   },
@@ -230895,6 +231003,15 @@
     "set_url": "https://rebrickable.com/sets/ACP6619S1-1/recreate-activity-cards-built-it-hobby/"
   },
   {
+    "set_num": "ACP6702S1-1",
+    "name": "ReCreate Activity Cards Built it! Ninja in Action!",
+    "year": 2026,
+    "theme_id": 741,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/acp6702s1-1/180799.jpg",
+    "set_url": "https://rebrickable.com/sets/ACP6702S1-1/recreate-activity-cards-built-it-ninja-in-action/"
+  },
+  {
     "set_num": "ALM6150-1",
     "name": "Friends: Heartlake Adventures",
     "year": 2024,
@@ -232069,7 +232186,7 @@
     "name": "2026 Build-A-Minifigure Station Exclusive Parts",
     "year": 2026,
     "theme_id": 746,
-    "num_parts": 42,
+    "num_parts": 47,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/build-a-mini-2026/163777.jpg",
     "set_url": "https://rebrickable.com/sets/Build-a-Mini-2026/2026-build-a-minifigure-station-exclusive-parts/"
   },
@@ -249759,6 +249876,15 @@
     "set_url": "https://rebrickable.com/sets/PLUSH-6/construction-worker-plush/"
   },
   {
+    "set_num": "POKEMONSTICKER-1",
+    "name": "Pokémon Smart Play Stickers",
+    "year": 2026,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/pokemonsticker-1/180857.jpg",
+    "set_url": "https://rebrickable.com/sets/POKEMONSTICKER-1/pokémon-smart-play-stickers/"
+  },
+  {
     "set_num": "PONCHO-1",
     "name": "LEGOLAND Child Rain Poncho",
     "year": 2020,
@@ -251050,7 +251176,7 @@
     "name": "Database Set for 1061-1 Single Disk Pack",
     "year": 1999,
     "theme_id": 746,
-    "num_parts": 9,
+    "num_parts": 10,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/slizer-5/179206.jpg",
     "set_url": "https://rebrickable.com/sets/SLIZER-5/database-set-for-1061-1-single-disk-pack/"
   },
