@@ -4158,6 +4158,51 @@
     "set_url": "https://rebrickable.com/sets/10230-1/mini-modulars/"
   },
   {
+    "set_num": "102302-1",
+    "name": "LEGOLAND Maker Master Player Badge",
+    "year": 2022,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/102302-1/legoland-maker-master-player-badge/"
+  },
+  {
+    "set_num": "102302-2",
+    "name": "LEGOLAND Dreamer Master Player Badge",
+    "year": 2022,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/102302-2/legoland-dreamer-master-player-badge/"
+  },
+  {
+    "set_num": "102302-3",
+    "name": "LEGOLAND Designer Master Player Badge",
+    "year": 2022,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/102302-3/legoland-designer-master-player-badge/"
+  },
+  {
+    "set_num": "102302-4",
+    "name": "LEGOLAND Explorer Master Player Badge",
+    "year": 2022,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/102302-4/legoland-explorer-master-player-badge/"
+  },
+  {
+    "set_num": "102302-5",
+    "name": "LEGOLAND Storyteller Master Player Badge",
+    "year": 2022,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/102302-5/legoland-storyteller-master-player-badge/"
+  },
+  {
     "set_num": "1023-1",
     "name": "Red Baseplate",
     "year": 1985,
@@ -5506,6 +5551,15 @@
     "num_parts": 608,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/10370-1/144811.jpg",
     "set_url": "https://rebrickable.com/sets/10370-1/poinsettia/"
+  },
+  {
+    "set_num": "10371-1",
+    "name": "Cozy Plants",
+    "year": 2026,
+    "theme_id": 769,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/10371-1/181388.jpg",
+    "set_url": "https://rebrickable.com/sets/10371-1/cozy-plants/"
   },
   {
     "set_num": "10372-1",
@@ -8368,6 +8422,15 @@
     "num_parts": 151,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/10753-1/1008.jpg",
     "set_url": "https://rebrickable.com/sets/10753-1/the-joker-batcave-attack/"
+  },
+  {
+    "set_num": "107536-1",
+    "name": "Calendar 2025",
+    "year": 2024,
+    "theme_id": 739,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/107536-1/calendar-2025/"
   },
   {
     "set_num": "10754-1",
@@ -12299,7 +12362,7 @@
     "year": 2025,
     "theme_id": 503,
     "num_parts": 0,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/113575-1/181400.jpg",
     "set_url": "https://rebrickable.com/sets/113575-1/formula-1-wheel-key-chain/"
   },
   {
@@ -12460,7 +12523,7 @@
     "name": "Mayor Manor",
     "year": 2026,
     "theme_id": 721,
-    "num_parts": 1421,
+    "num_parts": 1420,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/11383-1/177489.jpg",
     "set_url": "https://rebrickable.com/sets/11383-1/mayor-manor/"
   },
@@ -12492,13 +12555,13 @@
     "set_url": "https://rebrickable.com/sets/11386-1/spongebob-squarepants-bikini-bottom/"
   },
   {
-    "set_num": "113890-1",
-    "name": "New York City Magnet - Pattern",
+    "set_num": "11387-1",
+    "name": "Holiday House",
     "year": 2026,
-    "theme_id": 734,
+    "theme_id": 227,
     "num_parts": 0,
-    "set_img_url": null,
-    "set_url": "https://rebrickable.com/sets/113890-1/new-york-city-magnet-pattern/"
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/11387-1/181332.jpg",
+    "set_url": "https://rebrickable.com/sets/11387-1/holiday-house/"
   },
   {
     "set_num": "11389-1",
@@ -12652,6 +12715,15 @@
     "num_parts": 7,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/1147-1/9422.jpg",
     "set_url": "https://rebrickable.com/sets/1147-1/light-prisms-holder-redyellow-light-covers/"
+  },
+  {
+    "set_num": "114739-1",
+    "name": "Anaheim Pen - Blue",
+    "year": 2026,
+    "theme_id": 739,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/114739-1/anaheim-pen-blue/"
   },
   {
     "set_num": "1148-1",
@@ -12931,6 +13003,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/115514-1/173643.jpg",
     "set_url": "https://rebrickable.com/sets/115514-1/luke-skywalker-collectable-coin/"
+  },
+  {
+    "set_num": "115763-1",
+    "name": "Tokyo Passport Holder",
+    "year": 2026,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/115763-1/tokyo-passport-holder/"
   },
   {
     "set_num": "115925-1",
@@ -15003,15 +15084,6 @@
     "set_url": "https://rebrickable.com/sets/1233-1/axle-assortment/"
   },
   {
-    "set_num": "1233-2",
-    "name": "Light Masts",
-    "year": 1958,
-    "theme_id": 371,
-    "num_parts": 4,
-    "set_img_url": "https://cdn.rebrickable.com/media/sets/1233-2/180970.jpg",
-    "set_url": "https://rebrickable.com/sets/1233-2/light-masts/"
-  },
-  {
     "set_num": "1234-1",
     "name": "Gear Wheel Assortment",
     "year": 1984,
@@ -15019,15 +15091,6 @@
     "num_parts": 21,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/1234-1/11653.jpg",
     "set_url": "https://rebrickable.com/sets/1234-1/gear-wheel-assortment/"
-  },
-  {
-    "set_num": "1234-2",
-    "name": "1/8 Bricks with Letters",
-    "year": 1957,
-    "theme_id": 371,
-    "num_parts": 0,
-    "set_img_url": "https://cdn.rebrickable.com/media/sets/1234-2/180929.jpg",
-    "set_url": "https://rebrickable.com/sets/1234-2/18-bricks-with-letters/"
   },
   {
     "set_num": "1234-3",
@@ -15172,15 +15235,6 @@
     "num_parts": 5,
     "set_img_url": null,
     "set_url": "https://rebrickable.com/sets/1242-2/international-flags/"
-  },
-  {
-    "set_num": "1242-3",
-    "name": "Flags, assorted",
-    "year": 1957,
-    "theme_id": 371,
-    "num_parts": 4,
-    "set_img_url": "https://cdn.rebrickable.com/media/sets/1242-3/180971.jpg",
-    "set_url": "https://rebrickable.com/sets/1242-3/flags-assorted/"
   },
   {
     "set_num": "1242D-1",
@@ -15910,15 +15964,6 @@
     "num_parts": 20,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/130-1/8238.jpg",
     "set_url": "https://rebrickable.com/sets/130-1/wagon-with-double-tippers/"
-  },
-  {
-    "set_num": "1301-1",
-    "name": "LEGO Mosaic, Large",
-    "year": 1955,
-    "theme_id": 365,
-    "num_parts": 0,
-    "set_img_url": "https://cdn.rebrickable.com/media/sets/1301-1/180974.jpg",
-    "set_url": "https://rebrickable.com/sets/1301-1/lego-mosaic-large/"
   },
   {
     "set_num": "1305-1",
@@ -19251,6 +19296,15 @@
     "set_url": "https://rebrickable.com/sets/1581-2/delivery-truck/"
   },
   {
+    "set_num": "1583-1",
+    "name": "Circus Bucket",
+    "year": 1992,
+    "theme_id": 505,
+    "num_parts": 33,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/1583-1/181492.jpg",
+    "set_url": "https://rebrickable.com/sets/1583-1/circus-bucket/"
+  },
+  {
     "set_num": "1584-1",
     "name": "Knights Challenge",
     "year": 1988,
@@ -20187,6 +20241,15 @@
     "set_url": "https://rebrickable.com/sets/1658-1/viking-line-ferry/"
   },
   {
+    "set_num": "1659-1",
+    "name": "DUPLO Tote Pack",
+    "year": 1992,
+    "theme_id": 505,
+    "num_parts": 30,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/1659-1/181493.jpg",
+    "set_url": "https://rebrickable.com/sets/1659-1/duplo-tote-pack/"
+  },
+  {
     "set_num": "1660-1",
     "name": "Kronprins Frederik Ferry",
     "year": 1996,
@@ -20318,7 +20381,7 @@
     "year": 1992,
     "theme_id": 632,
     "num_parts": 8,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/1673-1/181494.jpg",
     "set_url": "https://rebrickable.com/sets/1673-1/zoo-train/"
   },
   {
@@ -22527,6 +22590,15 @@
     "set_url": "https://rebrickable.com/sets/1891-1/four-set-value-pack/"
   },
   {
+    "set_num": "1893-1",
+    "name": "Jungle Bucket",
+    "year": 1992,
+    "theme_id": 505,
+    "num_parts": 37,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/1893-1/181495.jpg",
+    "set_url": "https://rebrickable.com/sets/1893-1/jungle-bucket/"
+  },
+  {
     "set_num": "1895-1",
     "name": "Sky Patrol",
     "year": 1992,
@@ -22723,6 +22795,15 @@
     "num_parts": 2,
     "set_img_url": null,
     "set_url": "https://rebrickable.com/sets/1907-1/crecer-feliz-giftbox/"
+  },
+  {
+    "set_num": "1908-1",
+    "name": "DUPLO Bonus Bucket",
+    "year": 1993,
+    "theme_id": 505,
+    "num_parts": 39,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/1908-1/181496.jpg",
+    "set_url": "https://rebrickable.com/sets/1908-1/duplo-bonus-bucket/"
   },
   {
     "set_num": "19-1",
@@ -34187,7 +34268,7 @@
     "year": 1993,
     "theme_id": 505,
     "num_parts": 16,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2311-1/181497.jpg",
     "set_url": "https://rebrickable.com/sets/2311-1/clown/"
   },
   {
@@ -34623,6 +34704,15 @@
     "set_url": "https://rebrickable.com/sets/2368-1/xl-basic-bucket/"
   },
   {
+    "set_num": "2369-1",
+    "name": "DUPLO Rally Race Bucket",
+    "year": 1993,
+    "theme_id": 505,
+    "num_parts": 38,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2369-1/181498.jpg",
+    "set_url": "https://rebrickable.com/sets/2369-1/duplo-rally-race-bucket/"
+  },
+  {
     "set_num": "2370-1",
     "name": "Basic Building Set",
     "year": 1981,
@@ -34659,6 +34749,24 @@
     "set_url": "https://rebrickable.com/sets/2372-1/zoo-bucket/"
   },
   {
+    "set_num": "2373-1",
+    "name": "DUPLO Basic Bucket",
+    "year": 1992,
+    "theme_id": 505,
+    "num_parts": 47,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2373-1/181502.jpg",
+    "set_url": "https://rebrickable.com/sets/2373-1/duplo-basic-bucket/"
+  },
+  {
+    "set_num": "2374-1",
+    "name": "Medium DUPLO Basic Bonus Bucket",
+    "year": 1992,
+    "theme_id": 505,
+    "num_parts": 59,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2374-1/181503.jpg",
+    "set_url": "https://rebrickable.com/sets/2374-1/medium-duplo-basic-bonus-bucket/"
+  },
+  {
     "set_num": "2376-1",
     "name": "Play Bucket",
     "year": 1991,
@@ -34682,7 +34790,7 @@
     "year": 1993,
     "theme_id": 632,
     "num_parts": 53,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2378-1/181504.jpg",
     "set_url": "https://rebrickable.com/sets/2378-1/preschool-building-set-farm-in-a-bucket/"
   },
   {
@@ -34738,6 +34846,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/238-3/6524.jpg",
     "set_url": "https://rebrickable.com/sets/238-3/lego-system-idea-book-no-1/"
+  },
+  {
+    "set_num": "2383-1",
+    "name": "Large DUPLO Basic Bonus Bucket",
+    "year": 1992,
+    "theme_id": 505,
+    "num_parts": 61,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2383-1/181505.jpg",
+    "set_url": "https://rebrickable.com/sets/2383-1/large-duplo-basic-bonus-bucket/"
   },
   {
     "set_num": "238-4",
@@ -35636,7 +35753,7 @@
     "year": 1991,
     "theme_id": 505,
     "num_parts": 9,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2447-1/181506.jpg",
     "set_url": "https://rebrickable.com/sets/2447-1/speedway/"
   },
   {
@@ -35708,7 +35825,7 @@
     "year": 1991,
     "theme_id": 632,
     "num_parts": 24,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/2455-1/181507.jpg",
     "set_url": "https://rebrickable.com/sets/2455-1/corral/"
   },
   {
@@ -67788,6 +67905,15 @@
     "set_url": "https://rebrickable.com/sets/40897-1/darth-vaders-lightsaber/"
   },
   {
+    "set_num": "40900-1",
+    "name": "Scary Haunted Tree",
+    "year": 2026,
+    "theme_id": 230,
+    "num_parts": 218,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/40900-1/181378.jpg",
+    "set_url": "https://rebrickable.com/sets/40900-1/scary-haunted-tree/"
+  },
+  {
     "set_num": "4090-1",
     "name": "Motion Madness",
     "year": 2003,
@@ -68233,7 +68359,7 @@
     "name": "Mini Hogwarts Castle",
     "year": 2026,
     "theme_id": 246,
-    "num_parts": 701,
+    "num_parts": 700,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/40975-1/179064.jpg",
     "set_url": "https://rebrickable.com/sets/40975-1/mini-hogwarts-castle/"
   },
@@ -68371,6 +68497,15 @@
     "num_parts": 28,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/410-1/8681.jpg",
     "set_url": "https://rebrickable.com/sets/410-1/payloader/"
+  },
+  {
+    "set_num": "4101007035067-1",
+    "name": "LEGOLAND Ollie Coin",
+    "year": 2023,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/4101007035067-1/legoland-ollie-coin/"
   },
   {
     "set_num": "41010-1",
@@ -81265,7 +81400,7 @@
     "name": "Maleficent’s Dragon Form",
     "year": 2024,
     "theme_id": 579,
-    "num_parts": 584,
+    "num_parts": 583,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/43240-1/140209.jpg",
     "set_url": "https://rebrickable.com/sets/43240-1/maleficents-dragon-form/"
   },
@@ -88884,6 +89019,15 @@
     "set_url": "https://rebrickable.com/sets/4895028524975-1/lloyd-staticker/"
   },
   {
+    "set_num": "4895028539078-1",
+    "name": "DADA Bag Tag",
+    "year": 2025,
+    "theme_id": 731,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/4895028539078-1/dada-bag-tag/"
+  },
+  {
     "set_num": "4895-1",
     "name": "Motion Power",
     "year": 2006,
@@ -88999,6 +89143,33 @@
     "num_parts": 0,
     "set_img_url": null,
     "set_url": "https://rebrickable.com/sets/490635134070-1/legoland-dragon-tail-blanket/"
+  },
+  {
+    "set_num": "4906351520349-1",
+    "name": "LEGOLAND Primary Bricks Lanyard",
+    "year": 2020,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/4906351520349-1/legoland-primary-bricks-lanyard/"
+  },
+  {
+    "set_num": "490635156515-1",
+    "name": "LEGOLAND Hotel Lanyard White",
+    "year": 2022,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/490635156515-1/legoland-hotel-lanyard-white/"
+  },
+  {
+    "set_num": "490635159912-1",
+    "name": "LEGOLAND Dual Hotel Castle Lanyard",
+    "year": 2023,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/490635159912-1/legoland-dual-hotel-castle-lanyard/"
   },
   {
     "set_num": "4908-1",
@@ -108765,6 +108936,15 @@
     "set_url": "https://rebrickable.com/sets/5009894-1/countdown-to-christmas-puzzles/"
   },
   {
+    "set_num": "5009895-1",
+    "name": "Gel Pen I Love NY Green",
+    "year": 2025,
+    "theme_id": 739,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5009895-1/gel-pen-i-love-ny-green/"
+  },
+  {
     "set_num": "5009897-1",
     "name": "Minifigure Notecards: 12 Shaped Notecards with Envelopes",
     "year": 2025,
@@ -110349,6 +110529,51 @@
     "set_url": "https://rebrickable.com/sets/5010458-1/y2k-10-pack/"
   },
   {
+    "set_num": "5010478-1",
+    "name": "Sherpa-Backed Throw",
+    "year": 2026,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/5010478-1/181390.jpg",
+    "set_url": "https://rebrickable.com/sets/5010478-1/sherpa-backed-throw/"
+  },
+  {
+    "set_num": "5010511-1",
+    "name": "Shanghai Passport Cover",
+    "year": 2026,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010511-1/shanghai-passport-cover/"
+  },
+  {
+    "set_num": "5010517-1",
+    "name": "Shanghai Adults T-Shirt (All Sizes)",
+    "year": 2026,
+    "theme_id": 799,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010517-1/shanghai-adults-t-shirt-all-sizes/"
+  },
+  {
+    "set_num": "5010521-1",
+    "name": "Shanghai Bag Charm - Crab",
+    "year": 2026,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010521-1/shanghai-bag-charm-crab/"
+  },
+  {
+    "set_num": "5010522-1",
+    "name": "Shanghai Bag Charm - Heart",
+    "year": 2026,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010522-1/shanghai-bag-charm-heart/"
+  },
+  {
     "set_num": "5010554-1",
     "name": "LEGO Ideas - Trophy White",
     "year": 2026,
@@ -110365,6 +110590,42 @@
     "num_parts": 0,
     "set_img_url": null,
     "set_url": "https://rebrickable.com/sets/5010555-1/lego-ideas-trophy-black/"
+  },
+  {
+    "set_num": "5010556-1",
+    "name": "New York City Water Bottle - Yellow",
+    "year": 2026,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010556-1/new-york-city-water-bottle-yellow/"
+  },
+  {
+    "set_num": "5010557-1",
+    "name": "New York City Water Bottle - Red",
+    "year": 2026,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010557-1/new-york-city-water-bottle-red/"
+  },
+  {
+    "set_num": "5010558-1",
+    "name": "Orlando Water Bottle - Royal Blue",
+    "year": 2026,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010558-1/orlando-water-bottle-royal-blue/"
+  },
+  {
+    "set_num": "5010565-1",
+    "name": "Paris Water Bottle - Red",
+    "year": 2026,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010565-1/paris-water-bottle-red/"
   },
   {
     "set_num": "5010566-1",
@@ -110385,6 +110646,51 @@
     "set_url": "https://rebrickable.com/sets/5010567-1/copenhagen-water-bottle-yellow-orange/"
   },
   {
+    "set_num": "5010581-1",
+    "name": "New York City Pen - Red",
+    "year": 2026,
+    "theme_id": 739,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010581-1/new-york-city-pen-red/"
+  },
+  {
+    "set_num": "5010582-1",
+    "name": "New York City Pen - Yellow",
+    "year": 2026,
+    "theme_id": 739,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010582-1/new-york-city-pen-yellow/"
+  },
+  {
+    "set_num": "5010584-1",
+    "name": "New York City Magnet - NY Store Teal",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010584-1/new-york-city-magnet-ny-store-teal/"
+  },
+  {
+    "set_num": "5010585-1",
+    "name": "New York City Magnet - Hot Dog",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010585-1/new-york-city-magnet-hot-dog/"
+  },
+  {
+    "set_num": "5010587-1",
+    "name": "New York City Magnet - Red Apple",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010587-1/new-york-city-magnet-red-apple/"
+  },
+  {
     "set_num": "5010588-1",
     "name": "New York City Magnet - Orange 5th Avenue",
     "year": 2026,
@@ -110401,6 +110707,177 @@
     "num_parts": 0,
     "set_img_url": null,
     "set_url": "https://rebrickable.com/sets/5010589-1/new-york-city-magnet-ny-store-yellow/"
+  },
+  {
+    "set_num": "5010590-1",
+    "name": "New York City Magnet - Lady Liberty",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010590-1/new-york-city-magnet-lady-liberty/"
+  },
+  {
+    "set_num": "5010591-1",
+    "name": "New York City Passport Holder",
+    "year": 2026,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010591-1/new-york-city-passport-holder/"
+  },
+  {
+    "set_num": "5010592-1",
+    "name": "New York City Child Cap",
+    "year": 2026,
+    "theme_id": 799,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010592-1/new-york-city-child-cap/"
+  },
+  {
+    "set_num": "5010593-1",
+    "name": "New York City Adult Cap",
+    "year": 2026,
+    "theme_id": 799,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010593-1/new-york-city-adult-cap/"
+  },
+  {
+    "set_num": "5010594-1",
+    "name": "I [heart] New York City Shopping Bag",
+    "year": 2026,
+    "theme_id": 777,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010594-1/i-heart-new-york-city-shopping-bag/"
+  },
+  {
+    "set_num": "5010596-1",
+    "name": "New York City Bag Charm - Hotdog",
+    "year": 2026,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010596-1/new-york-city-bag-charm-hotdog/"
+  },
+  {
+    "set_num": "5010597-1",
+    "name": "New York City Bag Charm - Apple",
+    "year": 2026,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010597-1/new-york-city-bag-charm-apple/"
+  },
+  {
+    "set_num": "5010598-1",
+    "name": "New York City Bag Charm - Pizza",
+    "year": 2026,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010598-1/new-york-city-bag-charm-pizza/"
+  },
+  {
+    "set_num": "5010600-1",
+    "name": "New York City Adults T-Shirt (All Sizes)",
+    "year": 2026,
+    "theme_id": 799,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010600-1/new-york-city-adults-t-shirt-all-sizes/"
+  },
+  {
+    "set_num": "5010601-1",
+    "name": "New York City Tote Bag",
+    "year": 2026,
+    "theme_id": 777,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010601-1/new-york-city-tote-bag/"
+  },
+  {
+    "set_num": "5010603-1",
+    "name": "New York City Bag Charm - Heart",
+    "year": 2026,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010603-1/new-york-city-bag-charm-heart/"
+  },
+  {
+    "set_num": "5010611-1",
+    "name": "Orlando Magnet - Character",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010611-1/orlando-magnet-character/"
+  },
+  {
+    "set_num": "5010612-1",
+    "name": "Orlando Magnet - Heart",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010612-1/orlando-magnet-heart/"
+  },
+  {
+    "set_num": "5010614-1",
+    "name": "Orlando Passport Holder",
+    "year": 2026,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010614-1/orlando-passport-holder/"
+  },
+  {
+    "set_num": "5010615-1",
+    "name": "Orlando Child Cap",
+    "year": 2026,
+    "theme_id": 799,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010615-1/orlando-child-cap/"
+  },
+  {
+    "set_num": "5010620-1",
+    "name": "Orlando Adults T-Shirt (All Sizes)",
+    "year": 2026,
+    "theme_id": 799,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010620-1/orlando-adults-t-shirt-all-sizes/"
+  },
+  {
+    "set_num": "5010634-1",
+    "name": "Anaheim Passport Holder",
+    "year": 2026,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010634-1/anaheim-passport-holder/"
+  },
+  {
+    "set_num": "5010637-1",
+    "name": "I [heart] Anaheim Shopping Bag",
+    "year": 2026,
+    "theme_id": 777,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010637-1/i-heart-anaheim-shopping-bag/"
+  },
+  {
+    "set_num": "5010671-1",
+    "name": "Paris Pen - Red",
+    "year": 2026,
+    "theme_id": 739,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/5010671-1/paris-pen-red/"
   },
   {
     "set_num": "5010691-1",
@@ -133321,7 +133798,7 @@
     "name": "Play with Letters",
     "year": 2011,
     "theme_id": 504,
-    "num_parts": 74,
+    "num_parts": 75,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6051-1/2878.jpg",
     "set_url": "https://rebrickable.com/sets/6051-1/play-with-letters/"
   },
@@ -134116,6 +134593,15 @@
     "num_parts": 1004,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6112-1/11475.jpg",
     "set_url": "https://rebrickable.com/sets/6112-1/world-of-bricks/"
+  },
+  {
+    "set_num": "611318-1",
+    "name": "Keychain Bag",
+    "year": 2026,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/611318-1/keychain-bag/"
   },
   {
     "set_num": "6114-1",
@@ -136008,6 +136494,15 @@
     "set_url": "https://rebrickable.com/sets/6277566-1/frame-make-take/"
   },
   {
+    "set_num": "6277578-1",
+    "name": "Minicake Blue Candle",
+    "year": 2018,
+    "theme_id": 598,
+    "num_parts": 30,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6277578-1/181482.jpg",
+    "set_url": "https://rebrickable.com/sets/6277578-1/minicake-blue-candle/"
+  },
+  {
     "set_num": "6278-1",
     "name": "Enchanted Island",
     "year": 1994,
@@ -137711,7 +138206,7 @@
   {
     "set_num": "6385416-1",
     "name": "Summer Sailboat",
-    "year": 2019,
+    "year": 2014,
     "theme_id": 408,
     "num_parts": 37,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6385416-1/108768.jpg",
@@ -138654,6 +139149,15 @@
     "set_url": "https://rebrickable.com/sets/6431-1/road-rescue/"
   },
   {
+    "set_num": "64314-1",
+    "name": "Toa Inika Kongu Talisman Nestlé #11",
+    "year": 2006,
+    "theme_id": 598,
+    "num_parts": 1,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/64314-1/181456.jpg",
+    "set_url": "https://rebrickable.com/sets/64314-1/toa-inika-kongu-talisman-nestlé-11/"
+  },
+  {
     "set_num": "6431476-1",
     "name": "Barcelona Tile",
     "year": 2022,
@@ -138865,7 +139369,7 @@
     "name": "Sting Ray Explorer",
     "year": 1997,
     "theme_id": 86,
-    "num_parts": 151,
+    "num_parts": 152,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6442-1/3750.jpg",
     "set_url": "https://rebrickable.com/sets/6442-1/sting-ray-explorer/"
   },
@@ -139071,7 +139575,7 @@
     "set_num": "6458401-1",
     "name": "Party Glasses",
     "year": 2025,
-    "theme_id": 408,
+    "theme_id": 737,
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6458401-1/162840.jpg",
     "set_url": "https://rebrickable.com/sets/6458401-1/party-glasses/"
@@ -140796,6 +141300,15 @@
     "set_url": "https://rebrickable.com/sets/6531-1/flame-chaser/"
   },
   {
+    "set_num": "65312-1",
+    "name": "Toa Inika Matoro Talisman Nestlé #12",
+    "year": 2006,
+    "theme_id": 598,
+    "num_parts": 1,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/65312-1/181457.jpg",
+    "set_url": "https://rebrickable.com/sets/65312-1/toa-inika-matoro-talisman-nestlé-12/"
+  },
+  {
     "set_num": "653-2",
     "name": "1:87 Mercedes Flatbed Truck",
     "year": 1964,
@@ -140890,7 +141403,7 @@
     "name": "McLaren F1",
     "year": 2024,
     "theme_id": 598,
-    "num_parts": 48,
+    "num_parts": 49,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6535388-1/148378.jpg",
     "set_url": "https://rebrickable.com/sets/6535388-1/mclaren-f1/"
   },
@@ -141541,6 +142054,15 @@
     "num_parts": 127,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6557591-1/147496.jpg",
     "set_url": "https://rebrickable.com/sets/6557591-1/rangoli/"
+  },
+  {
+    "set_num": "6557632-1",
+    "name": "Mash Up Vehicle",
+    "year": 2024,
+    "theme_id": 598,
+    "num_parts": 54,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6557632-1/181485.jpg",
+    "set_url": "https://rebrickable.com/sets/6557632-1/mash-up-vehicle/"
   },
   {
     "set_num": "6557635-1",
@@ -143262,6 +143784,15 @@
     "set_url": "https://rebrickable.com/sets/6599-1/shark-attack/"
   },
   {
+    "set_num": "6599702-1",
+    "name": "Mickey and Minnie",
+    "year": 2024,
+    "theme_id": 388,
+    "num_parts": 77,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6599702-1/181439.jpg",
+    "set_url": "https://rebrickable.com/sets/6599702-1/mickey-and-minnie/"
+  },
+  {
     "set_num": "6600034-1",
     "name": "Microphone",
     "year": 2025,
@@ -143545,7 +144076,7 @@
     "name": "Toy Soldier",
     "year": 2025,
     "theme_id": 227,
-    "num_parts": 0,
+    "num_parts": 22,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6610131-1/175227.jpg",
     "set_url": "https://rebrickable.com/sets/6610131-1/toy-soldier/"
   },
@@ -143806,7 +144337,7 @@
     "name": "Blooming Heart",
     "year": 2026,
     "theme_id": 232,
-    "num_parts": 47,
+    "num_parts": 48,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/6614219-1/168548.jpg",
     "set_url": "https://rebrickable.com/sets/6614219-1/blooming-heart/"
   },
@@ -148077,6 +148608,24 @@
     "set_url": "https://rebrickable.com/sets/66708-1/galactic-adventures-pack/"
   },
   {
+    "set_num": "6670924-1",
+    "name": "I [Heart] LEGO Store Markville Shopping Centre Tile",
+    "year": 2026,
+    "theme_id": 408,
+    "num_parts": 1,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/6670924-1/i-heart-lego-store-markville-shopping-centre-tile/"
+  },
+  {
+    "set_num": "6670926-1",
+    "name": "I [Heart] LEGO Store Promenade Temecula Tile",
+    "year": 2026,
+    "theme_id": 408,
+    "num_parts": 1,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/6670926-1/i-heart-lego-store-promenade-temecula-tile/"
+  },
+  {
     "set_num": "667-1",
     "name": "1:87 VW 1500",
     "year": 1964,
@@ -148237,6 +148786,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/66747-1/118030.jpg",
     "set_url": "https://rebrickable.com/sets/66747-1/animal-play-pack/"
+  },
+  {
+    "set_num": "6674871-1",
+    "name": "Tall ship",
+    "year": 2026,
+    "theme_id": 408,
+    "num_parts": 45,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6674871-1/181294.jpg",
+    "set_url": "https://rebrickable.com/sets/6674871-1/tall-ship/"
   },
   {
     "set_num": "66749-1",
@@ -151776,6 +152334,15 @@
     "set_url": "https://rebrickable.com/sets/6997-1/piraka-avak-nestlé-2/"
   },
   {
+    "set_num": "6998-1",
+    "name": "Piraka Reidak Talisman Nestlé #7",
+    "year": 2006,
+    "theme_id": 598,
+    "num_parts": 1,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/6998-1/181452.jpg",
+    "set_url": "https://rebrickable.com/sets/6998-1/piraka-reidak-talisman-nestlé-7/"
+  },
+  {
     "set_num": "6999-1",
     "name": "Cyber Saucer",
     "year": 1997,
@@ -152914,7 +153481,7 @@
     "name": "Viking Ship challenges the Midgard Serpent",
     "year": 2005,
     "theme_id": 474,
-    "num_parts": 580,
+    "num_parts": 582,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/7018-1/67796.jpg",
     "set_url": "https://rebrickable.com/sets/7018-1/viking-ship-challenges-the-midgard-serpent/"
   },
@@ -153253,12 +153820,12 @@
   },
   {
     "set_num": "70232-1",
-    "name": "Sabre Tooth Tiger Pack",
+    "name": "Saber-tooth Tiger Tribe Pack",
     "year": 2015,
     "theme_id": 571,
     "num_parts": 74,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/70232-1/9442.jpg",
-    "set_url": "https://rebrickable.com/sets/70232-1/sabre-tooth-tiger-pack/"
+    "set_url": "https://rebrickable.com/sets/70232-1/saber-tooth-tiger-tribe-pack/"
   },
   {
     "set_num": "702350-1",
@@ -153866,7 +154433,7 @@
   {
     "set_num": "7036-1",
     "name": "Dwarves' Mine",
-    "year": 2008,
+    "year": 2007,
     "theme_id": 193,
     "num_parts": 574,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/7036-1/17263.jpg",
@@ -155277,6 +155844,15 @@
     "set_url": "https://rebrickable.com/sets/70680-1/monastery-training/"
   },
   {
+    "set_num": "7068-1",
+    "name": "Piraka Vezok Talisman Nestlé #9",
+    "year": 2006,
+    "theme_id": 598,
+    "num_parts": 1,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/7068-1/181454.jpg",
+    "set_url": "https://rebrickable.com/sets/7068-1/piraka-vezok-talisman-nestlé-9/"
+  },
+  {
     "set_num": "70681-1",
     "name": "Spinjitzu Slam - Lloyd",
     "year": 2019,
@@ -155365,6 +155941,15 @@
     "num_parts": 26,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/70690-1/98214.jpg",
     "set_url": "https://rebrickable.com/sets/70690-1/jays-spinjitzu-ninja-training/"
+  },
+  {
+    "set_num": "7069-1",
+    "name": "Toa Inika Hewkii Talisman Nestlé #10",
+    "year": 2006,
+    "theme_id": 598,
+    "num_parts": 1,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/7069-1/181455.jpg",
+    "set_url": "https://rebrickable.com/sets/7069-1/toa-inika-hewkii-talisman-nestlé-10/"
   },
   {
     "set_num": "70700-1",
@@ -155851,6 +156436,15 @@
     "num_parts": 215,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/70756-1/9888.jpg",
     "set_url": "https://rebrickable.com/sets/70756-1/dojo-showdown/"
+  },
+  {
+    "set_num": "7077-1",
+    "name": "Piraka Hakann Talisman Nestlé #8",
+    "year": 2006,
+    "theme_id": 598,
+    "num_parts": 1,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/7077-1/181453.jpg",
+    "set_url": "https://rebrickable.com/sets/7077-1/piraka-hakann-talisman-nestlé-8/"
   },
   {
     "set_num": "70773-1",
@@ -181048,7 +181642,7 @@
     "name": "The Battle of Hogwarts",
     "year": 2023,
     "theme_id": 246,
-    "num_parts": 740,
+    "num_parts": 732,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/76415-1/123256.jpg",
     "set_url": "https://rebrickable.com/sets/76415-1/the-battle-of-hogwarts/"
   },
@@ -181615,7 +182209,7 @@
     "name": "The Ministry of Magic – Collectors' Edition",
     "year": 2026,
     "theme_id": 246,
-    "num_parts": 3545,
+    "num_parts": 3546,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/76476-1/179336.jpg",
     "set_url": "https://rebrickable.com/sets/76476-1/the-ministry-of-magic-collectors-edition/"
   },
@@ -189747,6 +190341,15 @@
     "set_url": "https://rebrickable.com/sets/8207-1/dune-duster-hawaiian-beach-racer/"
   },
   {
+    "set_num": "820801-1",
+    "name": "2x2 Brick Mug",
+    "year": 2025,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/820801-1/2x2-brick-mug/"
+  },
+  {
     "set_num": "8208-1",
     "name": "Custom Cruiser",
     "year": 1998,
@@ -189817,6 +190420,24 @@
     "num_parts": 801,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/8214-1/7055.jpg",
     "set_url": "https://rebrickable.com/sets/8214-1/gallardo-lp-560-4-polizia/"
+  },
+  {
+    "set_num": "821504-1",
+    "name": "LEGOLAND Shanghai Magnet",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/821504-1/legoland-shanghai-magnet/"
+  },
+  {
+    "set_num": "821505-1",
+    "name": "DADA Metal Key chain",
+    "year": 2025,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/821505-1/dada-metal-key-chain/"
   },
   {
     "set_num": "8215-1",
@@ -191551,7 +192172,7 @@
     "name": "Town Plan",
     "year": 1969,
     "theme_id": 756,
-    "num_parts": 798,
+    "num_parts": 799,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/842-2/13422.jpg",
     "set_url": "https://rebrickable.com/sets/842-2/town-plan/"
   },
@@ -196828,6 +197449,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/852397-1/84612.jpg",
     "set_url": "https://rebrickable.com/sets/852397-1/report-cover/"
+  },
+  {
+    "set_num": "852438-1",
+    "name": "40 Years LEGOLAND Billund Key Chain",
+    "year": 2008,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/852438-1/40-years-legoland-billund-key-chain/"
   },
   {
     "set_num": "852445-1",
@@ -210123,6 +210753,15 @@
     "set_url": "https://rebrickable.com/sets/891958-1/jay/"
   },
   {
+    "set_num": "891970-1",
+    "name": "Technic Bundle Pack",
+    "year": 1997,
+    "theme_id": 1,
+    "num_parts": 2,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/891970-1/technic-bundle-pack/"
+  },
+  {
     "set_num": "8920-1",
     "name": "Ehlek",
     "year": 2007,
@@ -211761,6 +212400,15 @@
     "set_url": "https://rebrickable.com/sets/9007613-1/i-love-lego-adult-watch/"
   },
   {
+    "set_num": "9008016-1",
+    "name": "Watch Set, Brick Blue/White",
+    "year": 2017,
+    "theme_id": 732,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/9008016-1/181328.jpg",
+    "set_url": "https://rebrickable.com/sets/9008016-1/watch-set-brick-bluewhite/"
+  },
+  {
     "set_num": "9008-1",
     "name": "Baby Set",
     "year": 1986,
@@ -212812,6 +213460,51 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/910068-1/173781.jpg",
     "set_url": "https://rebrickable.com/sets/910068-1/university-of-science/"
+  },
+  {
+    "set_num": "910069-1",
+    "name": "Fisherman's Village",
+    "year": 2027,
+    "theme_id": 719,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/910069-1/181193.jpg",
+    "set_url": "https://rebrickable.com/sets/910069-1/fishermans-village/"
+  },
+  {
+    "set_num": "910070-1",
+    "name": "Sleepy Dragon Inn",
+    "year": 2027,
+    "theme_id": 719,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/910070-1/181216.jpg",
+    "set_url": "https://rebrickable.com/sets/910070-1/sleepy-dragon-inn/"
+  },
+  {
+    "set_num": "910071-1",
+    "name": "Wild West Blacksmith",
+    "year": 2027,
+    "theme_id": 719,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/910071-1/181205.jpg",
+    "set_url": "https://rebrickable.com/sets/910071-1/wild-west-blacksmith/"
+  },
+  {
+    "set_num": "910072-1",
+    "name": "Woodbrick Freight Depot",
+    "year": 2027,
+    "theme_id": 719,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/910072-1/181234.jpg",
+    "set_url": "https://rebrickable.com/sets/910072-1/woodbrick-freight-depot/"
+  },
+  {
+    "set_num": "910073-1",
+    "name": "Pumpkin Patch",
+    "year": 2027,
+    "theme_id": 719,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/910073-1/181225.jpg",
+    "set_url": "https://rebrickable.com/sets/910073-1/pumpkin-patch/"
   },
   {
     "set_num": "910-1",
@@ -221369,8 +222062,17 @@
     "year": 2027,
     "theme_id": 759,
     "num_parts": 0,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/9780241838570-1/181354.jpg",
     "set_url": "https://rebrickable.com/sets/9780241838570-1/city-game-on-penguin-peril/"
+  },
+  {
+    "set_num": "9780241845875-1",
+    "name": "DK Super Readers Level 2: DC Comics Super Heroes: Batman: Batman Saves the Day",
+    "year": 2027,
+    "theme_id": 759,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/9780241845875-1/181389.jpg",
+    "set_url": "https://rebrickable.com/sets/9780241845875-1/dk-super-readers-level-2-dc-comics-super-heroes-batman-batman-saves-the-day/"
   },
   {
     "set_num": "9780307465597-1",
@@ -227290,7 +227992,7 @@
     "name": "City: Splash into Summer",
     "year": 2024,
     "theme_id": 761,
-    "num_parts": 19,
+    "num_parts": 26,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/9781837250059-1/138093.jpg",
     "set_url": "https://rebrickable.com/sets/9781837250059-1/city-splash-into-summer/"
   },
@@ -227722,7 +228424,7 @@
     "name": "Star Wars: The Dark Lord",
     "year": 2026,
     "theme_id": 761,
-    "num_parts": 0,
+    "num_parts": 7,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/9781837252169-1/175850.jpg",
     "set_url": "https://rebrickable.com/sets/9781837252169-1/star-wars-the-dark-lord/"
   },
@@ -227777,8 +228479,134 @@
     "year": 2026,
     "theme_id": 761,
     "num_parts": 0,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/9781837252510-1/181317.jpg",
     "set_url": "https://rebrickable.com/sets/9781837252510-1/marvel-super-heroes-iron-man-hero-in-action/"
+  },
+  {
+    "set_num": "9781837252657-1",
+    "name": "Star Wars: Rise of a Jedi",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252657-1/star-wars-rise-of-a-jedi/"
+  },
+  {
+    "set_num": "9781837252671-1",
+    "name": "Marvel Super Heroes: Spidey and His Amazing Friends: Adventures on Spider Island",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252671-1/marvel-super-heroes-spidey-and-his-amazing-friends-adventures-on-spider-island/"
+  },
+  {
+    "set_num": "9781837252718-1",
+    "name": "Harry Potter: Journey to Hogwarts",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252718-1/harry-potter-journey-to-hogwarts/"
+  },
+  {
+    "set_num": "9781837252725-1",
+    "name": "Botanicals: Colouring Art",
+    "year": 2027,
+    "theme_id": 760,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252725-1/botanicals-colouring-art/"
+  },
+  {
+    "set_num": "9781837252732-1",
+    "name": "Ninjago: Lloyd's Battle Missions",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252732-1/ninjago-lloyds-battle-missions/"
+  },
+  {
+    "set_num": "9781837252749-1",
+    "name": "Marvel Super Heroes: Spidey and His Amazing Friends: Spidey to the Rescue",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252749-1/marvel-super-heroes-spidey-and-his-amazing-friends-spidey-to-the-rescue/"
+  },
+  {
+    "set_num": "9781837252756-1",
+    "name": "Star Wars: Galactic Missions: Search & Find Sticker Activity",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252756-1/star-wars-galactic-missions-search-find-sticker-activity/"
+  },
+  {
+    "set_num": "9781837252763-1",
+    "name": "Marvel Super Heroes: Ghost-Spider's Adventures",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252763-1/marvel-super-heroes-ghost-spiders-adventures/"
+  },
+  {
+    "set_num": "9781837252770-1",
+    "name": "Minecraft: Mob House Mission: Search & Find Sticker Activity",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252770-1/minecraft-mob-house-mission-search-find-sticker-activity/"
+  },
+  {
+    "set_num": "9781837252787-1",
+    "name": "Minecraft: Tiny Mobs: Wolf Pup",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252787-1/minecraft-tiny-mobs-wolf-pup/"
+  },
+  {
+    "set_num": "9781837252794-1",
+    "name": "Minecraft: Tiny Mobs: Chicken",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252794-1/minecraft-tiny-mobs-chicken/"
+  },
+  {
+    "set_num": "9781837252800-1",
+    "name": "Tiny Robots: Construction",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252800-1/tiny-robots-construction/"
+  },
+  {
+    "set_num": "9781837252817-1",
+    "name": "Tiny Robots: Rescue",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252817-1/tiny-robots-rescue/"
+  },
+  {
+    "set_num": "9781837252824-1",
+    "name": "Minecraft: Fun to Colour",
+    "year": 2027,
+    "theme_id": 760,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9781837252824-1/minecraft-fun-to-colour/"
   },
   {
     "set_num": "9781838526771-1",
@@ -230002,6 +230830,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/9798225060862-1/171158.jpg",
     "set_url": "https://rebrickable.com/sets/9798225060862-1/mini-golf/"
+  },
+  {
+    "set_num": "9798225106492-1",
+    "name": "Skate Park",
+    "year": 2027,
+    "theme_id": 761,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/9798225106492-1/skate-park/"
   },
   {
     "set_num": "9799-1",
@@ -232513,6 +233350,15 @@
     "num_parts": 79,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/birmingham-1/3193.jpg",
     "set_url": "https://rebrickable.com/sets/BIRMINGHAM-1/lego-store-grand-opening-exclusive-set-riverchase-galleria-birmingham-al/"
+  },
+  {
+    "set_num": "BIRTHDAYCAKE-2",
+    "name": "Birthday Cake",
+    "year": 2015,
+    "theme_id": 598,
+    "num_parts": 37,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/birthdaycake-2/181481.jpg",
+    "set_url": "https://rebrickable.com/sets/BIRTHDAYCAKE-2/birthday-cake/"
   },
   {
     "set_num": "BLACKSMITH-1",
@@ -236192,7 +237038,7 @@
     "year": 2019,
     "theme_id": 598,
     "num_parts": 54,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/flamingmotorbike-1/181508.jpg",
     "set_url": "https://rebrickable.com/sets/FLAMINGMOTORBIKE-1/flaming-motorbike/"
   },
   {
@@ -243315,6 +244161,15 @@
     "set_url": "https://rebrickable.com/sets/KEYLIGHT-4/i-heart-legoland-key-light-female/"
   },
   {
+    "set_num": "KEYLIGHT-5",
+    "name": "DADA Key Light",
+    "year": 2025,
+    "theme_id": 503,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/KEYLIGHT-5/dada-key-light/"
+  },
+  {
     "set_num": "KF0001055BA2-1",
     "name": "Kickers Toddler LEGO Funky Boot - Blue",
     "year": 2010,
@@ -243891,6 +244746,15 @@
     "set_url": "https://rebrickable.com/sets/L0002206-1/cole/"
   },
   {
+    "set_num": "L0002207-1",
+    "name": "Acid Monster",
+    "year": 2026,
+    "theme_id": 435,
+    "num_parts": 8,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002207-1/181249.jpg",
+    "set_url": "https://rebrickable.com/sets/L0002207-1/acid-monster/"
+  },
+  {
     "set_num": "L0002212-1",
     "name": "Zane-Mech",
     "year": 2026,
@@ -243927,6 +244791,15 @@
     "set_url": "https://rebrickable.com/sets/L0002215-1/nya-and-grimfax/"
   },
   {
+    "set_num": "L0002216-1",
+    "name": "Zane and Loyalist Leader",
+    "year": 2026,
+    "theme_id": 435,
+    "num_parts": 17,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002216-1/181511.jpg",
+    "set_url": "https://rebrickable.com/sets/L0002216-1/zane-and-loyalist-leader/"
+  },
+  {
     "set_num": "L0002220-1",
     "name": "Police on Snowmobile",
     "year": 2026,
@@ -243955,7 +244828,7 @@
   },
   {
     "set_num": "L0002223-1",
-    "name": "Street sweeper",
+    "name": "Street Sweeper",
     "year": 2026,
     "theme_id": 52,
     "num_parts": 29,
@@ -243988,6 +244861,15 @@
     "num_parts": 28,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002226-1/179882.jpg",
     "set_url": "https://rebrickable.com/sets/L0002226-1/beach-quad/"
+  },
+  {
+    "set_num": "L0002227-1",
+    "name": "Firefighter with Helicopter",
+    "year": 2026,
+    "theme_id": 58,
+    "num_parts": 28,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002227-1/181464.jpg",
+    "set_url": "https://rebrickable.com/sets/L0002227-1/firefighter-with-helicopter/"
   },
   {
     "set_num": "L0002231-1",
@@ -244069,6 +244951,15 @@
     "num_parts": 5,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002239-1/177747.jpg",
     "set_url": "https://rebrickable.com/sets/L0002239-1/death-trooper/"
+  },
+  {
+    "set_num": "L0002240-1",
+    "name": "Clone Trooper",
+    "year": 2026,
+    "theme_id": 158,
+    "num_parts": 1,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002240-1/181248.jpg",
+    "set_url": "https://rebrickable.com/sets/L0002240-1/clone-trooper/"
   },
   {
     "set_num": "L0002245-1",
@@ -244174,7 +245065,7 @@
     "name": "Raptor and Volcano",
     "year": 2026,
     "theme_id": 602,
-    "num_parts": 31,
+    "num_parts": 28,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002261-1/179914.jpg",
     "set_url": "https://rebrickable.com/sets/L0002261-1/raptor-and-volcano/"
   },
@@ -244186,6 +245077,15 @@
     "num_parts": 24,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002265-1/174191.jpg",
     "set_url": "https://rebrickable.com/sets/L0002265-1/kitten-and-vets-office/"
+  },
+  {
+    "set_num": "L0002266-1",
+    "name": "Corgi and Ice Cream Stand",
+    "year": 2026,
+    "theme_id": 494,
+    "num_parts": 16,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002266-1/181396.jpg",
+    "set_url": "https://rebrickable.com/sets/L0002266-1/corgi-and-ice-cream-stand/"
   },
   {
     "set_num": "L0002270-1",
@@ -244228,7 +245128,7 @@
     "name": "Black Panther with Hoverboard",
     "year": 2026,
     "theme_id": 702,
-    "num_parts": 0,
+    "num_parts": 19,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/l0002276-1/170346.jpg",
     "set_url": "https://rebrickable.com/sets/L0002276-1/black-panther-with-hoverboard/"
   },
@@ -244368,6 +245268,42 @@
     "set_url": "https://rebrickable.com/sets/L0002294-1/dump-truck/"
   },
   {
+    "set_num": "L025-1",
+    "name": "Pencil Case Cylinder",
+    "year": 2013,
+    "theme_id": 739,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/L025-1/pencil-case-cylinder/"
+  },
+  {
+    "set_num": "L3516-1",
+    "name": "LEGOLAND Cactus Girl Badge",
+    "year": 2020,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/L3516-1/legoland-cactus-girl-badge/"
+  },
+  {
+    "set_num": "L3852-1",
+    "name": "LEGOLAND Japan Kingdom Games Badge - Orange",
+    "year": 2024,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/L3852-1/legoland-japan-kingdom-games-badge-orange/"
+  },
+  {
+    "set_num": "L3852-2",
+    "name": "LEGOLAND Japan Kingdom Games Badge - Green",
+    "year": 2024,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/L3852-2/legoland-japan-kingdom-games-badge-green/"
+  },
+  {
     "set_num": "LAMP-1",
     "name": "Brick 1 x 1 Round Lamp",
     "year": 2026,
@@ -244411,6 +245347,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/lanyard-11/143730.jpg",
     "set_url": "https://rebrickable.com/sets/LANYARD-11/minifigure-emoji-lanyard-pink/"
+  },
+  {
+    "set_num": "LANYARD-12",
+    "name": "LEGO House Sunflower Landyard",
+    "year": 2021,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/LANYARD-12/lego-house-sunflower-landyard/"
   },
   {
     "set_num": "LAPTOPBAG-1",
@@ -248652,6 +249597,60 @@
     "set_url": "https://rebrickable.com/sets/MAGNET-3/munich-magnet-heart/"
   },
   {
+    "set_num": "MAGNET-4",
+    "name": "Shanghai Magnet - Heart",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/MAGNET-4/shanghai-magnet-heart/"
+  },
+  {
+    "set_num": "MAGNET-5",
+    "name": "Shanghai Magnet - Pattern",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/MAGNET-5/shanghai-magnet-pattern/"
+  },
+  {
+    "set_num": "MAGNET-6",
+    "name": "Shanghai Magnet - Red",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/MAGNET-6/shanghai-magnet-red/"
+  },
+  {
+    "set_num": "MAGNET-7",
+    "name": "Shanghai Magnet - Chinese",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/MAGNET-7/shanghai-magnet-chinese/"
+  },
+  {
+    "set_num": "MAGNET-8",
+    "name": "Shanghai Magnet - English",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/MAGNET-8/shanghai-magnet-english/"
+  },
+  {
+    "set_num": "MAGNET-9",
+    "name": "Shanghai Magnet - Girl",
+    "year": 2026,
+    "theme_id": 734,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/MAGNET-9/shanghai-magnet-girl/"
+  },
+  {
     "set_num": "Maine-1",
     "name": "Maine Space Grant Consortium Promotional Astronaut Polybag",
     "year": 1999,
@@ -248956,6 +249955,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/mcdtlm2-9/122585.jpg",
     "set_url": "https://rebrickable.com/sets/McDTLM2-9/the-lego-movie-2-batman-happy-meal-toy/"
+  },
+  {
+    "set_num": "MDT20-1",
+    "name": "LEGOLAND California Resort Vacuum Tumbler",
+    "year": 2023,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/mdt20-1/181130.jpg",
+    "set_url": "https://rebrickable.com/sets/MDT20-1/legoland-california-resort-vacuum-tumbler/"
   },
   {
     "set_num": "MESSENGERBAG-1",
@@ -249910,6 +250918,15 @@
     "num_parts": 35,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/nexoknights-2/92752.jpg",
     "set_url": "https://rebrickable.com/sets/NEXOKNIGHTS-2/nexo-powers-wave-2-power-shields/"
+  },
+  {
+    "set_num": "NG13141-1",
+    "name": "Juneyao Air x LEGOLAND Shanghai Resort 1:400 B-9957 Airbus A321-200",
+    "year": 2025,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/ng13141-1/181148.jpg",
+    "set_url": "https://rebrickable.com/sets/NG13141-1/juneyao-air-x-legoland-shanghai-resort-1400-b-9957-airbus-a321-200/"
   },
   {
     "set_num": "NIGHTLIGHT-1",
@@ -251244,6 +252261,15 @@
     "set_url": "https://rebrickable.com/sets/RACERS-2/hamburger-helper-car/"
   },
   {
+    "set_num": "RAINBOW-1",
+    "name": "Rainbow",
+    "year": 2026,
+    "theme_id": 408,
+    "num_parts": 30,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/rainbow-1/181487.jpg",
+    "set_url": "https://rebrickable.com/sets/RAINBOW-1/rainbow/"
+  },
+  {
     "set_num": "RALEIGH-1",
     "name": "LEGO Store Grand Opening Exclusive Set, Crabtree Valley Mall, Raleigh, NC",
     "year": 2009,
@@ -252419,7 +253445,7 @@
     "year": 2019,
     "theme_id": 598,
     "num_parts": 72,
-    "set_img_url": null,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/summerflamingo-1/181509.jpg",
     "set_url": "https://rebrickable.com/sets/SUMMERFLAMINGO-1/summer-flamingo/"
   },
   {
@@ -252819,6 +253845,15 @@
     "set_url": "https://rebrickable.com/sets/TOTEBAG-10/shopper-tote-bag/"
   },
   {
+    "set_num": "TOTEBAG-11",
+    "name": "Shanghai Tote Bag",
+    "year": 2026,
+    "theme_id": 777,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/TOTEBAG-11/shanghai-tote-bag/"
+  },
+  {
     "set_num": "TOTEBAG-2",
     "name": "LEGOLAND Florida VIP Canvas Tote Bag",
     "year": 2019,
@@ -253047,7 +254082,7 @@
     "set_num": "TRADINGCARD-16",
     "name": "Minecraft Trading Cards Series 2: Boom-Bastic",
     "year": 2025,
-    "theme_id": 746,
+    "theme_id": 501,
     "num_parts": 296,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/tradingcard-16/168940.jpg",
     "set_url": "https://rebrickable.com/sets/TRADINGCARD-16/minecraft-trading-cards-series-2-boom-bastic/"
@@ -253056,7 +254091,7 @@
     "set_num": "TRADINGCARD-17",
     "name": "Minecraft Sticker Collection: Adventure Mode",
     "year": 2025,
-    "theme_id": 746,
+    "theme_id": 501,
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/tradingcard-17/168961.jpg",
     "set_url": "https://rebrickable.com/sets/TRADINGCARD-17/minecraft-sticker-collection-adventure-mode/"
@@ -253575,6 +254610,15 @@
     "set_url": "https://rebrickable.com/sets/TRUXWING2-1/star-wars-x-wing-fighter/"
   },
   {
+    "set_num": "TSHIRT-1",
+    "name": "Shanghai Kids T-Shirt (All Sizes)",
+    "year": 2026,
+    "theme_id": 799,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/TSHIRT-1/shanghai-kids-t-shirt-all-sizes/"
+  },
+  {
     "set_num": "TSUPER-1",
     "name": "Technic Racer",
     "year": 1991,
@@ -253753,6 +254797,15 @@
     "num_parts": 0,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/umbrella-4/147186.jpg",
     "set_url": "https://rebrickable.com/sets/UMBRELLA-4/kids-umbrella/"
+  },
+  {
+    "set_num": "UMBRELLA-5",
+    "name": "Shanghai Umbrella for Children",
+    "year": 2026,
+    "theme_id": 501,
+    "num_parts": 0,
+    "set_img_url": null,
+    "set_url": "https://rebrickable.com/sets/UMBRELLA-5/shanghai-umbrella-for-children/"
   },
   {
     "set_num": "UNICORN-1",
@@ -254464,6 +255517,15 @@
     "num_parts": 52,
     "set_img_url": "https://cdn.rebrickable.com/media/sets/xwing-2/14758.jpg",
     "set_url": "https://rebrickable.com/sets/XWING-2/x-wing-trench-run/"
+  },
+  {
+    "set_num": "Y18-1",
+    "name": "LEGOLAND Dubai Resort 18oz Straight Yard",
+    "year": 2023,
+    "theme_id": 733,
+    "num_parts": 0,
+    "set_img_url": "https://cdn.rebrickable.com/media/sets/y18-1/181129.jpg",
+    "set_url": "https://rebrickable.com/sets/Y18-1/legoland-dubai-resort-18oz-straight-yard/"
   },
   {
     "set_num": "YODACHRON-1",
